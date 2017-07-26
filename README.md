@@ -1,5 +1,7 @@
 # MIUI 9 Finnish Translation XML Strings for Xiaomi.eu rom
 
+[![ghit.me](https://ghit.me/badge.svg?repo=dogiex/MA-XML-9.0-FINNISH)](https://ghit.me/repo/dogiex/MA-XML-9.0-FINNISH)
+
 MIUI China is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
  
 Strings are under a 
