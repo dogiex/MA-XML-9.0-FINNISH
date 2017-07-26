@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d uutta viestiä</item>
+        <item quantity="one">%1$d uusi viesti</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Arkistoidaanko %1$d keskustelua?</item>
+        <item quantity="one">Arkistoidaanko %1$d keskustelu?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Poistetaanko %1$d keskustelua?</item>
+        <item quantity="one">Poistetaanko %1$d keskustelu?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">Keskustelu sisältää usean viestin, poistetaanko siitä huolimatta?</item>
+        <item quantity="one">Keskustelu sisältää usean viestin, poistetaanko siitä huolimatta?</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">Valittuna %d kohdetta</item>
+        <item quantity="one">Valittuna %d kohde</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">Arkistoitiin %1$d keskustelua.</item>
+        <item quantity="one">Arkistoitiin %1$d keskustelu.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">Poistettiin %1$d keskustelua.</item>
+        <item quantity="one">Poistettiin %1$d keskustelu.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Vaihdettiin kansioita.</item>
+        <item quantity="one">Vaihdettiin kansio.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">%1$d keskustelua ei huomioida.</item>
+        <item quantity="one">%1$d keskustelua ei huomioida.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">Tärkeä-merkintä poistettiin %1$d keskustelusta.</item>
+        <item quantity="one">Tärkeä-merkintä poistettiin %1$d keskustelusta.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">Roskaposti-merkintä poistettiin %1$d keskustelusta</item>
+        <item quantity="one">Roskaposti-merkintä poistettiin %1$d keskustelusta</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">Ilmoitettiin %1$d keskustelua huijaukseksi.</item>
+        <item quantity="one">Ilmoitettiin %1$d keskustelu huijaukseksi.</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">Ilmoitettiin %1$d keskustelua roskapostiksi.</item>
+        <item quantity="one">Ilmoitettiin %1$d keskustelu roskapostiksi.</item>
+    </plurals>
+	<plurals name="day">
+        <item quantity="other">%d päivää</item>
+        <item quantity="one">%d päivä</item>
+    </plurals>
+    <plurals name="day_after">
+        <item quantity="other">%d päivän kuluttua</item>
+        <item quantity="one">%d päivän kuluttua</item>
+    </plurals>
+    <plurals name="day_before">
+        <item quantity="other">%d päivää sitten</item>
+        <item quantity="one">%d päivä sitten</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Luonnokset</item>
+        <item quantity="one">Luonnos</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d viestiä poistetaan pysyvästi.</item>
+        <item quantity="one">%1$d viesti poistetaan pysyvästi.</item>
+    </plurals>
+	<plurals name="month">
+        <item quantity="other">%d kuukautta</item>
+        <item quantity="one">%d kuukausi</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">Siirrä %1$d keskustelua</item>
+        <item quantity="one">Siirrä %1$d keskustelu</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">%1$d uutta viestiä</item>
+        <item quantity="one">%1$d uusi viesti</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">Valittuna %d kohdetta</item>
+        <item quantity="one">Valittuna %d kohde</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d vanhaa viestiä</item>
+        <item quantity="one">%1$d vanha viesti</item>
+    </plurals>
+</resources>

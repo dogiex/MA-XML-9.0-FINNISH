@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="group_name_translate">
+        <item>Oletus</item>
+        <item>Piilo-tila</item>
+        <item>Lukija-tila</item>
+        <item>Media-tila</item>
+    </string-array>
+    <string-array name="event_name_translate">
+        <item>Sovellus on käynnissä etualalla</item>
+        <item>Näyttö päällä</item>
+        <item>Näyttö pois päältä</item>
+        <item>Display off over 10 minutes</item>
+        <item>Koko näyttö</item>
+        <item>Poistu koko näytöstä</item>
+        <item>Sovellus on käynnissä taustalla</item>
+        <item>Puhelin latautuu</item>
+        <item>Puhelin ei lataudu</item>
+        <item>Puhelin on toimettomana</item>
+    </string-array>
+    <string-array name="action_name_translate">
+        <item>Maksimi näytön kirkkaus</item>
+        <item>Maksimi CPU taajuus</item>
+        <item>Näyttö-tila</item>
+        <item>CPU käyttö</item>
+        <item>Datayhteys</item>
+        <item>Sijainti</item>
+        <item>Ensimmäinen ilmoitus</item>
+        <item>Lukitusnäytön ilmoitukset</item>
+        <item>Rajoita taustadatayhteyksiä</item>
+    </string-array>
+    <string-array name="action_param_translate">
+        <item>Ei mitään</item>
+        <item>Oletus</item>
+        <item>Kuva</item>
+        <item>Elokuva</item>
+        <item>Virransäästö</item>
+        <item>Tasapainoinen</item>
+        <item>Suorituskyky</item>
+        <item>Päällä</item>
+        <item>Pois päältä</item>
+        <item>Välittömästi</item>
+        <item>10 min jälkeen</item>
+        <item>30 min jälkeen</item>
+        <item>Kun näyttö on pois päältä</item>
+    </string-array>
+    <string-array name="app_groups">
+        <item>Tässä tilassa</item>
+        <item>Ei valittu</item>
+        <item>Muissa tiloissa valittu</item>
+    </string-array>
+    <string-array name="hmode_app_groups">
+        <item>Mukautettu</item>
+        <item>Virransäästö</item>
+    </string-array>
+    <string-array name="power_checker_group_prefix">
+        <item>Nyt</item>
+        <item>Taustalla</item>
+        <item>Viimeaikoina</item>
+    </string-array>
+    <string-array name="power_checker_running_group_titles">
+        <item>Estää syvän lepotilan</item>
+        <item>Estää lepotilan</item>
+        <item>Etsitään WLAN</item>
+        <item>Käyttää GPS</item>
+        <item>Käyttää CPU</item>
+        <item>Herättää laitetta usein</item>
+    </string-array>
+    <string-array name="power_checker_recent_group_titles">
+        <item>Kernel WakeLock</item>
+        <item>WakeLock</item>
+        <item>WIFI scan</item>
+        <item>GPS</item>
+        <item>CPU</item>
+        <item>Wake Up</item>
+    </string-array>
+    <string-array name="invisible_app_groups">
+        <item>valittu</item>
+        <item>ei valittu</item>
+    </string-array>
+    <string-array name="thermal_entries">
+        <item>Oletus lämmönhallintatila</item>
+        <item>Suorituskyky ensin -tila</item>
+    </string-array>
+    <string-array name="thermal_summaries">
+        <item>The current temperature control mode, the temperature of experience is preferred</item>
+        <item>The current performance model, performance experience is preferred, temperatures could rise</item>
+    </string-array>
+</resources>

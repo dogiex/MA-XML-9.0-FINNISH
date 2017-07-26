@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Skannataan…</item>
+        <item>Yhdistetään…</item>
+        <item>Varmennetaan…</item>
+        <item>Haetaan IP-osoite…</item>
+        <item>Yhdistetty</item>
+        <item>Keskeytetty</item>
+        <item>Katkaistaan…</item>
+        <item>Katkaistu</item>
+        <item>Epäonnistui</item>
+        <item>Estetty</item>
+        <item>Vältetään väliaikaisesti heikkoa yhteyttä</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Skannataan…</item>
+        <item>Yhdistetään kohteeseen %1$s…</item>
+        <item>Varmennetaan kohdetta %1$s…</item>
+        <item>Haetaan IP-osoitetta kohteelta %1$s…</item>
+        <item>Yhditetty kohteeseen %1$s</item>
+        <item>Keskeytetty</item>
+        <item>Katkaistaan yhteyttä kohteesta %1$s…</item>
+        <item>Katkaistu</item>
+        <item>Epäonnistui</item>
+        <item>Estetty</item>
+        <item>Vältetään väliaikaisesti heikkoa yhteyttä</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>ILI %1$s</item>
+        <item>ILI %1$s</item>
+        <item>ILI %1$s</item>
+        <item>ILI %1$s</item>
+        <item>ILI %1$s</item>
+        <item>ILI %1$s</item>
+        <item>ILI %1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Aurinkoinen</item>
+        <item>Puolipilvinen</item>
+        <item>Pilvinen</item>
+        <item>Sumuinen</item>
+        <item>Kova Rankkasade</item>
+        <item>Kaatosade</item>
+        <item>Rankkasade</item>
+        <item>Ukonilma</item>
+        <item>Vesisade</item>
+        <item>Kova sademäärä</item>
+        <item>Keskinkertainen sade</item>
+        <item>Kevyt sade</item>
+        <item>Loska</item>
+        <item>Lumimyrsky</item>
+        <item>Lumisade</item>
+        <item>Rankka lumisade</item>
+        <item>Keskinkertainen lumisade</item>
+        <item>Kevyt lumisade</item>
+        <item>Kova hiekkamyrsky</item>
+        <item>Hiekkamyrsky</item>
+        <item>Hiekka</item>
+        <item>Tuulinen</item>
+        <item>Rakeita</item>
+        <item>Pöly</item>
+        <item>Usva</item>
+        <item>Jäätävä vesisade</item>
+        <item></item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Pois päältä</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Pois päältä</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Pois päältä</item>
+        <item>64K per lokipuskuri</item>
+        <item>256K per lokipuskuri</item>
+        <item>1M per lokipuskuri</item>
+        <item>4M per lokipuskuri</item>
+        <item>16M per lokipuskuri</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Pois päältä</item>
+        <item>Draw non-rectangular clip region in blue</item>
+        <item>Highlight tested drawing commands in green</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Pois päältä</item>
+        <item>On screen as bars</item>
+        <item>In adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Pois päältä</item>
+        <item>Show overdraw areas</item>
+        <item>Show areas for Deuteranomaly</item>
+    </string-array>
+</resources>
