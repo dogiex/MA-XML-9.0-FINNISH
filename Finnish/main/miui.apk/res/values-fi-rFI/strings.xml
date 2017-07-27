@@ -318,12 +318,12 @@
   <string name="country_name_za">ZA</string>
   <string name="country_name_zm">ZM</string>
   <string name="country_name_zw">ZW</string>
-  <string name="date_picker_dialog_title">Aseta päiväys</string>
+  <string name="date_picker_dialog_title">Aseta päivämäärä</string>
   <string name="date_picker_label_day"/>
   <string name="date_picker_label_month"/>
   <string name="date_picker_label_year"/>
   <string name="date_time_done">Valmis</string>
-  <string name="date_time_picker_dialog_title">Aseta päiväys ja aika</string>
+  <string name="date_time_picker_dialog_title">Aseta päivämäärä ja aika</string>
   <string name="deselect_all">Poista valinta</string>
   <string name="early_morning">ap.</string>
   <string name="earthly_branches_chen">辰</string>

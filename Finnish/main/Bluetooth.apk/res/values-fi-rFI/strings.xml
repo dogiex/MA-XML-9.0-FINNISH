@@ -9,8 +9,8 @@
   <string name="auth_notif_message">Kirjoita kohteen %1$s käyttökerran avain</string>
   <string name="auth_notif_ticker">Obex-todennuspyyntö</string>
   <string name="auth_notif_title">Käyttökerran avain</string>
-  <string name="bluetooth_connecting">Yhdistetään…</string>
-  <string name="bluetooth_disconnecting">Katkaistaan…</string>
+  <string name="bluetooth_connected">Bluetooth ääni yhdistetty</string>
+  <string name="bluetooth_disconnected">Bluetooth ääni katkaistu</string>
   <string name="bluetooth_in_airplane_mode">Lentokonetilassa</string>
   <string name="bluetooth_map_settings_app_icon">Sovelluskuvake</string>
   <string name="bluetooth_map_settings_cancel">Peruuta</string>

@@ -6,15 +6,7 @@
   <string name="custom_lock_wallpaper_enter">Avaa</string>
   <string name="default_lockscreen_unlock_hint_text">Avaa lukitus pyyhkäisemällä ylös</string>
   <string name="delete">Poista</string>
-  <string name="emergency_call_string">Hätäpuhelu</string>
-  <string name="experimental_try_string">Yritä</string>
-  <string name="experimental_validate">Vahvista</string>
-  <string name="experimental_validate_fail">Kirjautuminen epäonnistui</string>
-  <string name="experimental_validate_password">Salasana</string>
-  <string name="experimental_validate_progress">Kirjaudutaan sisään…</string>
-  <string name="experimental_validate_thanks">Kiitos!</string>
-  <string name="experimental_validate_username">Käyttäjänimi</string>
-  <string name="experimental_validate_warning">Kiitos, että autat tekemään MIUI:sta paremman!</string>
+  <string name="emergency_call_string">Hätätilanne</string>
   <string name="fingerprint_add_text">Sormenjäljen käyttöliittymä päivitettiin. Lisää sormenjälkesi uudelleen.</string>
   <string name="fingerprint_add_title">Lisää sormenjälki</string>
   <string name="fingerprint_again_identified_msg">Sormenjälkesi on nyt aktiivinen. Käytä sitä avataksesi laitteesi tai syöttämällä salasanan.</string>

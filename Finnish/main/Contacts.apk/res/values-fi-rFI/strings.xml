@@ -763,67 +763,62 @@ Odota…"</string>
   <string name="noContactHelpTextAccountsInfo"/>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Palauta yhteystiedot Mi Tililtä</string>
   <string name="noContacts">Ei kontakteja</string>
-  <string name="noContactsHelpText">"Ei näytettäviä yhteystietoja.
+  <string name="noContactsHelpText">"Sinulla ei ole yhtään näytettävää yhteystietoa.
 
-Lisätäksesi yhteystietoja, paina "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Valikko&lt;/font&gt;&lt;/b&gt;", sitten paina:
+Lisätäksesi yhteystietoja, kosketa Valikko, sitten kosketa:
  
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Tilit lisätäksesi tai luomalla uuden tilin yhteystiedoille puhelimen synkronoimista varten
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Uusi yhteystieto luodaksesi uuden yhteystiedon
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Tuonti/Vienti tuodaksesi yhteystiedot SIM-kortiltasi tai SD-kortiltasi
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
+Tilit, lisätäksesi tai luodaksesi uuden tilin yhteystiedoille, jotka voit synkronoida puhelimeen
+ 
+Uusi yhteystieto luodaksesi uuden yhteystiedon tyhjästä
+ 
+Tuo/Vie tuodaksesi yhteystietoja SIM-kortiltasi tai SD-kortiltasi
 "</string>
-  <string name="noContactsHelpTextForCreateShortcut">"Ei näytettäviä yhteystietoja."</string>
-  <string name="noContactsHelpTextWithSync">"Ei näytettäviä yhteystietoja. (Jos lisäsit tilin äskettäin, anna synkronoinnille muutama minuutti aikaa.)
+  <string name="noContactsHelpTextForCreateShortcut">Sinulla ei ole yhtään näytettävää yhteystietoa.</string>
+  <string name="noContactsHelpTextWithSync">"Sinulla ei ole yhtään näytettävää yhteystietoa. (Jos lisäsit tilin äskettäin, anna synkronoinnille muutama minuutti aikaa.)
 
-Lisätäksesi yhteystietoja, napauta "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Valikko&lt;/font&gt;&lt;/b&gt;", sitten:
+Lisätäksesi yhteystietoja, kosketa Valikko, sitten kosketa:
  
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Tilit lisätäksesi tai luomalla uuden tilin yhteystiedoille puhelimen synkronoimista varten
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Näytön asetukset vaihtaaksesi, mitkä yhteystiedot ovat näkyvillä
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Uusi yhteystieto luodaksesi uuden yhteystiedon
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Tuonti/Vienti tuodaksesi yhteystiedot SIM-kortiltasi tai SD-kortiltasi
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
+Tilit, lisätäksesi tai luodaksesi uuden tilin yhteystiedoille, jotka voit synkronoida puhelimeen
+ 
+Näytä vaihtoehdot vaihtaaksesi, mitkä yhteystiedot näytetään
+ 
+Uusi yhteystieto luodaksesi uuden yhteystiedon alusta
+ 
+Tuo/Vie tuodaksesi yhteystietoja SIM-kortiltasi tai SD-kortiltasi
 "</string>
-  <string name="noContactsHelpTextWithSyncForCreateShortcut">"Ei näytettäviä yhteystietoja. (Jos lisäsit tilin äskettäin, anna synkronoinnille muutama minuutti aikaa.)"</string>
-  <string name="noContactsNoSimHelpText">"Ei näytettäviä yhteystietoja.
+  <string name="noContactsHelpTextWithSyncForCreateShortcut">"Sinulla ei ole yhtään näytettävää yhteystietoa. (Jos lisäsit tilin äskettäin, anna synkronoinnille muutama minuutti aikaa.)"</string>
+  <string name="noContactsNoSimHelpText">"Sinulla ei ole yhtään näytettävää yhteystietoa.
 
-Lisätäksesi yhteystietoja, paina "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Valikko&lt;/font&gt;&lt;/b&gt;", sitten paina:
+Lisätäksesi yhteystietoja, kosketa Valikko, sitten kosketa:
  
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Tilit lisätäksesi tai luomalla uuden tilin yhteystiedoille puhelimen synkronoimista varten
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Uusi yhteystieto luodaksesi uuden yhteystiedon
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Tuonti/Vienti tuodaksesi yhteystiedot SD-kortiltasi
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
+Tilit, lisätäksesi tai luodaksesi uuden tilin yhteystiedoille, jotka voit synkronoida puhelimeen
+ 
+Uusi yhteystieto luodaksesi uuden yhteystiedon alusta
+ 
+Tuo/Vie tuodaksesi yhteystietoja SIM-kortiltasi tai SD-kortiltasi
 "</string>
-  <string name="noContactsNoSimHelpTextWithSync">"Ei näytettäviä yhteystietoja. (Jos lisäsit tilin äskettäin, anna synkronoinnille muutama minuutti aikaa.)
+  <string name="noContactsNoSimHelpTextWithSync">"Sinulla ei ole yhtään näytettävää yhteystietoa. (Jos lisäsit tilin äskettäin, anna synkronoinnille muutama minuutti aikaa.)
 
-Lisätäksesi yhteystietoja, paina "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Valikko&lt;/font&gt;&lt;/b&gt;", sitten paina:
+Lisätäksesi yhteystietoja, kosketa Valikko, sitten kosketa:
  
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Tilit lisätäksesi tai luomalla uuden tilin yhteystiedoille puhelimen synkronoimista varten
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Näytön asetukset valitaksesi, mitkä yhteystiedot ovat näkyvillä
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Uusi yhteystieto luodaksesi uuden yhteystiedon
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Tuonti/Vienti tuodaksesi yhteystiedot SD-kortiltasi
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
+Tilit, lisätäksesi tai luodaksesi uuden tilin yhteystiedoille, jotka voit synkronoida puhelimeen
+ 
+Näytä vaihtoehdot vaihtaaksesi, mitkä yhteystiedot näytetään
+ 
+Uusi yhteystieto luodaksesi uuden yhteystiedon alusta
+ 
+Tuo/Vie tuodaksesi yhteystietoja SIM-kortiltasi tai SD-kortiltasi
 "</string>
   <string name="noContactsWithPhoneNumbers">Ei yhteystietoja puhelinnumerolla</string>
-  <string name="noFavoritesHelpText">"Ei suosikkeja.
+  <string name="noFavoritesHelpText">"Sinulla ei ole yhtään suosikkeja.
 
-Lisätäksesi yhteystietoja suosikkeihin:
+Lisätäksesi yhteystietoja suosikkeihisi:
 
-"&lt;li&gt;Napauta &lt;b&gt;Yhteystiedot&lt;/b&gt;" välilehteä
-"&lt;/li&gt;" 
-"&lt;li&gt;"Napauta yhteystietoa, jonka haluat lisätä suosikkeihin
-"&lt;/li&gt;" 
-"&lt;li&gt;"Napauta tähteä yhteystiedon nimen vieressä
-"&lt;/li&gt;"
+Kosketa Yhteystiedot välilehteä
+ 
+Kosketa yhteystietoa, jonka haluat lisätä suosikkeihisi
+ 
+Kosketa tähteä yhteystiedon nimen vieressä
 "</string>
   <string name="noGroups">Ei ryhmiä.</string>
   <string name="noMatchingContacts">Vastaavia yhteystietoja ei löytynyt.</string>
@@ -1170,9 +1165,9 @@ Lisätäksesi yhteystietoja suosikkeihin:
   <string name="success_message_import_from_account">Yhteystieto tuotu</string>
   <string name="summary_kind_title">Yhteenveto</string>
   <string name="t9_search_guide_pinyin_title1">Etsi yhteystietoja syöttämällä numeroita</string>
-  <string name="t9_search_guide_pinyin_title2">Syötä 6 ja 4 etsiäksesi Mika Häkkinen</string>
+  <string name="t9_search_guide_pinyin_title2">Syötä 6 ja 4 etsiäksesi henkilön Mika Häkkinen</string>
   <string name="t9_search_guide_zhuyin_title1">Etsi yhteystietoja syöttämällä numeroita</string>
-  <string name="t9_search_guide_zhuyin_title2">Syötä 5 ja 4 etsiäksesi Joonas Heikkinen</string>
+  <string name="t9_search_guide_zhuyin_title2">Syötä 5 ja 4 etsiäksesi henkilön Joonas Heikkinen</string>
   <string name="take_new_photo">Ota uusi kuva</string>
   <string name="take_photo">Ota valokuva</string>
   <string name="telecom_fraud_insurance">Telecom fraud insurance</string>

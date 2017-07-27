@@ -7,12 +7,12 @@
   <string name="StartScan">Aloita skannaus</string>
   <string name="Stop">Lopeta</string>
   <string name="StopScan">Lopeta skannaus</string>
-  <string name="TestBonjour">Kokeile Bonjour</string>
-  <string name="TestP2pGc">Kokeile P2pGroupClient</string>
-  <string name="TestP2pGo">Kokeile P2pGroupOwner</string>
-  <string name="TestP2pLs">Kokeile P2pLegacyStation</string>
-  <string name="TestReceiver">Kokeile vastaanottamista</string>
-  <string name="TestSender">Kokeile lähettämistä</string>
+  <string name="TestBonjour">Testaa Bonjour</string>
+  <string name="TestP2pGc">Testaa P2pGroupClient</string>
+  <string name="TestP2pGo">Testaa P2pGroupOwner</string>
+  <string name="TestP2pLs">Testaa P2pLegacyStation</string>
+  <string name="TestReceiver">Testaa vastaanottamista</string>
+  <string name="TestSender">Testaa lähettämistä</string>
   <string name="Unregister">Peru rekisteröinti</string>
   <string name="action_settings">Asetukset</string>
   <string name="app_name">Mi Siirtäjä</string>
@@ -22,6 +22,7 @@
   <string name="cancel_receive_stop">Jatka vastaanottamista</string>
   <string name="cancel_stop">Jatka lähettämistä</string>
   <string name="file_not_support">Tämä tiedostotyyppi ei ole tuettu.</string>
+  <string name="hello_world">Hei maailma!</string>
   <string name="help">Apua</string>
   <string name="i_know">Selvä</string>
   <string name="intro_midrop">Mi Siirtäjä</string>

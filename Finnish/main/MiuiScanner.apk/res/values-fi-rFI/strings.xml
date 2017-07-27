@@ -229,7 +229,6 @@
   <string name="document_ocr_result_save">Tallenna Muistioon</string>
   <string name="document_ocr_result_title">Asiakirjan valokuva</string>
   <string name="document_ocr_tip_msg">Tunnistetaan…</string>
-  <string name="document_ocr_vendor_info">OCR tuen tarjoaa Kingsoft</string>
   <string name="document_recognize_fail_tip">Asiakirjaa ei tunnistettu</string>
   <string name="document_rectify">Säädä</string>
   <string name="document_rectify_tip_msg">Säädetään…</string>

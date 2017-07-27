@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string-array name="all_month_str">
+        <item>Tammi</item>
+        <item>Helmi</item>
+        <item>Maalis</item>
+        <item>Huhti</item>
+        <item>Touko</item>
+        <item>Kesä</item>
+        <item>Heinä</item>
+        <item>Elo</item>
+        <item>Syys</item>
+        <item>Loka</item>
+        <item>Marras</item>
+        <item>Joulu</item>
+    </string-array>
     <string-array name="calendar_remind_string_array">
         <item>Tänä yönä</item>
         <item>Huomenna</item>
@@ -82,21 +96,7 @@
         <item>Lähetetty minun</item>
         <item>Lähettäjä</item>
         <item>Tämä sähköposti</item>
-        <item>Disclaimer</item>
-        <item>Email Disclaimer</item>
-    </string-array>
-	<string-array name="all_month_str">
-        <item>Tammi</item>
-        <item>Helmi</item>
-        <item>Maalis</item>
-        <item>Huhti</item>
-        <item>Touko</item>
-        <item>Kesä</item>
-        <item>Heinä</item>
-        <item>Elo</item>
-        <item>Syys</item>
-        <item>Loka</item>
-        <item>Marras</item>
-        <item>Joulu</item>
+        <item>Vastuuvapauslauseke</item>
+        <item>Sähköpostin Vastuuvapauslauseke</item>
     </string-array>
 </resources>

@@ -122,6 +122,7 @@
   <string name="cancel">Peruuta</string>
   <string name="category_personal">Henkilökohtainen</string>
   <string name="category_work">Työ</string>
+  <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="charge_length_format">%1$s sitten</string>
   <string name="choose_profile">Valitse profiili</string>
   <string name="clear">Tyhjennä</string>

@@ -82,7 +82,7 @@
   <string name="HIPS_SecurityPrompt_Reject">Kiellä (%d)</string>
   <string name="HIPS_SecurityPrompt_Reject_Once">Kiellä Kerran (%d)</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s yrittää %2$s</string>
-  <string name="Su_Package_Forbidden">"%1$s ei ole root oikeuksia."</string>
+  <string name="Su_Package_Forbidden2">ei ole root-oikeutta.</string>
   <string name="app_name">Käyttölupien hallinta</string>
   <string name="current_permission_template">%1$s/%2$s</string>
   <string name="default_permission_description">suorita tuntematon toiminto</string>
@@ -97,9 +97,8 @@
   <string name="permission_group_title_privacy_related">Yksityisyys</string>
   <string name="permission_group_title_settings_related">Asetukset</string>
   <string name="permission_warning_template">Salli %1$s käyttää %2$s ?</string>
-  <string name="permisson_reject_notice_toast_text">"\"%1$s\" ei ole käyttölupaa %2$s. Voit vaihtaa sovelluksen käyttöluvat koska tahansa asetuksista Tietoturva &gt; Käyttöoikeudet."</string>
+  <string name="permisson_reject_notice_toast_text2">ei ole käyttöoikeutta %1$s.</string>
   <string name="screen_overlay_button">Avaa asetukset</string>
   <string name="screen_overlay_message">Vaihtaaksesi tämän käyttöluvan, poista ensin näytön peittokuva käytöstä asetuksista Asetukset &gt; Sovellukset</string>
   <string name="screen_overlay_title">Näytön peittokuva tunnistettu</string>
-  <string name="wakepath_confirm_start_activity">Salli %1$s:n avata %2$s?</string>
 </resources>

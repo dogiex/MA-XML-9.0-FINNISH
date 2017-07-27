@@ -2,21 +2,21 @@
 <resources>
     <string-array name="group_name_translate">
         <item>Oletus</item>
-        <item>Piilo-tila</item>
-        <item>Lukija-tila</item>
-        <item>Media-tila</item>
+        <item>Piilotila</item>
+        <item>Lukutila</item>
+        <item>Mediatila</item>
     </string-array>
     <string-array name="event_name_translate">
-        <item>Sovellus on käynnissä etualalla</item>
+        <item>Sovellus käynnissä etualalla</item>
         <item>Näyttö päällä</item>
         <item>Näyttö pois päältä</item>
-        <item>Display off over 10 minutes</item>
+        <item>Näyttö pois päältä yli 10 minuuttia</item>
         <item>Koko näyttö</item>
-        <item>Poistu koko näytöstä</item>
-        <item>Sovellus on käynnissä taustalla</item>
+        <item>Poistu koko näytön tilasta</item>
+        <item>Sovellus käynnissä taustalla</item>
         <item>Puhelin latautuu</item>
         <item>Puhelin ei lataudu</item>
-        <item>Puhelin on toimettomana</item>
+        <item>Puhelin on käyttämätön</item>
     </string-array>
     <string-array name="action_name_translate">
         <item>Maksimi näytön kirkkaus</item>
@@ -61,7 +61,7 @@
     <string-array name="power_checker_running_group_titles">
         <item>Estää syvän lepotilan</item>
         <item>Estää lepotilan</item>
-        <item>Etsitään WLAN</item>
+        <item>Etsitään Wi-Fiä</item>
         <item>Käyttää GPS</item>
         <item>Käyttää CPU</item>
         <item>Herättää laitetta usein</item>

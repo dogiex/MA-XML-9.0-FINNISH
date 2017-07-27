@@ -20,7 +20,6 @@
   <string name="access_control_need_to_unlock">"Skannaa sormenjälki
 tai syötä Sovelluslukon salasana"</string>
   <string name="access_control_need_to_unlock_nofingerprint">Syötä Sovelluslukon salasana</string>
-  <string name="accessibility_service_description"/>
   <string name="action_button_text_100">Optimoi</string>
   <string name="action_button_text_60">Korjaa</string>
   <string name="action_button_text_60_80">Korjaa</string>
@@ -347,7 +346,7 @@ mikäli unohdat sen"</string>
   <string name="battery_status_overheat">Ylikuumentunut</string>
   <string name="battery_status_unknown">Tuntematon virhe</string>
   <string name="battery_temperature_title">Lämpötila</string>
-  <string name="begin_date">Nollaa käytön päivä</string>
+  <string name="begin_date">Käytön nollauspäivämäärä</string>
   <string name="best_warning_dialog_button">我知道了</string>
   <string name="best_warning_dialog_message">"温馨提示：使用小米红包助手后，会提升您抢红包的速度。但如果您手太快，姿势太迅猛，每次都率先抢到红包，&lt;font color='#e56255'&gt;有一定几率会被微信误认为使用了自动抢红包插件&lt;/font&gt;，影响您后面使用红包功能。所以，有时候，高抬贵手略控制节奏，抢红包风味更佳。红包虽好，可不要贪多哟～"</string>
   <string name="best_warning_dialog_message1">"使用小米红包助手后，会提升您抢红包的速度。但如果您手太快，姿势太迅猛，每次都率先抢到红包，&lt;font color='#e56255'&gt;有一定几率会被微信误认为使用了自动抢红包插件&lt;/font&gt;，影响您后面使用红包功能。所以，有时候，高抬贵手略控制节奏，抢红包风味更佳。红包虽好，可不要贪多哟～～"</string>
@@ -1090,7 +1089,7 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="notification_sysapp_cracked_text">Nykyinen MIUI versio on muokattu</string>
   <string name="notification_sysapp_cracked_title">Tietoturvariski havaittu</string>
   <string name="notify_daily_data_usage_body">Rajoittaaksesi datan käyttöä automaattisesti, aseta kuukausittainen datapaketti.</string>
-  <string name="notify_daily_limit_body">Aseta datan raja napauttamalla.</string>
+  <string name="notify_daily_limit_body">Aseta tiedonsiirtoraja napauttamalla.</string>
   <string name="notify_daily_limit_title">Käytetty %s tänään</string>
   <string name="notify_daily_limit_title_for_slotnum">%1$s käytetty %2$s tänään</string>
   <string name="notify_month_traffic_body">Aseta datan käyttöraja estääksesi kuukausittaisen datapaketin ylityksen.</string>
@@ -1228,7 +1227,7 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="path_antispam">Järjestelmäsovellukset/Tietoturva/Estolista</string>
   <string name="path_antivirus">Järjestelmäsovellukset/Tietoturva/Virustarkistus</string>
   <string name="path_app_permissions">Järjestelmäsovellukset/Tietoturva/Käyttöoikeudet/Sovelluksen käyttöoikeudet</string>
-  <string name="path_auto_restart">Järjestelmäsovellukset/Tietoturva/Käyttöoikeudet/Hallitse käynnistystä</string>
+  <string name="path_auto_restart">Järjestelmäsovellukset/Tietoturva/Käyttöoikeudet/Käynnistys</string>
   <string name="path_buy_flow">Järjestelmäsovellukset/Tietoturva/Data usage/Osta mobiilidataa</string>
   <string name="path_cleanmaster">Järjestelmäsovellukset/Tietoturva/Puhdistaja</string>
   <string name="path_networkassistant_1">Järjestelmäsovellukset/Tietoturva/Datan käyttö</string>
@@ -1243,7 +1242,7 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="pc_battery_history_show_imei">IMEI:</string>
   <string name="pc_install_manager">Asenna USB:n kautta</string>
   <string name="pc_to_phone_install">Estettiin USB:n kautta asennettava %s</string>
-  <string name="per_month_pkg_traffic_settings">Aseta datan raja</string>
+  <string name="per_month_pkg_traffic_settings">Aseta tiedonsiirtoraja</string>
   <string name="percent_formatted_text">%s%%</string>
   <string name="percent_symbol">%</string>
   <string name="percent_text_formatted">%s%%</string>
@@ -1371,8 +1370,6 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="pref_key_half_year_package_start">Aloitus päiväys</string>
   <string name="pref_key_half_year_package_switch">Puolen vuoden datapaketti</string>
   <string name="pref_key_half_year_package_value">Paketin koko</string>
-  <string name="pref_key_new_installed_app_firewall_mobile">pref_key_new_installed_app_firewall_mobile</string>
-  <string name="pref_key_new_installed_app_firewall_wifi">pref_key_new_installed_app_firewall_wifi</string>
   <string name="pref_manual_adjust">Aseta datan käyttötilastot manuaalisesti</string>
   <string name="pref_mi_sim_settings">Mi SIM-kortin Asetukset</string>
   <string name="pref_more_traffic_settings">Lisäasetukset</string>
@@ -1388,7 +1385,7 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="pref_roaming_daily_limit_setting_cat_title">Päiväkohtainen datan raja</string>
   <string name="pref_roaming_setting_gategory">Asetukset</string>
   <string name="pref_special_package_setting">Mukautettu datapaketti</string>
-  <string name="pref_special_package_setting_summary">Manage off-peak data, top-up packages, daily data plans, and designated data</string>
+  <string name="pref_special_package_setting_summary">Hallitse hiljaisen ajan dataa, top-up paketteja, päiväkohtaista datapakettia, ja määriteltyä dataa</string>
   <string name="pref_summary_upload_data_usage">Ilmoita datan käyttötilastosi auttaaksesi meitä parantamaan MIUI:ta. Ilmoittaminen noudattaa Tietosuojakäytäntöämme.</string>
   <string name="pref_title_declaration">Tärkeä vastuuvapauslauseke</string>
   <string name="pref_title_diagnostics_show_float_notification">Kelluvat ilmoitukset</string>
@@ -1757,12 +1754,12 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="support_game_booster_tips">Paranna nopeutta &amp; pelikokemusta</string>
   <string name="sys_app_prot_cracked_confirm">Selvä</string>
   <string name="sys_app_prot_cracked_login">Kirjaudu sisään Mi Tiliisi</string>
-  <string name="sys_app_prot_cracked_text_login">"The current version of MIUI has been modified which puts your device's security at risk.
+  <string name="sys_app_prot_cracked_text_login">"MIUI:n nykyistä versiota on muutettu, mikä asettaa laitteen turvallisuuden vaaraksi.
 
-Make sure you know where this device comes from, and contact authorized Xiaomi service center in your area to get help."</string>
-  <string name="sys_app_prot_cracked_text_unlogin">"The current version of MIUI has been modified which puts your device's security at risk. Sign in with your Mi Account to turn this warning off.
+Varmista, että tiedät mistä tämä laite on peräisin ja ota yhteyttä alueesi valtuutettuun Xiaomin palvelukeskukseen saadaksesi apua."</string>
+  <string name="sys_app_prot_cracked_text_unlogin">"MIUI:n nykyistä versiota on muutettu, mikä asettaa laitteen turvallisuuden vaaraksi. Kirjaudu sisään Mi Tiliisi poistaaksesi tämän varoituksen.
 
-If you haven't modified MIUI in any way, make sure you know where this device comes from and contact authorized Xiaomi service center in your area."</string>
+Jos et ole millään tavalla muuttanut MIUI:ta, varmista, että tiedät mistä laite on peräisin ja ota yhteyttä alueesi valtuutettuun Xiaomin palvelukeskukseen."</string>
   <string name="sys_app_prot_cracked_title">Tietoturvariski</string>
   <string name="sys_cpu_title">Suoritinkäyttö</string>
   <string name="sys_freememory_title">Käytettävissä</string>
@@ -1807,8 +1804,8 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'&gt;Operaattorin verkko vastaa&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'&gt;Aikakatkaisu&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_updating">Testataan…</string>
-  <string name="tc_diagnostic_success_notification_summary">Report this issue to help MIUI improve diagnostic tools</string>
-  <string name="tc_diagnostic_success_notification_title">Carrier network and brand are correct</string>
+  <string name="tc_diagnostic_success_notification_summary">Ilmoita tämä ongelma auttaaksesi MIUI:ta parantamaan diagnostiikkatyökaluja</string>
+  <string name="tc_diagnostic_success_notification_title">Operaattorin verkko ja merkki ovat oikein</string>
   <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Result: Carrier network and brand set correctly&lt;br/&gt;&lt;br/&gt;Couldn't complete adjustment:&lt;br/&gt;1. Carrier stats may not be reliable at the beginning or at the end of the month.&lt;br/&gt;2. Network assistant wasn't updated.&lt;br/&gt;&lt;br/&gt;Report this issue to help MIUI improve diagnostic tools&lt;/font&gt;"</string>
   <string name="tc_diagnostic_title">Operaattorin diagnostiikat</string>
   <string name="tc_diagnostic_upload_button">Raportoi</string>
@@ -1824,7 +1821,7 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="tc_sms_report_get_sms_calltime">Hae SMS</string>
   <string name="tc_sms_report_get_sms_failure">"Couldn't get data usage SMS format"</string>
   <string name="tc_sms_report_get_sms_successs">Data usage SMS format updated</string>
-  <string name="tc_sms_report_get_sms_timeout">Request timed out</string>
+  <string name="tc_sms_report_get_sms_timeout">Pyyntö aikakatkaistiin</string>
   <string name="tc_sms_report_get_success">Vastaanotettiin datan käytön raportti tekstiviestinä operaattorilta. Varmista, että se on tarkka ja lähetä se meille.</string>
   <string name="tc_sms_report_get_success_notify_body">Make sure the report is accurate and submit it to MIUI.</string>
   <string name="tc_sms_report_get_success_notify_title">Received data usage report SMS</string>
@@ -1848,8 +1845,6 @@ Tässä ohjeet:
   <string name="tc_sms_report_tips_dialog_message">"Data usage uses a specially formatted SMS to get your latest data usage from your carrier. If this feature isn't working normally, try updating the data usage SMS format. The new updated format will then be uploaded to our servers."</string>
   <string name="tc_sms_report_tips_dialog_title">Data usage SMS</string>
   <string name="tc_sms_report_title">Raportoi datan käyttö bugi</string>
-  <string name="tc_sms_report_title_bill">Raportoi datan käyttö bugi</string>
-  <string name="tc_sms_report_title_calltime">Raportoi datan käyttö bugi</string>
   <string name="tc_sms_report_toast_text">Haetaan tietoa…</string>
   <string name="tc_sms_report_type">Ilmoituksen tyyppi</string>
   <string name="tc_sms_report_upload_success">Datan käytön tekstiviesti-ilmoitus lähetetty. Ryhdymme heti sen kimppuun!</string>
@@ -2015,7 +2010,7 @@ Lisää saldoa napauttamalla."</string>
   <string name="usage_sorted_activity_lable">Datan käyttö</string>
   <string name="usage_sorted_empty_text">Tyhjä</string>
   <string name="usage_sorted_loading_text">Odota hetki…</string>
-  <string name="usage_type_audio">Audio</string>
+  <string name="usage_type_audio">Ääni</string>
   <string name="usage_type_cpu">Suoritin yhteensä</string>
   <string name="usage_type_cpu_foreground">Suoritin etuala</string>
   <string name="usage_type_data_recv">Mobiilidataa vastaanotettu</string>

@@ -188,12 +188,6 @@
         <item>kuukausi</item>
         <item>vuosi</item>
     </string-array>
-    <string-array name="repeat_frequency_spinner_plural">
-        <item>päivää</item>
-        <item>viikkoa</item>
-        <item>kuukautta</item>
-        <item>vuotta</item>
-    </string-array>
     <string-array name="response_labels1">
         <item>Ei vastausta</item>
         <item>Kyllä</item>

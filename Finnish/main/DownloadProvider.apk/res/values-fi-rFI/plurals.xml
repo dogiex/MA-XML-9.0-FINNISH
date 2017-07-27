@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="notif_summary_active">
-        <item quantity="other">%d tiedostoa ladataan.</item>
-        <item quantity="one">1 tiedostoa ladataan.</item>
+        <item quantity="other">Ladataan %d tiedostoa.</item>
+        <item quantity="one">Ladataan 1 tiedostoa.</item>
     </plurals>
     <plurals name="notif_summary_waiting">
         <item quantity="other">%d tiedostoa odottaa.</item>

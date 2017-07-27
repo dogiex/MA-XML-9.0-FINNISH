@@ -12,7 +12,7 @@
   <string name="beam_outgoing">Jaetaan sisältöä…</string>
   <string name="beam_progress">Saapuva sisällönjakopyyntö...</string>
   <string name="beam_requires_nfc_enabled">Android Beam edellyttää, että NFC on käytössä. Haluatko ottaa sen käyttöön?</string>
-  <string name="beam_touch_to_view">Näytä koskettamalla</string>
+  <string name="beam_tap_to_view">Näytä koskettamalla</string>
   <string name="beam_try_again">Yhdistä laitteet uudelleen</string>
   <string name="cancel">Peruuta</string>
   <string name="complete_with">Käytettävä sovellus:</string>

@@ -28,13 +28,10 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
-		<item>Å</item>
-        <item>Ä</item>
-        <item>Ö</item>
     </string-array>
     <string-array name="server_list_entries">
-        <item>Testi-palvelin</item>
-        <item>Online-palvelin</item>
+        <item>测试服务器</item>
+        <item>正式服务器</item>
     </string-array>
     <string-array name="version_list_entries">
         <item>稳定版本</item>

@@ -206,7 +206,7 @@ Jos vaihdat SIM-kortteja, toinen tekstiviesti lähetetään automaattisesti täm
   <string name="micloud_dspt_provision">Käytä Mi Pilveä datan synkronointiin, laitteesi paikantamiseen ja asioiden jakamiseen ystäviesi kanssa.</string>
   <string name="micloud_find_device_finish">Valmis</string>
   <string name="micloud_find_device_guide_button">Ota laitteen etsintä käyttöön</string>
-  <string name="micloud_find_device_guide_content">Lähetäve tekstiviesti saatetaan tarvita tämän palvelun aktivoimiseksi. Operaattorisi veloittaa sinua tästä viestistä. Kun vaihdat SIM-korttia, viesti lähetetään automaattisesti tämän ominaisuuden uudelleenaktivoimiseksi.</string>
+  <string name="micloud_find_device_guide_content">Lähtevä tekstiviesti saatetaan tarvita tämän palvelun aktivoimiseksi. Operaattorisi veloittaa sinua tästä viestistä. Kun vaihdat SIM-korttia, viesti lähetetään automaattisesti tämän ominaisuuden uudelleenaktivoimiseksi.</string>
   <string name="micloud_find_device_guide_fail_reopen">Ota laitteen etsintä käyttöön Mi Pilvessä</string>
   <string name="micloud_find_device_guide_fail_sub_net">Tarkista verkkoyhteys ja yritä uudelleen.</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">Yhteyden aikakatkaisu. Yritä uudelleen myöhemmin.</string>
@@ -393,7 +393,7 @@ Käytä eri tiliä."</string>
   <string name="microsoft_cloud">Microsoft Pilvipalvelu</string>
   <string name="microsoft_cloud_eng">One Drive</string>
   <string name="microsoft_cloud_price">Noin 80 RMB vuodessa</string>
-  <string name="more_activity_in_upgrade_space">Opi lisää osoitteessa &lt;a href="http://i.mi.com"&gt;http://i.mi.com&lt;/a&gt;</string>
+  <string name="more_activity_in_upgrade_space">Lisätietoja osoitteessa http://i.mi.com</string>
   <string name="mx_dspt">Mi Viesti</string>
   <string name="mx_dspt_provision">"Mi Viesti antaa sinun lähettää viestejä toisiin MIUI laitteisiin ilman maksua, kun olet yhteydessä Wi-Fi-verkkoon.
 

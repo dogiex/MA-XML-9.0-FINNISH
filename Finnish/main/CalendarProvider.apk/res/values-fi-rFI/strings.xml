@@ -20,5 +20,5 @@
   <string name="holiday_update_summary">Päivitä kalenteritiedot napauttamalla.</string>
   <string name="holiday_update_title">Päivitys saatavilla</string>
   <string name="provider_label">Kalenteri</string>
-  <string name="upgrade_msg">Päivitetään Kalenteritietokantaa.</string>
+  <string name="upgrade_msg">Päivitetään Kalenteritietokantaa…</string>
 </resources>

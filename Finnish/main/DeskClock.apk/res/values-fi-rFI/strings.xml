@@ -106,7 +106,7 @@
   <string name="remind_ringtone">Soittoääni</string>
   <string name="reset">Nollaa</string>
   <string name="revert">Palauta</string>
-  <string name="search_alarm_clock_keywords">Hälytys;herätyskello;</string>
+  <string name="search_alarm_clock_keywords">Hälytys;herätyskello;Herätys</string>
   <string name="search_stopwatch_keywords">Sekuntikello</string>
   <string name="search_timer_keywords">Ajastin</string>
   <string name="search_worldclock_keywords">Aika;Maailmankello;Kello</string>

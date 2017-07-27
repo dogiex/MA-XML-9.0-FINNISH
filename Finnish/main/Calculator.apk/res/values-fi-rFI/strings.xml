@@ -39,6 +39,8 @@
   <string name="cos">cos</string>
   <string name="cosDesc">cosine</string>
   <string name="currency_update_time_format">Valuuttakurssit tarjoaa Webull (%s)</string>
+  <string name="current_rate_remind_commercial"/>
+  <string name="current_rate_remind_fund"/>
   <string name="dateformat">d.M.yyyy</string>
   <string name="daughter">女儿</string>
   <string name="day">päivä</string>

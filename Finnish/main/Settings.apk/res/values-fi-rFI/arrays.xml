@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="status_bar_style_entries">
-        <item>Yhdellä sivulla</item>
-        <item>Kahdella sivulla</item>
-    </string-array>
     <string-array name="wifi_status">
         <item></item>
         <item>Etsitään...</item>
@@ -163,6 +159,15 @@
         <item>Ihmissilmän näkemät luonnolliset värit</item>
         <item>Digitaaliselle sisällölle parhaiten sopivat värit</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0 %</item>
+        <item>50 %</item>
+        <item>100 %</item>
+    </string-array>
+    <string-array name="status_bar_style_entries">
+        <item>Yhdistetty</item>
+        <item>Erikseen</item>
+    </string-array>
     <string-array name="timezone_filters">
         <item>Amerikka</item>
         <item>Eurooppa</item>
@@ -207,13 +212,6 @@
         <item>Oletus</item>
         <item>Suuri</item>
         <item>Suurin</item>
-    </string-array>
-    <string-array name="tts_pitch_entries">
-        <item>Hyvin matala</item>
-        <item>Matala</item>
-        <item>Normaali</item>
-        <item>Korkea</item>
-        <item>Hyvin korkea</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Paina painiketta</item>
@@ -270,7 +268,7 @@
         <item>PWD</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
-        <item>–</item>
+        <item>Ei mitään</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
@@ -324,6 +322,7 @@
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
+        <item>ICCID</item>
     </string-array>
     <string-array name="app_install_location_entries">
         <item>Laitteen sisäinen tallennustila</item>
@@ -530,17 +529,17 @@
         <item>Aikaraja</item>
         <item>Epäonnistui</item>
     </string-array>
-    <string-array name="security_settings_premium_sms_values">
-        <item>Kysy</item>
-        <item>Älä salli koskaan</item>
-        <item>Salli aina</item>
-    </string-array>
     <string-array name="user_content_ratings_entries">
         <item>Ascended being</item>
         <item>Ihminen</item>
         <item>Neandertalilainen</item>
         <item>Simpanssi</item>
         <item>Apina</item>
+    </string-array>
+    <string-array name="security_settings_premium_sms_values">
+        <item>Kysy</item>
+        <item>Älä salli koskaan</item>
+        <item>Salli aina</item>
     </string-array>
     <string-array name="ram_states">
         <item>Normaali</item>
@@ -579,7 +578,17 @@
         <item>Vaaleanpunainen</item>
         <item>Punainen</item>
     </string-array>
+    <string-array name="cellcular2wifi_entries">
+        <item>Yhdistä automaattisesti</item>
+        <item>Yhdistä manuaalisesti</item>
+        <item>Kysy aina</item>
+    </string-array>
     <string-array name="wifi_calling_mode_choices">
+        <item>Wi-Fi ensisijainen</item>
+        <item>Matkapuhelinverkko ensisijainen</item>
+        <item>Vain Wi-Fi</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_without_wifi_only">
         <item>Wi-Fi ensisijainen</item>
         <item>Matkapuhelinverkko ensisijainen</item>
     </string-array>
@@ -593,10 +602,6 @@
         <item>Kova</item>
         <item>Keskiverto</item>
         <item>Kevyt</item>
-    </string-array>
-    <string-array name="ap_identify">
-        <item>oletus</item>
-        <item>iPhone</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Graafinen</item>
@@ -640,12 +645,12 @@
         <item>Takaisin-painike vasemmalla, Valikko-painike oikealla</item>
     </string-array>
     <string-array name="screen_key_press_action">
-        <item>Näytä taustasovellukset</item>
+        <item>Näytä viimeaikaiset sovellukset</item>
         <item>Näytä valikko</item>
     </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Ei mitään</item>
-        <item>Näytä taustasovellukset</item>
+        <item>Näytä viimeaikaiset sovellukset</item>
         <item>Käynnistä Avustaja</item>
         <item>Käynnistä Google Now</item>
         <item>Sulje nykyinen sovellus</item>
@@ -707,17 +712,17 @@ Note: Only for Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="screen_color_title">
         <item>Lämmin</item>
-        <item>Standardi</item>
+        <item>Normaali</item>
         <item>Viileä</item>
     </string-array>
     <string-array name="screen_saturation_title">
         <item>Loistava</item>
-        <item>Standardi</item>
+        <item>Normaali</item>
     </string-array>
     <string-array name="screen_optimize_title">
         <item>Automaattinen kontrasti</item>
         <item>Lisätty kontrasti</item>
-        <item>Standardi</item>
+        <item>Normaali</item>
     </string-array>
     <string-array name="screen_optimize_summary">
         <item>Optimoi näytön kontrastia valoisuuden mukaan</item>
@@ -840,6 +845,14 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Käynnistetäänkö laite uudelleen, jotta asetukset tulevat voimaan?</item>
         <item>Käynnistetäänkö laite uudelleen, jotta asetukset tulevat voimaan?</item>
     </string-array>
+    <string-array name="miui_entries_font_size">
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+        <item>XXXL</item>
+    </string-array>
     <string-array name="max_number_titles">
         <item>6</item>
         <item>5</item>
@@ -849,14 +862,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>1</item>
         <item>Ei rajaa</item>
     </string-array>
-    <string-array name="screen_resolution_entries">
-        <item>Ultrakorkea (2K)</item>
-        <item>Normaali (720p)</item>
-    </string-array>
     <string-array name="common_password_business_names">
         <item>Lukitusnäyttö</item>
         <item>Yksityisyyden salasana</item>
-        <item>Lapsi-tila</item>
+        <item>Lapsitila</item>
         <item>Tiedostoselain</item>
         <item>Sovelluslukko</item>
         <item>Toinen tila</item>
@@ -864,6 +873,12 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="screen_button_style">
         <item>Vasemman käden tyyli</item>
         <item>Oikean käden tyyli</item>
+    </string-array>
+    <string-array name="edge_touch_volume_action">
+        <item>Säädä klikkaamalla - Tuplaklikkaus käynnistää</item>
+        <item>Säädä pyyhkäisemällä - Pyyhkäiseminen käynnistää</item>
+        <item>Säädä klikkaamalla - Klikkaus käynnistää</item>
+        <item>Säädä klikkaamalla - Pitkä klikkaus käynnistää</item>
     </string-array>
     <string-array name="city_name">
         <item>Abidjan</item>
@@ -1171,11 +1186,5 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Kuvat</item>
         <item>Tiedostot</item>
         <item>Muistiot</item>
-        <item>Lapsi-tila</item>
-    </string-array>
-    <string-array name="miracast_policies">
-        <item>Lyhyempi viive</item>
-        <item>Normaali</item>
-        <item>Parempi laatu</item>
     </string-array>
 </resources>

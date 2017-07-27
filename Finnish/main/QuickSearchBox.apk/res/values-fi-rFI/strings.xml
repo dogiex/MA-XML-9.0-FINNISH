@@ -38,8 +38,6 @@ Käytä Selaimen asetuksia selainhistorian tyhjentämiseen."</string>
   <string name="cta_declaration_title">Palveluehdot</string>
   <string name="default_hint">Hae sovelluksia, musiikkia, videoita, kirjoja…</string>
   <string name="device_settings_category_title">Poista pikakuvakkeet</string>
-  <string name="distance_unit_kilometer">km</string>
-  <string name="distance_unit_meter">m</string>
   <string name="entrance_setting">Avataan hakua</string>
   <string name="google_app_label">Google Haku</string>
   <string name="google_search_description">Googlen hakuehdotukset</string>
@@ -119,12 +117,8 @@ Voit vaihtaa asetusta Asetukset &gt; Asennetut sovellukset &gt; Hae"</string>
   <string name="update_check">Tarkista päivitykset</string>
   <string name="update_right_now">Päivitä</string>
   <string name="update_title">Päivitys saatavilla</string>
-  <string name="update_version_alpha">Alpha</string>
-  <string name="update_version_dev">Beta</string>
   <string name="update_version_stable">Vakaa</string>
   <string name="updated_title">MIUI on ajan tasalla</string>
-  <string name="voice_search_hint_quotation_end">\"</string>
-  <string name="voice_search_hint_quotation_start">\"</string>
   <string name="voice_search_hint_title">Yritä sanoa:</string>
   <string name="web_search_results">Baidu</string>
   <string name="xiaomi_search_label">Tulokset</string>

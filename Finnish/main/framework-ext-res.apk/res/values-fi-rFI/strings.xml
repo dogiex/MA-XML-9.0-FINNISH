@@ -134,12 +134,12 @@
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_cast">Suoratoista</string>
   <string name="status_bar_toggle_data">Mobiilidata</string>
-  <string name="status_bar_toggle_edit">Järjestä</string>
+  <string name="status_bar_toggle_edit">Lajittele</string>
   <string name="status_bar_toggle_flight_mode">Lentokonetila</string>
   <string name="status_bar_toggle_gps">GPS</string>
-  <string name="status_bar_toggle_lock">Lukko</string>
+  <string name="status_bar_toggle_lock">Lukitse</string>
   <string name="status_bar_toggle_midrop">Mi Siirtäjä</string>
-  <string name="status_bar_toggle_mute">Äänetöntila</string>
+  <string name="status_bar_toggle_mute">Äänetön</string>
   <string name="status_bar_toggle_nfc">NFC</string>
   <string name="status_bar_toggle_paper_mode">Lukutila</string>
   <string name="status_bar_toggle_power_mode">Suorituskyky</string>
@@ -154,7 +154,7 @@
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
   <string name="subinfo_default_name">SIM-kortti %d</string>
   <string name="total">Älä häiritse</string>
-  <string name="total_description">[Älä häiritse] Mykistää äänet ja poistaa värinän käytöstä kaikilta kohteilta paitsi herätyskellolta</string>
+  <string name="total_description">[Älä häiritse] Mykistää äänet ja poistaa värinän käytöstä kaikilta kohteilta paitsi Herätyskellolta</string>
   <string name="total_title">Älä häiritse..</string>
   <string name="translation_more">Lisää</string>
   <string name="translation_query_error">Tuloksia ei löytynyt</string>
