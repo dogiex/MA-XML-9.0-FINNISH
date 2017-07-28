@@ -1908,7 +1908,7 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="keywords_more_mobile_networks">matkapuhelin, kännykkä, operaattori, langaton, tiedonsiirto, 4g, 3g, 2g, lte</string>
   <string name="keywords_network_name_display">verkko, nimi, näytetään</string>
   <string name="keywords_network_reset">nollaus, tehdasasetusten palautus</string>
-  <string name="keywords_paper_mode">Flux;Lue;Luku-tila;Sininen valo;Suojaa silmät</string>
+  <string name="keywords_paper_mode">Flux;Lue;Lukutila;Sininen valo;Suojaa silmät</string>
   <string name="keywords_printing">tulostin</string>
   <string name="keywords_profile_challenge">työhaaste, työ, profiili</string>
   <string name="keywords_quick_ball">Quick ball;Pikavalikko;Pikakuvakkeet;Nappulat;Nappula</string>
@@ -2733,9 +2733,9 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="page_layout_page2_title">Esikatselu</string>
   <string name="page_layout_small_title">XS</string>
   <string name="palm_enabled">Poista käytöstä peittämällä näyttö</string>
-  <string name="paper_mode_auto_twilight_summary">Vaihda Luku-tilaan automaattisesti auringonlaskun aikaan</string>
+  <string name="paper_mode_auto_twilight_summary">Vaihda Lukutilaan automaattisesti auringonlaskun aikaan</string>
   <string name="paper_mode_auto_twilight_title">Iltahämärä-tila</string>
-  <string name="paper_mode_customize_time_summary">Ota Luku-tila käyttöön mukautetulle ajalle</string>
+  <string name="paper_mode_customize_time_summary">Ota Lukutila käyttöön mukautetulle ajalle</string>
   <string name="paper_mode_customize_time_title">Mukautettu aika</string>
   <string name="paper_mode_end_time_title">Poista käytöstä</string>
   <string name="paper_mode_get_location_dlg_msg">Pääsy sijaintitietoihisi vaaditaan, jotta voidaan laskea tarkka aika auringonnoususta- ja laskusta?</string>
@@ -3200,7 +3200,7 @@ Tämä asetus vaikuttaa kaikkiin tämän puhelimen käyttäjiin."</string>
   <string name="screen_button_tips">Piilota näytön painikkeet pyyhkäisemällä alas</string>
   <string name="screen_cells_config_title">Kotinäytön ulkoasu</string>
   <string name="screen_color_and_optimize">Värit &amp; kontrasti</string>
-  <string name="screen_color_and_optimize_disabled">Värien lämpötilansäätö ei toimi Luku-tilassa</string>
+  <string name="screen_color_and_optimize_disabled">Värien lämpötilansäätö ei toimi Lukutilassa</string>
   <string name="screen_color_temperature">Värit</string>
   <string name="screen_color_temperature_and_saturation">Värit &amp; saturaatio</string>
   <string name="screen_compatibility_label">Ruudun yhteensopivuus</string>
@@ -3240,14 +3240,14 @@ Tämä asetus vaikuttaa kaikkiin tämän puhelimen käyttäjiin."</string>
   <string name="screen_paper_mode_summary">Pienennä näytön sinistä valoa</string>
   <string name="screen_paper_mode_time_summary">Ajasta Lukutilan ottaminen käyttöön ja poistaminen käytöstä</string>
   <string name="screen_paper_mode_time_title">Ajasta</string>
-  <string name="screen_paper_mode_title">Luku-tila</string>
+  <string name="screen_paper_mode_title">Lukutila</string>
   <string name="screen_paper_mode_turn_off">Pois päältä</string>
   <string name="screen_paper_mode_turn_on">Päällä</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Älä näytä uudestaan</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Salli</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Jos haluat päivittää luetteloa sovelluksista, jotka käyttävät Luku-tilaa, sinun on muodostettava yhteys internetiin..</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Jos haluat päivittää luetteloa sovelluksista, jotka käyttävät Lukutilaa, sinun on muodostettava yhteys internetiin..</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Internet-yhteys</string>
-  <string name="screen_paper_mode_update_white_pkg_list_summary">Päivitä luettelo sovelluksista, jotka käyttävät automaattisesti Luku-tilaa</string>
+  <string name="screen_paper_mode_update_white_pkg_list_summary">Päivitä luettelo sovelluksista, jotka käyttävät automaattisesti Lukutilaa</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Päivitä automaattisesti</string>
   <string name="screen_pinning_description">"Kun tämä asetus on käytössä, voit kiinnittää näytön. Tällöin näyttö pysyy näkyvissä, kunnes poistat kiinnityksen.
 
@@ -3464,7 +3464,7 @@ Näytön kiinnittäminen:
   <string name="search_screen_effect">Värit &amp; saturaatio;Värit &amp; kontrasti;värit;värit saturaatio;kontrasti</string>
   <string name="search_screen_key_long_press_timeout">Aseta pitkän painalluksen aika</string>
   <string name="search_screen_on_proximity_sensor_title">Tasku-tila</string>
-  <string name="search_screen_paper_mode_title">Luku-tila;luku tila;luku;sininen valo;keltainen valo;yö tila</string>
+  <string name="search_screen_paper_mode_title">Lukutila;luku tila;luku;sininen valo;keltainen valo;yö tila</string>
   <string name="search_screen_saver_settings">Näytönsäästäjä</string>
   <string name="search_screen_timeout">Nukkumaan;Automaattinen näytön lukitus</string>
   <string name="search_screenshot">Kuvakaappaus</string>
