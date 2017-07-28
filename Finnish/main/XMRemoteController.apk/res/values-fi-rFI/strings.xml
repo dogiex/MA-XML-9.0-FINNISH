@@ -41,6 +41,7 @@
   <string name="add_fav_channel">添加收藏</string>
   <string name="add_fav_channel_hint">添加收藏更多频道，方便您找到喜欢的节目</string>
   <string name="add_more">Lisää infrapunalaitteita</string>
+  <string name="add_new_box">添加新的智能盒子…</string>
   <string name="add_new_control">Lisää kaukosäädin</string>
   <string name="add_new_stb">Lisää set-top box</string>
   <string name="add_new_tv">Lisää TV…</string>
@@ -120,7 +121,7 @@
   <string name="bind_stb_dlg_2">需要绑定机顶盒</string>
   <string name="bind_stb_dlg_agree">Parita</string>
   <string name="brand_device">%1$s %2$s</string>
-  <string name="brand_search_box_hint">Select manufacturer</string>
+  <string name="brand_search_box_hint">Valitse valmistaja</string>
   <string name="brand_title_all">Kaikki</string>
   <string name="brand_title_hot">Suositut</string>
   <string name="brand_title_other">Muut</string>
@@ -266,7 +267,7 @@ Kokeile seuraavaa korjataksesi ongelman:
   <string name="edit">Muokkaa</string>
   <string name="edit_controller">Muokkaa kaukosäädintä</string>
   <string name="edit_ir_device">Nimeä laite uudelleen</string>
-  <string name="eject">﻿Eject</string>
+  <string name="eject">Poista</string>
   <string name="empty_name_tip">Anna tälle kaukosäätimelle nimi</string>
   <string name="epg_add_fav_bind_stb_dlg">绑定机顶盒后可以添加收藏</string>
   <string name="epg_all_channels">Kaikki kanavat</string>
@@ -714,7 +715,7 @@ odota hetki toiminnon jälkeen."</string>
   <string name="no_ir_support">IR laitteita ei löytynyt</string>
   <string name="no_location">无位置信息</string>
   <string name="no_milink_device">没有发现小米电视/盒子，请稍后再试</string>
-  <string name="no_network">· Ooet yhteydessä internetiin</string>
+  <string name="no_network">"· Verkkoon yhdistäminen epäonnistui"</string>
   <string name="no_program">Täällä ei ole sisältöä</string>
   <string name="no_qq">Asenna QQ ensin</string>
   <string name="no_save_brand_service">Lisää tämä kaukosäädin uudelleen</string>

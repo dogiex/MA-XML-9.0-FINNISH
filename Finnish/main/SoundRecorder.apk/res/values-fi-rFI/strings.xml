@@ -106,7 +106,6 @@
   <string name="record_list_fm">FM nauhoitukset</string>
   <string name="record_mark_point">Merkitse %s</string>
   <string name="record_name_hour">.</string>
-  <string name="record_name_minute"/>
   <string name="record_quliaty_preference_title">Nauhoituksen laatu</string>
   <string name="recording">Nauhoitetaan</string>
   <string name="recording_quality_high">Korkea laatu</string>

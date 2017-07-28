@@ -257,7 +257,6 @@
   <string name="respond_via_sms_canned_response_4">En voi vastata. Soitatko myöhemmin?</string>
   <string name="respond_via_sms_confirmation_format">Viesti lähetetty numeroon %s.</string>
   <string name="respond_via_sms_edittext_dialog_title">Pikavastaukset</string>
-  <string name="respond_via_sms_setting_summary"/>
   <string name="respond_via_sms_setting_title">Pikavastaukset</string>
   <string name="respond_via_sms_setting_title_2">Muokkaa pikavastausta</string>
   <string name="running_process_item_user_label">Käyttäjä: %1$s</string>

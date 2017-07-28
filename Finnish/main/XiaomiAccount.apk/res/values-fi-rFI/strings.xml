@@ -179,7 +179,7 @@
   <string name="passport_account_name">Tili: %1$s</string>
   <string name="passport_account_not_activated">Tiliä ei ole aktivoitu</string>
   <string name="passport_account_not_actived">Tiliäsi ei ole aktivoitu</string>
-  <string name="passport_active_email_visit">Check your inbox at %s</string>
+  <string name="passport_active_email_visit">Tarkista postilaatikkosi osoitteessa %s</string>
   <string name="passport_activing_account">Aktivoidaan…</string>
   <string name="passport_area_code_hot">USEIN KÄYTETYT</string>
   <string name="passport_area_code_title">Maakoodi</string>
@@ -249,9 +249,9 @@ Aktivoi tilisi seuraamalla
   <string name="passport_login_prompt">Yksi Mi Tili. Kaikki Mi palvelut.</string>
   <string name="passport_login_title">Kirjaudu sisään Mi Tilillesi</string>
   <string name="passport_login_using_other_ways">Muita tapoja kirjautua</string>
-  <string name="passport_message_dialog_title">SMS with verifying codes</string>
+  <string name="passport_message_dialog_title">Tekstiviesti vahvistuskoodeilla</string>
   <string name="passport_next">Seuraava</string>
-  <string name="passport_notification_title">Signin error for %1$s</string>
+  <string name="passport_notification_title">Kirjautumisvirhe %1$s</string>
   <string name="passport_password_req_notice">Salasanan täytyy olla 8-16 merkkiä pitkä ja sisältää numeroita sekä kirjaimia (merkkikokoriippuvainen).</string>
   <string name="passport_phone_num_hint_text">Puhelinnumero</string>
   <string name="passport_prev">Takaisin</string>

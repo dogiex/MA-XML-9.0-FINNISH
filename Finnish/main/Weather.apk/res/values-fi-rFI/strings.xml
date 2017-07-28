@@ -3,7 +3,6 @@
   <string name="act_find_city_hint">Syötä sijainti</string>
   <string name="act_find_city_hot_attractions_title">Suositut sivustot</string>
   <string name="act_find_city_hot_city_title">Suositut kaupungit</string>
-  <string name="act_find_city_hot_title">Lisää</string>
   <string name="act_set_city_find_side">Paikannetaan…</string>
   <string name="act_set_city_find_side_error">Laitetta ei voitu paikantaa</string>
   <string name="act_weather_find_city_added">Lisätty</string>
@@ -16,9 +15,7 @@
   <string name="activity_find_city_dialog_message">Salli Sää-sovelluksen nähdä sijaintisi</string>
   <string name="activity_find_city_dialog_set">Asetukset</string>
   <string name="activity_find_city_dialog_title">Pääsy Sijaintiin</string>
-  <string name="activity_main_alert"/>
   <string name="activity_main_clickable">&gt;</string>
-  <string name="activity_main_one_alert"/>
   <string name="activity_main_time_format">E</string>
   <string name="activity_main_update_time">Päivitetty %1$s</string>
   <string name="activity_main_update_time_expire">Tieto on vanhentunut</string>
@@ -26,16 +23,13 @@
   <string name="activity_weathermain_locationg">Paikannetaan…</string>
   <string name="activity_weathermain_locationg_error">Ei voi paikantaa</string>
   <string name="add_city">Lisää</string>
-  <string name="ads_extension"/>
-  <string name="ads_install_num"/>
-  <string name="ads_score_title"/>
   <string name="alert_warning">Säävaroitukset</string>
   <string name="already_voted">Äänestetty</string>
   <string name="already_voted_toast">Olet jo äänestänyt tänään</string>
   <string name="app_name">Sää</string>
   <string name="aqi_data_source">Tarjoaja Colorful Clouds</string>
   <string name="aqi_desc">Ilmanlaatuindeksi</string>
-  <string name="aqi_detail_24_hours">24-tuntinen ennustus</string>
+  <string name="aqi_detail_24_hours">24-tunnin ennustus</string>
   <string name="aqi_detail_5_days">5-päivän ennustus</string>
   <string name="aqi_detail_co">CO</string>
   <string name="aqi_detail_no2">NO₂</string>
@@ -76,6 +70,7 @@
   <string name="button_sure_abandon">Hylätäänkö muutokset?</string>
   <string name="card_vote_item_vs">VS</string>
   <string name="change_alert">Tarkista verkkoyhteytesi ja yritä uudelleen</string>
+  <string name="city_exceeded_warning">Voit lisätä enintään 10 kaupunkia</string>
   <string name="commercial">Mainos</string>
   <string name="common_loading_text">Odota hetki…</string>
   <string name="connect_fail">Verkkoyhteys on epänormaali. Yritä myöhemmin uudelleen.</string>
@@ -83,7 +78,6 @@
   <string name="daily_forcast_no_stable_direction">Tuulahdus</string>
   <string name="daily_forcast_no_wind">0</string>
   <string name="daily_forcast_no_wind_miles">&lt;19.3mph</string>
-  <string name="daily_forcast_temperature_connect"/>
   <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s later.</string>
   <string name="daily_forcast_whirl_wind">Pyörremyrsky</string>
@@ -94,6 +88,7 @@
   <string name="daily_forecast_no_data">"Säätietojen haku epäonnistui
 Vedä alaspäin päivittääksesi tai tarkasta verkkoasetukset"</string>
   <string name="data_provided_by">Tiedot tarjoaa</string>
+  <string name="data_source_time_fromat">"yyyy-MM-dd'T'HH:mm:ssz"</string>
   <string name="data_source_timezone">GMT%1$s</string>
   <string name="edit_alert_city_title">Hallitse hälytyksiä</string>
   <string name="edit_city">Muokkaa kaupunkia</string>
@@ -117,9 +112,6 @@ Vedä alaspäin päivittääksesi tai tarkasta verkkoasetukset"</string>
   <string name="hourly_forecast_date">d.M.</string>
   <string name="hourly_forecast_title">Tuntikohtainen ennustus</string>
   <string name="index_item_experience_now">Asenna nyt</string>
-  <string name="index_item_install_dialog"/>
-  <string name="index_item_install_dialog_cancel"/>
-  <string name="index_item_install_dialog_open"/>
   <string name="index_item_install_now">Asenna nyt</string>
   <string name="index_item_installing">Asennetaan</string>
   <string name="indices_desc_Precip1hr">%1$smm</string>
@@ -144,10 +136,8 @@ Vedä alaspäin päivittääksesi tai tarkasta verkkoasetukset"</string>
   <string name="information_manager_extension">Sään lisäosa</string>
   <string name="information_manager_information">Säätiedot</string>
   <string name="information_manager_wlan">Näytä, kun yhteydessä Wi-Fi-verkkoon</string>
-  <string name="information_menu_title"/>
   <string name="information_set">Muut asetukset</string>
   <string name="information_time_source">%1$s | %2$s</string>
-  <string name="information_views"/>
   <string name="install">Asenna</string>
   <string name="install_progress">%1$s%%</string>
   <string name="international_detail_menu_title">Tiedot</string>
@@ -160,7 +150,6 @@ Vedä alaspäin päivittääksesi tai tarkasta verkkoasetukset"</string>
   <string name="locate_fail_detail_err">"Laitetta ei voitu paikantaa
 Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="location_tag">Paikanna</string>
-  <string name="lunar_calendar"/>
   <string name="menu_add_city">Lisää tai poista kaupunki</string>
   <string name="menu_location">Sijainnit</string>
   <string name="menu_minute_rain">2-tunnin sade-ennustus</string>
@@ -235,25 +224,10 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="traffic_control_daty_after_tomorrow_numbers">Ylihuomenna: %1$s</string>
   <string name="traffic_control_today_numbers">Tänään: %1$s</string>
   <string name="traffic_control_tomorrow_numbers">Huomenna: %1$s</string>
-  <string name="traffic_controls">Road space rationing</string>
-  <string name="tts_report_aqi"/>
-  <string name="tts_report_city_name"/>
-  <string name="tts_report_defautl_head"/>
-  <string name="tts_report_split"/>
-  <string name="tts_report_temperature_high_centigrade"/>
-  <string name="tts_report_temperature_high_fahrenheit"/>
-  <string name="tts_report_temperature_low_centigrade"/>
-  <string name="tts_report_temperature_low_fahrenheit"/>
-  <string name="tts_report_weather_desc"/>
-  <string name="tts_report_wind"/>
-  <string name="twc_logo_title"/>
+  <string name="traffic_controls">Tienkäytön säännöstely</string>
   <string name="unit">Yksikkö</string>
   <string name="unit_temperature">Lämpötilan yksikkö</string>
   <string name="unit_wind">Tuulen nopeuden yksikkö</string>
-  <string name="video_dialog_no_play"/>
-  <string name="video_dialog_play"/>
-  <string name="video_dialog_subtitle"/>
-  <string name="video_dialog_title"/>
   <string name="view_forecast_item_yesterday">Eilen</string>
   <string name="view_indexes_item_today">Tänään</string>
   <string name="view_indexes_item_tommorrow">Huomenna</string>

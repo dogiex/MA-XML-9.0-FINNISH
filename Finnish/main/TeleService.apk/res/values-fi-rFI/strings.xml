@@ -89,6 +89,7 @@
   <string name="administrative_disable">Järjestelmänhallinta pois käytöstä</string>
   <string name="administrative_enable">Järjestelmänhallinta käytössä</string>
   <string name="advanced_settings">Lisäasetukset</string>
+  <string name="advanced_settings_container">lisäasetuksien säilö</string>
   <string name="advanced_settings_hide">▽ Piilota kaikki koskettamalla</string>
   <string name="advanced_settings_show">▷ Näytä kaikki koskettamalla</string>
   <string name="advertisements_disable">Mainokset pois käytöstä</string>
@@ -318,8 +319,6 @@
   <string name="call_background_lock_wallpaper">Lukitusnäytön taustakuva</string>
   <string name="call_background_setting">Puhelun taustakuva</string>
   <string name="call_barring">Puhelunesto</string>
-  <string name="call_barring_incoming">Saapuvien puhelunesto</string>
-  <string name="call_barring_outgoing">Lähtevien puhelunesto</string>
   <string name="call_barring_sum">Äänipuheluiden estoasetukset</string>
   <string name="call_description_recording">Nauhoitetaan…</string>
   <string name="call_forward_option">Soitonsiirto</string>
@@ -394,7 +393,6 @@
   <string name="carrier_settings_title">Operaattorin asetukset</string>
   <string name="category_personal">Henkilökohtainen</string>
   <string name="category_work">Työ</string>
-  <string name="cb_psw_dont_match">Salasanat eivät täsmää</string>
   <string name="cb_sms_settings">Cell Broadcast -tekstiviestiasetukset</string>
   <string name="cdma_activate_device">Aktivoi laite</string>
   <string name="cdma_alert_message">Jos valitset toisen kortin mobiilidatasi oletukseksi, et voi käyttää Kiinan Telecom UIM-korttia (paitsi roaming-tilassa).</string>
@@ -414,7 +412,6 @@
   <string name="cell_bc_sms_enable">Cell Broadcast -tekstiviestit käytössä</string>
   <string name="cell_broadcast_settings">Hätätilalähetykset</string>
   <string name="cell_broadcast_sms">Cell Broadcast -tekstiviesti</string>
-  <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="cf_setting_mobile_data_alert">Please turn on mobile data and make sure that WLAN is off</string>
   <string name="cf_setting_mobile_data_roaming_alert">Please turn on data roaming</string>
   <string name="cfb_title">Siirrä kun varattuna</string>
@@ -486,8 +483,6 @@
   <string name="convert_to_file_encryption">Muunna tiedostojen salaukseksi</string>
   <string name="convert_to_file_encryption_done">Tiedostot on jo salattu.</string>
   <string name="convert_to_file_encryption_enabled">Muunna…</string>
-  <string name="corporate_unlock_failed">SIM Corporate unlock request unsuccessful.</string>
-  <string name="corporate_unlock_success">SIM Corporate unlock successful.</string>
   <string name="crescendo_ringer_summary">Soittoäänen äänenvoimakkuus nousee asteittain asettamaasi tasoon asti</string>
   <string name="crescendo_ringer_title">Nouseva soittoäänen äänenvoimakkuus</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (puna-vihersokeus)</string>
@@ -496,7 +491,6 @@
   <string name="daltonizer_mode_protanomaly">Protanomalia (puna-vihersokeus)</string>
   <string name="daltonizer_mode_tritanomaly">Tritanomalia (sini-keltasokeus)</string>
   <string name="daltonizer_type_overridden">Tämän ohittaa %1$s</string>
-  <string name="cursorError">Kursorivirhe</string>
   <string name="data_enable_summary">Salli tiedonsiirto</string>
   <string name="data_enabled">Datayhteys käytössä</string>
   <string name="data_usage_uninstalled_apps">Poistetut sovellukset</string>
@@ -929,8 +923,6 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="network_info_message">Verkkoviesti</string>
   <string name="network_lte">LTE (suositus)</string>
   <string name="network_message">Verkon viesti</string>
-  <string name="network_operator_settings_class">com.android.phone.settings.MobileNetworkSetting</string>
-  <string name="network_operator_settings_package">com.android.phone</string>
   <string name="network_query_error">Virhe haettaessa verkkoja.</string>
   <string name="network_settings_auto_select_title">Valitaanko verkko manuaalisesti?</string>
   <string name="network_settings_automatically_option">Valitse ensisijainen verkko automaattisesti (%s)</string>
@@ -957,7 +949,6 @@ Käytetään ensisijaista verkkoa sen sijaan."</string>
   <string name="new_pin2_label">Uusi PIN2-koodi</string>
   <string name="new_pin_label">Uusi PIN-koodi</string>
   <string name="no_application">Ei mitään</string>
-  <string name="no_call_barring">Puhelunesto ei ole käytössä</string>
   <string name="no_change">Muutoksia ei tehty.</string>
   <string name="no_checked_network">Et voi muodostaa yhteyttä mobiiliverkkoon ja soittaa puheluita. Valitaanko toinen verkko?</string>
   <string name="no_internet_available">Jos haluat soittaa SIP-puhelun, tarkista ensin internetyhteytesi.</string>
@@ -977,7 +968,6 @@ Käytetään ensisijaista verkkoa sen sijaan."</string>
   <string name="notification_voicemail_title">Uusia viestejä vastaajassa</string>
   <string name="notification_voicemail_title_count">Uusia viestejä vastaajassa (%d)</string>
   <string name="number">Numero</string>
-  <string name="oem_preferred_feedback_reporter"/>
   <string name="oem_unlock_enable">OEM:n lukituksen avaus</string>
   <string name="oem_unlock_enable_summary">Salli käynnistysohjelman lukituksen avaaminen</string>
   <string name="ok">OK</string>
@@ -1031,6 +1021,7 @@ Yritä uudelleen tai pyydä lisäohjeita asiakaspalvelusta."</string>
   <string name="other_settings_category">Muu</string>
   <string name="overlay_display_devices_title">Simuloi toissijaiset näytöt</string>
   <string name="overseas_roaming_setting">Data roaming-tila</string>
+  <string name="password">Salasana</string>
   <string name="password_changed">Salasana vaihdettu</string>
   <string name="password_title">Salasana</string>
   <string name="path_answer_state_setting_title">Järjestelmäsovellukset/Puhelin/Saapuvan puhelun asetukset</string>
@@ -1113,6 +1104,7 @@ Laitteesi lukitaan automaattisesti jos yrityksesi menee vielä väärin"</string
   <string name="pin_progress_unlock_icc">Avataan SIM-kortin lukitusta…</string>
   <string name="pointer_location">Osoittimen sijainti</string>
   <string name="pointer_location_summary">Näytön peittokuva näyttää nykyiset kosketustiedot</string>
+  <string name="port">Portti</string>
   <string name="port_title">Porttinumero</string>
   <string name="power_charging">%1$s – %2$s</string>
   <string name="power_charging_duration">%1$s – %2$s kunnes täynnä</string>
@@ -1217,10 +1209,6 @@ Laitteesi lukitaan automaattisesti jos yrityksesi menee vielä väärin"</string
   <string name="proximity_on_summary">When you answer a call, the screen will be turned off to save power.</string>
   <string name="proxy_address">ProxyAddress</string>
   <string name="proxy_address_title">Lähettävän välityspalvelimen osoite</string>
-  <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
-  <string name="proxy_hostname_hint">proxy.example.com</string>
-  <string name="proxy_port_hint">8080</string>
-  <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
   <string name="pstn_connection_service_label">Sisäiset SIM-kortit</string>
   <string name="pstn_phone">Matkapuhelin puhelu</string>
   <string name="puk2_blocked">PUK2-koodi on pysyvästi estetty.</string>
@@ -1228,7 +1216,7 @@ Laitteesi lukitaan automaattisesti jos yrityksesi menee vielä väärin"</string
   <string name="puk2_requested">Virheellinen salasana. SIM-kortti on lukittu. Anna PUK2-koodi.</string>
   <string name="puk_label">Syötä PUK-koodi</string>
   <string name="puk_lock_warning">"
-Your SIM card will be locked after another unsuccessful attempt."</string>
+SIM-korttisi lukitaan seuraavan epäonnistuneen yrityksen jälkeen."</string>
   <string name="puk_requested">Virheellinen salasana. PIN-koodi on estetty. PUK-koodi on pyydetty.</string>
   <string name="puk_unlocked">SIM-korttisi esto on purettu. Puhelimen lukitusta poistetaan...</string>
   <string name="radio_off_during_emergency_call">Lentokonetilaa ei voi ottaa käyttöön hätäpuhelun aikana.</string>
@@ -1313,7 +1301,9 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="select_webview_provider_title">WebView-käyttöönotto</string>
   <string name="select_webview_provider_toast_text">Tämä valinta ei ole enää saatavilla. Yritä uudestaan.</string>
   <string name="send_button">Lähetä</string>
+  <string name="send_keepalive">SendKeepAlive</string>
   <string name="send_keepalive_title">Lähetä tarkistusviesti</string>
+  <string name="set_primary">SetPrimary</string>
   <string name="set_primary_summary">Käytetään lähteviin puheluihin</string>
   <string name="set_primary_title">Aseta ensisijaiseksi tiliksi</string>
   <string name="set_smsc_address_error">"Can't set number"</string>
@@ -1321,7 +1311,6 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="set_smsc_address_title">Short Message service center (SMSC)</string>
   <string name="set_time_period">Set time period</string>
   <string name="settings_label">Verkkoasetukset</string>
-  <string name="settings_package">com.android.settings</string>
   <string name="show_all_anrs">Näytä kaikki ANR:t</string>
   <string name="show_all_anrs_summary">Näytä Sovellus ei vastaa -ikkuna taustasovell.</string>
   <string name="show_hw_layers_updates">Näytä laitt.tason päiv.</string>
@@ -1483,6 +1472,7 @@ Seuraava jakso alkaa %2$d päivän kuluttua (%3$s)"</string>
   <string name="title_convert_fbe">Muunnetaan tiedostopohjaiseksi salaukseksi</string>
   <string name="track_frame_time">Profiilin GPU-hahmonnus</string>
   <string name="transition_animation_scale_title">Siirtymä</string>
+  <string name="transport">Protokolla</string>
   <string name="transport_title">Siirtotyyppi</string>
   <string name="tts_default_lang_summary">Asettaa puhutulle tekstille kielikohtaisen äänen</string>
   <string name="tts_default_lang_title">Kieli</string>
@@ -1519,8 +1509,6 @@ Seuraava jakso alkaa %2$d päivän kuluttua (%3$s)"</string>
   <string name="turnover_mute_title">Mykistä soittoääni kääntämällä</string>
   <string name="undefined">Ei mitään</string>
   <string name="unknown">Tuntematon</string>
-  <string name="unlock_failed">Verkon lukituksen poistopyyntö epäonnistui.</string>
-  <string name="unlock_success">Verkon lukituksen poisto onnistui.</string>
   <string name="updating_fdn_contact">Päivitetään sallittua numeroa…</string>
   <string name="updating_settings">Päivitetään asetuksia...</string>
   <string name="updating_title">Puheluasetukset</string>
@@ -1570,7 +1558,6 @@ Ota yhteyttä operaattoriin, jos ongelma jatkuu."</string>
   <string name="voicemail_settings_number_label">Puhelinvastaajan numero</string>
   <string name="voicemail_settings_number_title">Puhelinvastaajan numero</string>
   <string name="voicemail_settings_with_label">Puhelinvastaaja (%s)</string>
-  <string name="voicemail_visual_voicemail_key">voicemail_visual_voicemail_key</string>
   <string name="voicemail_visual_voicemail_switch_title">Visuaalinen puhelinvastaaja</string>
   <string name="voip_setting">VoIP asetukset</string>
   <string name="volte_provision_notification_activate">Aktivoi</string>

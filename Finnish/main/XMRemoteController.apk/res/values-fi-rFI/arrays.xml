@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="ac_mode_array">
-        <item>Cooling</item>
-        <item>Heating</item>
-        <item>Dehumidifying</item>
-        <item>Fan</item>
+        <item>Jäähdytys</item>
+        <item>Lämmitys</item>
+        <item>Kosteudenpoisto</item>
+        <item>Tuuletin</item>
     </string-array>
     <string-array name="answer">
-        <item>Your device can only pair with Mi TV, Mi Box, and a handful of other Android devices using Wi-Fi.</item>
-        <item>"Make sure you've selected the right A/C model in the pairing process. Follow the prompts on your device until the pairing is complete."</item>
-        <item>No. Currently you can use Mi 4, Mi 4c, and Redmi Note 2 as IR remotes.</item>
+        <item>Laitteesi voi parittaa vain Mi TV, Mi Box, ja kourallisen muiden Android-laitteiden kanssa käyttäen Wi-Fi-yhteyttä.</item>
+        <item>Varmista, että olet valinnut oikean A/C mallin paritusprosessissa. Seuraa laitteessasi olevia ilmoituksia, kunnes paritus on valmis.</item>
+        <item>Et. Tällä hetkellä voit käyttää Mi 4, Mi 4c, ja Redmi Note 2 laitteita infrapunakaukosäätimenä.</item>
     </string-array>
     <string-array name="epg_week_tab">
-        <item>Sun</item>
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
+        <item>Su</item>
+        <item>Ma</item>
+        <item>Ti</item>
+        <item>Ke</item>
+        <item>To</item>
+        <item>Pe</item>
+        <item>La</item>
     </string-array>
     <string-array name="question">
-        <item>Why does my phone keep searching for wireless devices?</item>
-        <item>"Why can I only turn on my A/C and can't turn it off?"</item>
-        <item>Can I use Mi 3, Mi 2, and Redmi as an IR remote?</item>
+        <item>Miksi puhelimeni etsii jatkuvasti langattomia laitteita?</item>
+        <item>Miksi voin vain käynnistää ilmastointilaitteeni, mutta en voi sammuttaa sitä?</item>
+        <item>Voinko käyttää Mi 3, Mi 2, ja Redmi laitteita infrapunakaukosäätimenä?</item>
     </string-array>
     <string-array name="assistant_tab">
         <item>视频</item>
@@ -60,6 +60,17 @@
         <item>卫视</item>
         <item>央视</item>
     </string-array>
+    <string-array name="epg_default_hot_channels">
+        <item>湖南卫视</item>
+        <item>CCTV-6</item>
+        <item>浙江卫视</item>
+        <item>CCTV-5</item>
+        <item>CCTV-3</item>
+        <item>东方卫视</item>
+        <item>安徽卫视</item>
+        <item>北京卫视</item>
+        <item>广东卫视</item>
+    </string-array>
     <string-array name="epg_program_genre">
         <item></item>
         <item></item>
@@ -89,38 +100,6 @@
         <item>少儿节目</item>
         <item>新闻节目</item>
         <item>生活节目</item>
-    </string-array>
-    <string-array name="passport_alphabet_table">
-        <item>\#</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>Å</item>
-        <item>Ä</item>
-        <item>Ö</item>
     </string-array>
     <string-array name="user_notification_tab">
         <item>\@与我相关</item>

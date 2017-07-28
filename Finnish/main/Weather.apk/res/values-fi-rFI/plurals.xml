@@ -20,6 +20,18 @@
         <item quantity="other">Selkeä</item>
         <item quantity="one">Selkeä</item>
     </plurals>
+    <plurals name="total_voted_num_text">
+        <item quantity="other">%1$s henkilöä on äänestänyt</item>
+        <item quantity="one">%1$s henkilö on äänestänyt</item>
+    </plurals>
+    <plurals name="yes_vote_num">
+        <item quantity="other"> | %1$s henkilöä</item>
+        <item quantity="one"> | %1$s henkilö</item>
+    </plurals>
+    <plurals name="no_vote_num">
+        <item quantity="other">%1$s henkilöä | </item>
+        <item quantity="one">%1$s henkilö | </item>
+    </plurals>
     <plurals name="feedback_result_interval_time_too_short">
         <item quantity="other">%1$s sekuntia palautteen jälkeen</item>
         <item quantity="one">%1$s sekuntia palautteen jälkeen</item>

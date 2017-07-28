@@ -88,7 +88,7 @@
     </string-array>
     <string-array name="indices_uv_level">
         <item>Heikko</item>
-        <item>Keskinkertainen</item>
+        <item>Kohtalainen</item>
         <item>Voimakas</item>
     </string-array>
     <string-array name="indices_sport">
@@ -118,21 +118,6 @@
         <item>SW</item>
         <item>W</item>
         <item>NW</item>
-    </string-array>
-    <string-array name="wind_power">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
     </string-array>
     <string-array name="aqi_value">
         <item>Hyvä</item>
