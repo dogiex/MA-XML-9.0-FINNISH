@@ -2907,7 +2907,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="privacy_gallery">Kuvat</string>
   <string name="privacy_mms">Viestit</string>
   <string name="privacy_mode_dialog_message">Piilotetaanko viestit, muistiot, kuvat, asetukset ja saapuvat puhelut?</string>
-  <string name="privacy_mode_dialog_title">Vieras-tila</string>
+  <string name="privacy_mode_dialog_title">Vierastila</string>
   <string name="privacy_mode_enable_sum">Piilotetaan viestit, muistiot, kuvat, asetukset ja saapuvat puhelut</string>
   <string name="privacy_mode_enable_title">Vierastila</string>
   <string name="privacy_notes">Muistiinpanot</string>

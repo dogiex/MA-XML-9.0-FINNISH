@@ -136,7 +136,7 @@
   <string name="winter_begins">立冬</string>
   <string name="winter_solstice">冬至</string>
   <string name="yellow_page_module_sms_sent">Tekstiviesti lähetetty</string>
-  <string name="yellow_page_sms_disabled_in_privacy_mode">Vieras-tilassa ei voi lähettää viestejä</string>
+  <string name="yellow_page_sms_disabled_in_privacy_mode">Vierastilassa ei voi lähettää viestejä</string>
   <string name="yellow_page_sms_send_failed">Tekstiviestin lähettäminen epäonnistui</string>
   <string name="yellow_page_sms_sending">Lähetetään…</string>
   <string name="yellow_page_unable_send_sms">Tekstiviestiä ei voi lähettää</string>

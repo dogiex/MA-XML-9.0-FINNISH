@@ -115,9 +115,9 @@
   <string name="files_backup_info">Kaikki tiedostot SD-muistikortilla (mukaanlukien kuvat, musiikit, videot, sovelluksien tiedot, jne.)</string>
   <string name="findlost_contact">Palauta yhteystiedot</string>
   <string name="findlost_contact_online">Palauta yhteystiedot Mi Pilvestä</string>
-  <string name="guarded_mode_dialog_backup_message">Varmuuskopioita ei sallita Vieras-tilassa.</string>
-  <string name="guarded_mode_dialog_title">Olet Vieras-tilassa</string>
-  <string name="guarded_mode_dialog_transfer_message">Mi Siirtäjää ei voi käyttää Vieras-tilassa.</string>
+  <string name="guarded_mode_dialog_backup_message">Varmuuskopioita ei sallita Vierastilassa.</string>
+  <string name="guarded_mode_dialog_title">Olet Vierastilassa</string>
+  <string name="guarded_mode_dialog_transfer_message">Mi Siirtäjää ei voi käyttää Vierastilassa.</string>
   <string name="import_from_xiaomi_account_hint1">"1.Lataa Mi Talk -sovellus ja kirjaudu sisään.
 http://www.miliao.com
 

@@ -49,7 +49,7 @@
   <string name="toast_added_to_list">Lisättiin listalle</string>
   <string name="toast_added_to_presets">Lisättiin esiasetuksiin</string>
   <string name="toast_fm_error_startfailed">Nauhoitusvirhe. Toinen sovellus saattaa käyttää nauhoitus -toimintoa.</string>
-  <string name="toast_fm_recorder_access_error">Ei voi nauhoittaa Vieras-tilassa</string>
+  <string name="toast_fm_recorder_access_error">Ei voi nauhoittaa Vierastilassa</string>
   <string name="toast_fm_recorder_internal_error">FM nauhoitusvirhe</string>
   <string name="toast_fm_recorder_storage_full">Nauhoitusta ei voi jatkaa: tallennustilaa ei ole tarpeeksi</string>
   <string name="toast_fm_seeking">Viritetään…</string>
