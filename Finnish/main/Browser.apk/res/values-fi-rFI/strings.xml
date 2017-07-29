@@ -167,14 +167,12 @@
   <string name="color_picker_dialog_title">Valitse väri</string>
   <string name="color_picker_hue">Sävy</string>
   <string name="color_picker_saturation">Kylläisyys</string>
-  <string name="color_picker_value">Arvo</string>
   <string name="comment_app_menu">Kommentoi</string>
   <string name="comment_description">Kommentoi</string>
   <string name="comment_hint">Kommentoi</string>
   <string name="comment_menu">Kommentoi</string>
   <string name="common_use_phrase_bottom_bar_text_next">Seuraava</string>
   <string name="common_use_phrase_bottom_bar_text_previous">Edellinen</string>
-  <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
   <string name="config_webSettingsDefaultTextEncoding">UTF-8</string>
   <string name="contextmenu_add_contact">Lisää yhteystieto</string>
   <string name="contextmenu_copy">Kopioi</string>

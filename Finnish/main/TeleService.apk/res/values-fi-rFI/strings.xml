@@ -89,7 +89,6 @@
   <string name="administrative_disable">Järjestelmänhallinta pois käytöstä</string>
   <string name="administrative_enable">Järjestelmänhallinta käytössä</string>
   <string name="advanced_settings">Lisäasetukset</string>
-  <string name="advanced_settings_container">lisäasetuksien säilö</string>
   <string name="advanced_settings_hide">▽ Piilota kaikki koskettamalla</string>
   <string name="advanced_settings_show">▷ Näytä kaikki koskettamalla</string>
   <string name="advertisements_disable">Mainokset pois käytöstä</string>
@@ -1021,7 +1020,6 @@ Yritä uudelleen tai pyydä lisäohjeita asiakaspalvelusta."</string>
   <string name="other_settings_category">Muu</string>
   <string name="overlay_display_devices_title">Simuloi toissijaiset näytöt</string>
   <string name="overseas_roaming_setting">Data roaming-tila</string>
-  <string name="password">Salasana</string>
   <string name="password_changed">Salasana vaihdettu</string>
   <string name="password_title">Salasana</string>
   <string name="path_answer_state_setting_title">Järjestelmäsovellukset/Puhelin/Saapuvan puhelun asetukset</string>
@@ -1104,7 +1102,6 @@ Laitteesi lukitaan automaattisesti jos yrityksesi menee vielä väärin"</string
   <string name="pin_progress_unlock_icc">Avataan SIM-kortin lukitusta…</string>
   <string name="pointer_location">Osoittimen sijainti</string>
   <string name="pointer_location_summary">Näytön peittokuva näyttää nykyiset kosketustiedot</string>
-  <string name="port">Portti</string>
   <string name="port_title">Porttinumero</string>
   <string name="power_charging">%1$s – %2$s</string>
   <string name="power_charging_duration">%1$s – %2$s kunnes täynnä</string>
@@ -1301,9 +1298,7 @@ SIM-korttisi lukitaan seuraavan epäonnistuneen yrityksen jälkeen."</string>
   <string name="select_webview_provider_title">WebView-käyttöönotto</string>
   <string name="select_webview_provider_toast_text">Tämä valinta ei ole enää saatavilla. Yritä uudestaan.</string>
   <string name="send_button">Lähetä</string>
-  <string name="send_keepalive">SendKeepAlive</string>
   <string name="send_keepalive_title">Lähetä tarkistusviesti</string>
-  <string name="set_primary">SetPrimary</string>
   <string name="set_primary_summary">Käytetään lähteviin puheluihin</string>
   <string name="set_primary_title">Aseta ensisijaiseksi tiliksi</string>
   <string name="set_smsc_address_error">"Can't set number"</string>
@@ -1472,7 +1467,6 @@ Seuraava jakso alkaa %2$d päivän kuluttua (%3$s)"</string>
   <string name="title_convert_fbe">Muunnetaan tiedostopohjaiseksi salaukseksi</string>
   <string name="track_frame_time">Profiilin GPU-hahmonnus</string>
   <string name="transition_animation_scale_title">Siirtymä</string>
-  <string name="transport">Protokolla</string>
   <string name="transport_title">Siirtotyyppi</string>
   <string name="tts_default_lang_summary">Asettaa puhutulle tekstille kielikohtaisen äänen</string>
   <string name="tts_default_lang_title">Kieli</string>
