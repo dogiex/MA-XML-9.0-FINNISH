@@ -31,7 +31,7 @@
   <string name="cloud_app_current_device">Nykyinen laite</string>
   <string name="cloud_app_dont_restore">Asenna uutena laitteena</string>
   <string name="cloud_app_no_data">Ei varmuuskopioita</string>
-  <string name="cloud_app_no_network">Verkkoon ei saada yhteyttä</string>
+  <string name="cloud_app_no_network">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="cloud_app_other_devices">Muut laitteet</string>
   <string name="cloud_app_restore_app_and_data">Asenna laitteesi</string>
   <string name="cloud_app_restore_data">Henkilökohtaiset tiedot ja aikaisemmin asennetut sovellukset ilmestyy laitteeseesi automaattisesti</string>
@@ -50,7 +50,7 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="cloud_back_up_frequence_short">Joka päivä</string>
   <string name="cloud_back_up_interval_long">7 päivää</string>
   <string name="cloud_back_up_interval_short">Joka päivä</string>
-  <string name="cloud_back_up_no_network_warn">Wi-Fi-verkkoon ei saada yhteyttä</string>
+  <string name="cloud_back_up_no_network_warn">Wi-Fi-Verkkoyhteyttä ei voi muodostaa</string>
   <string name="cloud_back_up_ok_btn">OK</string>
   <string name="cloud_back_up_opening">Odota hetki…</string>
   <string name="cloud_back_up_share_activity_confirm">Päivitä</string>

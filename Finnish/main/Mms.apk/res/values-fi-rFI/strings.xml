@@ -204,7 +204,7 @@
   <string name="hybrid_data_error">Tapahtui virhe</string>
   <string name="hybrid_locating_fail">Sijaintiasi ei löydy</string>
   <string name="hybrid_network_access_denied">Pääsy verkkoon evätty</string>
-  <string name="hybrid_network_unavaliable">Verkkoon ei saada yhteyttä</string>
+  <string name="hybrid_network_unavaliable">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="hybrid_pull_to_refresh_pull_label">Päivitä vetämällä…</string>
   <string name="hybrid_pull_to_refresh_refreshing_label">Odota hetki…</string>
   <string name="hybrid_pull_to_refresh_release_label">Päivitä päästämällä irti…</string>
@@ -297,7 +297,7 @@
   <string name="mx_activate_int_hint_sim_change">Näyttää siltä, että olet vaihtanut SIM-kortteja. Lähtevä tekstiviesti saatetaan vaatia Mi Viestin uudelleenaktivoimista varten. Operaattorisi veloittaa sinua tästä viestistä.</string>
   <string name="mx_activate_network_allow_notice">Tämä palvelu vaatii pääsyn mobiilidataan toimiakseen normaalisti.</string>
   <string name="mx_activate_status_desc_activating_now">Aktivoidaan…</string>
-  <string name="mx_activate_status_desc_check_net_connection">Verkkoon ei saatu yhteyttä</string>
+  <string name="mx_activate_status_desc_check_net_connection">Verkkoyhteyttä ei voitu muodostaa</string>
   <string name="mx_activate_status_desc_fail">Mi Viestin aktivointi epäonnistui</string>
   <string name="mx_activate_status_desc_prepare_sending_sms">Lähetetään aktivointiviesti…</string>
   <string name="mx_activate_status_desc_query_activte_info">Tarkistetaan SIM-kortin tietoa…</string>

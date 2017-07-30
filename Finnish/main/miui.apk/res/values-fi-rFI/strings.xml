@@ -15,7 +15,7 @@
   <string name="am">ap.</string>
   <string name="birthday">Syntymäpäivä</string>
   <string name="check_phone_error_title">Synkronointi ei käytössä</string>
-  <string name="check_phone_io_error">Verkkoon ei saada yhteyttä</string>
+  <string name="check_phone_io_error">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="chinese_day_1">初一</string>
   <string name="chinese_day_10">初十</string>
   <string name="chinese_day_11">十一</string>
@@ -462,7 +462,7 @@
   <string name="name">Nimi</string>
   <string name="nickname">Lempinimi</string>
   <string name="night">ip.</string>
-  <string name="no_network">Verkkoon ei saada yhteyttä</string>
+  <string name="no_network">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="no_sim">SIM-korttia ei tunnistettu.</string>
   <string name="noon">ip.</string>
   <string name="note">Muistiinpano</string>

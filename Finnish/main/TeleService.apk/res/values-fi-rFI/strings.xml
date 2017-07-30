@@ -715,7 +715,7 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="general_news_settings">Yleiset uutiset</string>
   <string name="general_setting">Asetukset</string>
   <string name="get_pin2">Anna PIN2-koodi</string>
-  <string name="get_smsc_address_error">Verkkoon ei saada yhteyttä.</string>
+  <string name="get_smsc_address_error">Verkkoyhteyttä ei voi muodostaa.</string>
   <string name="get_smsc_address_timeout">Yhteys aikakatkaistiin</string>
   <string name="goPrivate">muuta yksityiseksi</string>
   <string name="go_to_virtual_sim_title">Virtuaalinen SIM-kortti</string>

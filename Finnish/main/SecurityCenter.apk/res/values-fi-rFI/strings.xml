@@ -107,7 +107,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="antivirus_privacy_dialog_title">Tietosuojakäytäntö</string>
   <string name="antivirus_sec_network_unavailable">Tietoturvasovellus ei voi päivittää, koska olet rajoittanut internetyhteyttä. Sallitaanko Tietoturvan yhdistää internetiin?</string>
   <string name="antivirus_toast_already_update">Ajantasalla</string>
-  <string name="antivirus_toast_network_unavailable">Verkkoon ei saatu yhteyttä</string>
+  <string name="antivirus_toast_network_unavailable">Verkkoyhteyttä ei voitu muodostaa</string>
   <string name="antivirus_toast_update_failed">Päivittäminen epäonnistui</string>
   <string name="antivirus_toast_update_success">Päivitettiin onnistuneesti</string>
   <string name="antivirus_toast_updating">Päivitetään...</string>
@@ -1930,7 +1930,7 @@ Tässä ohjeet:
   <string name="toast_keyword_exist">Avainsana lisätty</string>
   <string name="toast_keyword_invalid">Virheellinen avainsana</string>
   <string name="toast_lockscreen_glogin_empty_password">Salasana vaaditaan</string>
-  <string name="toast_network_eror">Verkkoon ei saada yhteyttä</string>
+  <string name="toast_network_eror">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="toast_network_switch">Tämä sovellus voi yhdistää internetiin</string>
   <string name="toast_reject_sms_read_permission_success">Asetettu onnistuneesti</string>
   <string name="toast_removed_from_virus_white_list">Poistettiin poikkeuksista. Kohde skannataan seuraavalla kerralla.</string>

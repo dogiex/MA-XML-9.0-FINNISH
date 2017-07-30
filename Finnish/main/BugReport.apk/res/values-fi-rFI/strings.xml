@@ -50,7 +50,7 @@
   <string name="err_type_wifi">Wi-Fi</string>
   <string name="err_type_xiaomi_family">Mi Koti</string>
   <string name="err_type_xiaomi_service">Asiakaspalvelu</string>
-  <string name="error_no_connection">Verkkoon ei saada yhteyttä</string>
+  <string name="error_no_connection">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="feedback_bug_status_change_notification_desc">%1$s ongelma \"%2$s\"</string>
   <string name="feedback_choose_module">Valitse kohde</string>
   <string name="feedback_choose_module_hint">Vaadittu</string>
@@ -129,7 +129,7 @@
   <string name="michat_cant_join_artificial">Yhteys epäonnistui verkkovirheen takia</string>
   <string name="michat_check_network">Tarkista verkkoasetukset</string>
   <string name="michat_close_text">Chat loppui</string>
-  <string name="michat_comment_net_error">Verkkoon ei saada yhteyttä, yritä myöhemmin uudestaan</string>
+  <string name="michat_comment_net_error">Verkkoyhteyttä ei voi muodostaa, yritä myöhemmin uudestaan</string>
   <string name="michat_comment_submit">Arvioi ja siirry takaisin</string>
   <string name="michat_comment_thx">Kiitos palautteestasi!</string>
   <string name="michat_customer_join">Liity chattiin</string>
@@ -150,7 +150,7 @@
   <string name="michat_lose_artificial">Tapahtui verkkovirhe, poistuit keskustelusta</string>
   <string name="michat_menu_copy_text">Kopioi</string>
   <string name="michat_message_copy_info">Kopioitu leikepöydälle</string>
-  <string name="michat_message_error_network">Verkkoon ei saatu yhteyttä</string>
+  <string name="michat_message_error_network">Verkkoyhteyttä ei voitu muodostaa</string>
   <string name="michat_message_join_again">Hienoa, tulit takaisin!</string>
   <string name="michat_message_robot_welcome">Nimeni on Mi Bunny. Olen online-tuen robotti.</string>
   <string name="michat_message_send_error_network">Lähettäminen epäonnistui, tarkista verkkoyhteys</string>
@@ -201,7 +201,7 @@
   <string name="module_tools">Järjestelmän työkalut</string>
   <string name="modules">Valitse</string>
   <string name="multi_graph_more">Yhteensä: %d</string>
-  <string name="network_err">Verkkoon ei saada yhteyttä.</string>
+  <string name="network_err">Verkkoyhteyttä ei voi muodostaa.</string>
   <string name="network_errorbtntip_custom">Yritä uudestaan</string>
   <string name="network_errorbtntip_login">Kirjaudu</string>
   <string name="network_errorbtntip_noconnection">Tarkista verkon asetukset</string>
@@ -211,14 +211,14 @@
   <string name="network_errorbtntip_unknow">Yritä uudestaan</string>
   <string name="network_errortip_custom">Customization error</string>
   <string name="network_errortip_login">Kirjaudu ensin</string>
-  <string name="network_errortip_noconnection">Verkkoon ei saada yhteyttä, tarkasta verkon asetukset</string>
+  <string name="network_errortip_noconnection">Verkkoyhteyttä ei voi muodostaa, tarkasta verkon asetukset</string>
   <string name="network_errortip_parse">Tapahtui virhe</string>
   <string name="network_errortip_server">Tapahtui palvelinvirhe, yritä myöhemmin uudestaan</string>
   <string name="network_errortip_timeout">Yhteyden aikakatkaisu, yritä myöhemmin uudestaan</string>
   <string name="network_errortip_unknow">Yritämme korjata sen…</string>
   <string name="network_unavailable_dialog_button_ok">OK</string>
   <string name="network_unavailable_dialog_content">Raporttisi lähetetään, kun sinulla on yhteys internetiin.</string>
-  <string name="network_unavailable_dialog_title">Verkkoon ei saada yhteyttä</string>
+  <string name="network_unavailable_dialog_title">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="non_system_app_select">Ladatut sovellukset</string>
   <string name="nothing">--</string>
   <string name="open_feedback_main">Lisää</string>
@@ -269,7 +269,7 @@
   <string name="title_system_app">MIUI sovellukset</string>
   <string name="toast_description_required">Sinun täytyy kirjoittaa selitys</string>
   <string name="toast_feedback_collect_store">Kerätään lokeja…</string>
-  <string name="toast_feedback_network_unavailable">Verkkoon ei saada yhteyttä</string>
+  <string name="toast_feedback_network_unavailable">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="toast_feedback_pending_wlan">Raportit lähetetään, kun olet yhteydessä Wi-Fi verkkoon</string>
   <string name="toast_feedback_submitted">Raportti lähetetty</string>
   <string name="toast_feedback_submitting">Lähetetään…</string>
@@ -277,7 +277,7 @@
   <string name="toast_fill_brackets">Raportistasi puuttuu joitain tietoja</string>
   <string name="toast_log_not_exists">Vaadittu lokitiedosto on poistettu tai sitä ei ole olemassa</string>
   <string name="toast_module_required">Valitse kohde</string>
-  <string name="toast_network_unavailable">Lähetys epäonnistui. Verkkoon ei saada yhteyttä.</string>
+  <string name="toast_network_unavailable">Lähetys epäonnistui. Verkkoyhteyttä ei voi muodostaa.</string>
   <string name="toast_pending_log_collection">Kerätään vieläkin lokeja…</string>
   <string name="toast_pic_not_exists">Välimuistissa oleva kuva on poistettu</string>
   <string name="toast_post_deleted">Tätä otsikkoa ei ole olemassa, se on poistettu, tai muokattu.</string>

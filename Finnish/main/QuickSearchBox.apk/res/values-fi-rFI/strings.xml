@@ -51,7 +51,7 @@ Käytä Selaimen asetuksia selainhistorian tyhjentämiseen."</string>
   <string name="menu_help">Apua</string>
   <string name="menu_settings">Haku-asetukset</string>
   <string name="mina_name">Direct sovellukset</string>
-  <string name="network_unavailable">Verkkoon ei saada yhteyttä</string>
+  <string name="network_unavailable">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="permission_prompt_detail">Hae elokuvia, kirjoja, musiikkia ja muuta.</string>
   <string name="permission_prompt_start">Salli</string>
   <string name="permission_prompt_started_info">Olet sallinut järjestelmän laajuisen haun</string>

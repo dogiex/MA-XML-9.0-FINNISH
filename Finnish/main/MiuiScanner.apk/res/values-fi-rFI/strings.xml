@@ -197,7 +197,7 @@
   <string name="com_taobao_tae_sdk_loading_progress_message">Ladataan</string>
   <string name="com_taobao_tae_sdk_login_progress_message">Laskeudutaan</string>
   <string name="com_taobao_tae_sdk_logout_fail_message">Uloskirjautuminen epäonnistui</string>
-  <string name="com_taobao_tae_sdk_network_not_available_message">Verkkoon ei saada yhteyttä</string>
+  <string name="com_taobao_tae_sdk_network_not_available_message">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="com_taobao_tae_sdk_qr_login_title_bar_text">Taobao tilin kirjautuminen</string>
   <string name="com_taobao_tae_sdk_system_exception">Järjestelmän poikkeus</string>
   <string name="com_taobao_tae_sdk_trade_confirm_progress_message">Vaihtoa vahvistetaan</string>
@@ -297,7 +297,7 @@
   <string name="namecard_title">Aseta kortti kehyksen sisälle</string>
   <string name="namecard_vendor_info">Teknisen tuen tarjoaa CamCard</string>
   <string name="nickname">Lempinimi:</string>
-  <string name="no_network">Verkkoon ei saada yhteyttä</string>
+  <string name="no_network">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="no_storage">Asenna SD-kortti ennen Kameran käyttöä</string>
   <string name="not_insert_contact">Yhteystietoa ei voi lisätä</string>
   <string name="not_recommend_access_web_url">Mene silti</string>

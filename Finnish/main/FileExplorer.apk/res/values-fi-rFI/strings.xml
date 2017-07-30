@@ -336,7 +336,7 @@
   <string name="need_login">Kirjaudu ensin sisään</string>
   <string name="need_read_storage_permission">Tiedostoselain tarvitsee toimiakseen käyttöoikeuden käyttää laitteesi sisäistä tallennustilaa.</string>
   <string name="network_dialog_checkbox_tip">Älä näytä uudelleen</string>
-  <string name="network_not_available">Verkkoon ei saada yhteyttä</string>
+  <string name="network_not_available">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="network_spent_reminding">Käytetäänkö mobiilidatayhteyttä tämän sivun katsomiseen? Operaattorisi veloittaa sinua normaalisti mobiilidatan käytöstä.</string>
   <string name="network_spent_reminding_title">Datankäyttöilmoitus</string>
   <string name="new_comments">Uusia kommentteja</string>
@@ -587,8 +587,8 @@
   <string name="share_to">Jaa käyttäen…</string>
   <string name="share_topic_desc">Lähetä videoita voittaaksesi palkintoja</string>
   <string name="share_topic_title">Katson #%1$s#, katso sinäkin!"</string>
-  <string name="shared_sticker_network_permission_tip">Verkkoon ei saada yhteyttä. Tarkista verkkoyhteytesi ja yritä uudelleen.</string>
-  <string name="shared_sticker_page_no_file">Verkkoon ei saada yhteyttä. Tarkista verkkoyhteytesi ja yritä uudelleen.</string>
+  <string name="shared_sticker_network_permission_tip">Verkkoyhteyttä ei voi muodostaa. Tarkista verkkoyhteytesi ja yritä uudelleen.</string>
+  <string name="shared_sticker_page_no_file">Verkkoyhteyttä ei voi muodostaa. Tarkista verkkoyhteytesi ja yritä uudelleen.</string>
   <string name="shared_sticker_str">Viimeaikainen</string>
   <string name="shared_sticker_suffix">Tarra kohteessa %s</string>
   <string name="shared_sticker_use_tip">"Voit lähettää Keskusteluista tallennettuja tarroja samalla tavalla, kun lähetät kuvia.

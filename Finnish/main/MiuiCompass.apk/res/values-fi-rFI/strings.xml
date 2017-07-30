@@ -20,7 +20,7 @@
   <string name="calibrate_tip">Vieritä palloa ympyrän ympäri kallistamalla laitettasi</string>
   <string name="calibrate_title">Kalibroi kompassi</string>
   <string name="cannot_get_location">--</string>
-  <string name="dialog_body_no_network">Verkkoon ei saada yhteyttä</string>
+  <string name="dialog_body_no_network">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="dialog_calibrat_altitude">Kalibroidaan…</string>
   <string name="dialog_title_no_network">Ota Verkko käyttöön</string>
   <string name="direction_east">E</string>

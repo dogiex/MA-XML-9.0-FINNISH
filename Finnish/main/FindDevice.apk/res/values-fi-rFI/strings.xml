@@ -58,7 +58,7 @@ Ota yhteyttä myyjääsi lisätietoja varten."</string>
   <string name="unlock_error_abort">Peruutettu käyttäjän toimesta</string>
   <string name="unlock_error_device_id">Laitteen ID-numeroa ei saatu</string>
   <string name="unlock_error_interrupted">Keskeytetty</string>
-  <string name="unlock_error_network">Verkkoon ei saada yhteyttä</string>
+  <string name="unlock_error_network">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="unlock_error_passport_sdk_timeout">Mi Tilin SDK ei vastaa</string>
   <string name="unlock_error_rpc">RPC virhe</string>
   <string name="unlock_error_server">Palvelinvirhe</string>

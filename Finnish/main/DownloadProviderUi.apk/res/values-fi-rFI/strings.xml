@@ -196,8 +196,8 @@
   <string name="mi_money">Mi Krediitit</string>
   <string name="mi_money_">Mi Krediitit</string>
   <string name="missing_title">&lt;Tuntematon&gt;</string>
-  <string name="net_error">Verkkoon ei saada yhteyttä, yritä uudelleen</string>
-  <string name="network_error">Verkkoon ei saada yhteyttä</string>
+  <string name="net_error">Verkkoyhteyttä ei voi muodostaa, yritä uudelleen</string>
+  <string name="network_error">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="new_add">Uusi lataus</string>
   <string name="new_add_bt">Lisää torrent-tiedosto</string>
   <string name="no_downloads">Ei latauksia.</string>
@@ -267,7 +267,7 @@
   <string name="remove_download">Poista</string>
   <string name="restart_download">Käynnistä uudelleen</string>
   <string name="resume_download">Jatka</string>
-  <string name="retry_after_network_available">Verkkoon ei saada yhteyttä. Tarkista verkkoyhteytesi ja yritä uudelleen.</string>
+  <string name="retry_after_network_available">Verkkoyhteyttä ei voi muodostaa. Tarkista verkkoyhteytesi ja yritä uudelleen.</string>
   <string name="retry_download">Yritä uudelleen</string>
   <string name="revert_default">Palauta oletusasetukset</string>
   <string name="revert_download_path">Käytetäänkö latauksille oletussijaintia?</string>

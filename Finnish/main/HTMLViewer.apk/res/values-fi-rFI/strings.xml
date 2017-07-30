@@ -5,7 +5,7 @@
   <string name="app_name_which_call">Sovellus: %s</string>
   <string name="app_version_which_call">Sovellusversio: %s</string>
   <string name="ime_privacy_policy">Valitse näppäimistö</string>
-  <string name="license_host_unreachable">Verkkoon ei saada yhteyttä. Nähdäksesi tämän tiedon nyt, mene %s toisella yhdistetyllä laitteella.</string>
+  <string name="license_host_unreachable">Verkkoyhteyttä ei voi muodostaa. Nähdäksesi tämän tiedon nyt, mene %s toisella yhdistetyllä laitteella.</string>
   <string name="loading">Odota hetki…</string>
   <string name="mibi_license">Mi Krediitin Käyttöehdot</string>
   <string name="open_wifi_connect_summary">Napauta nähdäksesi tiedot.</string>
@@ -20,6 +20,6 @@
   <string name="settings_license_activity_unavailable">Lisenssien lataaminen epäonnistui.</string>
   <string name="settings_safetylegal_activity_loading">Odota hetki…</string>
   <string name="settings_safetylegal_activity_title">Turvallisuustiedot</string>
-  <string name="settings_safetylegal_activity_unreachable">Verkkoon ei saada yhteyttä. Nähdäksesi tämän tiedon nyt, mene %s millä tahansa tietokoneella, jossa on Internetyhteys.</string>
+  <string name="settings_safetylegal_activity_unreachable">Verkkoyhteyttä ei voi muodostaa. Nähdäksesi tämän tiedon nyt, mene %s millä tahansa tietokoneella, jossa on Internetyhteys.</string>
   <string name="settings_safetylegal_title">Turvallisuustiedot</string>
 </resources>

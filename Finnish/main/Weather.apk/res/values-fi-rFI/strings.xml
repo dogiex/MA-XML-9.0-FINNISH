@@ -7,7 +7,7 @@
   <string name="act_set_city_find_side_error">Laitetta ei voitu paikantaa</string>
   <string name="act_weather_find_city_added">Lisätty</string>
   <string name="act_weather_find_city_click_retry">Yritä uudelleen</string>
-  <string name="act_weather_find_city_net_no_good">Verkkoon ei saada yhteyttä.</string>
+  <string name="act_weather_find_city_net_no_good">Verkkoyhteyttä ei voi muodostaa.</string>
   <string name="act_weather_find_city_no_result">Ei tuloksia</string>
   <string name="act_weather_find_city_searching">Etsitään…</string>
   <string name="activity_alert_detail_title"/>
@@ -73,7 +73,7 @@
   <string name="city_exceeded_warning">Voit lisätä enintään 10 kaupunkia</string>
   <string name="commercial">Mainos</string>
   <string name="common_loading_text">Odota hetki…</string>
-  <string name="connect_fail">Verkkoon ei saatu yhteyttä, yritä uudelleen.</string>
+  <string name="connect_fail">Verkkoyhteyttä ei voitu muodostaa, yritä uudelleen.</string>
   <string name="content_desc_activity_main_add_city">Lisää kaupunki</string>
   <string name="content_desc_activity_main_add_city_manage">Kapunkien hallinta</string>
   <string name="content_desc_activity_main_more_settings">Lisäasetukset</string>
@@ -169,8 +169,8 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="minute_rain_pull_down_refresh">Päivitä vetämällä alas</string>
   <string name="minute_rain_refreshing_now">Päivitetään…</string>
   <string name="more_details">Lisää tietoa</string>
-  <string name="network_not_available">Verkkoon ei saada yhteyttä</string>
-  <string name="network_unavailable">Verkkoon ei saada yhteyttä.</string>
+  <string name="network_not_available">Verkkoyhteyttä ei voi muodostaa</string>
+  <string name="network_unavailable">Verkkoyhteyttä ei voi muodostaa.</string>
   <string name="no_data">--</string>
   <string name="no_network_btn">Yritä uudelleen</string>
   <string name="no_vote_ratio">Vastaan %1$s%%</string>
@@ -192,7 +192,7 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="realtime_humidity_title">Suhteellinen kosteus</string>
   <string name="realtime_temperature_no_data">N/A</string>
   <string name="realtime_wind_default_title">Tuuli</string>
-  <string name="refresh_fail">Verkkoon ei saada yhteyttä</string>
+  <string name="refresh_fail">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="retry">Yritä uudelleen</string>
   <string name="search_weather">Sää</string>
   <string name="search_weather_keywords">Lämpötila;Sää ennustus;Sää;Ilmanlaatu;Saaste;Kosteus</string>

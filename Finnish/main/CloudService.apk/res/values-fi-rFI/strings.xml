@@ -72,7 +72,7 @@ Edellinen varmuuskopiointi: %2$s"</string>
   <string name="error_data_in_transfer">Synkronointi valmistuu %s tunnissa.</string>
   <string name="error_data_in_transfer_title">Mi Pilvi ei ole saatavilla</string>
   <string name="error_forbidden">Synkronointi on poistettu käytöstä Mi Tilissäsi olevan ongelman takia.</string>
-  <string name="error_network">Verkkoon ei saada yhteyttä</string>
+  <string name="error_network">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="error_not_acceptable">Synkronointi on poistettu käytöstä.</string>
   <string name="error_server">Palvelinvirhe</string>
   <string name="error_title">Synkronointi epäonnistui</string>
@@ -122,7 +122,7 @@ Jos vaihdat SIM-kortteja, toinen tekstiviesti lähetetään automaattisesti täm
   <string name="i_know">OK</string>
   <string name="input_password_hint">Syötä salasana</string>
   <string name="internet_access_dspt">Tämä sovellus vaatii internet-yhteyden toimiakseen normaalisti.</string>
-  <string name="license_host_unreachable">Verkkoon ei saada yhteyttä. Näytä tiedot nyt menemällä %s.</string>
+  <string name="license_host_unreachable">Verkkoyhteyttä ei voi muodostaa. Näytä tiedot nyt menemällä %s.</string>
   <string name="loading">Odota hetki…</string>
   <string name="loading_hint">Ladataan</string>
   <string name="master_alert_notif_content">Synkronointi epäonnistui</string>

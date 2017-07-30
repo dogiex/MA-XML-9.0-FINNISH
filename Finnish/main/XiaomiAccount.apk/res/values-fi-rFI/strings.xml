@@ -117,7 +117,7 @@
   <string name="find_device_error_password_not_confirmed">Laitteen etsintää ei voi sammuttaa. Syötä Mi Tilisi salasana uudelleen.</string>
   <string name="find_device_error_password_recently_changed">Olet muuttanut salasanasi kolmen päivän sisällä. Laitteen etsintää ei voi sammuttaa juuri nyt turvallisuussyistä.</string>
   <string name="find_device_interrupted">Toiminto keskeytyi, odota minuutti tai kaksi ja yritä uudelleen</string>
-  <string name="find_device_io_error">Verkkoon ei saada yhteyttä</string>
+  <string name="find_device_io_error">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="find_device_locked_account_email" formatted="false">%s, liitetty sähköpostiosoite: %s</string>
   <string name="find_device_locked_account_phone" formatted="false">%s, liitetty puhelinnumero: %s</string>
   <string name="find_device_null_credential_error">Laitteesta ei saada tietoja, ota yhteys Xiaomin asiakaspalveluun</string>
@@ -159,7 +159,7 @@
   <string name="multi_user_not_show_sync_activity_title">Älä ota Mi Pilven synkronointia käyttöön</string>
   <string name="my_device_title">Nykyinen laite</string>
   <string name="no_network_btn">Päivitä</string>
-  <string name="no_network_title">Verkkoon ei saada yhteyttä.</string>
+  <string name="no_network_title">Verkkoyhteyttä ei voi muodostaa.</string>
   <string name="no_response_retry">Ei vastausta, yritä uudelleen.</string>
   <string name="no_sim_card_or_unactivated">SIM-kortti ei ole asennettu tai aktivoitu</string>
   <string name="nobind">Ei yhdistettynä</string>
@@ -217,7 +217,7 @@ Aktivoi tilisi seuraamalla
   <string name="passport_error_invalid_dev_id">Laitteesi ID ei kelpaa.</string>
   <string name="passport_error_invalid_phone_num">Puhelinnumerosi ei kelpaa</string>
   <string name="passport_error_login">Kirjautuminen epäonnistui</string>
-  <string name="passport_error_network">Verkkoon ei saada yhteyttä</string>
+  <string name="passport_error_network">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="passport_error_phone_error">Puhelinnumero ei kelpaa</string>
   <string name="passport_error_server">Palvelinvirhe</string>
   <string name="passport_error_sim_not_ready">SIM-korttia ei löydy</string>
@@ -240,7 +240,7 @@ Aktivoi tilisi seuraamalla
   <string name="passport_input_password_hint">Syötä salasana</string>
   <string name="passport_input_phone_hint">Syötä puhelinnumero</string>
   <string name="passport_input_vcode_hint">Syötä vahvistuskoodi</string>
-  <string name="passport_license_host_unreachable">Verkkoon ei saada yhteyttä. Voit katsoa tämän sivun osoitteessa %s.</string>
+  <string name="passport_license_host_unreachable">Verkkoyhteyttä ei voi muodostaa. Voit katsoa tämän sivun osoitteessa %s.</string>
   <string name="passport_loading">Ladataan…</string>
   <string name="passport_login">Kirjaudu sisään</string>
   <string name="passport_login_failed">Kirjautuminen epäonnistui</string>

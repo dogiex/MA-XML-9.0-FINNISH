@@ -41,7 +41,7 @@
   <string name="check_local_package_wipe_btn">Poista ja päivitä</string>
   <string name="check_local_package_wipe_msg">Olet alentamassa MIUI versioon %s, joka on vanhempi, kuin nykyinen versio. Henkilökohtaiset tiedot poistetaan. Varmuuskopioi kaikki asiat, jotka haluat säästää, ennen kuin aloitat prosessin.</string>
   <string name="check_local_package_wipe_title">Poista tiedot</string>
-  <string name="check_network">Verkkoon ei saada yhteyttä.</string>
+  <string name="check_network">Verkkoyhteyttä ei voi muodostaa.</string>
   <string name="check_new_version">Tarkista</string>
   <string name="clean_up_button">Puhdista</string>
   <string name="comment_publish">Lähetä</string>
@@ -99,7 +99,7 @@
   <string name="miui_BBS">Mene MIUI foorumille</string>
   <string name="miui_summary_has_new_version">"  Päivitys saatavilla  "</string>
   <string name="miui_summary_no_new_version">Päivityksiä ei ole saatavilla</string>
-  <string name="miui_summary_now_version">Verkkoon ei saada yhteyttä</string>
+  <string name="miui_summary_now_version">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="miui_summary_slogan">"  Helpota elämääsi  "</string>
   <string name="miui_summary_updating">"  Päivitetään…  "</string>
   <string name="monthly_build">Kuukausittainen</string>
@@ -235,8 +235,8 @@ Mutta voit ottaa osaa ensi Maanantaina."</string>
   <string name="update_success">Laite päivitetty</string>
   <string name="update_success_reboot_immediately">Päivitys ladattu</string>
   <string name="update_success_title">Laite päivitetty</string>
-  <string name="updater_nonetwork">Verkkoon ei saada yhteyttä</string>
-  <string name="updater_nonetwork_clause">Verkkoon ei saada yhteyttä</string>
+  <string name="updater_nonetwork">Verkkoyhteyttä ei voi muodostaa</string>
+  <string name="updater_nonetwork_clause">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="updater_service_busy_msg">Tämä sovellus käyttää Päivittäjäpalvelua hankkiakseen root käyttöoikeudet vaadittuihin lähdetiedostoihin.</string>
   <string name="updater_service_busy_title">Päivittäjäpalvelu on varattu</string>
   <string name="updater_wait_for_unzip">Puretaan päivityspakettia…</string>
@@ -258,7 +258,7 @@ Yritä kirjautua Mi Tilillesi uudelleen."</string>
   <string name="vote_error4">Lähetit jo palautteen</string>
   <string name="vote_error5">"Jotain meni pieleen
 Palautteen lähettäminen epäonnistui"</string>
-  <string name="vote_error_nonetwork">Verkkoon ei saada yhteyttä</string>
+  <string name="vote_error_nonetwork">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="vote_experience">Foorumin kokemus</string>
   <string name="vote_hint">Hanki 20 kokemuspistettä MIUI foorumiin, kun äänestät</string>
   <string name="vote_join">Äänestetty</string>

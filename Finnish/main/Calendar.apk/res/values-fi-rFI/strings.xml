@@ -341,12 +341,12 @@
   <string name="more_match">更多赛事</string>
   <string name="more_string">+%1$s</string>
   <string name="movie_event_title">电影：</string>
-  <string name="network_not_available">Verkkoon ei saada yhteyttä</string>
+  <string name="network_not_available">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="new_event_dialog_label">Uusi tapahtuma</string>
   <string name="new_event_dialog_option">Uusi tapahtuma</string>
   <string name="no_contact_birthday_hint">Ei tuotavia syntymäpäiviä</string>
   <string name="no_events_hint">Ei tapahtumia</string>
-  <string name="no_network">"Verkkoon ei saatu yhteyttä.
+  <string name="no_network">"Verkkoyhteyttä ei voitu muodostaa.
 Tarkista verkkoyhteys ja yritä uudelleen."</string>
   <string name="no_network_btn">Yritä uudestaan</string>
   <string name="no_title_label">(Ei otsikkoa)</string>

@@ -77,7 +77,7 @@
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="month_report_activity_label">Kuukausittainen raportti</string>
   <string name="month_report_click_reconnect_network">Yritä uudelleen</string>
-  <string name="month_report_disconnect_tip">Verkkoon ei saada yhteyttä</string>
+  <string name="month_report_disconnect_tip">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="month_report_follow_service_negative">Ei kiitos</string>
   <string name="month_report_follow_service_positive">Seuraa</string>
   <string name="month_report_follow_service_summary">Pysy ajantasalla tietoturvauutisista ja tiedoista seuraamalla MIUI:n Tietoturvasovelluksen virallista tiliä.</string>
@@ -94,7 +94,7 @@
   <string name="month_report_warning_dialog_title">Kuukausittainen turvallisuusraportti</string>
   <string name="more_game">Lisää pelejä</string>
   <string name="net_delay_title">Viive</string>
-  <string name="network_not_available">Verkkoon ei saada yhteyttä</string>
+  <string name="network_not_available">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="no_game">Pelejä ei löytynyt</string>
   <string name="no_network_btn">Yritä uudelleen</string>
   <string name="ok_button">OK</string>

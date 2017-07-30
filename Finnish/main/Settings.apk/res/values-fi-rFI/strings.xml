@@ -1678,7 +1678,7 @@ Näkyvissä ei ollut lainkaan hevosia tai minkäänlaisia muita eläimiä. Miehe
   <string name="free_wifi_connect">Yhdistä</string>
   <string name="free_wifi_connect_dialog_summary">%1$s tarjoaa %2$s.</string>
   <string name="free_wifi_connect_dialog_title">Wi-Fi-verkko saatavilla</string>
-  <string name="free_wifi_connect_fail">Verkkoon ei saada yhteyttä. Tarkista yhteys ja yritä uudelleen.</string>
+  <string name="free_wifi_connect_fail">Verkkoyhteyttä ei voi muodostaa. Tarkista yhteys ja yritä uudelleen.</string>
   <string name="free_wifi_connect_fail2">Kirjautuminen epäonnistui. Odota minuutti tai kaksi ja yritä uudelleen.</string>
   <string name="free_wifi_connect_summary">Yhdistä %1$s-verkkoon napauttamalla.</string>
   <string name="free_wifi_connect_title">Wi-Fi saatavilla</string>

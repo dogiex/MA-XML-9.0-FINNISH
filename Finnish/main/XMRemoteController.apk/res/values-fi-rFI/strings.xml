@@ -192,7 +192,7 @@ Kokeile seuraavaa korjataksesi ongelman:
   <string name="common_use">Usein käytetyt</string>
   <string name="confirm">OK</string>
   <string name="confirm_on">﻿OK</string>
-  <string name="connect_to_retry">Verkkoon ei saada yhteyttä. Tarkista yhteytesi ja yritä uudelleen.</string>
+  <string name="connect_to_retry">Verkkoyhteyttä ei voi muodostaa. Tarkista yhteytesi ja yritä uudelleen.</string>
   <string name="connected">Yhdistetty</string>
   <string name="continue_to_add_other_rc">Lisää useampia laitteita</string>
   <string name="control_vol_by_cellphone">Käytä laitetta hallitaksesi äänenvoimakkuutta</string>
@@ -699,7 +699,7 @@ odota hetki toiminnon jälkeen."</string>
   <string name="my_video_title">我拍摄的视频</string>
   <string name="nearby">Lähellä</string>
   <string name="network_diagnosis">Kokeile verkkoa</string>
-  <string name="network_no_connection">Verkkoon ei saada yhteyttä. Tarkista verkkoyhteytesi ja yritä uudelleen.</string>
+  <string name="network_no_connection">Verkkoyhteyttä ei voi muodostaa. Tarkista verkkoyhteytesi ja yritä uudelleen.</string>
   <string name="network_ok">Ongelmia ei havaittu</string>
   <string name="network_unstable">· Sinulla on vakaa yhteys</string>
   <string name="next_remote">Seuraava kaukosäädin</string>
@@ -790,7 +790,7 @@ Aktivoidaksesi tilisi, seuraa linkkiä,
   <string name="passport_error_invalid_dev_id">Laitteesi ID-numero on virheellinen.</string>
   <string name="passport_error_invalid_phone_num">Virheellinen puhelinnumero</string>
   <string name="passport_error_login">Kirjautuminen epäonnistui</string>
-  <string name="passport_error_network">Verkkoon ei saada yhteyttä</string>
+  <string name="passport_error_network">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="passport_error_phone_error">Virheellinen puhelinnumero</string>
   <string name="passport_error_server">Palvelinvirhe</string>
   <string name="passport_error_sim_not_ready">SIM-korttia ei löytynyt</string>
@@ -813,7 +813,7 @@ Aktivoidaksesi tilisi, seuraa linkkiä,
   <string name="passport_input_password_hint">Syötä salasana</string>
   <string name="passport_input_phone_hint">Syötä puhelinnumero</string>
   <string name="passport_input_vcode_hint">Syötä vahvistuskoodi</string>
-  <string name="passport_license_host_unreachable">Verkkoon ei saada yhteyttä. Voit katsoa tämän sivun osoitteessa %s.</string>
+  <string name="passport_license_host_unreachable">Verkkoyhteyttä ei voi muodostaa. Voit katsoa tämän sivun osoitteessa %s.</string>
   <string name="passport_loading">Ladataan…</string>
   <string name="passport_login">Kirjaudu sisään</string>
   <string name="passport_login_failed">Ei voi kirjautua</string>

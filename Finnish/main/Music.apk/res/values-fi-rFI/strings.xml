@@ -501,7 +501,7 @@
   <string name="miuishare_account_need_activate">Lisää Weibo tilisi nykyiseen Mi Tiliin jakaaksesi. Näyttää siltä ettei Mi Tiliäsi ole aktivoitu. Aktivoidaanko nyt?</string>
   <string name="miuishare_account_need_login">Lisää Weibo tilisi nykyiseen Mi Tiliin jakaaksesi. Jaa kirjautumalla nyt?</string>
   <string name="miuishare_app_name">MIUI Jako</string>
-  <string name="miuishare_no_network">Verkkoon ei saada yhteyttä.</string>
+  <string name="miuishare_no_network">Verkkoyhteyttä ei voi muodostaa.</string>
   <string name="miuishare_publish">Lähetä</string>
   <string name="miuishare_share_done">Jaettiin onnistuneesti</string>
   <string name="miuishare_share_editor_title">Jaa</string>
@@ -550,8 +550,8 @@
   <string name="nav_online_playlist">Soittolistat</string>
   <string name="network_error_and_retry">Yhdistäminen epäonnistui, yritä uudelleen napauttamalla</string>
   <string name="network_failure">Tarkista yhteytesi ja yritä uudelleen.</string>
-  <string name="network_request_error">Verkkoon ei saada yhteyttä</string>
-  <string name="network_settings_error">Verkkoon ei saada yhteyttä</string>
+  <string name="network_request_error">Verkkoyhteyttä ei voi muodostaa</string>
+  <string name="network_settings_error">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="network_traffic">Datan käyttö</string>
   <string name="news_mark">Uutiset</string>
   <string name="next_time">Seuraavalla kerralla</string>
@@ -704,7 +704,7 @@
   <string name="restart_immediate">Käynnistä nyt</string>
   <string name="resume_download">Jatka</string>
   <string name="retry">Yritä uudelleen</string>
-  <string name="retry_after_network_available">Verkkoon ei saada yhteyttä. Tarkista yhteytesi ja yritä uudelleen.</string>
+  <string name="retry_after_network_available">Verkkoyhteyttä ei voi muodostaa. Tarkista yhteytesi ja yritä uudelleen.</string>
   <string name="retry_download">Yritä uudelleen</string>
   <string name="ringtone_not_support">Tämän kappaleen muoto ei ole tuettu</string>
   <string name="root_downloads">Lataukset</string>

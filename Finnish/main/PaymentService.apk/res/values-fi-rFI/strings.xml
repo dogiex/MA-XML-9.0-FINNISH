@@ -90,7 +90,7 @@ Ota yhteyttä Xiaomin asiakaspalveluun."</string>
   <string name="mibi_error_illegal_order_summary">Tilausvirhe. Yritä myöhemmin uudelleen</string>
   <string name="mibi_error_invalid_device">Virheellinen laite.</string>
   <string name="mibi_error_mili_summary">Rahat eivät riitä.</string>
-  <string name="mibi_error_network_summary">Verkkoon ei saada yhteyttä.</string>
+  <string name="mibi_error_network_summary">Verkkoyhteyttä ei voi muodostaa.</string>
   <string name="mibi_error_pay_result_uncertain">Maksun tulos epäselvä.</string>
   <string name="mibi_error_recharge_process_fail">Latausprosessi epäonnistui.</string>
   <string name="mibi_error_recharge_result_fail">Lataamisen tulos epäonnistui.</string>
@@ -156,7 +156,7 @@ Ota yhteyttä Xiaomin asiakaspalveluun."</string>
   <string name="mibi_msg_picker_hint_2_b">\"Top up\" napauttamisen jälkeen operaattorillesi lähetetään tekstiviesti. Operaattori veloittaa sinua normaalista tekstiviestisä.</string>
   <string name="mibi_msg_picker_hint_3_1">3.</string>
   <string name="mibi_msg_picker_hint_3_2">Kuukaisittainen maksimi top-up: ￥%1$s</string>
-  <string name="mibi_msg_send_no_net_error">Viestin lähettäminen epäonnistui: verkkoon ei saada yhteyttä.</string>
+  <string name="mibi_msg_send_no_net_error">Viestin lähettäminen epäonnistui: Verkkoyhteyttä ei voi muodostaa.</string>
   <string name="mibi_msg_send_no_sim_error">Viestin lähettäminen epäonnistui: kokeile asettaa SIM-korttisi uudelleen.</string>
   <string name="mibi_msg_send_parameter_error">Viestin lähettäminen epäonnistui: sisällössä on virhe.</string>
   <string name="mibi_msg_send_send_fail_error">Viestin lähettäminen epäonnistui:</string>
@@ -339,7 +339,7 @@ linkkiä, jonka lähetimme sähköpostiisi."</string>
   <string name="passport_error_invalid_dev_id">Laitteesi ID on virheellinen.</string>
   <string name="passport_error_invalid_phone_num">Virheellinen puhelinnumero</string>
   <string name="passport_error_login">Kirjautuminen epäonnistui</string>
-  <string name="passport_error_network">Verkkoon ei saada yhteyttä</string>
+  <string name="passport_error_network">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="passport_error_phone_error">Virheellinen puhelinnumero</string>
   <string name="passport_error_server">Palvelinvirhe</string>
   <string name="passport_error_sim_not_ready">SIM-korttia ei löydy</string>
@@ -362,7 +362,7 @@ linkkiä, jonka lähetimme sähköpostiisi."</string>
   <string name="passport_input_password_hint">Syötä salasana</string>
   <string name="passport_input_phone_hint">Syötä puhelinnumero</string>
   <string name="passport_input_vcode_hint">Syötä vahvistuskoodi</string>
-  <string name="passport_license_host_unreachable">Verkkoon ei saada yhteyttä. Voit katsoa tämän sivun täältä %s.</string>
+  <string name="passport_license_host_unreachable">Verkkoyhteyttä ei voi muodostaa. Voit katsoa tämän sivun täältä %s.</string>
   <string name="passport_loading">Ladataan…</string>
   <string name="passport_login">Kirjaudu sisään</string>
   <string name="passport_login_failed">Kirjautuminen epäonnistui</string>

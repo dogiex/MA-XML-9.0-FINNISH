@@ -718,7 +718,7 @@
   <string name="error_socket_timeout">Verkkoyhteys aikakatkaistiin</string>
   <string name="error_title">Synkronointi epäonnistui</string>
   <string name="error_unauthorized">Synkronointi on poistettu käytöstä liian monen kirjautumisyrityksen takia.</string>
-  <string name="error_unknown_host">Verkkoon ei saada yhteyttä. Tarkista datayhteytesi ja yritä uudelleen.</string>
+  <string name="error_unknown_host">Verkkoyhteyttä ei voi muodostaa. Tarkista datayhteytesi ja yritä uudelleen.</string>
   <string name="exit">Poistu</string>
   <string name="exit_share">Poistu albumista</string>
   <string name="exit_share_failed">Poistuminen epäonnistui %1$s</string>
@@ -1041,7 +1041,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="search_backup_sub_title">Ota käyttöön löytääksesi lisää kuvia</string>
   <string name="search_backup_title">Mi Pilven synkronointi</string>
   <string name="search_clear_histories">Tyhjennä</string>
-  <string name="search_connection_error">Verkkoon ei saatu yhteyttä</string>
+  <string name="search_connection_error">Verkkoyhteyttä ei voitu muodostaa</string>
   <string name="search_connection_error_and_set">Tarkista verkkoasetukset napauttamalla</string>
   <string name="search_error">Tapahtui virhe</string>
   <string name="search_error_and_retry">Tapahtui virhe, yritä uudelleen napauttamalla</string>

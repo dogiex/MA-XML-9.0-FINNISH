@@ -229,7 +229,7 @@ Yhteystietokortit on poistettu käytöstä"</string>
   <string name="contact_detail_miprofile_save_success_toast">Yhteystietokortti vastaanotettu</string>
   <string name="contact_detail_miprofile_settings_header">Lisäasetukset</string>
   <string name="contact_detail_miprofile_subtitle">Kortit on jo vaihdettu</string>
-  <string name="contact_detail_profile_switch_fail_network_toast">Verkkoon ei saada yhteyttä</string>
+  <string name="contact_detail_profile_switch_fail_network_toast">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="contact_detail_profile_switch_fail_toast">Jotain meni palvelimien kanssa pieleen</string>
   <string name="contact_detail_profile_switch_off">Poista yhteystietokortit käytöstä</string>
   <string name="contact_detail_profile_switch_off_fail_toast">Yhteystietokorttien poistaminen käytöstä epäonnistui</string>
@@ -516,7 +516,7 @@ Syy: %s"</string>
   <string name="hybrid_check_network">Verkon asetukset</string>
   <string name="hybrid_data_error">Tapahtui virhe</string>
   <string name="hybrid_locating_fail">Sijaintiasi ei löytynyt</string>
-  <string name="hybrid_network_unavaliable">Verkkoon ei saada yhteyttä</string>
+  <string name="hybrid_network_unavaliable">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="hybrid_service_unavailiable">Palvelu ei ole saatavilla</string>
   <string name="hybrid_try_again">Yritä uudelleen</string>
   <string name="hybrid_webpage_not_available">Verkkosivu ei ole saatavilla</string>
@@ -552,7 +552,7 @@ Syy: %s"</string>
   <string name="import_vcard_dialog_message">Tuo vCard?</string>
   <string name="import_weibo_dialog_title">Tuo Weibo -yhteystiedot</string>
   <string name="import_weibo_error_no_matched_contacts">Ei samanlaisia yhteystietoja</string>
-  <string name="import_weibo_error_no_network">Verkkoon ei saada yhteyttä. Tarkista verkkoyhteytesi ja yritä uudelleen.</string>
+  <string name="import_weibo_error_no_network">Verkkoyhteyttä ei voi muodostaa. Tarkista verkkoyhteytesi ja yritä uudelleen.</string>
   <string name="import_weibo_error_no_xiaomi_phone">Puhelinnumeroita ei ole tallennettu Mi Tilille.</string>
   <string name="import_weibo_error_unknown">Tuntematon virhe</string>
   <string name="import_weibo_error_user_cancel">Tuonti peruutettu</string>
@@ -1266,7 +1266,7 @@ Valitse seuraavista vaihtoehdoista:"</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Tuntematon virhe</string>
   <string name="yellowpage_navigation_search_select_city">Valitse kaupunki</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">Ladataan…</string>
-  <string name="yellowpage_navigation_send_to_desktop_failed">Verkkoon ei saada yhteyttä</string>
+  <string name="yellowpage_navigation_send_to_desktop_failed">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Lisätty Kotinäytölle</string>
   <string name="yellowpage_search_the_yellowpage">Etsi Hakemistosta</string>
   <string name="yellowpage_user_profile">Profiili</string>

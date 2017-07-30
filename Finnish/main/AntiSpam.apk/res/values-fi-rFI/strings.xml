@@ -213,7 +213,7 @@
   <string name="repeated_marked_number_title">"Älä estä toistuvia puheluita ilmoitetuilta numeroilta"</string>
   <string name="report">Ilmoita</string>
   <string name="report_error">Viestiä ei voitu ilmoittaa</string>
-  <string name="report_error_not_net">Verkkoon ei saada yhteyttä</string>
+  <string name="report_error_not_net">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="report_only">Valitse ilmoitettava viesti</string>
   <string name="report_sms">Ilmoita viestit</string>
   <string name="report_success">Viesti ilmoitettu</string>

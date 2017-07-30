@@ -117,8 +117,8 @@
   <string name="my_gifts">Lahjat</string>
   <string name="my_gifts_purchased">Ostetut</string>
   <string name="my_gifts_received">Vastaanotetut</string>
-  <string name="no_data">Verkkoon ei saada yhteyttä</string>
-  <string name="online_no_network">Verkkoon ei saada yhteyttä</string>
+  <string name="no_data">Verkkoyhteyttä ei voi muodostaa</string>
+  <string name="online_no_network">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="online_search_hint">Etsi verkkolähteitä</string>
   <string name="present_local_themes">Resurssini</string>
   <string name="present_online_themes">Hae lisää teemoja ilmaiseksi</string>
@@ -245,7 +245,7 @@
   <string name="resource_my">Laitteessa</string>
   <string name="resource_network_diagnostics">Verkkodiagnostiikat</string>
   <string name="resource_no_match_app">Tälle toiminnolle ei löytynyt yhtään sovellusta.</string>
-  <string name="resource_no_network_text">Verkkoon ei saada yhteyttä.</string>
+  <string name="resource_no_network_text">Verkkoyhteyttä ei voi muodostaa.</string>
   <string name="resource_no_result">Tuloksia ei löytynyt</string>
   <string name="resource_notification_default">Ilmoitukset</string>
   <string name="resource_on_trial">Kokeilu: %1$s</string>
