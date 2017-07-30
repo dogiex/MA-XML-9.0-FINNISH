@@ -50,7 +50,10 @@
   <string name="album_jump_failed">Odota kunnes albumit ovat synkronoitu Mi Pilven kanssa ja yritä uudelleen</string>
   <string name="album_member">Albumin jäsenet %s</string>
   <string name="album_name">Albumin nimi</string>
+  <string name="album_name_locations">Sijainnit</string>
+  <string name="album_name_people">Ihmiset</string>
   <string name="album_name_recent_discovery">Viimeaikainen</string>
+  <string name="album_name_tags">Tunnisteet</string>
   <string name="album_others_share_baby_info_format">%s jakoi vauva albumin</string>
   <string name="album_others_share_info_format">Jakaja %s</string>
   <string name="album_owner_share">Jaettu</string>
@@ -694,6 +697,7 @@
   <string name="empty_recommend_back">Takaisin</string>
   <string name="empty_recommend_face_page_view">Ei enempää suosituksia</string>
   <string name="empty_relation">Ryhmän nimi ei voi olla tyhjä</string>
+  <string name="empty_title_no_photos">Ei kuvia tai videoita</string>
   <string name="enable_auto_upload_tip">Tämä albumi poistetaan toisista albumeistä käyttöönottamisen jälkeen.</string>
   <string name="enable_auto_upload_title">Ota Mi Pilven synkronointi käyttöön</string>
   <string name="enable_cloud_for_sharing">Ota Mi Pilven albumit käyttöön nähdäksesi jaetut kuvat.</string>
@@ -726,7 +730,7 @@
   <string name="face_album_empty">"Kuvia ei ole tarpeeksi henkilöiden tunnistamista varten.
 Ota ystävistäsi lisää kuvia!"</string>
   <string name="face_album_empty_syncing">Synkronoidaan tietoja, tule takaisin hetken kuluttua</string>
-  <string name="face_album_empty_syncing_when_connect_wifi">Yhdistä Wi-Fi-verkkoon synkronoidaksesi</string>
+  <string name="face_album_empty_syncing_when_connect_wifi">Yhdistä verkkoon synkronoidaksesi tiedot</string>
   <string name="face_album_long_tap_tip">Valitaksesi useita henkilöitä tai vaihtaaksesi ryhmän asetuksia, paina &amp; pidä pohjassa profiilikuvaa</string>
   <string name="face_album_new_name_hint">Uusi nimi</string>
   <string name="face_album_not_named">Nimeämätön</string>
@@ -785,7 +789,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="has_invalid_recipient">Virheelliset vastaanottajat: %1$s</string>
   <string name="have_known">Selvä</string>
   <string name="hidden_album_display_name">Piilotettu albumi</string>
-  <string name="home_page_empty">Tyhjä</string>
+  <string name="home_page_empty_action">Ota kuva</string>
   <string name="home_page_label">Kuvat</string>
   <string name="how_to_set_relation">Paina &amp; pidä albumia pohjassa luodaksesi ryhmän</string>
   <string name="hybrid_check_network">Verkkoasetukset</string>
@@ -939,7 +943,10 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="other_album">Muut albumit</string>
   <string name="other_settings">Lisäasetukset</string>
   <string name="owner_album_subtitle">Jaettu %1$s henkilön kanssa</string>
+  <string name="people_album_empty_title">Kuvat voi lajitella niissä esiintyvien henkilöiden mukaan</string>
   <string name="people_jump_failed">Odota, kunnes kuvat, joissa on henkilöitä synkronoidaan Mi Pilveen ja yritä uudelleen</string>
+  <string name="people_mark_mode_title">Valitse \"%s\"</string>
+  <string name="people_mark_mode_title_no_mark_name">Valitse henkilö</string>
   <string name="people_page_label">Henkilöt</string>
   <string name="people_page_unname">Nimeämätön</string>
   <string name="pet_album_display_name">Lemmikin kuvat</string>
@@ -965,6 +972,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="picker_title_format">Voit valita %d kuvaa</string>
   <string name="picker_title_selection_format">Valitut kuvat: %d</string>
   <string name="picker_title_unlimit">Valitse kuvia</string>
+  <string name="places_album_empty_title">Kuvat voi lajitella sijainnin mukaan</string>
   <string name="preparing_data">Odota hetki…</string>
   <string name="projection_checkbox_text">Muista tämä näyttö</string>
   <string name="projection_device_connection_failed">Näytön yhdistäminen epäonnistui</string>
@@ -980,6 +988,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="publish_succeeded">Albumi julkaistu</string>
   <string name="publishing">Julkaistaan…</string>
   <string name="quotation">\"%s\"</string>
+  <string name="recent_album_empty_title">Uusia kuvia ei ole lisätty viimeaikoina</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recommanded_face_abandon_tip">Poistettiin ehdotuksista</string>
   <string name="recommanded_face_added_tip">Lisättiin \"%s\"</string>
@@ -1027,7 +1036,6 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="scan_barcode_guide">Saadaksesi albumin QR-koodin, napauta Jaa-kuvaketta.</string>
   <string name="scan_barcode_to_join">Lisää albumi skannaamalla QR-koodi</string>
   <string name="scan_qr_code_buttom_text">Näytä tämä albumi skannaamalla QR-koodi</string>
-  <string name="search_album_jump_failed">Odota kunnes albumit on synkronoitu Mi Pilveen ja yritä uudelleen</string>
   <string name="search_backup_full_screen">Ota Mi Pilven synkronointi käyttöön löytääksesi lisää kohteita ja henkilöitä</string>
   <string name="search_backup_now">Ota käyttöön</string>
   <string name="search_backup_sub_title">Ota käyttöön löytääksesi lisää kuvia</string>
@@ -1043,15 +1051,22 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="search_login_sub_title">Löydä lisää kuvia kirjautumalla sisään</string>
   <string name="search_login_title">Mi Tili</string>
   <string name="search_login_title_full_screen">Kirjaudu sisään Mi Tililläsi löytääksesi lisää kohteita ja henkilöitä</string>
-  <string name="search_people_jump_failed">Odota, kunnes kuvat henkilöistä on synkronoitu Mi Pilveen ja yritä uudelleen</string>
+  <string name="search_net_error">Tapahtui verkkovirhe. Yhdistä toiseen verkkoon ja yritä uudelleen.</string>
+  <string name="search_request_open">Liity testausryhmään</string>
   <string name="search_result_empty">Mitään ei löytynyt</string>
   <string name="search_retry">Yritä uudelleen</string>
+  <string name="search_select_network">Valitse verkko</string>
   <string name="search_set_network_connection">Verkkoasetukset</string>
+  <string name="search_setting_sub_title">Paranneltu kuvahaku</string>
+  <string name="search_setting_sub_title_open">Hyväksytty. Odota hetki, ennen kuin aloitat.</string>
+  <string name="search_setting_title">Etsi kuvia Galleriasta</string>
+  <string name="search_title_album">Albumi</string>
   <string name="search_title_history">Hakuhistoria</string>
   <string name="search_title_location">Sijainnit</string>
   <string name="search_title_others">Kaikki tulokset</string>
   <string name="search_title_people">Henkilöt</string>
   <string name="search_title_recommend">Suositeltu</string>
+  <string name="search_title_suggestion">Ehdotukset</string>
   <string name="search_title_tag">Kohteet</string>
   <string name="secret_album_card_description">Paras paikka kaikille pienille salaisuuksillesi</string>
   <string name="secret_album_card_title">Kokeile piilotettua albumia</string>
@@ -1085,6 +1100,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="set_face_image">Aseta uusi profiilikuva</string>
   <string name="set_group">Aseta ryhmä</string>
   <string name="set_wallpaper_get_image_failed">Kuvaa ei voitu ladata, yritä myöhemmin uudelleen</string>
+  <string name="setup_network_connection">Verkkoasetukset</string>
   <string name="share">Jaa</string>
   <string name="share_album">Jaa albumi</string>
   <string name="share_album_needs_auto_upload_tip">Jaettujen albumeiden varmuuskopiointia ei voi poistaa käytöstä</string>
@@ -1140,6 +1156,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="text_append_hint">Syötä teksti</string>
   <string name="text_append_style">Kupla</string>
   <string name="text_append_transparent">Läpinäkyvyys</string>
+  <string name="things_album_empty_title">Kuvia voi lajitella niissä esiintyvien esineiden mukaan</string>
   <string name="tip_capture_location">Sijainti:</string>
   <string name="tip_capture_params">EXIF data:</string>
   <string name="tip_capture_time">Otettu:</string>

@@ -333,6 +333,8 @@ jotta saat selkeämmän kuvan kehosta ja kauniimman muotokuvan"</string>
   <string name="pref_video_time_lapse_frame_interval_title">Intervallin aikaväli</string>
   <string name="preparing_sd">Tarkistetaan sisäistä tallennustilaa…</string>
   <string name="record_back_pressed_hint">Lopeta nauhoitus koskettamalla uudelleen</string>
+  <string name="screen_on_proximity_sensor_hint">Poistaaksesi tämän ominaisuuden käytöstä, paina Äänenvoimakkuus ylös ja Takaisin -painikkeita samanaikaisesti.</string>
+  <string name="screen_on_proximity_sensor_summary">Älä peitä kuulokealuetta</string>
   <string name="search_settings">Kamera Asetukset;Laatu;Kuvanlaatu;Kuvan Sijainti;Valokuvan sijainti;Kasvontunnistus;Kameran Ääni</string>
   <string name="see_qrcode_detals">Näytä QR-koodin tiedot</string>
   <string name="simple_mode_button_asd_flash">Poista Salama tallennus käytöstä</string>

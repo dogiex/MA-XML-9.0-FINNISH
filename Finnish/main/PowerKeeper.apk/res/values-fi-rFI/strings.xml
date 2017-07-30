@@ -174,14 +174,12 @@ Virransäästö kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="set_lcd_mode">Näyttö-tila</string>
   <string name="settings_safetylegal_activity_loading">Odota hetki…</string>
   <string name="show_system_app">Näytä järjestelmäsovellukset</string>
-  <string name="sleep_config_enhance_description">Parantaa yöllä lepotilassa virrankäyttöä</string>
+  <string name="sleep_config_enhance_description">kone oppii ennustamalla käyttäjän lepoajan. Lepoajan aikana, saatamme sammuttaa joitakin taustalla olevia sovelluksia, rajoitamme NFC:n käyttöä, KeyGuard ilmoituksia, Synkronointia, Bluetoothia, GPS, mobiili- ja Wi-Fi-yhteyksiä jne.</string>
   <string name="sleep_config_enhance_title">Lepotilat</string>
   <string name="still">Kuva</string>
   <string name="ui">Normaali</string>
   <string name="user_define_mode">Nimi</string>
   <string name="vip_feedback">Vip Palaute</string>
-  <string name="vip_feedback_apply">Lähetä Vip Palaute</string>
-  <string name="vip_feedback_apply_msg">Ota yhteyttä vip-feedback-system@xiaomi.com lähettääksesi Vip Palautetta</string>
   <string name="vip_feedback_enable">Ota automaattinen Vip Palaute käyttöön</string>
   <string name="warm_configure">Lämmönhallinnan määritys</string>
 </resources>

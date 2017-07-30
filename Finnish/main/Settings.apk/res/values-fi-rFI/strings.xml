@@ -2362,9 +2362,12 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="miui_allow_vibrate">Värinät</string>
   <string name="miui_data_usage_menu_metered">Mobiili hotspotit</string>
   <string name="miui_experience_optimization">Ota MIUI optimointi käyttöön</string>
+  <string name="miui_lab_feature_applied">Asetettu</string>
   <string name="miui_lab_feature_off">Pois päältä</string>
   <string name="miui_lab_feature_on">Päällä</string>
   <string name="miui_lab_features">MIUI lab ominaisuudet</string>
+  <string name="miui_lab_gallery_search_desc">Paranneltu kuvahaku</string>
+  <string name="miui_lab_gallery_search_title">Etsi kuvia Galleriassa</string>
   <string name="miui_lab_settings">MIUI lab</string>
   <string name="miui_lab_slogan">Opi. Tutki. Löydä.</string>
   <string name="miui_lab_taplus_desc">Pidä pohjassa käynnistääksesi pikavalinnat</string>

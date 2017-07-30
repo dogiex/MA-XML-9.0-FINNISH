@@ -73,7 +73,10 @@
   <string name="city_exceeded_warning">Voit lisätä enintään 10 kaupunkia</string>
   <string name="commercial">Mainos</string>
   <string name="common_loading_text">Odota hetki…</string>
-  <string name="connect_fail">Verkkoyhteys on epänormaali. Yritä myöhemmin uudelleen.</string>
+  <string name="connect_fail">Verkkoon ei saatu yhteyttä, yritä uudelleen.</string>
+  <string name="content_desc_activity_main_add_city">Lisää kaupunki</string>
+  <string name="content_desc_activity_main_add_city_manage">Kapunkien hallinta</string>
+  <string name="content_desc_activity_main_more_settings">Lisäasetukset</string>
   <string name="daily_forcast_drawer_on_bottom">Piilota</string>
   <string name="daily_forcast_no_stable_direction">Tuulahdus</string>
   <string name="daily_forcast_no_wind">0</string>
