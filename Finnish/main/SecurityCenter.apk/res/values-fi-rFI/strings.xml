@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Phonepass">Salli puhelut</string>
-  <string name="SMS_and_MMS">SMS ja MMS</string>
+  <string name="SMS_and_MMS">Teksti- ja multimediaviestit</string>
   <string name="SMSpass">Salli tekstiviestit</string>
   <string name="Setting_lock">Asetukset</string>
   <string name="Settings_title_anti_spam">Estolistan asetukset</string>
@@ -11,7 +11,7 @@
   <string name="Settings_title_power_center">Akun asetukset</string>
   <string name="about_autostart">Tietoa käynnistyksestä</string>
   <string name="ac_enter_applock">Syötä Sovelluslukko</string>
-  <string name="ac_firstUseApplock_subTitle">Käytä parempaa järjestelmätasosta turvallisuustyökaluja</string>
+  <string name="ac_firstUseApplock_subTitle">Käytä parempaa järjestelmätason tietoturvatyökaluja</string>
   <string name="ac_firstUseApplock_title">Aseta salasana sovellusten suojaamiseksi</string>
   <string name="ac_summaryOff">Ei käytössä, salasanaa ei vaadita sovelluksien avaamiseen</string>
   <string name="ac_summaryOn">Käytössä, salasana vaaditaan sovelluksien avaamiseen</string>
@@ -25,7 +25,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="action_button_text_60_80">Korjaa</string>
   <string name="action_button_text_80_100">Optimoi</string>
   <string name="action_source_sms_title">Estetyt tekstiviestit</string>
-  <string name="activate_fingerprint_dialog_message">Tämä sormenjälki ei ole aktiivinen. Syötä salasanasi aktivoidaksesi tämän sormenjäljen.</string>
+  <string name="activate_fingerprint_dialog_message">Tämä sormenjälki ei ole aktiivinen. Syötä salasanasi aktivoidaksesi tämä sormenjälki.</string>
   <string name="activate_fingerprint_dialog_title">Syötä salasana</string>
   <string name="activity_title_antispam">Estolista</string>
   <string name="activity_title_antivirus">Tietoturvatarkistus</string>
