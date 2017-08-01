@@ -20,6 +20,7 @@
   <string name="activity_main_update_time">Päivitetty %1$s</string>
   <string name="activity_main_update_time_expire">Tieto on vanhentunut</string>
   <string name="activity_main_update_time_right_now">juuri nyt</string>
+  <string name="activity_minute_rain_location_fail_msg">Paikantaminen epäonnistui, kartan oletussijainti on Peking</string>
   <string name="activity_weathermain_locationg">Paikannetaan…</string>
   <string name="activity_weathermain_locationg_error">Ei voi paikantaa</string>
   <string name="add_city">Lisää</string>
