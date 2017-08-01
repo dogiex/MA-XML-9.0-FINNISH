@@ -57,7 +57,6 @@ Viimeksi muokattu: %s
 Sijainti: %s
 
 "</string>
-  <string name="file_match_detail">[A-Za-z0-9]*</string>
   <string name="filter">Suodatin</string>
   <string name="filter_file_tips">Suodatetaanko tämä tiedosto?</string>
   <string name="folder">Kansio</string>
