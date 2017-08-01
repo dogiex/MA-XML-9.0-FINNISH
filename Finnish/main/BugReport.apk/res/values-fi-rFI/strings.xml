@@ -181,6 +181,11 @@
   <string name="michat_wait_for_a_moment">Odota hetki, apu on matkalla!</string>
   <string name="michat_webview_title">Näytä tiedot</string>
   <string name="min_error">%1$s pitäisi olla pidempi.</string>
+  <string name="mobile_data_note_dialog_cancel">Odota Wi-Fiä</string>
+  <string name="mobile_data_note_dialog_confirm">Lähetä</string>
+  <string name="mobile_data_note_dialog_content">Käyttämällä mobiilidataa lokitietojen lähettämiseen saattaa luoda lisää maksuja.</string>
+  <string name="mobile_data_note_dialog_content_with_file_size">Lähettämällä lokitiedot käyttämällä mobiilidatayhteyttä vaatii %s Mt edestä dataa.</string>
+  <string name="mobile_data_note_dialog_title">Tiedonsiirtovaroitus</string>
   <string name="modem_tool_log">Tallenna modeemin lokit</string>
   <string name="modem_tool_log_start">Aloita</string>
   <string name="modem_tool_log_start_toast">"Aloita modeemin lokin vedos %s"</string>

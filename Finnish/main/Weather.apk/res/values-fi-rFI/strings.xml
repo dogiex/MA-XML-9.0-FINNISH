@@ -150,6 +150,7 @@ Vedä alaspäin päivittääksesi tai tarkasta verkkoasetukset"</string>
   <string name="international_details_uv_index_title">UV INDEKSI</string>
   <string name="international_details_wind_connect">%1$s %2$s</string>
   <string name="international_details_wind_title">TUULI</string>
+  <string name="it_is_going_to_rain">Alkaa satamaan</string>
   <string name="locate_fail_detail_err">"Laitetta ei voitu paikantaa
 Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="location_tag">Paikanna</string>
@@ -172,6 +173,8 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="more_details">Lisää tietoa</string>
   <string name="network_not_available">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="network_unavailable">Verkkoyhteyttä ei voi muodostaa.</string>
+  <string name="night_not_disturb_settings_summary">Et saa kaikkia sääilmoituksia klo 23.00 - 07.00 seuraavana päivänä avaamisen jälkeen</string>
+  <string name="night_not_disturb_settings_title">Älä häiritse yöllä</string>
   <string name="no_data">--</string>
   <string name="no_network_btn">Yritä uudelleen</string>
   <string name="no_vote_ratio">Vastaan %1$s%%</string>
@@ -179,6 +182,7 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="open_browser">Avaa selaimessa</string>
   <string name="open_now">Avaa</string>
   <string name="other">Muu</string>
+  <string name="other_warning_settings">Muut varoitusasetukset</string>
   <string name="particulate_matter_exceeded">Korkea</string>
   <string name="particulate_matter_not_exceeded">Normaali</string>
   <string name="particulate_matter_serious_exceeded">Liian korkea</string>
@@ -189,11 +193,14 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="precipitation_degree_two">Kevyt</string>
   <string name="pressure_connect">%1$s mb</string>
   <string name="radar_cloud_image_title">Tutkakartta</string>
+  <string name="rainfall_settings_summary">Sademäärän asetukset</string>
+  <string name="rainfall_settings_title">Sademäärän varoitus</string>
   <string name="realtime_aqi_title">Ilmanlaatuindeksi</string>
   <string name="realtime_humidity_title">Suhteellinen kosteus</string>
   <string name="realtime_temperature_no_data">N/A</string>
   <string name="realtime_wind_default_title">Tuuli</string>
   <string name="refresh_fail">Verkkoyhteyttä ei voi muodostaa</string>
+  <string name="reminder_from_xiaomi_weather_app">Muistutus Xiaomin Sääsovelluksesta</string>
   <string name="retry">Yritä uudelleen</string>
   <string name="search_weather">Sää</string>
   <string name="search_weather_keywords">Lämpötila;Sää ennustus;Sää;Ilmanlaatu;Saaste;Kosteus</string>
@@ -231,6 +238,9 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="unit">Yksikkö</string>
   <string name="unit_temperature">Lämpötilan yksikkö</string>
   <string name="unit_wind">Tuulen nopeuden yksikkö</string>
+  <string name="update_night_setting_summary_text">Ei päivitetä automaattisesti klo 23.00 - 07.00 sulkemisen jälkeen</string>
+  <string name="update_night_setting_title_text">Päivitä automaattisesti yöllä</string>
+  <string name="update_setting_title_text">Päivitys asetukset</string>
   <string name="view_forecast_item_yesterday">Eilen</string>
   <string name="view_indexes_item_today">Tänään</string>
   <string name="view_indexes_item_tommorrow">Huomenna</string>
@@ -241,4 +251,5 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="xiaomi_weather_description_content">Sää -sovellus tarjoaa sinulle tarkkoja sääennustustietoja. Ilman tätä sovellusta, ilmoitusalueen ja Kotinäytön widgetit ei toimi normaalisti. Varmista, että voit elää ilman näitä ominaisuuksia, ennen kuin poistat sovelluksen.</string>
   <string name="xiaomi_weather_description_title">Tietoja Sää -sovelluksesta</string>
   <string name="yes_vote_ratio">Puolesta %1$s%%</string>
+  <string name="your_location">Sijaintisi</string>
 </resources>
