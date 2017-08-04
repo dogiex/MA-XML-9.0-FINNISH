@@ -17,5 +17,5 @@ Kirjoita tähän mahdollisimman tarkka kuvaus
 ## Kuvakaappaus
 Liitä tähän kuvakaappaus
 
-# Logcat
+## Logcat
 Liitä tähän logcat lokitieto, mikäli on Bugi ja saat otettua sellaisen
