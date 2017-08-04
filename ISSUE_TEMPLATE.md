@@ -4,12 +4,12 @@ Weekly x.x.x | Stable x.x.x.x
 
 ## Kategoria
 Valitse kategoria alta
-[ x ] Käännösvirhe
-[  ] Parannusehdotus
-[  ] Käännös puuttuu
-[  ] Bugi
-[  ] Bugi kokeiltu myös en-US kielellä
-[  ] Muu
+- [ x ] Käännösvirhe
+- [  ] Parannusehdotus
+- [  ] Käännös puuttuu
+- [  ] Bugi
+- [  ] Bugi kokeiltu myös en-US kielellä
+- [  ] Muu
 
 ## Kuvaus
 Kirjoita tähän mahdollisimman tarkka kuvaus
