@@ -588,7 +588,7 @@ Varmista, että laite esittää tämän koodin:
   <string name="bluetooth_device_searchable">Tunnistettavuus</string>
   <string name="bluetooth_devices">Bluetooth-laitteet</string>
   <string name="bluetooth_disable_absolute_volume">Poista yleinen äänenvoimakkuuden säätö käytöstä</string>
-  <string name="bluetooth_disable_absolute_volume_summary">Bluetoothin yleinen äänenvoimakkuuden säätö poistetaan käytöstä ongelmien välttämiseksi esimerkiksi silloin, kun laitteen äänenvoimakkuus on liian kova tai sitä ei voi säätää.</string>
+  <string name="bluetooth_disable_absolute_volume_summary">Poista Bluetoothin yleinen äänenvoimakkuuden säätö käytöstä, jos etälaitteilla on äänenvoimakkuuden kanssa ongelmia, kuten laitteen äänenvoimakkuus on liian kova tai sitä ei voi säätää.</string>
   <string name="bluetooth_disable_profile_message">"Tämä poistaa profiilin
 %1$s
 
@@ -1005,11 +1005,11 @@ Muodostetaanko pari tämän laitteen kanssa?"</string>
   <string name="controls_subtitle">Säädä virrankäyttöä</string>
   <string name="convenience_key_category_title">Pikakuvakkeet</string>
   <string name="convert_to_fbe_warning">"Muunna dataosio tiedostopohjaiseksi salaukseksi.
- Varoitus! Kaikki tiedot poistetaan.
- Tämä ominaisuus on alfavaiheessa eikä välttämättä toimi oikein.
+ Varoitus: Kaikki tiedot poistetaan.
+ Tämä ominaisuus on kehitysvaiheessa, eikä se välttämättä toimi oikein.
  Jatka painamalla Poista ja muunna…"</string>
   <string name="convert_to_file_encryption">Muunna tiedostojen salaukseksi</string>
-  <string name="convert_to_file_encryption_done">Tiedostot on jo salattu.</string>
+  <string name="convert_to_file_encryption_done">Tiedostot on salattu</string>
   <string name="convert_to_file_encryption_enabled">Muunna…</string>
   <string name="copyright_title">Tekijänoikeudet</string>
   <string name="country_name">%s (järjestelmä)</string>
@@ -1256,7 +1256,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="deny">Hylkää</string>
   <string name="details_subtitle">Käyttötiedot</string>
   <string name="details_title">Käyttötiedot</string>
-  <string name="dev_settings_warning_message">Nämä asetukset on tarkoitettu vain kehityskäyttöön, ja ne voivat aiheuttaa haittaa laitteellesi tai sen sovelluksille.</string>
+  <string name="dev_settings_warning_message">Nämä asetukset on tarkoitettu vain kehityskäyttöön. Ottamalla nämä ominaisuudet käyttöön saattaa laitteesi tai siinä olevat sovellukset käyttäytyä omituisesti tai aiheuttaa virheitä.</string>
   <string name="dev_settings_warning_title">Sallitaanko kehittäjäasetukset?</string>
   <string name="developer_build">" | Beta"</string>
   <string name="developer_density_summary">%d dp</string>
@@ -1321,7 +1321,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="dialog_yes">Kyllä</string>
   <string name="disableNetwork">disableNetwork</string>
   <string name="disable_overlays">Poista HW-peittok. käyt.</string>
-  <string name="disable_overlays_summary">Käytä GPU:ta näytön koostamiseen</string>
+  <string name="disable_overlays_summary">Käytä GPU:ta näytön renderöintiin</string>
   <string name="disable_power_key_long_press_under_keyguard">Poista Virta-painikkeen valikko käytöstä</string>
   <string name="disable_service_message">Jos valitset OK, %1$s pysäytetään.</string>
   <string name="disable_service_title">Pysäytetäänkö %1$s?</string>
@@ -1650,7 +1650,7 @@ Näkyvissä ei ollut lainkaan hevosia tai minkäänlaisia muita eläimiä. Miehe
   <string name="force_allow_on_external">Salli aina ulkoinen tallennus</string>
   <string name="force_allow_on_external_summary">Mahdollistaa sovelluksen tietojen tallentamisen ulkoiseen tallennustilaan luetteloarvoista riippumatta.</string>
   <string name="force_hw_ui">Pakota GPU-hahmonnus</string>
-  <string name="force_hw_ui_summary">Käytä GPU:ta 2d-piirtämiseen</string>
+  <string name="force_hw_ui_summary">Käytä GPU:ta 2D-piirtämiseen</string>
   <string name="force_msaa">Pakota 4x MSAA</string>
   <string name="force_msaa_summary">Ota käyttöön 4x MSAA OpenGL ES 2.0 -sovelluksissa</string>
   <string name="force_resizable_activities">Pakota kaikki toiminnot hyväksymään koon muutos</string>
@@ -1804,7 +1804,7 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="imei_information_summary">IMEI-koodiin liittyvät tiedot</string>
   <string name="imei_information_title">IMEI-koodin tiedot</string>
   <string name="immediately_destroy_activities">Älä säilytä toimintoja</string>
-  <string name="immediately_destroy_activities_summary">Tuhoa kaikki toiminnot, kun käyttäjä poistuu</string>
+  <string name="immediately_destroy_activities_summary">Lopeta kaikki toiminnot, kun käyttäjä poistuu</string>
   <string name="importance_reset">Nollaa</string>
   <string name="inactive_app_active_summary">Käytössä. Poista käytöstä koskettamalla.</string>
   <string name="inactive_app_inactive_summary">Ei käytössä. Ota käyttöön koskettamalla.</string>
@@ -1983,7 +1983,7 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="local_backup_password_summary_change">Vaihda tai poista tietokoneen kaikkien tietojen varmuuskopioinnin salasana koskettamalla.</string>
   <string name="local_backup_password_summary_none">Tietokoneen kaikkien tietojen varmuuskopiointia ei ole tällä hetkellä suojattu</string>
   <string name="local_backup_password_title">Varmuuskop. salasana</string>
-  <string name="local_backup_password_toast_confirmation_mismatch">Uusi salasana ja vahvistus eivät täsmää</string>
+  <string name="local_backup_password_toast_confirmation_mismatch">Salasanat eivät täsmää</string>
   <string name="local_backup_password_toast_success">Uusi varasalasana asetettiin</string>
   <string name="local_backup_password_toast_validation_failure">Varasalasanan asetus epäonnistui</string>
   <string name="local_backup_section_summary">Varmuuskopioi järjestelmäasetukset, tilitiedot ja sovellukset</string>
@@ -3679,12 +3679,12 @@ Huom. Sormenjälki ei välttämättä ole yhtä turvallinen kuin vahva kuvio tai
   <string name="sharing_remote_bugreport_dialog_message">Tämä virheraportti jaetaan järjestelmänvalvojan kanssa. Ota häneen yhteyttä, jos tarvitset lisätietoja.</string>
   <string name="short_summary_font_size">Suurenna tai pienennä tekstiä.</string>
   <string name="show_all_anrs">Näytä kaikki ANR:t</string>
-  <string name="show_all_anrs_summary">Näytä Sovellus ei vastaa -ikkuna taustasovell.</string>
+  <string name="show_all_anrs_summary">Näytä \"Sovellus ei vastaa\" -ikkuna taustasovell.</string>
   <string name="show_background_processes">Näytä välimuistiprosessit</string>
   <string name="show_connected_devices_summary">Näytä yhdistetyt laitteet</string>
   <string name="show_connected_devices_title">Yhdistetyt laitteet</string>
   <string name="show_cpu_usage">Näytä suorittimen käyttö</string>
-  <string name="show_cpu_usage_summary">Näytön peittokuva näyttää nykyisen suoritinkäytön</string>
+  <string name="show_cpu_usage_summary">Näytä suorittimen käyttö käyttämällä näytön peittokuvaa</string>
   <string name="show_dev_already">Ei tarvitse klikata, olet jo kehittäjä.</string>
   <string name="show_dev_on">Olet nyt kehittäjä!</string>
   <string name="show_fc">Pakkolopetetut sovellukset</string>
@@ -4180,7 +4180,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="timer_switch_settings_title">Ajastettu käynnistäminen ja sammuttaminen</string>
   <string name="timezone_settings">Aikavyöhyke</string>
   <string name="title_color_calibration">Värikorjauksen esiasetus</string>
-  <string name="title_convert_fbe">Muunnetaan tiedostopohjaiseksi salaukseksi</string>
+  <string name="title_convert_fbe">Muunnetaan tiedostopohjaiseksi salaukseksi…</string>
   <string name="title_font">Fontti</string>
   <string name="title_font2">Fontti</string>
   <string name="title_font_current">Järjestelmäfontti</string>
@@ -4226,7 +4226,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="trusted_credentials_system_tab">Järjestelmä</string>
   <string name="trusted_credentials_trust_label">Luota</string>
   <string name="trusted_credentials_user_tab">Käyttäjä</string>
-  <string name="tts_default_lang_summary">Asettaa puhutulle tekstille kielikohtaisen äänen</string>
+  <string name="tts_default_lang_summary">Aseta oletuskieli puhutulle tekstille</string>
   <string name="tts_default_lang_title">Kieli</string>
   <string name="tts_default_pitch_summary">Tämä vaikuttaa syntetisoidun puheen äänensävyyn.</string>
   <string name="tts_default_pitch_title">Äänenkorkeus</string>
@@ -4235,7 +4235,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="tts_default_sample_string">Tämä on esimerkki puhesynteesistä.</string>
   <string name="tts_engine_network_required">Tämä kieli vaatii verkkoyhteyden, jotta tekstistä puheeksi muuntaminen toimii.</string>
   <string name="tts_engine_preference_section_title">Ensisijainen kone</string>
-  <string name="tts_engine_security_warning">Tämä puhesynteesimoottori saattaa kerätä kaiken puhutun tekstin, mukaan lukien henkilökohtaiset tiedot kuten salasanat ja luottokorttinumerot. Se on lähtöisin moottorista %s. Haluatko ottaa tämän puhesynteesimoottorin käyttöön?</string>
+  <string name="tts_engine_security_warning">Tämä äänimoottori saattaa nauhoittaa ja kerätä kaiken, mitä puhut, mukaan lukien henkilökohtaiset tiedot kuten salasanat ja luottokorttinumerot. Tämän äänimoottorin tarjoaa %s. Otetaanko äänimoottori käyttöön?</string>
   <string name="tts_engine_settings_button">Käynnistä moottorin asetukset</string>
   <string name="tts_engine_settings_title">Asetukset: %s</string>
   <string name="tts_general_section_title">Yleiset</string>
@@ -4707,8 +4707,8 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="wifi_advanced_not_available">Wi-Fi-lisäasetukset eivät ole tämän käyttäjän käytettävissä.</string>
   <string name="wifi_advanced_settings_label">IP-asetukset</string>
   <string name="wifi_advanced_titlebar">Wi-Fi-lisäasetukset</string>
-  <string name="wifi_aggressive_handover">Aggressiivinen handover: Wi-Fi-matkapuh.</string>
-  <string name="wifi_aggressive_handover_summary">Kun asetus on käytössä, Wi-Fi siirtää datayhteyden aggressiivisemmin matkapuhelinverkolle, jos Wi-Fi-signaali on heikko.</string>
+  <string name="wifi_aggressive_handover">Automaattinen Wi-Fi &gt; Matkapuhelinverkon handover</string>
+  <string name="wifi_aggressive_handover_summary">Kun asetus on käytössä, Wi-Fi siirtää datayhteyden aktiivisemmin matkapuhelinverkolle, jos Wi-Fi-signaali on heikko.</string>
   <string name="wifi_allow_scan_with_traffic">Salli Wi-Fi-verkkovierailuskannaus aina</string>
   <string name="wifi_allow_scan_with_traffic_summary">Salli/estä Wi-Fi-verkkovierailuskannaus liittymässä esiintyvän dataliikenteen perusteella.</string>
   <string name="wifi_and_mobile_skipped_message">"Jos et määritä Wi-Fi-asetuksia

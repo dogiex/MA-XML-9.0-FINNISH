@@ -110,7 +110,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="antivirus_toast_network_unavailable">Verkkoyhteyttä ei voitu muodostaa</string>
   <string name="antivirus_toast_update_failed">Päivittäminen epäonnistui</string>
   <string name="antivirus_toast_update_success">Päivitettiin onnistuneesti</string>
-  <string name="antivirus_toast_updating">Päivitetään...</string>
+  <string name="antivirus_toast_updating">Päivitetään…</string>
   <string name="antivirus_update_btn_contiue">Jatka</string>
   <string name="antivirus_update_btn_open">Salli</string>
   <string name="antivirus_update_btn_update">Päivitä</string>
@@ -164,7 +164,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="app_manager_manage_space">Hallitse tilaa</string>
   <string name="app_manager_menu_clear_data">Tyhjennä data</string>
   <string name="app_manager_net_control_title">Rajoita datan käyttöä</string>
-  <string name="app_manager_net_mobile">Mobiili</string>
+  <string name="app_manager_net_mobile">Data</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
   <string name="app_manager_not_record">Sovelluksia ei löytynyt, jotka tarvitsevat käyttöoikeuksia</string>
   <string name="app_manager_notify_bar">Merkit</string>
@@ -738,7 +738,7 @@ mikäli unohdat sen"</string>
   <string name="handle_bar_title_system">Järjestelmä</string>
   <string name="handle_title_network">Wi-Fi Turvallisuus</string>
   <string name="handle_title_pay_env">Maksuympäristö</string>
-  <string name="handle_title_privacy">Yksityisyyden Turvallisuus</string>
+  <string name="handle_title_privacy">Yksityisyys &amp; tietoturva</string>
   <string name="hide_mode_app_background_setting_text">Sovelluskohtainen virransäästö</string>
   <string name="hide_mode_summary_text">Hallitse sovelluksien taustatyöskentelyä virran säästämiseksi</string>
   <string name="hide_system_app">Piilota järjestelmäsovellukset</string>
@@ -747,7 +747,7 @@ mikäli unohdat sen"</string>
   <string name="hints_input_roaming_daily_limit">Syötä tiedonsiirtoraja</string>
   <string name="hints_loading_text">Ladataan…</string>
   <string name="hints_scan_danger_result">Riski löytyi, korjaa nyt</string>
-  <string name="hints_scan_result_no_finish">Skannaus ei ole valmis. Käynnistä uudelleen napauttamalla.</string>
+  <string name="hints_scan_result_no_finish">Skannaus ei ole valmis. Aloita alusta napauttamalla.</string>
   <string name="hints_scan_result_phone_safe">Kaikki näyttää hyvältä</string>
   <string name="hints_scan_result_safe">Turvallinen</string>
   <string name="hints_scanning">Skannataan…</string>
@@ -1720,8 +1720,8 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="start_downloading_app">Aloitetaan latausta: %1$s</string>
   <string name="start_game">Aloita</string>
   <string name="start_tc_button">Kalibroi</string>
-  <string name="suggest_app_tolock">Suositukset</string>
-  <string name="suggest_scan_again">On suositeltavaa tehdä täydellinen tarkistus turvallisuuden varmistamiseksi.</string>
+  <string name="suggest_app_tolock">Ehdotukset</string>
+  <string name="suggest_scan_again">Suorita tarkistus loppuun välttääksesi tietoturvariskejä.</string>
   <string name="summary_app_lock_disable">Suojaa tietosi Sovelluslukolla</string>
   <string name="summary_auto_update">MIUI valitsee sopivimman ajan ladata ja asentaa päivitykset.</string>
   <string name="summary_cleaner_cloudscan">Lähetä ja vertaa kansioiden nimiä verkkotunnisteisiin</string>
@@ -2038,7 +2038,7 @@ Lisää saldoa napauttamalla."</string>
   <string name="use_immediately">Käytä</string>
   <string name="user_define_title">Lisää sääntöjä</string>
   <string name="virus_ad_icon_text">Mainos</string>
-  <string name="virus_auto_update_engine">Automaattinen Päivitys： %s</string>
+  <string name="virus_auto_update_engine">Automaattinen päivitys： %s</string>
   <string name="virus_scan_process_pre">%</string>
   <string name="virus_update_tips_title">Yhdistä Wi-Fi-verkkoon</string>
   <string name="virus_wait_network_dialog_message">Päivitykset ovat suuria. Lataa ne yhdistämällä Wi-Fi-verkkoon.</string>

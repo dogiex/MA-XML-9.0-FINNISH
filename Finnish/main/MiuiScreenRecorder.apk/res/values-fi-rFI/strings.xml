@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_info">Nauhoitetaan, pysäytä napauttamalla</string>
-  <string name="app_name">Näytön nauhoittaja</string>
+  <string name="app_name">Näytön Nauhoittaja</string>
   <string name="app_notification_title">Näytön nauhoittaja</string>
   <string name="auto_stop_title">Video nauhoitettiin onnistuneesti</string>
   <string name="battery_not_allowed" formatted="false">Nauhoittaminen ei onnistu akun ollessa alle 3%. Varmista, että akku on vähintään 20% ladattu.</string>

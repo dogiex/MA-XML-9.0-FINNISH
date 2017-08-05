@@ -83,7 +83,7 @@
         <item>Suorituskyky ensin -tila</item>
     </string-array>
     <string-array name="thermal_summaries">
-        <item>The current temperature control mode, the temperature of experience is preferred</item>
-        <item>The current performance model, performance experience is preferred, temperatures could rise</item>
+        <item>Nykyinen oletustila</item>
+        <item>Nykyinen suorituskykytila</item>
     </string-array>
 </resources>
