@@ -1486,7 +1486,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="enable_service_password_reason">Koska palvelun %1$s ottaminen käyttöön vaikuttaa tietojen salaukseen, sinun pitää vahvistaa salasana.</string>
   <string name="enable_service_pattern_reason">Koska palvelun %1$s ottaminen käyttöön vaikuttaa tietojen salaukseen, sinun pitää vahvistaa kuvio.</string>
   <string name="enable_service_pin_reason">Koska palvelun %1$s ottaminen käyttöön vaikuttaa tietojen salaukseen, sinun pitää vahvistaa PIN-koodi.</string>
-  <string name="enable_service_title">Otetaanko %1$s käyttöön?</string>
+  <string name="enable_service_title">Palvelu suorittaa nämä toiminnot:</string>
   <string name="enable_snapshot_screenlock">Ota kuva painamalla pitkään Takaisin-painiketta</string>
   <string name="enable_terminal_summary">Ota käyttöön päätesov. joka mahdollistaa paikall. liittymäkäytön</string>
   <string name="enable_terminal_title">Paikallinen pääte</string>
@@ -2662,9 +2662,9 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="open_miui_optimization_warning_message">Laitteesi käynnistyy uudelleen, jotta muutokset tulevat voimaan.</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Peruuta</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Sulje</string>
-  <string name="open_personal_assistant_dialog_desc">Et voi käyttää Älykästä avustajaa ja saada sen päivityksiä. Poistetaanko käytöstä nyt?</string>
-  <string name="open_personal_assistant_dialog_title">Poista Älykäs avustaja käytöstä</string>
-  <string name="open_personal_assistant_title">Ota Älykäs avustaja käyttöön</string>
+  <string name="open_personal_assistant_dialog_desc">Et voi käyttää QuickCard ja saada sen päivityksiä. Poistetaanko käytöstä nyt?</string>
+  <string name="open_personal_assistant_dialog_title">Poista QuickCard käytöstä</string>
+  <string name="open_personal_assistant_title">Ota QuickCard käyttöön</string>
   <string name="open_sdcard_optimization_title">avaa emuloita sd-kortin optimointi</string>
   <string name="open_sdcard_optimization_warning_message">Laitteesi käynnistyy uudelleen, jotta tämä muutos tulee voimaan.</string>
   <string name="open_wifi_connect_summary">Katso tiedot napauttamalla.</string>

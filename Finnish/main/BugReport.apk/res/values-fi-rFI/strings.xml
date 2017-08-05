@@ -8,7 +8,7 @@
   <string name="app_name">Palaute</string>
   <string name="btn_send">Lähetä</string>
   <string name="bugreport_dialog_not_show_again">Älä näytä uudelleen</string>
-  <string name="bugreport_dialog_submit_content">Palautteesi saattaa sisältää henkilökohtaista tietoa.</string>
+  <string name="bugreport_dialog_submit_content">Palautteesi saattaa sisältää henkilökohtaista tietoa ja sijaintitietoa.</string>
   <string name="bugreport_dump_complete_notification_summary">Napauta katsoaksesi.</string>
   <string name="bugreport_dump_complete_notification_title">Luo virheraportti</string>
   <string name="bugreport_dump_start_notification_summary">Tämä kestää useita minuutteja.</string>
@@ -231,7 +231,7 @@
   <string name="permission_granted">%1$s käyttöoikeus myönnetty</string>
   <string name="pic_not_exist">Tätä kuvaa ei ole olemassa</string>
   <string name="pic_view_format">%1$s/%2$s</string>
-  <string name="plus_one_submit_dialog_content">Palautteesi ja virhelokit lähetetään Mi:n palvelimille.</string>
+  <string name="plus_one_submit_dialog_content">Palautteesi, sisältäen liitetiedot ja virhelokit lähetetään MIUI:n palvelimille. Se saattaa sisältää henkilökohtaista tietoa ja sijaintitietosi.</string>
   <string name="plus_one_submit_dialog_not_show_again">Muista valinta</string>
   <string name="post_miui_bbs_failed">Foorumille postitus epäonnistui</string>
   <string name="pull_to_refresh_pull_label">Vedä alas päivittääksesi</string>

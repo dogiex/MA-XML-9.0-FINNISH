@@ -18,6 +18,7 @@ Ota yhteyttä myyjääsi lisätietoja varten."</string>
   <string name="enable_find_device_success">Etsi laite-toiminto on käytössä</string>
   <string name="find_device">Etsi laite</string>
   <string name="find_device_crash">Etsi Laite-toiminto sulkeutui odottamattomasti.</string>
+  <string name="find_device_error_access_denied">Käyttö estetty.</string>
   <string name="find_device_error_account_sys_timeout">Mi Tiliin ei saada yhteyttä. </string>
   <string name="find_device_error_account_unknown_error">Mi Tili virhe (%s).</string>
   <string name="find_device_error_network">Verkkovirhe.</string>
@@ -50,6 +51,10 @@ Ota yhteyttä myyjääsi lisätietoja varten."</string>
   <string name="phone_locked_account_phone">, liitetty puhelinnumero: %s</string>
   <string name="stop_on_empty_captcha">Captcha ei voi olla tyhjä</string>
   <string name="stop_on_empty_password">Salasana ei voi olla tyhjä</string>
+  <string name="sys_notification_async_open_failed_content">Yritä uudelleen napauttamalla tai peruuta.</string>
+  <string name="sys_notification_async_open_failed_title">Etsi laite -ominaisuutta ei voitu ottaa käyttöön</string>
+  <string name="sys_notification_async_verify_content">Meidän päivitetty Tietoturvakäytäntö vaatii, että Etsi laite pitää aktivoida uudelleen.</string>
+  <string name="sys_notification_async_verify_title">Aktivoi Etsi laite uudelleen</string>
   <string name="time_correction_failure">Aikaa ei voi korjata. %s</string>
   <string name="time_correction_success">Aika korjattu</string>
   <string name="unlock">Aktivoi</string>

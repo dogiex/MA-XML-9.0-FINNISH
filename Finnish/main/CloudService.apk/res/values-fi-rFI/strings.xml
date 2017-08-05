@@ -4,6 +4,7 @@
   <string name="account">Tili</string>
   <string name="account_related">Laitteesi on linkitettynä jo olemassa olevaan Mi Tiliin(%s). Yhdistä verkkoon ja todenna laitteesi.</string>
   <string name="activate">Aktivoi</string>
+  <string name="activate_find_device_success">Etsi laite on aktivoitu.</string>
   <string name="activate_finddevice">Yhdistä verkkoon ja aktivoi laitteesi</string>
   <string name="activate_number_change_dialog_message">Valitse puhelinnumero, joka näytetään muille laitteille, kun käytät VoIP-puheluita.</string>
   <string name="activating">Aktivoidaan…</string>
@@ -46,6 +47,8 @@ Edellinen varmuuskopiointi: %2$s"</string>
   <string name="cloud_back_up_title">Varmuuskopioi laite</string>
   <string name="cloud_backup_dialog_title">Varmuuskopioi Mi Pilveen</string>
   <string name="cloud_find_device">Etsi laite</string>
+  <string name="cloud_find_device_off">Pois päältä</string>
+  <string name="cloud_find_device_on">Päällä</string>
   <string name="cloud_restore_title">Palauta varmuuskopiosta</string>
   <string name="cloud_space_upgrade_message">Lisää %s Gt pilveesi napauttamalla.</string>
   <string name="cloud_space_upgrade_no_quota_info">Tallennustilan tietojen haku epäonnistui</string>
@@ -97,6 +100,12 @@ Edellinen varmuuskopiointi: %2$s"</string>
   <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">"paikantaaksesi, lukitaksesi, tai palauttaaksesi puhelin tehdasasetuksille.
 Jos vaihdat SIM-kortteja, toinen tekstiviesti lähetetään automaattisesti tämän toiminnon uudelleenaktivoimiseksi."</string>
+<string name="find_device_operation_failure_rpc">RPC virheen vuoksi toimintoa ei voitu suorittaa.</string>
+  <string name="find_device_pref_alert_content">Etsi laite on yhdistetty Mi Tiliisi. Sinun täytyy asettaa salasana tai syöttää asettamasi salasana. Varmista, että muistat aina Mi Tilisi ID numeron ja salasanan. Lähtevä tekstiviesti saatetaan vaatia tämän palvelun aktivointia varten. Operaattorisi veloittaa sinua tästä viestistä. Kun vaihdat SIM-kortteja, viesti lähetetään automaattisesti tämän ominaisuuden uudelleenaktivoimiseksi."</string>
+  <string name="find_device_pref_alert_negtive">Ei kiitos</string>
+  <string name="find_device_pref_alert_positive">OK</string>
+  <string name="find_device_pref_alert_title">Muista Mi Tilisi ID numero ja salasana</string>
+  <string name="find_device_pref_initializing">Alustetaan…</string>
   <string name="find_device_reading_status">Ladataan tilaa…</string>
   <string name="find_device_reading_status_failure">Tilan lataaminen epäonnistui.</string>
   <string name="find_device_send_sms_alert">Jos vaihdat SIM-kortteja, toinen tekstiviesti lähetetään automaattisesti tämän toiminnon uudelleenaktivoimiseksi.</string>
@@ -204,10 +213,21 @@ Jos vaihdat SIM-kortteja, toinen tekstiviesti lähetetään automaattisesti täm
   <string name="micloud_dialog_sync_now_title">Synkronoi yhdistämällä Wi-Fi-verkkoon</string>
   <string name="micloud_dspt">Käytä Mi Pilveä datan synkronointiin, laitteesi paikantamiseen,</string>
   <string name="micloud_dspt_provision">Käytä Mi Pilveä datan synkronointiin, laitteesi paikantamiseen ja asioiden jakamiseen ystäviesi kanssa.</string>
+  <string name="micloud_find_device_close_alert_content">Jos poistat tämän ominaisuuden käytöstä, et voi enää paikantaa laitettasi jos se hukkuu.</string>
+  <string name="micloud_find_device_close_alert_negtive">Poista käytöstä siitä huolimatta</string>
+  <string name="micloud_find_device_close_alert_positive">Pidä käytössä</string>
+  <string name="micloud_find_device_close_alert_title">Poistetaanko Etsi laite käytöstä?</string>
+  <string name="micloud_find_device_close_fail">Etsi laite -ominaisuuden poistaminen käytöstä epäonnistui</string>
+  <string name="micloud_find_device_close_progress">Poistetaan Etsi laite käytöstä…</string>
   <string name="micloud_find_device_finish">Valmis</string>
+  <string name="micloud_find_device_guide_alert_content">Etsi laite on yhdistetty Mi Tiliisi. Sinun täytyy asettaa salasana tai syöttää asettamasi salasana. Varmista, että muistat aina Mi Tilisi ID numeron ja salasanan.</string>
+  <string name="micloud_find_device_guide_alert_negtive">Ei kiitos</string>
+  <string name="micloud_find_device_guide_alert_negtive_activate">Ei kiitos</string>
+  <string name="micloud_find_device_guide_alert_positive">OK</string>
+  <string name="micloud_find_device_guide_alert_title">Muista Mi Tilisi ID numero ja salasana</string>
   <string name="micloud_find_device_guide_button">Ota laitteen etsintä käyttöön</string>
   <string name="micloud_find_device_guide_content">Lähtevä tekstiviesti saatetaan tarvita tämän palvelun aktivoimiseksi. Operaattorisi veloittaa sinua tästä viestistä. Kun vaihdat SIM-korttia, viesti lähetetään automaattisesti tämän ominaisuuden uudelleenaktivoimiseksi.</string>
-  <string name="micloud_find_device_guide_fail_reopen">Ota laitteen etsintä käyttöön Mi Pilvessä</string>
+  <string name="micloud_find_device_guide_fail_reopen">Voit ottaa Etsi laite -ominaisuuden käyttöön asetuksista Mi Tili - Mi Pilvi</string>
   <string name="micloud_find_device_guide_fail_sub_net">Tarkista verkkoyhteys ja yritä uudelleen.</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">Yhteyden aikakatkaisu. Yritä uudelleen myöhemmin.</string>
   <string name="micloud_find_device_guide_micloud">Ota Mi Pilven synkronointi käyttöön</string>
@@ -221,14 +241,17 @@ Jos vaihdat SIM-kortteja, toinen tekstiviesti lähetetään automaattisesti täm
   <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat suosittelee ottamaan laitteen etsinnän käyttöön</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay suosittelee ottamaan laitteen etsinnän käyttöön</string>
   <string name="micloud_find_device_guide_progress">Laitteen etsintää otetaan käyttöön…</string>
-  <string name="micloud_find_device_guide_title">Kirjaudu sisään tilille %s paikantaaksesi, lukitaksesi tai palauttaaksesi laitteesi oletusasetuksille.</string>
+  <string name="micloud_find_device_guide_title">"Kirjaudu sisään osoitteessa i.mi.com paikantaaksesi, lukitaksesi tai palauttaaksesi laitteesi tehdasasetuksille. Tämä saattaa auttaa sinua löytämään laitteesi siltä varalta, että hukkaat sen.
+  Jos hukkaat laitteesi, voit ottaa yhteyttä usein käyttämiesi sovelluksien (esim. Alipay, WeChat, QQ) turvallisuuspalveluun suojellaksesi tilejäsi osoitteessa i.mi.com."</string>
   <string name="micloud_find_device_open_fail">Laitteen etsinnän ottaminen käyttöön epäonnistui</string>
   <string name="micloud_find_device_opened">Laitteen etsintä on käytössä</string>
   <string name="micloud_find_device_opened_content">Löydä laitteesi täältä %s</string>
   <string name="micloud_find_device_opened_content_url">i.mi.com</string>
   <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
-  <string name="micloud_first_login_summary"/>
-  <string name="micloud_first_login_title"/>
+  <string name="micloud_find_device_verify_button">Aktivoi Etsi laite uudelleen</string>
+  <string name="micloud_find_device_verify_close">Poista Etsi laite käytöstä</string>
+  <string name="micloud_find_device_verify_fail">Etsi laite -ominaisuutta ei voitu aktivoida uudelleen</string>
+  <string name="micloud_find_device_verify_progress">Aktivoidaan Etsi laite -ominaisuutta uudelleen…</string>
   <string name="micloud_full_influence_dspt">"Kaikki kuvasi, videosi, muistiosi ja sovelluksesi varmuuskopiot säilytetään pilvessä. 
 
 Tällä tavalla, jos hukkaat tai hajotat laitteesi, tietosi pysyy tallessa. 

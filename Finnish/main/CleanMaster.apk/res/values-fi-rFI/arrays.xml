@@ -9,13 +9,14 @@
         <item>Nimi</item>
     </string-array>
     <string-array name="installed_app_sort_type">
-        <item>Käytetyimmät</item>
+        <item>Usein käytetty</item>
         <item>Koko</item>
     </string-array>
     <string-array name="auto_clean_time">
         <item>Joka päivä</item>
-        <item>Joka 3 päivä</item>
-        <item>Joka 7 päivä</item>
+        <item>3 päivän välein</item>
+        <item>7 päivän välein</item>
+        <item>15 päivän välein</item>
     </string-array>
     <string-array name="auto_clean_size">
         <item>100 Mt</item>
@@ -24,56 +25,8 @@
         <item>1 Gt</item>
     </string-array>
     <string-array name="auto_process_mode">
-        <item>Vain ilmoitus</item>
-        <item>Puhdista automaattisesti</item>
-        <item>Puhdista ja ilmoitus</item>
-    </string-array>
-    <string-array name="cache_clean_menu">
-        <item>Puhdista tämä tiedosto</item>
-        <item>Näytä tiedoston sijainti</item>
-    </string-array>
-    <string-array name="trash_clean_menu">
-        <item>Puhdista tämä tiedosto</item>
-        <item>Näytä tiedoston sijainti</item>
-    </string-array>
-    <string-array name="video_clean_menu">
-        <item>Puhdista tämä tiedosto</item>
-        <item>Avaa</item>
-    </string-array>
-    <string-array name="empty_floder_clean_menu">
-        <item>Puhdista</item>
-    </string-array>
-    <string-array name="apk_clean_menu">
-        <item>Puhdista</item>
-        <item>Asenna tämä sovellus</item>
-        <item>Näytä kohteen kansio</item>
-    </string-array>
-    <string-array name="long_add_menu">
-        <item>Lisää poikkeuksiin</item>
-    </string-array>
-    <string-array name="long_add_app_menu">
-        <item>Lisää sovellus poikkeuksiin</item>
-    </string-array>
-    <string-array name="app_clean_menu">
-        <item>Poista sovellus</item>
-    </string-array>
-    <string-array name="auto_alert_apps_time">
-        <item>7 päivän välein</item>
-        <item>15 päivän välein</item>
-        <item>30 päivän välein</item>
-    </string-array>
-    <string-array name="scan_engine">
-        <item>Clean Master</item>
-        <item>Tencent</item>
-    </string-array>
-	<string-array name="wechat_menu_delete">
-        <item>Puhdista</item>
-    </string-array>
-    <string-array name="wechat_menu_delete_whitelist">
-        <item>Puhdista</item>
-    </string-array>
-    <string-array name="wechat_menu_delete_whitelist_view">
-        <item>Puhdista</item>
-        <item>Näytä</item>
+        <item>Kysy ilmoituksella</item>
+        <item>Puhdista taustalla</item>
+        <item>Näytä ilmoitus puhdistamisen jälkeen</item>
     </string-array>
 </resources>

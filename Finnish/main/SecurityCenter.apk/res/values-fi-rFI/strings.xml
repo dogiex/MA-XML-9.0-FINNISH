@@ -15,18 +15,16 @@
   <string name="ac_firstUseApplock_title">Aseta salasana sovellusten suojaamiseksi</string>
   <string name="ac_summaryOff">Ei käytössä, salasanaa ei vaadita sovelluksien avaamiseen</string>
   <string name="ac_summaryOn">Käytössä, salasana vaaditaan sovelluksien avaamiseen</string>
+  <string name="access_control_failed_need_to_unlock_nofingerprint">Salasana vaaditaan sovelluksien avaamiseen</string>
+  <string name="access_control_fingerprint_not_identified_msg">Sormenjälkeä ei voitu lukea.</string>
   <string name="access_control_need_password">"%s lisätty onnistuneesti
 "</string>
-  <string name="access_control_need_to_unlock">"Skannaa sormenjälki
-tai syötä Sovelluslukon salasana"</string>
   <string name="access_control_need_to_unlock_nofingerprint">Syötä Sovelluslukon salasana</string>
   <string name="action_button_text_100">Optimoi</string>
   <string name="action_button_text_60">Korjaa</string>
   <string name="action_button_text_60_80">Korjaa</string>
   <string name="action_button_text_80_100">Optimoi</string>
   <string name="action_source_sms_title">Estetyt tekstiviestit</string>
-  <string name="activate_fingerprint_dialog_message">Tämä sormenjälki ei ole aktiivinen. Syötä salasanasi aktivoidaksesi tämä sormenjälki.</string>
-  <string name="activate_fingerprint_dialog_title">Syötä salasana</string>
   <string name="activity_title_antispam">Estolista</string>
   <string name="activity_title_antivirus">Tietoturvatarkistus</string>
   <string name="activity_title_apps_manager">Sovellukset</string>
@@ -71,7 +69,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="adjust_traffic_carrier_summary_two_day_before">Päivitetty kaksi päivää sitten</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Päivitetty eilen klo %s</string>
   <string name="adjust_traffic_data">Aseta datan käyttö</string>
-  <string name="after_the_lock_screen">Sovellus menee lukkoon näytön mukana, voit muuttaa tätä Sovelluslukon asetuksissa.</string>
+  <string name="after_the_lock_screen">Sovellus lukitaan näytön mukana.</string>
   <string name="alarm_headsup_bottom">小米手机抢红包就是快</string>
   <string name="alarm_lock_screen_summary">一大波红包雨在路上...</string>
   <string name="alarm_lockscreen_btn">开始抢红包</string>
@@ -226,12 +224,13 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="application_item_already_permission">Sallittu</string>
   <string name="application_item_disable">Rajoitettu</string>
   <string name="applock_add_account">Lisää</string>
-  <string name="applock_add_account_info">"Lisää Mi Tili, jotta voit palauttaa salasanasi,
-mikäli unohdat sen"</string>
+  <string name="applock_add_account_info">Lisää Mi Tilisi, jotta voit palauttaa salasanasi, mikäli unohdat sen.</string>
   <string name="applock_add_account_setting">Tili &amp; yksityisyys</string>
+  <string name="applock_bind_account_title">Salasanasi palauttaminen</string>
   <string name="applock_close_dialog_summary">Sovellukset ei ole enää suojattu ja salasanasi poistetaan Sovelluslukon käytöstä poistamisen jälkeen.</string>
   <string name="applock_close_dialog_title">Poistetaanko Sovelluslukko käytöstä?</string>
   <string name="applock_exit_account_info">Tili poistetaan automaattisesti, kun kirjaudut ulos</string>
+  <string name="applock_header_text_less_than_half">Liian vähän tilaa tälle sovellukselle. Vedä erotinta kauemmaksi.</string>
   <string name="applock_login_and_add_account">Kirjaudu sisään &amp; lisää</string>
   <string name="applock_not_add_account">Ei nyt</string>
   <string name="applock_not_login_account">Et ole kirjautuneena sisään</string>
@@ -456,8 +455,6 @@ mikäli unohdat sen"</string>
   <string name="card_main_private_space_summary">Toisen tilan käyttäminen on, kuin olisi kaksi laitetta</string>
   <string name="card_main_private_space_title">Toinen tila</string>
   <string name="card_main_sectool_title">Työkalut</string>
-  <string name="card_main_speeddetail_title">Yhteyden nopeus</string>
-  <string name="card_main_speeddetailt_summary">Näytä yksittäisten sovelluksien yhteyden nopeus</string>
   <string name="card_main_xspace_action">Luo</string>
   <string name="card_main_xspace_summary">Käytä kahta tiliä millä tahansa sovelluksella</string>
   <string name="card_main_xspace_title">Kloonatut sovellukset</string>
@@ -491,7 +488,7 @@ mikäli unohdat sen"</string>
   <string name="cmd_lucky_float">摇一摇</string>
   <string name="confirmSecondSpacePassword">Vahvista Toisen tilan salasana</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Lisätään Mi Tili</string>
-  <string name="confirm_fingerprint_msg">Aseta sormi tunnistimelle</string>
+  <string name="confirm_fingerprint_msg">Vahvista sormenjälkesi</string>
   <string name="confirm_prompt_all_permission">Kysytäänkö käyttöoikeuksia kaikille sovelluksille?</string>
   <string name="confirm_reject_all_permission">Estä kaikkia sovelluksia käyttämästä tätä toimintoa?</string>
   <string name="connect_internet_by_mobiledata">Mobiilidatayhteys</string>
@@ -640,8 +637,8 @@ mikäli unohdat sen"</string>
   <string name="exception_notify_message">网络统计模块异常，建议重启恢复</string>
   <string name="exception_titile">网络助手异常</string>
   <string name="exit">Poistu</string>
-  <string name="finger_remind_message">Voit käyttää sormenjälkeä myös Sovelluslukon kanssa.</string>
-  <string name="fingerprint_identify_msg">Skannaa sormenjälkesi</string>
+  <string name="finger_remind_message">Lisää sormenjälkesi ensin. Avaa Asetukset napauttamalla.</string>
+  <string name="fingerprint_identify_msg">Ota Sormenjäljellä avaaminen käyttöön</string>
   <string name="fingerprint_not_identified_msg">Sormenjäljen luku epäonnistui. Syötä salasanasi.</string>
   <string name="fingerprint_not_remind">Älä kysy uudelleen</string>
   <string name="fingerprint_remind_dialog_title">Sormenjäljellä avaaminen</string>
@@ -679,8 +676,9 @@ mikäli unohdat sen"</string>
   <string name="float_window_summary">支持快速跳转至摇一摇与咻一咻页面</string>
   <string name="float_window_tips">小米手机就是快！</string>
   <string name="foreground_traffic">Etuala %s</string>
-  <string name="forget_password_button_text">Unohdin salasanani</string>
-  <string name="forget_pattern">Unohtuiko kuvio?</string>
+  <string name="forget_password_button_text">Unohdin salasanan</string>
+  <string name="forget_password_button_text_normal">Unohdin salasanan</string>
+  <string name="forget_pattern">Unohdin salasanan</string>
   <string name="free_time_traffic">Hiljaisen ajan datan raja</string>
   <string name="free_time_traffic_hint">Syötä hiljaisen ajan datan raja</string>
   <string name="free_time_traffic_settings">Hiljaisen ajan datan raja</string>
@@ -836,10 +834,12 @@ Operaattori saattaa veloittaa sinua lisämaksuista, jos käytät mobiilidataa uu
   <string name="lock_screen_warning_switch_summary">Näytä varoitus lukitusnäytöllä, kun datan käyttö ylittää tietyn rajan</string>
   <string name="lock_screen_warning_switch_title">Näytä varoitukset lukitusnäytöllä</string>
   <string name="lock_screen_warning_value">Datan käyttövaroitus</string>
+  <string name="lockpattern_access_need_to_unlock_wrong_fingerprint">Sormenjälkeä ei tunnistettu, yritä uudelleen.</string>
+  <string name="lockpattern_access_need_to_unlock_wrong_pattern">Salasana on väärin, yritä uudelleen.</string>
   <string name="lockpattern_confirm_button_text">OK</string>
   <string name="lockpattern_continue_button_text">Seuraava</string>
   <string name="lockpattern_need_to_confirm">Vahvista kuvio piirtämällä se uudelleen</string>
-  <string name="lockpattern_need_to_unlock_wrong">Yritä uudelleen</string>
+  <string name="lockpattern_need_to_unlock_wrong">Salasanat eivät täsmää, yritä uudelleen.</string>
   <string name="lockpattern_pattern_confirmed_header">Uusi lukituksenpoistokuvio</string>
   <string name="lockpattern_pattern_entered_header">Kuvio lisätty</string>
   <string name="lockpattern_recording_incorrect_too_short">Yhdistä ainakin %d pistettä</string>
@@ -1019,6 +1019,7 @@ vastausta"</string>
   <string name="mi_service_traffic_detail">Framework yksityiskohdat</string>
   <string name="mian_page_primary_txt">Ulkomaan roaming</string>
   <string name="miliao_lucky_warning">米聊红包</string>
+  <string name="modify_password_mode">Vaihda salasanatyyppi</string>
   <string name="modifypassword">Vaihda salasana</string>
   <string name="monitor_app_add">Lisää</string>
   <string name="monitor_app_more">Lisää</string>
@@ -1224,9 +1225,11 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="package_setted_error_notification_titile">Datapaketin asettaminen epäonnistui</string>
   <string name="packages_subtitle">Sisältyvät paketit</string>
   <string name="passwordIncorrect">Käyttäjänimi tai salasana on väärin</string>
-  <string name="password_forget_pattern_confirm">Varmuuskopioi tiedot</string>
-  <string name="password_forget_pattern_message">Varmuuskopioi tietosi paikallisesti ja sen jälkeen tee tehdasasetuksien palautus. Sen jälkeen voit vaihtaa salasanasi.</string>
-  <string name="password_forget_pattern_title">Varmuuskopioi tietosi</string>
+  <string name="password_forget_pattern_confirm">Selvä</string>
+  <string name="password_forget_pattern_message">Tietoturvasyiden takia, voit palauttaa salasanasi vain tehdasasetuksien palauttamisen jälkeen. Napauta palauttaaksesi tehdasasetukset.</string>
+  <string name="password_forget_pattern_message_none">Sovelluksia ei ole lukittu. Voit palauttaa salasanasi.</string>
+  <string name="password_forget_pattern_reset">Palauta</string>
+  <string name="password_forget_pattern_title">Huomio</string>
   <string name="password_promotion_not_login_xiaomi_account_message">Lisää Mi Tilisi, jotta voit palauttaa salasanasi, jos unohdat sen.</string>
   <string name="password_promotion_postbutton_text">Lisää</string>
   <string name="password_promotion_title">Lisää Mi Tili</string>
@@ -1537,7 +1540,7 @@ Kalibroinnin aikana, MIUI lähettää tekstiviestin operaattorillesi saadakseen 
   <string name="set_applock_password">Aseta salasana</string>
   <string name="setting">Asetukset</string>
   <string name="setting_alarm_summary">各大平台官方红包活动闹钟提醒</string>
-  <string name="setting_privacy_password">Aseta Sovelluslukon salasana</string>
+  <string name="setting_privacy_password">Lisää kuvio</string>
   <string name="settings">Datan käytön asetukset</string>
   <string name="settings_battery_consume_abnormal_summary">Vastaanota ilmoituksia, kun akku tyhjenee nopeasti</string>
   <string name="settings_battery_consume_abnormal_title">Akun tyhjenemisen ilmoitukset</string>
@@ -2013,6 +2016,8 @@ Lisää saldoa napauttamalla."</string>
   <string name="uninstall_app_dialog_title">Poistetaanko nyt?</string>
   <string name="uninstall_app_done">Poistettiin onnistuneesti</string>
   <string name="unlike">Ei kiitos</string>
+  <string name="unlock_pattern">Kuvio</string>
+  <string name="unlock_pattern_to_bind_fingerprint">Syötä salasana aktivoidaksesi sormenjälki</string>
   <string name="updating_diagnostic_botton">Analysoidaan dataa…</string>
   <string name="usage_sorted_activity_lable">Datan käyttö</string>
   <string name="usage_sorted_empty_text">Tyhjä</string>

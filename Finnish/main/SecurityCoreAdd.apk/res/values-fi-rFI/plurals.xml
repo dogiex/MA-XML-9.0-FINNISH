@@ -12,4 +12,8 @@
         <item quantity="other">%d ilmoitusta Toisessa tilassa</item>
         <item quantity="one">%d ilmoitus Toisessa tilassa</item>
     </plurals>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">Hae %d sovellusta</item>
+        <item quantity="one">Hae %d sovellus</item>
+    </plurals>
 </resources>
