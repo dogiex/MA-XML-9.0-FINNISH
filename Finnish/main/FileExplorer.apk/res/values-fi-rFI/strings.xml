@@ -323,8 +323,8 @@
   <string name="mobile_network_dialog_title">Mobiilidatan varoitus</string>
   <string name="month_day_format">d.M.</string>
   <string name="move_failed">Ei voi siirtää</string>
-  <string name="move_icon_to_desktop_hint">Lisää Tiedostoselaimesta Kotinäytölle pikakuvake tiedostojen helpompaan hallintaa varten.</string>
-  <string name="move_icon_to_desktop_success">Pikakuvake lisätty Kotinäytölle.</string>
+  <string name="move_icon_to_desktop_hint">Lisää Tiedostoselaimesta Aloitusnäytölle pikakuvake tiedostojen helpompaan hallintaa varten.</string>
+  <string name="move_icon_to_desktop_success">Pikakuvake lisätty Aloitusnäytölle.</string>
   <string name="move_to">Siirrä kansioon…</string>
   <string name="msg_notify_setting">Ilmoitusasetukset</string>
   <string name="msg_page_video_default_title">Lähetin videon, katso!</string>
@@ -568,7 +568,7 @@
   <string name="setting">Asetukset</string>
   <string name="setting_account_bind">Lisää tili</string>
   <string name="setting_message_notify">Ilmoitukset</string>
-  <string name="setting_shortcut">Lisää Kotinäytön pikakuvake</string>
+  <string name="setting_shortcut">Lisää Aloitusnäytön pikakuvake</string>
   <string name="share_from_youliao">(Lähettäjä #有料# @有料Video）|</string>
   <string name="share_rank_card_tip">Jaa sijat</string>
   <string name="share_success">Jaettu onnistuneesti</string>
@@ -597,7 +597,7 @@
   <string name="shared_str">Jakaja %s</string>
   <string name="shortcut_exists">Pikakuvake on jo olemassa</string>
   <string name="shortcut_hotvideos">Suosittuja videoita</string>
-  <string name="shortcut_msg">Lisää suosituista videoista pikakuvake Kotinäytölle</string>
+  <string name="shortcut_msg">Lisää suosituista videoista pikakuvake Aloitusnäytölle</string>
   <string name="skip_file">Ohita</string>
   <string name="smb_loading">Odota hetki…</string>
   <string name="sort_size_asc">Pienemmästä suurempaan</string>

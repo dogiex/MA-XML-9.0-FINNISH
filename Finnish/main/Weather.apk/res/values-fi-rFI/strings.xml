@@ -248,7 +248,7 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="wind_direction_no_data">Tuuli</string>
   <string name="wind_miles_unit">%1$s mph</string>
   <string name="wind_unit">%1$s km/h</string>
-  <string name="xiaomi_weather_description_content">Sää -sovellus tarjoaa sinulle tarkkoja sääennustustietoja. Ilman tätä sovellusta, ilmoitusalueen ja Kotinäytön widgetit ei toimi normaalisti. Varmista, että voit elää ilman näitä ominaisuuksia, ennen kuin poistat sovelluksen.</string>
+  <string name="xiaomi_weather_description_content">Sää -sovellus tarjoaa sinulle tarkkoja sääennustustietoja. Ilman tätä sovellusta, ilmoitusalueen ja Aloitusnäytön widgetit ei toimi normaalisti. Varmista, että voit elää ilman näitä ominaisuuksia, ennen kuin poistat sovelluksen.</string>
   <string name="xiaomi_weather_description_title">Tietoja Sää -sovelluksesta</string>
   <string name="yes_vote_ratio">Puolesta %1$s%%</string>
   <string name="your_location">Sijaintisi</string>

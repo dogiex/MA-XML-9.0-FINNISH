@@ -54,12 +54,12 @@
   <string name="error_contact_not_exist">Yhteystietoa ei ole olemassa</string>
   <string name="error_hide_empty_note">Tyhjää muistiota ei voi piilottaa</string>
   <string name="error_note_empty_for_clock">Muistutusaikaa ei voi asettaa tyhjälle muistiolle</string>
-  <string name="error_note_empty_for_send_to_desktop">Tyhjää muistiota ei voi asettaa Kotinäytölle</string>
+  <string name="error_note_empty_for_send_to_desktop">Tyhjää muistiota ei voi asettaa Aloitusnäytölle</string>
   <string name="error_note_not_exist">Muistiota ei ole olemassa</string>
   <string name="error_send_empty_note">Tyhjää muistiota ei voi lähettää</string>
   <string name="error_send_empty_note_to_weibo">Tyhjää muistiota ei voi lähettää Weiboon</string>
   <string name="error_unsupport_content">Tämä muistio sisältää sisältöä, jota ei tueta, päivitä koskettamalla tähän</string>
-  <string name="error_widget_exist_for_send_to_desktop">Tämä muistio on jo Kotinäytölläsi</string>
+  <string name="error_widget_exist_for_send_to_desktop">Tämä muistio on jo Aloitusnäytölläsi</string>
   <string name="folder_exist">Saman niminen kansio on jo olemassa</string>
   <string name="force_touch_menu_add">Lisää muistio</string>
   <string name="format_move_note_out_folder">Tämä muistio on siirretty</string>
@@ -69,7 +69,7 @@
   <string name="hidden_notes_fragment_title">Piilotetut muistiot</string>
   <string name="hint_cannot_view_hidden_note_content">Piilotettujen muistioiden sisältöä ei voi näyttää</string>
   <string name="hint_foler_name">Nimi</string>
-  <string name="info_note_enter_desktop">Lisätty Kotinäytölle</string>
+  <string name="info_note_enter_desktop">Lisätty Aloitusnäytölle</string>
   <string name="loading_text">Odota hetki…</string>
   <string name="login_sync">Kirjaudu sisään &amp; synkronoi</string>
   <string name="menu_add_description">Lisää muistio</string>
@@ -86,7 +86,7 @@
   <string name="menu_restore">Palauta</string>
   <string name="menu_send_as_image">Lähetä kuvana</string>
   <string name="menu_send_as_text">Lähetä tekstinä</string>
-  <string name="menu_send_to_desktop">Aseta Kotinäytölle</string>
+  <string name="menu_send_to_desktop">Aseta Aloitusnäytölle</string>
   <string name="menu_send_weibo">Lähetä Weiboon</string>
   <string name="menu_source">Lähettäjä %1$s</string>
   <string name="menu_stick">Kiinnitä</string>

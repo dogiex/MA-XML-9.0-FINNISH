@@ -60,7 +60,7 @@ Näytä valitun näppäimistön Tietosuojakäytäntö."</string>
   <string name="terms_of_use">Käyttöehdot</string>
   <string name="terms_of_use_label">"Yksityisyytesi on todella tärkeää meille. Ole ystävällinen ja lue meidän Palveluehdot ja Tietosuojakäytäntö, jotta ymmärrät mitä tietoja keräämme, kuinka käytämme niitä, ja mitä vaihtoehtoja sinulla on.
 
-Sinun täytyy hyväksyä Palveluehtomme ja Tietosuojakäytäntömme, ennen kuin voit käyttää MIUI:ta. Aktivoinnin aikana, Mi palvelut, Mi SIM-kortin aktivointipalvelut, Mi Pilvi, Etsi laite, Kotinäytön moduulit, Peli Palvelu, MAB ja MSA järjestelmäkomponentit, Direct Service, Quick Card, statistiikka, MiSmartCards ja Mi Tilin komponentit ottavat yhteyden internetiin ja saavat sijaintisi."</string>
+Sinun täytyy hyväksyä Palveluehtomme ja Tietosuojakäytäntömme, ennen kuin voit käyttää MIUI:ta. Aktivoinnin aikana, Mi palvelut, Mi SIM-kortin aktivointipalvelut, Mi Pilvi, Etsi laite, Aloitusnäytön moduulit, Peli Palvelu, MAB ja MSA järjestelmäkomponentit, Direct Service, Quick Card, statistiikka, MiSmartCards ja Mi Tilin komponentit ottavat yhteyden internetiin ja saavat sijaintisi."</string>
   <string name="title_fingerprint">Lisää sormenjälkesi</string>
   <string name="two_dimensional_code_scan">QR-koodin skannaus</string>
   <string name="user_agreement">Palveluehdot</string>

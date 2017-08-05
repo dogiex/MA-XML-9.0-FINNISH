@@ -586,7 +586,7 @@
   <string name="notification_download_failed_more">%1$d kohteen lataaminen epäonnistui</string>
   <string name="notification_download_success_more">%1$d ladattu</string>
   <string name="notification_need_wifi_for_size">Latauskoko vaatii Wi-Fi-yhteyden.</string>
-  <string name="notification_play_summary">Näytä nykyinen ja seuraava kappale, näytä laulun sanat Kotinäytöllä</string>
+  <string name="notification_play_summary">Näytä nykyinen ja seuraava kappale, näytä laulun sanat Aloitusnäytöllä</string>
   <string name="notification_play_title">Ilmoitusalueen widgetti</string>
   <string name="notification_recommend_summary">Opi lisää uusista musiikkitrendeistä ja sovellustarjouksista</string>
   <string name="notification_recommend_title">Tärkeät ilmoitukset</string>
@@ -762,7 +762,7 @@
   <string name="settings_search_path_advance">Järjestelmäsovellukset/Musiikki/Palvelu ja asetukset/Lisäasetukset</string>
   <string name="settings_search_path_main">Järjestelmäsovellukset/Musiikki</string>
   <string name="settings_search_path_normal">Järjestelmäsovellukset/Musiikki/Palvelu ja asetukset</string>
-  <string name="settings_search_title_desktop_lyric">Kotinäytön lyriikat</string>
+  <string name="settings_search_title_desktop_lyric">Aloitusnäytön lyriikat</string>
   <string name="settings_search_title_download_quality">Latauksen laatu</string>
   <string name="settings_search_title_download_when_favorite">Lataa suosikit</string>
   <string name="settings_search_title_main">Musiikki</string>

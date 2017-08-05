@@ -842,7 +842,7 @@ Muodostetaanko pari tämän laitteen kanssa?"</string>
   <string name="camera_key_action_none_title">Ei toimintoa</string>
   <string name="camera_key_action_setting_title">Mi Painike</string>
   <string name="camera_key_action_shortcut_call">Puhelu</string>
-  <string name="camera_key_action_shortcut_home">Kotinäyttö</string>
+  <string name="camera_key_action_shortcut_home">Aloitusnäyttö</string>
   <string name="camera_key_action_shortcut_screenshot">Kuvakaappaus</string>
   <string name="camera_key_action_shortcut_search">Etsi</string>
   <string name="camera_key_action_shortcut_title">Pikakuvake</string>
@@ -930,7 +930,7 @@ Muodostetaanko pari tämän laitteen kanssa?"</string>
   <string name="close_sdcard_optimization_warning_message">Laitteesi käynnistyy uudelleen, jotta tämä muutos tulee voimaan.</string>
   <string name="cloud_backup_section_title">Mi Pilven varmuuskopiointi</string>
   <string name="cloud_backup_settings_section_title">Varmuuskopioinnin asetukset</string>
-  <string name="cloud_restore_section_summary">Palauta sovelluksia, Kotinäytön ulkoasu ja järjestelmän asetukset</string>
+  <string name="cloud_restore_section_summary">Palauta sovelluksia, Aloitusnäytön ulkoasu ja järjestelmän asetukset</string>
   <string name="cloud_restore_section_title">Palauta Mi Pilvestä</string>
   <string name="cmcc_hardware_version">Laitteistoversio</string>
   <string name="collect_diagnostics_summary">Kerää diagnostiikkatietoja vianmääritykseen</string>
@@ -1227,7 +1227,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="debug_networking_category">Yhteysominaisuudet</string>
   <string name="debug_view_attributes">Ota attribuuttinäkymän tarkistus käyttöön</string>
   <string name="decline_remote_bugreport_action">Hylkää</string>
-  <string name="defalut_launcher_title">Kotinäyttö &amp; Viimeaikaiset</string>
+  <string name="defalut_launcher_title">Aloitusnäyttö &amp; Viimeaikaiset</string>
   <string name="default_admin_support_msg">Tämä toiminto on poistettu käytöstä. Saat lisätietoja organisaatiosi järjestelmänvalvojalta.</string>
   <string name="default_app">(Oletus)</string>
   <string name="default_apps_title">Oletus</string>
@@ -1672,7 +1672,7 @@ Näkyvissä ei ollut lainkaan hevosia tai minkäänlaisia muita eläimiä. Miehe
   <string name="forget_wifi_message">Laitteesi ei enää yhdistä automaattisesti tähän verkkoon.</string>
   <string name="found_new_version">Päivitys saatavilla</string>
   <string name="fourhours">2 tuntia</string>
-  <string name="fp_nav_center_back_to_home_title">Napauta Koti-painiketta palataksesi takaisin Kotinäytölle</string>
+  <string name="fp_nav_center_back_to_home_title">Napauta Koti-painiketta palataksesi takaisin Aloitusnäytölle</string>
   <string name="free_memory">Vapaana</string>
   <string name="free_wifi_agreement_remind_never">Älä näytä uudelleen</string>
   <string name="free_wifi_confirm">OK</string>
@@ -1944,7 +1944,7 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="launch_defaults_none">Oletuksia ei asetettu.</string>
   <string name="launch_defaults_some">Joitakin oletuksia on asetettu.</string>
   <string name="launcher_auto_fill_empty_title">Täytä tyhjät ruudukot automaattisesti</string>
-  <string name="launcher_title">Kotinäyttö &amp; Viimeaikaiset</string>
+  <string name="launcher_title">Aloitusnäyttö &amp; Viimeaikaiset</string>
   <string name="launching_cit">Käynnistetään CIT</string>
   <string name="launching_pho">Käynnistetään puhelimen tietoja, odota hetki.</string>
   <string name="launching_rep">Raportoidaan…</string>
@@ -2057,7 +2057,7 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="lock_profile_wipe_warning_content_pattern">Jos annat väärän työprofiilin kuvion tällä yrityskerralla, työprofiilisi ja siihen liittyvät tiedot poistetaan tältä laitteelta.</string>
   <string name="lock_profile_wipe_warning_content_pin">Jos annat väärän työprofiilin PIN-koodin tällä yrityskerralla, työprofiilisi ja siihen liittyvät tiedot poistetaan tältä laitteelta.</string>
   <string name="lock_profile_wipe_warning_title">Viimeinen yritys</string>
-  <string name="lock_screen_cells_title">Lukitse Kotinäytön ulkoasu</string>
+  <string name="lock_screen_cells_title">Lukitse Aloitusnäytön ulkoasu</string>
   <string name="lock_screen_intro_skip_dialog_text">Laitteen suojausominaisuuksia ei oteta käyttöön. Et voi estää puhelimesi käyttöä, jos se varastetaan tai katoaa.</string>
   <string name="lock_screen_intro_skip_dialog_text_frp">Laitteen suojausominaisuuksia ei oteta käyttöön. Et voi estää puhelimesi käyttöä, jos se varastetaan, katoaa tai sen tiedot tyhjennetään.</string>
   <string name="lock_screen_notifications_interstitial_message">Miten haluat ilmoitusten näkyvän, kun laite on lukittu?</string>
@@ -2077,7 +2077,7 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="lock_screen_signature_summary">Viesti näytetään Lukitusnäytöllä</string>
   <string name="lock_screen_signature_title">Omistajan tiedot Lukitusnäytöllä</string>
   <string name="lock_screen_unlock_show">Ohita Lukitusnäyttö</string>
-  <string name="lock_screen_unlock_show_summary">Laitteen herätessä se menee suoraan Kotinäytölle tai salasanan syöttökenttään</string>
+  <string name="lock_screen_unlock_show_summary">Laitteen herätessä se menee suoraan Aloitusnäytölle tai salasanan syöttökenttään</string>
   <string name="lock_secure_after_timeout_click_me_to_change_text">Vaihda painamalla</string>
   <string name="lock_settings">Lukitusnäyttö &amp; salasana</string>
   <string name="lock_settings_common_title">Lukitusasetukset</string>
@@ -2374,7 +2374,7 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="miui_lab_slogan">Opi. Tutki. Löydä.</string>
   <string name="miui_lab_taplus_desc">Pidä pohjassa käynnistääksesi pikavalinnat</string>
   <string name="miui_lab_taplus_title">Sovellukset</string>
-  <string name="miui_screen_config_title">Kotinäytön asetukset</string>
+  <string name="miui_screen_config_title">Aloitusnäytön asetukset</string>
   <string name="mms_breathing_light_color_title">Viestien valon väri</string>
   <string name="mms_breathing_light_freq_title">Viestien valon vilkkumistiheys</string>
   <string name="mms_privacy_password_role_instruction">Yksityiset keskustelusi yhteystietojen kanssa säilytetään täällä.</string>
@@ -2648,7 +2648,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="oldman_mode_entry_name">Lite-tila</string>
   <string name="oldman_mode_entry_title">Lite-tila</string>
   <string name="oldman_mode_settings_caption">Lite-tilan asetukset</string>
-  <string name="oldman_mode_summary">Käytä yksinkertaistettua Kotinäyttöä ja valikkoja</string>
+  <string name="oldman_mode_summary">Käytä yksinkertaistettua Aloitusnäyttöä ja valikkoja</string>
   <string name="oldman_mode_summary_cta">Lite-tila tarvitsee internetyhteyden ja oikeuden lukea yhteystietoja, viestejä ja pääsyn sijaintitietoihin toimiakseen normaalisti.</string>
   <string name="one_cacrt">yksi CA-varmenne</string>
   <string name="one_usercrt">yhden käyttäjän varmenne</string>
@@ -3204,7 +3204,7 @@ Tämä asetus vaikuttaa kaikkiin tämän puhelimen käyttäjiin."</string>
   <string name="screen">Näyttö</string>
   <string name="screen_button">Näytön painikkeet</string>
   <string name="screen_button_tips">Piilota näytön painikkeet pyyhkäisemällä alas</string>
-  <string name="screen_cells_config_title">Kotinäytön ulkoasu</string>
+  <string name="screen_cells_config_title">Aloitusnäytön ulkoasu</string>
   <string name="screen_color_and_optimize">Värit &amp; kontrasti</string>
   <string name="screen_color_and_optimize_disabled">Värien lämpötilansäätö ei toimi Lukutilassa</string>
   <string name="screen_color_temperature">Värit</string>
@@ -3520,7 +3520,7 @@ Näytön kiinnittäminen:
   <string name="search_vpn_settings_password">VPN salasana</string>
   <string name="search_vpn_settings_title">VPN;Lisää VPN;Ota VPN käyttöön</string>
   <string name="search_wakeup_for_keyguard_notification_title">Herätä lukitusnäyttö ilmoituksista</string>
-  <string name="search_wallpaper_settings_title">Taustakuva;Kotinäyttö;Lukitusnäyttö</string>
+  <string name="search_wallpaper_settings_title">Taustakuva;Aloitusnäyttö;Lukitusnäyttö</string>
   <string name="search_wfd_settings_title">Langaton näyttö;Ota langaton näyttö käyttöön</string>
   <string name="search_wifi_advanced_ip_address_title">IP osoite</string>
   <string name="search_wifi_advanced_mac_address_title">Wi-Fi MAC osoite</string>
@@ -4306,7 +4306,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="unlock_disable_lock_title">Poista näytön lukitus käytöstä</string>
   <string name="unlock_set_do_later_title">Ei nyt</string>
   <string name="unlock_set_enter_system">Ohita näytön lukitus</string>
-  <string name="unlock_set_enter_system_summary">Heräämisen jälkeen mene suoraan Kotinäytölle</string>
+  <string name="unlock_set_enter_system_summary">Heräämisen jälkeen mene suoraan Aloitusnäytölle</string>
   <string name="unlock_set_unlock_biometric_weak_summary">Matala turvallisuus, kokeellinen</string>
   <string name="unlock_set_unlock_biometric_weak_title">Kasvojentunnistus</string>
   <string name="unlock_set_unlock_disabled_summary">Ei käytössä (järj.valv/salauskäyt./tunnuks. hall.)</string>
@@ -4673,7 +4673,7 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="wallpaper_attributions">Taustakuvat</string>
   <string name="wallpaper_attributions_values">"Satelliittikuvat:
 ©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
-  <string name="wallpaper_desktop">Kotinäyttö</string>
+  <string name="wallpaper_desktop">Aloitusnäyttö</string>
   <string name="wallpaper_live">Vaihtuva taustakuva</string>
   <string name="wallpaper_lockscreen">Lukitusnäyttö</string>
   <string name="wallpaper_settings_fragment_title">Valitse taustakuva</string>

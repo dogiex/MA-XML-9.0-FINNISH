@@ -32,7 +32,7 @@
   <string name="component_category_more_title">LISÄÄ</string>
   <string name="component_title_ringtone">Soittoääni</string>
   <string name="component_title_wallpaper">Taustakuva</string>
-  <string name="current_using_desktop_wallpaper_text">Kotinäyttö</string>
+  <string name="current_using_desktop_wallpaper_text">Aloitusnäyttö</string>
   <string name="current_using_lockscreen_wallpaper_text">Lukitusnäyttö</string>
   <string name="deleting">Poistetaan…</string>
   <string name="description_author">Tekijä</string>
@@ -43,7 +43,7 @@
   <string name="description_uploadtime">Päivitä</string>
   <string name="description_version">Versio</string>
   <string name="description_version_szie">Versio: %1$s Koko: %2$s</string>
-  <string name="desktop_wallpaper">Kotinäyttö</string>
+  <string name="desktop_wallpaper">Aloitusnäyttö</string>
   <string name="dev_options">Kehittäjäasetukset</string>
   <string name="dev_options_summary">Verkkolähteet</string>
   <string name="download_failed">Lataus epäonnistui</string>
@@ -85,8 +85,8 @@
   <string name="gift_use_confirmation_dlg_title">Lähetetäänkö tämä lahja?</string>
   <string name="gift_use_fail_dlg_title">Jotain meni pieleen</string>
   <string name="gift_used">Lähetetty</string>
-  <string name="home_apply_failured">Kotinäytön taustakuvaa ei voi asettaa</string>
-  <string name="home_apply_success">Kotinäytön taustakuva asetettu</string>
+  <string name="home_apply_failured">Aloitusnäytön taustakuvaa ei voi asettaa</string>
+  <string name="home_apply_success">Aloitusnäytön taustakuva asetettu</string>
   <string name="incompatible_dialog_message">Tämä teema ei ole täysin yhteensopiva MIUI 8:n kanssa. Jotkut elementit saattavat näkyä väärin.</string>
   <string name="incompatible_dialog_ok">Selvä</string>
   <string name="incompatible_dialog_title">Yhteensopivuusongelmia</string>
@@ -99,9 +99,9 @@
   <string name="loading_resource_detail_info">Odota hetki…</string>
   <string name="local_resouce_creator_name">Kehittäjä: %1$s</string>
   <string name="lockscreen_apply_failured">Lukitusnäytön taustakuvaa ei voi asettaa</string>
-  <string name="lockscreen_apply_failured_but_home_apply_success">Kotinäytön taustakuva asetettu, mutta Lukitusnäytön taustakuvaa ei voi asettaa</string>
+  <string name="lockscreen_apply_failured_but_home_apply_success">Aloitusnäytön taustakuva asetettu, mutta Lukitusnäytön taustakuvaa ei voi asettaa</string>
   <string name="lockscreen_apply_success">Lukitusnäytön taustakuva asetettu</string>
-  <string name="lockscreen_apply_success_but_home_apply_failured">Lukitusnäytön taustakuva asetettu, mutta Kotinäytön taustakuvaa ei voi asettaa</string>
+  <string name="lockscreen_apply_success_but_home_apply_failured">Lukitusnäytön taustakuva asetettu, mutta Aloitusnäytön taustakuvaa ei voi asettaa</string>
   <string name="lockscreen_magazine_subscribe">%1$s seuraavaa</string>
   <string name="lockscreen_magazine_summary">Kategoriat</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s taustakuvaa</string>
@@ -366,7 +366,7 @@
   <string name="theme_component_title_photo_frame">Kuvan reunukset</string>
   <string name="theme_component_title_ringtone">Soittoääni</string>
   <string name="theme_component_title_statusbar">Ilmoitusalue</string>
-  <string name="theme_component_title_wallpaper">Kotinäyttö</string>
+  <string name="theme_component_title_wallpaper">Aloitusnäyttö</string>
   <string name="theme_current_using_has_update">Teeman päivitys saatavilla</string>
   <string name="theme_description_title_customized">Kustomoitu</string>
   <string name="theme_description_title_default">Oletus</string>
@@ -422,11 +422,11 @@
   <string name="wallpaper_decoded_error">Taustakuvan lataaminen epäonnistui</string>
   <string name="wallpaper_scroll_type_tips">Taustakuvan vierintä</string>
   <string name="wallpaper_set_as_both">Aseta molempiin</string>
-  <string name="wallpaper_set_as_destop">Aseta Kotinäytölle</string>
+  <string name="wallpaper_set_as_destop">Aseta Aloitusnäytölle</string>
   <string name="wallpaper_set_as_lockscreen">Aseta Lukitusnäytölle</string>
   <string name="wallpaper_settings">Taustakuvan asetukset</string>
   <string name="wallpaper_settings_change_wallpaper">Vaihda</string>
-  <string name="wallpaper_settings_desktop_text">Kotinäyttö</string>
+  <string name="wallpaper_settings_desktop_text">Aloitusnäyttö</string>
   <string name="wallpaper_settings_lockscreen_text">Lukitusnäyttö</string>
   <string name="wallpaper_settings_page_title">Taustakuva</string>
 </resources>

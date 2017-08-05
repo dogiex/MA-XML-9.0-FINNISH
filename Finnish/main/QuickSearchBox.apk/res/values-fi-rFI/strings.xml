@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_loaction">Etsi Kotinäytöltä</string>
+  <string name="app_loaction">Etsi Aloitusnäytöltä</string>
   <string name="app_name">Haku</string>
   <string name="appindex_description">asennettujen sovelluksien ominaisuudet</string>
   <string name="appindex_search_label">Sovelluksien ominaisuudet</string>

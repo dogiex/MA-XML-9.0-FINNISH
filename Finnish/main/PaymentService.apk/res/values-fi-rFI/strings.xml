@@ -141,7 +141,7 @@ Ota yhteyttä Xiaomin asiakaspalveluun."</string>
   <string name="mibi_memu_refresh">Päivitä</string>
   <string name="mibi_menu_lock">Lisää Sovelluslukko</string>
   <string name="mibi_menu_qa">UKK</string>
-  <string name="mibi_menu_shotcut">Aseta Kotinäytölle</string>
+  <string name="mibi_menu_shotcut">Aseta Aloitusnäytölle</string>
   <string name="mibi_mili_center">Mi Krediitti</string>
   <string name="mibi_milicenter_title">Mi Krediitti</string>
   <string name="mibi_mipay_error">Mipay epäonnistui</string>
@@ -264,7 +264,7 @@ Asiakaspalvelu: 400-100-3399"</string>
   <string name="mibi_scan_prompt_password">Skannaa %1$s prepaid-kortin salasana</string>
   <string name="mibi_scan_prompt_voucher">Skannaa Mi Krediitin salasana</string>
   <string name="mibi_security_setting">Asetukset</string>
-  <string name="mibi_shurtcut_create_success">Asetettiin Kotinäytölle</string>
+  <string name="mibi_shurtcut_create_success">Asetettiin Aloitusnäytölle</string>
   <string name="mibi_signing_pay_group_title">Valitse maksutapa</string>
   <string name="mibi_signing_success_sub">Maksujen uusimiseen käytetään %1$s</string>
   <string name="mibi_signing_success_title">Valittiin onnistuneesti</string>

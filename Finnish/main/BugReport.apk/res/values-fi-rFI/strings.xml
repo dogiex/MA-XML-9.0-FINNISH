@@ -193,7 +193,7 @@
   <string name="modem_tool_log_stop_toast">"Lopeta modeemin lokin vedos %s"</string>
   <string name="module_communication">Kommunikointi</string>
   <string name="module_data">Tallennustila &amp; Kloonatut sovellukset</string>
-  <string name="module_desktop">Kotinäyttö &amp; asetukset</string>
+  <string name="module_desktop">Aloitusnäyttö &amp; asetukset</string>
   <string name="module_finance">Talous &amp; Mi Lompakko</string>
   <string name="module_item_less">Piilota</string>
   <string name="module_item_more">Lisää</string>

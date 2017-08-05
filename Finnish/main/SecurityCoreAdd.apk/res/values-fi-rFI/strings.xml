@@ -168,7 +168,7 @@ Tai et välttämättä voi siirtyä Toiseen tilaan Lukitusnäytöltä."</string>
   <string name="retain_src_file">Säilytä tiedostot</string>
   <string name="retain_src_photo">Säilytä kuvat</string>
   <string name="same_qr_code_create_space">Luo toinen</string>
-  <string name="same_qr_code_des">Näyttää siltä, että tämä Työtila on jo olemassa. Voit käyttää Kotinäytön ja Ilmoitusalueen pikakuvakkeita siirtyäksesi sinne. Siirrytäänkö nyt?</string>
+  <string name="same_qr_code_des">Näyttää siltä, että tämä Työtila on jo olemassa. Voit käyttää Aloitusnäytön ja Ilmoitusalueen pikakuvakkeita siirtyäksesi sinne. Siirrytäänkö nyt?</string>
   <string name="same_qr_code_enter_space">Siirry Työtilaan</string>
   <string name="same_qr_code_title">%s on jo olemassa</string>
   <string name="scanner_fingerprint">Luetaan sormenjälkeä…</string>
@@ -204,7 +204,7 @@ siirtyäksesi Toiseen tilaan Lukitusnäytöltä"</string>
   <string name="settings_space_data">Data</string>
   <string name="settings_status_icon_summary">Näytä Toisen tilan kuvake ilmoituspalkissa</string>
   <string name="settings_status_icon_title">Toisen tilan kuvake</string>
-  <string name="settings_switch_shortcut_summary">Näytä Kotinäytön pikakuvake Ensimmäisessä tilassa</string>
+  <string name="settings_switch_shortcut_summary">Näytä Aloitusnäytön pikakuvake Ensimmäisessä tilassa</string>
   <string name="settings_switch_shortcut_title">Vaihda napauttamalla pikakuvaketta</string>
   <string name="show_normal_content">Älä näytä yksityisiä kohteita</string>
   <string name="show_private_content">Näytä yksityiset kohteet</string>
@@ -266,11 +266,11 @@ siirtyäksesi Toiseen tilaan Lukitusnäytöltä"</string>
   <string name="xpsace_guide_button">Luo</string>
   <string name="xspace_chocie">Kloonatun sovelluksen tuki</string>
   <string name="xspace_creating">Luodaan kloonattua sovellusta…</string>
-  <string name="xspace_description">Luo sovelluksesta klooni, jotta voit käyttää niitä erikseen. Kloonatuilla sovelluksilla on omat Kotinäytön kuvakkeet.</string>
+  <string name="xspace_description">Luo sovelluksesta klooni, jotta voit käyttää niitä erikseen. Kloonatuilla sovelluksilla on omat Aloitusnäytön kuvakkeet.</string>
   <string name="xspace_guide_des">Käytä kahta tiliä ilman, että vaihdat niiden välillä</string>
   <string name="xspace_guide_title">Luo Kloonattu sovellus sovelluksesta %s</string>
   <string name="xspace_header">Kloonatut sovellukset</string>
-  <string name="xspace_install_completed">Kuvake lisätty Kotinäytölle</string>
+  <string name="xspace_install_completed">Kuvake lisätty Aloitusnäytölle</string>
   <string name="xspace_install_failed">Luominen epäonnistui</string>
   <string name="xspace_installing">Asennetaan…</string>
   <string name="xspace_introduce">Suositeltu</string>

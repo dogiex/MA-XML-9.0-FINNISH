@@ -514,7 +514,7 @@ mikäli unohdat sen"</string>
   <string name="cpu_usage_app_uninstalled_toast">Tämä sovellus on poistettu</string>
   <string name="cpu_usage_process_run_time_little_time">Vähemmän, kuin 1 minuutti</string>
   <string name="cpu_usage_view_action_btn_text">Näytä napauttamalla</string>
-  <string name="create_shortcut">Luo Kotinäytölle pikakuvaketa Pelien Nopeuttajasta</string>
+  <string name="create_shortcut">Luo Aloitusnäytölle pikakuvaketa Pelien Nopeuttajasta</string>
   <string name="cta_dialog_msg">Tietoturva-sovellus vaatii internet-yhteyden päivityksiä varten sekä pääsyn sijaintitietoihin toimiakseen normaalisti.</string>
   <string name="cta_dialog_title">Internet-yhteys</string>
   <string name="cta_settings">Salli internet-yhteys</string>
@@ -563,7 +563,7 @@ mikäli unohdat sen"</string>
   <string name="dialog_remove_luckymoney">Voit käyttää uutta sisäänrakennettua punaisen kirjekuoren avustajaa, tai jatka asennetun version käyttämistä. Kumpaa sinä suosit?</string>
   <string name="dialog_roaming_message">Sallitaanko tämän sovelluksen käyttää mobiilidataa ulkomaan roaming-tilassa?</string>
   <string name="dialog_roaming_title">Ulkomaan roaming</string>
-  <string name="dialog_text">Luo Kotinäytölle pikakuvake Pelien Nopeuttajasta</string>
+  <string name="dialog_text">Luo Aloitusnäytölle pikakuvake Pelien Nopeuttajasta</string>
   <string name="dialog_title_attention">Huomio</string>
   <string name="dialog_title_auto_start_declare">Tietoa käynnistyksestä</string>
   <string name="dialog_title_stop_virus_scan">Pysäytä tietoturvatarkistus</string>
@@ -717,7 +717,7 @@ mikäli unohdat sen"</string>
   <string name="gs_app_back_self_start">Virransäästö</string>
   <string name="gs_auto_clean_memory">Tyhjennä välimuisti</string>
   <string name="gs_auto_clean_memory_detail">Optimoi pelaaminen tyhjentämällä välimuisti automaattisesti</string>
-  <string name="gs_dialog_confirm_close_msg">Pikakuvake poistetaan Kotinäytöltäsi. Mene Tietoturva &gt; Asetukset palauttaaksesi sen.</string>
+  <string name="gs_dialog_confirm_close_msg">Pikakuvake poistetaan Aloitusnäytöltäsi. Mene Tietoturva &gt; Asetukset palauttaaksesi sen.</string>
   <string name="gs_dialog_confirm_close_title">Poista käytöstä</string>
   <string name="gs_game_disturb_msg">Älä Häiritse</string>
   <string name="gs_game_duration">Aika</string>
@@ -986,7 +986,7 @@ vastausta"</string>
   <string name="menu_item_notification_garbage_text">%s</string>
   <string name="menu_item_notification_power_text">Virta</string>
   <string name="menu_item_notification_title">Näytä valikko ilmoitusalueella</string>
-  <string name="menu_item_shortcut_summary">Aseta toimintoja Kotinäytöllesi</string>
+  <string name="menu_item_shortcut_summary">Aseta toimintoja Aloitusnäytöllesi</string>
   <string name="menu_item_shortcut_title">Hallitse pikakuvakkeita</string>
   <string name="menu_item_uninstall">Poista</string>
   <string name="menu_item_virus_cloud_scan_summary">Lähetä sovelluksien nimet ja yksityiskohdat ja skannaa käyttämällä online virustunnisteita</string>

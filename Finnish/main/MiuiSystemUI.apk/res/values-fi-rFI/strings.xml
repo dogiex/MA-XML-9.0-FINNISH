@@ -171,7 +171,7 @@
   <string name="camera_key_action_none_title">Ei toimintoa</string>
   <string name="camera_key_action_setting_title">MI Painike</string>
   <string name="camera_key_action_shortcut_call">Soita</string>
-  <string name="camera_key_action_shortcut_home">Takaisin Kotinäyttöön</string>
+  <string name="camera_key_action_shortcut_home">Takaisin Aloitusnäyttöön</string>
   <string name="camera_key_action_shortcut_screenshot">Ota kuvakaappaus</string>
   <string name="camera_key_action_shortcut_search">Etsi</string>
   <string name="camera_key_action_shortcut_title">Pikakuvake</string>
@@ -438,7 +438,7 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="recents_drag_hint_message">Raahaa tähän käyttääksesi jaettua näyttöä</string>
   <string name="recents_empty_message">Ei viimeaikaisia kohteita</string>
   <string name="recents_empty_message_dismissed_all">Olet tyhjentänyt kaiken</string>
-  <string name="recents_empty_message_multi_window">Ole hyvä ja mene Kotinäytölle avaamaan sovellus</string>
+  <string name="recents_empty_message_multi_window">Ole hyvä ja mene Aloitusnäytölle avaamaan sovellus</string>
   <string name="recents_exit_multi_window_mode">Poistu Jaetun näytön tilasta</string>
   <string name="recents_incompatible_app_message">Sovellus ei tue jaettua näyttöä</string>
   <string name="recents_launch_disabled_message">%s on poistettu käytöstä turvallisessa tilassa.</string>

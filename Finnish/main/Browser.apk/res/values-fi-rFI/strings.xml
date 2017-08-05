@@ -67,9 +67,9 @@
   <string name="add_shortcut">Lisää pikakuvake</string>
   <string name="add_shortcut_success">Pikakuvake lisätty</string>
   <string name="add_to_bookmark">Kirjanmerkit</string>
-  <string name="add_to_desk">Lisää Kotinäytölle</string>
-  <string name="add_to_desk_lite_mode_toast">Kotinäytölle lisääminen epäonnistui Lite-tilassa</string>
-  <string name="add_to_desk_success">Lisättiin Kotinäytölle</string>
+  <string name="add_to_desk">Lisää Aloitusnäytölle</string>
+  <string name="add_to_desk_lite_mode_toast">Aloitusnäytölle lisääminen epäonnistui Lite-tilassa</string>
+  <string name="add_to_desk_success">Lisättiin Aloitusnäytölle</string>
   <string name="add_to_quicklink">Aloitussivu</string>
   <string name="added_to_bookmarks">Lisätty kirjanmerkkeihin</string>
   <string name="adjust_text_zoom_toast">Jos vaihdat tekstin zoomausta, jotkut sivustot saattavat näyttää sisällön väärin</string>
@@ -332,7 +332,7 @@
   <string name="go_supermarket_title">More apps, faster speed, and less data usage in App Store</string>
   <string name="gold_medals">Kultamitalit</string>
   <string name="google_bookmarks">Google</string>
-  <string name="have_sent_bookmark_to_home_screen">Lisätty Kotinäytölle</string>
+  <string name="have_sent_bookmark_to_home_screen">Lisätty Aloitusnäytölle</string>
   <string name="hint">Vihje</string>
   <string name="history">Historia</string>
   <string name="home_description">Koti</string>
@@ -387,7 +387,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="media_player_error_text_unknown">Pahoittelut, tätä videota ei voi toistaa.</string>
   <string name="media_player_error_title">Videota ei voida toistaa</string>
   <string name="media_player_loading_video">Ladataan videota</string>
-  <string name="menu_addtodesk">Lisää Kotinäytölle</string>
+  <string name="menu_addtodesk">Lisää Aloitusnäytölle</string>
   <string name="menu_exit_nightmode">Sulje</string>
   <string name="menu_hv_swap">V/H ruutu</string>
   <string name="menu_nightmode">Yö tila</string>
@@ -759,7 +759,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="select_download_device">Valitse laite</string>
   <string name="send_comment_button">Lähetä</string>
   <string name="send_comment_title">Kommentoi</string>
-  <string name="senddesktop">Kotinäyttö</string>
+  <string name="senddesktop">Aloitusnäyttö</string>
   <string name="sendstartpage">Aloitussivu</string>
   <string name="share_image_text">Katso mitä löysin!</string>
   <string name="share_page_text">Katso mitä löysin: %1$s | %2$s</string>

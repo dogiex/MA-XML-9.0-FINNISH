@@ -221,7 +221,7 @@ http://www.miliao.com
   <string name="summary_err_restore_encrypting">Palauttaminen ei onnistunut. Varmista, että varmuuskopio tehtiin sinun Mi tilillä.</string>
   <string name="summary_err_restore_no_network">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="system_backup">Varmuuskopiointi</string>
-  <string name="system_backup_info">Järjestelmän asetukset ja Kotinäytön asettelu</string>
+  <string name="system_backup_info">Järjestelmän asetukset ja Aloitusnäytön asettelu</string>
   <string name="task_backup_cancel_progress">Lopetetaan…</string>
   <string name="task_backup_finished_local">"Varmuuskopioitu "</string>
   <string name="task_canceled">Varmuuskopiointi peruutettiin</string>
@@ -269,7 +269,7 @@ http://www.miliao.com
   <string name="trans_detail_category_userdata">Sovellukset</string>
   <string name="trans_device_disconnected">Yhteys laitteeseen on katkaistu</string>
   <string name="trans_generate_qr_code_failed">QR-koodia ei voitu luoda</string>
-  <string name="trans_main_tutor">Siirrä yhteystiedot, puheluhistoria, viestit, kotinäytön ulkoasu, sovellukset, asetukset, jne uuteen laitteeseen</string>
+  <string name="trans_main_tutor">Siirrä yhteystiedot, puheluhistoria, viestit, aloitusnäytön ulkoasu, sovellukset, asetukset, jne uuteen laitteeseen</string>
   <string name="trans_my_device">Laitteeni</string>
   <string name="trans_native_no_space">"Tällä laitteella ei ole tarpeeksi vapaata tilaa.
 Vapauta ainakin %s."</string>

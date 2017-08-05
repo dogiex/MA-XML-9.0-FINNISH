@@ -1118,7 +1118,7 @@ suoraan Lukitusnäytöltäsi"</string>
   <string name="share_title_to_sina_weibo">Jaa käyttäen Sina Weiboa</string>
   <string name="share_to_others">Jaa</string>
   <string name="sharerc_tips">Tämän kaukosäätimen jakamisen jälkeen henkilöt, jotka ovat lähellä, voivat käyttää sitä.</string>
-  <string name="shortcut_pop_desc">Näyttää siltä, että käytät Mi Kaukosäädintä aika usein. Luodaanko Kotinäytölle pikakuvake?</string>
+  <string name="shortcut_pop_desc">Näyttää siltä, että käytät Mi Kaukosäädintä aika usein. Luodaanko Aloitusnäytölle pikakuvake?</string>
   <string name="shortcut_pop_title">Pikakuvake</string>
   <string name="show_all_episodes">全部剧集</string>
   <string name="show_remote_when_lock_screen">Näytä ohjaimet Lukitusnäytöllä</string>
@@ -1278,7 +1278,7 @@ Vaihtaaksesi, paina TV:n virtapainiketta pitkään"</string>
   <string name="weather_out">Ulkolämpötila:</string>
   <string name="wechat_account">WeChat tili</string>
   <string name="wifi_rc_create_help">Kuinka lisätään Wi-Fi kaukosäädin?</string>
-  <string name="wifi_rc_create_shortcut_desc">Lisätäänkö Kotinäytön pikakuvake kaukosäätimelle \"%1$s\"?</string>
+  <string name="wifi_rc_create_shortcut_desc">Lisätäänkö Aloitusnäytön pikakuvake kaukosäätimelle \"%1$s\"?</string>
   <string name="wifi_rc_create_shortcut_title">Lisää pikakuvake</string>
   <string name="wind_direct">Suunta</string>
   <string name="wind_direct_automatic">Keinuva</string>

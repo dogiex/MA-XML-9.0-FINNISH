@@ -851,7 +851,7 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="option_not_in_group">Poista</string>
   <string name="option_not_star">Poista suosikeista</string>
   <string name="option_rename_group">Nimeä uudelleen</string>
-  <string name="option_send_to_desktop">Lähetä Kotinäytölle</string>
+  <string name="option_send_to_desktop">Lähetä Aloitusnäytölle</string>
   <string name="option_send_to_others">Lähetä edelleen</string>
   <string name="option_view_contact">Näytä</string>
   <string name="option_view_group">Näytä</string>
@@ -1067,7 +1067,7 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="select_none">Ei valittua</string>
   <string name="select_show_contacts">Yhteystietoluettelo</string>
   <string name="select_vcard_title">Valitse vCard-tiedosto</string>
-  <string name="send_contact_shortcut_todesktop_success">Lisätty Kotinäytölle</string>
+  <string name="send_contact_shortcut_todesktop_success">Lisätty Aloitusnäytölle</string>
   <string name="send_to_voicemail_checkbox">Ohjaa puheluja suoraan vastaajaan</string>
   <string name="separatorJoinAggregateAll">Kaikki yhteystiedot</string>
   <string name="separatorJoinAggregateSuggestions">Ehdotetut yhteystiedot</string>
@@ -1267,7 +1267,7 @@ Valitse seuraavista vaihtoehdoista:"</string>
   <string name="yellowpage_navigation_search_select_city">Valitse kaupunki</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">Ladataan…</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">Verkkoyhteyttä ei voi muodostaa</string>
-  <string name="yellowpage_navigation_send_to_desktop_succeeded">Lisätty Kotinäytölle</string>
+  <string name="yellowpage_navigation_send_to_desktop_succeeded">Lisätty Aloitusnäytölle</string>
   <string name="yellowpage_search_the_yellowpage">Etsi Hakemistosta</string>
   <string name="yellowpage_user_profile">Profiili</string>
   <string name="yesterday">Eilen</string>
