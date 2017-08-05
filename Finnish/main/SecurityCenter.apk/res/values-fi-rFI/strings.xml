@@ -124,6 +124,10 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="app_install_tips_go_to">Avaa</string>
   <string name="app_install_tips_install_success">%1$s asennettiin onnistuneesti</string>
   <string name="app_maanger_app_uninstalled_toast">Tämä sovellus on poistettu</string>
+  <string name="app_manager_app_ifno_version">Sovellusversio</string>
+  <string name="app_manager_app_info_label">Sovelluksen tiedot</string>
+  <string name="app_manager_app_info_name">Sovelluksen nimi</string>
+  <string name="app_manager_app_info_pkg">APK nimi</string>
   <string name="app_manager_app_lock">Sovelluslukko</string>
   <string name="app_manager_app_power">"Akun käyttö: "</string>
   <string name="app_manager_app_storage">"Tallennustila: "</string>
@@ -137,6 +141,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="app_manager_clear_data_dlg_title">Poistetaanko sovellusdata?</string>
   <string name="app_manager_clear_failed_dlg_message">Sovelluksen datan poistaminen epäonnistui.</string>
   <string name="app_manager_clear_failed_dlg_title">Poista data</string>
+  <string name="app_manager_copy_pkg_to_clip">Kopioitu leikepöydälle</string>
   <string name="app_manager_default_close_summary">Oletuksia ei asetettu.</string>
   <string name="app_manager_default_open">Avaa oletuksena</string>
   <string name="app_manager_default_open_summary">Olet valinnut tämän sovelluksen käynnistymään oletuksena joillekin toiminnoille.</string>
@@ -153,6 +158,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="app_manager_force_stop_dlg_text">Jos pakkolopetat sovelluksen, se saattaa käyttäytyä omituisesti.</string>
   <string name="app_manager_force_stop_dlg_title">Pakkolopetetaanko?</string>
   <string name="app_manager_have_not_consume">Ei mitään</string>
+  <string name="app_manager_hide_system_server">Piilota järjestelmäpalvelut</string>
   <string name="app_manager_instruction">Ohje</string>
   <string name="app_manager_loading_data">Ladataan tietoa…</string>
   <string name="app_manager_manage_space">Hallitse tilaa</string>
@@ -181,6 +187,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="app_manager_reduce_wakepath_dialog">Minimoi ketjukäynnistys</string>
   <string name="app_manager_reduce_wakepath_summary">Rajoittamalla käynnistystä minimoi ketjukäynnistystä. Rajoitetaanko sovelluksen %s käynnistys?</string>
   <string name="app_manager_reject_count_over">Estetty 100000+ kertaa</string>
+  <string name="app_manager_show_all_apps">Näytä kaikki sovellukset</string>
   <string name="app_manager_show_detail_infos">Näytä kaikki</string>
   <string name="app_manager_sort">Lajittele</string>
   <string name="app_manager_start_by">Käynnistäjä %s</string>

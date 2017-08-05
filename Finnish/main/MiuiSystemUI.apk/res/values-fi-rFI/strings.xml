@@ -226,9 +226,10 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="debug_monitoring_category">Valvonta</string>
   <string name="debug_networking_category">Yhteysominaisuudet</string>
   <string name="debug_view_attributes">Ota attribuuttinäkymän tarkistus käyttöön</string>
-  <string name="description_direction_left">"Liu'uta vasemmalle %s."</string>
-  <string name="description_direction_up">"Liu'uta ylös %s."</string>
-  <string name="description_target_search">Etsi</string>
+  <string name="demo_mode">Esittelytila</string>
+  <string name="description_direction_left">"Liu'uta vasemmalle ja %s."</string>
+  <string name="description_direction_up">"Liu'uta ylös ja %s."</string>
+  <string name="description_target_search">Haku</string>
   <string name="dev_settings_warning_message">Nämä asetukset on tarkoitettu vain kehityskäyttöön, ja ne voivat aiheuttaa haittaa laitteellesi tai sen sovelluksille.</string>
   <string name="dev_settings_warning_title">Sallitaanko kehittäjäasetukset?</string>
   <string name="development_settings_enable">Ota kehittäjäasetukset käyttöön</string>
@@ -477,6 +478,7 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="screenshot_dlg_delete_button">Poista</string>
   <string name="screenshot_edit">Muokkaa</string>
   <string name="screenshot_failed_text">Kuvakaappausta ei voi ottaa rajallisen tallennustilan vuoksi tai sovellus estää sen.</string>
+  <string name="screenshot_insert_failed">Kuvakaappauksen lataaminen epäonnistui, ole hyvä ja ota uusi tai katso kuva albumissa</string>
   <string name="screenshot_long_screenshot">Ota pidempi</string>
   <string name="screenshot_saved_text">Katso kuvakaappaus napauttamalla.</string>
   <string name="screenshot_saved_title">Kuvakaappaus otettiin</string>
@@ -502,6 +504,7 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="show_all_anrs_summary">Näytä Sovellus ei vastaa -ikkuna taustasovell.</string>
   <string name="show_cpu_usage">Näytä suorittimen käyttö</string>
   <string name="show_cpu_usage_summary">Näytön peittokuva näyttää suorittimen nykyisen käytön</string>
+  <string name="show_demo_mode">Näytä esittelytila</string>
   <string name="show_hw_layers_updates">Näytä laitt.tason päiv.</string>
   <string name="show_hw_layers_updates_summary">Näytä laitteistotasot vihreinä niiden päivittyessä</string>
   <string name="show_hw_screen_updates">Näytä GPU:n näytön päiv.</string>

@@ -1251,7 +1251,8 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Poistetaanko tämä sormenjälki?</string>
   <string name="delete_rule">poista sääntöjä</string>
   <string name="delete_saved_network">Poista tallennetut verkot</string>
-  <string name="demo_mode">Demo tila</string>
+  <string name="demo_mode">Esittelytila</string>
+  <string name="demo_mode_summary">Näytä tietyt tilapalkin kuvakkeet esittelylle</string>
   <string name="deny">Hylkää</string>
   <string name="details_subtitle">Käyttötiedot</string>
   <string name="details_title">Käyttötiedot</string>
@@ -1660,7 +1661,7 @@ Näkyvissä ei ollut lainkaan hevosia tai minkäänlaisia muita eläimiä. Miehe
   <string name="force_stop_dlg_text">Jos pakotat sovelluksen pysähtymään, se saattaa alkaa toimia virheellisesti.</string>
   <string name="force_stop_dlg_title">Pakotetaanko lopetus?</string>
   <string name="force_touch">3D Kosketus</string>
-  <string name="force_touch_demo">Demo näytös</string>
+  <string name="force_touch_demo">Esittelynäytös</string>
   <string name="force_touch_enable">Ota 3D Kosketus käyttöön</string>
   <string name="force_touch_enable_tips">Paina sovelluskuvakkeita pohjaan nähdäksesi pikavalikon sovellukselle, kun 3D Kosketus on käytössä.</string>
   <string name="forget">Unohda</string>
@@ -2194,6 +2195,7 @@ Voit asettaa uuden näytön lukituksen sekä laitteelle että työprofiilille, m
   <string name="lockscreen_glogin_checking_password">Tarkistetaan…</string>
   <string name="lockscreen_glogin_password_hint">Salasana</string>
   <string name="lockscreen_glogin_submit_button">Kirjaudu sisään</string>
+  <string name="lockscreen_magazine_title">Taustakuvan Karuselli</string>
   <string name="lockscreen_remote_input">Estä vastausten ja muun tekstin kirjoittaminen ilmoituksiin, kun laite on lukittu</string>
   <string name="login_account_dialog_message">Kirjaudu sisään Mi Tililläsi ja ota Mi Pilven synkronointi käyttöön.</string>
   <string name="login_account_dialog_title">Kirjaudu sisään Mi Tilillä</string>
@@ -2437,6 +2439,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="music_dirac_mode_general_earbuds">Yleinen</string>
   <string name="music_dirac_mode_general_inear">Yleinen In-Ear</string>
   <string name="music_dirac_mode_headset">Mi Headphones</string>
+  <string name="music_dirac_mode_headset_comfort">Mi Comfort</string>
   <string name="music_dirac_mode_in_ear">Mi In-Ear</string>
   <string name="music_dirac_mode_in_ear_2013">Mi In-Ear (2013)</string>
   <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>

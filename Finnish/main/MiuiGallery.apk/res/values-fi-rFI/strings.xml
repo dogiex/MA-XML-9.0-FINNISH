@@ -1059,7 +1059,8 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="search_set_network_connection">Verkkoasetukset</string>
   <string name="search_setting_sub_title">Paranneltu kuvahaku</string>
   <string name="search_setting_sub_title_open">Hyväksytty. Odota hetki, ennen kuin aloitat.</string>
-  <string name="search_setting_title">Etsi kuvia Galleriasta</string>
+  <string name="search_setting_title">Etsi kuvia Galleriassa</string>
+  <string name="search_syncing">Synkronoidaan tietoja, tule takaisin hetken kuluttua</string>
   <string name="search_title_album">Albumi</string>
   <string name="search_title_history">Hakuhistoria</string>
   <string name="search_title_location">Sijainnit</string>

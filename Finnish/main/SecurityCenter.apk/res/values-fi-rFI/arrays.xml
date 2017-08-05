@@ -66,6 +66,12 @@
         <item>Lajittele datan käytön mukaan</item>
         <item>Lajittele akun käytön mukaan</item>
     </string-array>
+    <string-array name="title_app_info">
+        <item>Asennuslähde</item>
+        <item>Asennuksen aika</item>
+        <item>Edellisen päivityksen lähde</item>
+        <item>Edellisen päivityksen aika</item>
+    </string-array>
     <string-array name="sms_report_type">
         <item>Datan Käyttö</item>
         <item>Puhelimen saldo</item>
