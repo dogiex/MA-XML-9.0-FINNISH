@@ -1987,7 +1987,7 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="local_backup_password_toast_success">Uusi varasalasana asetettiin</string>
   <string name="local_backup_password_toast_validation_failure">Varasalasanan asetus epäonnistui</string>
   <string name="local_backup_section_summary">Varmuuskopioi järjestelmäasetukset, tilitiedot ja sovellukset</string>
-  <string name="local_backup_section_title">Varmuuskopiointi</string>
+  <string name="local_backup_section_title">Paikalliset varmuuskopiot</string>
   <string name="locale_default">Oletus</string>
   <string name="locale_not_translated">Ei ehkä ole saatavilla kaikissa sovelluksissa</string>
   <string name="locale_remove_menu">Poista</string>

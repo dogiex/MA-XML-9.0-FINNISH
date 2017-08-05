@@ -1026,8 +1026,8 @@ Yritä uudelleen tai pyydä lisäohjeita asiakaspalvelusta."</string>
   <string name="path_antispam_setting">Järjestelmäsovellukset/Puhelin/Estolista</string>
   <string name="path_app_name">Järjestelmäsovellukset/Puhelin</string>
   <string name="path_auto_answer_pref_title">Järjestelmäsovellukset/Puhelin/Automaattinen vastaaminen</string>
-  <string name="path_auto_retry_mode_title">Järjestelmäsovellukset/Puhelin/Lisäasetukset/Soita uudelleen</string>
-  <string name="path_autoip">Järjestelmäsovellukset/Puhelin/Lisäasetukset/Auto IP dialing</string>
+  <string name="path_auto_retry_mode_title">Järjestelmäsovellukset/Puhelin/Lisäasetukset/Automaattinen uudelleenyritys</string>
+  <string name="path_autoip">Järjestelmäsovellukset/Puhelin/Lisäasetukset/Auto IP soittaminen</string>
   <string name="path_call_background_setting_name">Järjestelmäsovellukset/Puhelin/Lisäasetukset/Puhelun taustakuva</string>
   <string name="path_call_forwarding_settings">Järjestelmäsovellukset/Puhelin/Soitonsiirtoasetukset</string>
   <string name="path_call_record_auto_title">Järjestelmäsovellukset/Puhelin/Puhelun nauhoittaminen/Nauhoita puhelut automaattisesti</string>
@@ -1039,7 +1039,7 @@ Yritä uudelleen tai pyydä lisäohjeita asiakaspalvelusta."</string>
   <string name="path_cloud_antispam_title">Järjestelmäsovellukset/Puhelin/Tunnista tuntemattomat numerot</string>
   <string name="path_connect_disconnect_vibrate_title">Järjestelmäsovellukset/Puhelin/Lisäasetukset/Värise, kun puheluusi vastataan</string>
   <string name="path_crescendo_ringer_title">Järjestelmäsovellukset/Puhelin/Saapuvan puhelun asetukset/Nouseva soittoäänen äänenvoimakkuus</string>
-  <string name="path_dtmf_tones_title">Järjestelmäsovellukset/Puhelin/Lisäasetukset/DTMF tones</string>
+  <string name="path_dtmf_tones_title">Järjestelmäsovellukset/Puhelin/Lisäasetukset/DTMF-äänet</string>
   <string name="path_enable_antispam_strange_title">Järjestelmäsovellukset/Puhelin/Saapuvan puhelun asetukset/Mykistä ensimmäinen soitto</string>
   <string name="path_enable_proximity_title">Järjestelmäsovellukset/Puhelin/Saapuvan puhelun asetukset/Läheisyysanturi</string>
   <string name="path_fdn">Järjestelmäsovellukset/Puhelin/Lisäasetukset/Sallitut numerot</string>
@@ -1056,7 +1056,7 @@ Yritä uudelleen tai pyydä lisäohjeita asiakaspalvelusta."</string>
   <string name="path_telocation_custom_location_title">Järjestelmäsovellukset/Puhelin/Sijainti/Sijaintini</string>
   <string name="path_telocation_enable_title">Järjestelmäsovellukset/Puhelin/Sijainti/Näytä sijainti</string>
   <string name="path_turnover_mute_title">Järjestelmäsovellukset/Puhelin/Saapuvan puhelun asetukset/Mykistä soittoääni kääntämällä</string>
-  <string name="path_voicemail_settings">Järjestelmäsovellukset/Puhelin/Lisäasetukset/Aseta</string>
+  <string name="path_voicemail_settings">Järjestelmäsovellukset/Puhelin/Lisäasetukset/Vastaajapalvelun asetukset</string>
   <string name="pause_prompt_no">Ei</string>
   <string name="pause_prompt_str">"Lähetetään ääniä
 "</string>
