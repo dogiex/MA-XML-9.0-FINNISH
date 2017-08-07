@@ -690,7 +690,7 @@
   <string name="download_tip">Lataa</string>
   <string name="download_title">Valmistellaan tiedostoja…</string>
   <string name="download_without_wifi_msg">Käyttämällä mobiilidatayhteyttä kuvien lataamiseen nostaa datan käyttöä. Jos menet datapakettisi yli, operaattorisi saattaa veloittaa siitä ylimääräisiä maksuja.</string>
-  <string name="download_without_wifi_title">Datan käyttövaroitus</string>
+  <string name="download_without_wifi_title">Tiedonsiirtovaroitus</string>
   <string name="edit_baby_info">Näytä vauvan tiedot</string>
   <string name="email_picker_title">Lisää jaettu sähköposti</string>
   <string name="empty_query_text_msg">En tiedä mitä etsiä…</string>

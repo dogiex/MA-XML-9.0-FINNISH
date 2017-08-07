@@ -205,7 +205,7 @@
   <string name="data_traffic_prompt_change">Videoiden katsominen mobiilidatalla lisää datan käyttöä. Jos operaattorikohtainen tiedonsiirtoraja ylittyy, operaattori voi veloittaa sinulta lisäkustannuksia.</string>
   <string name="data_traffic_prompt_message">Videoiden selaaminen mobiilidatalla lisää datan käyttöä. Jos operaattorikohtainen tiedonsiirtoraja ylittyy, operaattori voi veloittaa sinulta lisäkustannuksia.</string>
   <string name="data_traffic_prompt_message_short">Videoiden striimaaminen mobiilidatalla voi johtaa liittymäsi datan käyttörajan ylittämiseen.</string>
-  <string name="data_traffic_prompt_title">Datan käyttövaroitus</string>
+  <string name="data_traffic_prompt_title">Tiedonsiirtovaroitus</string>
   <string name="date_picker_dialog_clear">Tyhjennä</string>
   <string name="date_picker_dialog_other_button_label">Muu</string>
   <string name="date_picker_dialog_set">Aseta</string>

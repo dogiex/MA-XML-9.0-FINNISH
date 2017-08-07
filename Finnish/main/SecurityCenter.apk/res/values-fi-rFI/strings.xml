@@ -833,7 +833,7 @@ Operaattori saattaa veloittaa sinua lisämaksuista, jos käytät mobiilidataa uu
   <string name="lock_screen_warning_category">Lukitusnäytön ilmoitukset</string>
   <string name="lock_screen_warning_switch_summary">Näytä varoitus lukitusnäytöllä, kun datan käyttö ylittää tietyn rajan</string>
   <string name="lock_screen_warning_switch_title">Näytä varoitukset lukitusnäytöllä</string>
-  <string name="lock_screen_warning_value">Datan käyttövaroitus</string>
+  <string name="lock_screen_warning_value">Tiedonsiirtovaroitus</string>
   <string name="lockpattern_access_need_to_unlock_wrong_fingerprint">Sormenjälkeä ei tunnistettu, yritä uudelleen.</string>
   <string name="lockpattern_access_need_to_unlock_wrong_pattern">Salasana on väärin, yritä uudelleen.</string>
   <string name="lockpattern_confirm_button_text">OK</string>
@@ -1406,7 +1406,7 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="pref_title_update_notification">Datan käytön ilmoitukset</string>
   <string name="pref_title_upload_data_usage">Ilmoita datan käyttötilastot</string>
   <string name="pref_traffic_manage_title">Datan käyttö</string>
-  <string name="pref_warning_values">Datan käytön varoitustaso</string>
+  <string name="pref_warning_values">Tiedonsiirtovaroituksen taso</string>
   <string name="pref_whitelist_setting">Data roamingin poikkeukset</string>
   <string name="preferred_app_entries_browser">Selain</string>
   <string name="preferred_app_entries_camera">Kamera</string>

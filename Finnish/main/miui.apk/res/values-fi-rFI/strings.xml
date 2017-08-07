@@ -484,7 +484,7 @@
   <string name="select_item">Valitse kohteet</string>
   <string name="send">Lähetä</string>
   <string name="send_sms_for_sync_notice">Lähtevä tekstiviesti saatetaan vaatia tämän palvelun aktivointia varten. Operaattorisi veloittaa sinua tästä viestistä.</string>
-  <string name="send_sms_for_sync_title">Datan käyttövaroitus</string>
+  <string name="send_sms_for_sync_title">Tiedonsiirtovaroitus</string>
   <string name="sim_changed_reactivate_int_notice">Lähtevä kansainvälinen tekstiviesti saatetaan vaatia tämän palvelun uudelleenaktivointia varten. Operaattorisi veloittaa sinua tästä viestistä.</string>
   <string name="sim_changed_reactivate_notice">Lähtevä tekstiviesti saatetaan vaatia tämän palvelun uudelleenaktivointia varten. Operaattorisi veloittaa sinua tästä viestistä.</string>
   <string name="sim_in_airplane_mode">Poista Lentokonetila käytöstä.</string>

@@ -50,7 +50,7 @@
   <string name="location_west">WL</string>
   <string name="longitude">LON</string>
   <string name="mobiledata_alert_dialog_message">Kalibroidaanko korkeus yhdistämällä internetiin??</string>
-  <string name="mobiledata_alert_dialog_title">Datan käyttövaroitus</string>
+  <string name="mobiledata_alert_dialog_title">Tiedonsiirtovaroitus</string>
   <string name="pressure">%.1f</string>
   <string name="pressure_title">Paine</string>
   <string name="pressure_unit">hPa</string>

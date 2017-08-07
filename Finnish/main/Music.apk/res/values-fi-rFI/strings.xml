@@ -279,7 +279,7 @@
   <string name="download_traffic_dialog_negative_button">Odota Wi-Fi-yhteyttä</string>
   <string name="download_traffic_dialog_position_button">Lataa heti</string>
   <string name="download_traffic_dialog_position_button_serious">Lataa silti</string>
-  <string name="download_traffic_dialog_title">Datan käyttövaroitus</string>
+  <string name="download_traffic_dialog_title">Tiedonsiirtovaroitus</string>
   <string name="download_traffic_dialog_title_beyond">Datan käyttö ylitetty</string>
   <string name="download_traffic_dialog_title_serious">Mobiilidataa on liian vähän jäljellä</string>
   <string name="download_unknown_title">Tuntematon</string>
@@ -476,7 +476,7 @@
   <string name="menu_title_resume_all">Aloita kaikki</string>
   <string name="menu_title_settings">Asetukset</string>
   <string name="message_delete_playlist">Poistetaanko soittolista %s?</string>
-  <string name="metered_alert">Datan käyttövaroitus</string>
+  <string name="metered_alert">Tiedonsiirtovaroitus</string>
   <string name="metered_alert_msg">Käytät mobiilidataa kappaleiden toistamiseen. Toistetaanko siitä huolimatta?</string>
   <string name="metered_alert_msg_with_data">Sinulla on %s mobiilidataa jäljellä. Käytetäänkö mobiilidataa kappaleiden toistamiseen?</string>
   <string name="metered_allow">Toista</string>
@@ -917,7 +917,7 @@
   <string name="warning_tip_cancel">Lataa</string>
   <string name="warning_tip_content">Et ole enää yhteydessä Wi-Fi-verkkoon. Käyttämällä mobiilidata-yhteyttä lataamiseen nostaa datan käyttöä. Jos mene datapakettisi rajan yli, operaattorisi voi veloittaa sinua lisämaksuista.</string>
   <string name="warning_tip_ok">Pysäytä</string>
-  <string name="warning_tip_title">Datan käyttövaroitus</string>
+  <string name="warning_tip_title">Tiedonsiirtovaroitus</string>
   <string name="welcome_to_new_music">Tervetuloa uuteen Mi Musiikin versioon</string>
   <string name="wifi_required_body" formatted="false">"Sinun täytyy käyttää Wi-Fi-yhteyttä ladataksesi tiedoston %s. 
 

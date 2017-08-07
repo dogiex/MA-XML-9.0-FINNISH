@@ -236,7 +236,7 @@ käyttäen numeroa %s"</string>
   <string name="data_usage_restricted_body">Poista rajoitus napauttamalla.</string>
   <string name="data_usage_restricted_title">Rajoitettu taustadatan käyttö</string>
   <string name="data_usage_warning_body">Käyttö &amp; asetukset napauttamalla</string>
-  <string name="data_usage_warning_title">Datankäyttövaroitus</string>
+  <string name="data_usage_warning_title">Tiedonsiirtovaroitus</string>
   <string name="data_usage_wifi_limit_snoozed_title">Wi-Fi-tiedonsiirtoraja ylitetty</string>
   <string name="data_usage_wifi_limit_title">Wi-Fi-tietojen raja saavutettu</string>
   <string name="date_and_time" formatted="false">%-k.%M.%S %-e.%-m.%Y</string>

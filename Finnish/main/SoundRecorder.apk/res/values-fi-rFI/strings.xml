@@ -19,7 +19,7 @@
   <string name="cloud_status_full_dialog_title">Mi Pilven tallennustila on täynnä</string>
   <string name="data_connection_body">Käyttämällä mobiilidata-yhteyttä tämän tiedoston lataamiseen lisää datan käyttöä. Jos menet datapakettisi yli, operaattorisi saattaa veloittaa siitä lisämaksuja.</string>
   <string name="data_connection_button_text">OK</string>
-  <string name="data_connection_title">Datan käyttövaroitus</string>
+  <string name="data_connection_title">Tiedonsiirtovaroitus</string>
   <string name="delete">Poista</string>
   <string name="delete_dialog_message">Poistetaanko nauhoitus?</string>
   <string name="deleting_message">Poistetaan…</string>
@@ -150,5 +150,5 @@
   <string name="toast_max_record_time">%1$s voi nauhoittaa noin %2$s</string>
   <string name="toast_uninstall_fileexplorer">Tiedostoselain-sovellusta ei ole asennettu</string>
   <string name="wifi_recommended_body" formatted="false">Käyttämällä mobiilidata-yhteyttä tämän tiedoston (%s) lataamiseen lisää datan käyttöä. Jos menet datapakettisi yli, operaattorisi saattaa veloittaa siitä lisämaksuja. Jos haluat odottaa ja ladata tiedoston Wi-Fi-yhteydellä, napauta %s.</string>
-  <string name="wifi_recommended_title">Datan käyttövaroitus</string>
+  <string name="wifi_recommended_title">Tiedonsiirtovaroitus</string>
 </resources>
