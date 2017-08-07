@@ -7,9 +7,21 @@
   <string name="button_queue_for_wifi">Jono</string>
   <string name="button_start_now">Aloita nyt</string>
   <string name="button_wait_for_wifi">Odota</string>
+  <string name="dialog_button_cancel">Peruuta</string>
+  <string name="dialog_button_ok">OK</string>
+  <string name="dialog_content_limit0">Rajoita latauksia</string>
+  <string name="dialog_content_limit_max">Rajaton</string>
+  <string name="dialog_data_limit_button1">Odota Wi-Fiä</string>
+  <string name="dialog_data_limit_button2">Lataa nyt</string>
+  <string name="dialog_data_limit_msg1">Tämän tiedoston lataamiseen käytetään %s mobiilidataa. Ladataanko nyt?</string>
+  <string name="dialog_data_limit_msg3">Muuta rajaa</string>
+  <string name="dialog_data_limit_title">Tiedonsiirtovaroitus</string>
   <string name="dialog_insufficient_space_on_cache">Sisäistä tallennustilaa ei ole tarpeeksi</string>
   <string name="dialog_insufficient_space_on_external">Ulkoista tallennustilaa ei ole tarpeeksi</string>
   <string name="dialog_not_show_again">Älä näytä uudelleen</string>
+  <string name="dialog_tip_limit">Varoita, kun ladattava tiedosto on isompi kuin %s</string>
+  <string name="dialog_tip_limit0">Varoita joka kerta</string>
+  <string name="dialog_tip_no_limit">Älä varoita</string>
   <string name="download_apk_desktop_installing">Asennetaan</string>
   <string name="download_apk_desktop_pause">Pysäytetty</string>
   <string name="download_apk_desktop_pending">Odotetaan</string>
@@ -69,7 +81,7 @@
   <string name="warning_tip_cancel">Lataa</string>
   <string name="warning_tip_content">Et ole enää yhteydessä Wi-Fi-verkkoon. Mobiilidatayhteyden käyttäminen tiedoston lataamiseen lisää datankäyttöä. Jos menet datakaton yli, operaattorisi voi veloittaa siitä lisähintaa.</string>
   <string name="warning_tip_ok">Pysäytä</string>
-  <string name="warning_tip_title">Datankäyttövaroitus</string>
+  <string name="warning_tip_title">Tiedonsiirtovaroitus</string>
   <string name="wifi_recommended_body" formatted="false">"Jos aloitat tämän %s :n latauksen nyt, akun virtaa voi kulua tav. enemmän ja/tai operaattori voi veloittaa ylim. mobiilitiedons.
 
 Aloita lataus seuraavan kerran, kun yhdistät Wi-Fi-verkkoon, koskettamalla %s."</string>

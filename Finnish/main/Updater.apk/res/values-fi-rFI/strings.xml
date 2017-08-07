@@ -32,11 +32,13 @@ Tietoja ei poisteta."</string>
   <string name="permdesc_cache_filesystem">Sallii sovelluksen kirjoittaa tiedostoja /cache osioon.</string>
   <string name="permdesc_reboot">Sallii sovelluksen käynnistää laite uudelleen.</string>
   <string name="permlab_cache_filesystem">Pääsy Välimuistiin</string>
-  <string name="permlab_reboot">Käynnistä uudelleen</string>
+  <string name="permlab_reboot">Pääsy Käynnistää uudelleen</string>
   <string name="pick_not_found">Sopivaa tiedostoselainta ei löytynyt.</string>
   <string name="pick_title">Valitse käyttäen:</string>
   <string name="recovery_desc">Laite käynnistyy nyt uudelleen Recoverytilaan, jos Recoverytila ei ole sinulle tuttu, älä jatka tämän pidemmälle. Jatketaanko?</string>
   <string name="server_error">Palvelin ei vastaa, sovellus ei välttämättä toimi kunnolla!</string>
   <string name="share_title">Jaa käyttäen</string>
+  <string name="stable">vakaa</string>
   <string name="version">Nykyinen versio:</string>
+  <string name="weekly">viikottainen</string>
 </resources>
