@@ -4259,6 +4259,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="turn_off_common_password_confirm_msg">Näytön lukitus poistetaan käytöstä myös.</string>
   <string name="turn_off_keyguard_password_alert_title">Poista käytöstä</string>
   <string name="turn_off_keyguard_password_confirm_msg">Poistetaanko Lukitusnäytön salasana käytöstä?</string>
+  <string name="turn_off_keyguard_password_wait_dialog">Suljetaan salasanaa</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Et voi enää avata laitettasi sormenjäljelläsi, kun poistat Lukitusnäytön salasanan käytöstä</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">Jos poistat Lukitusnäytön salasanan käytöstä, tallennetut sormenjäljet poistetaan. Et voi sen jälkeen avata laitteen lukitusta sormenjäljelläsi.</string>
   <string name="turn_off_security_lock">Poista lukitus käytöstä</string>
@@ -4266,6 +4267,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="turn_on_security_lock">Valitse näytön lukitus</string>
   <string name="turn_on_wifi_dialog_text">Wi-Fi poistetaan käytöstä sen ajaksi, kun kannettava yhteyspiste Hotspot on käytössä. Ottaaksesi Wi-Fin takaisin käyttöön, ole hyvä ja poista Hotspot ensin käytöstä.</string>
   <string name="turn_on_wifi_dialog_title">Ota Wi-Fi käyttöön</string>
+  <string name="turn_update_keyguard_password_wait_dialog">Muokataan salasanaa</string>
   <string name="twohours">1 tunti</string>
   <string name="under_keyguard">Lukitusnäyttö</string>
   <string name="uninstall_all_users_text">Poista kaikilta käyttäjiltä</string>

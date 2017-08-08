@@ -19,19 +19,7 @@
   <string name="abc_activitychooserview_choose_application">Valitse sovellus</string>
   <string name="abc_capital_off">POIS PÄÄLTÄ</string>
   <string name="abc_capital_on">PÄÄLLÄ</string>
-  <string name="abc_font_family_body_1_material">sans-serif</string>
-  <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-  <string name="abc_font_family_button_material">sans-serif-medium</string>
-  <string name="abc_font_family_caption_material">sans-serif</string>
-  <string name="abc_font_family_display_1_material">sans-serif</string>
-  <string name="abc_font_family_display_2_material">sans-serif</string>
-  <string name="abc_font_family_display_3_material">sans-serif</string>
-  <string name="abc_font_family_display_4_material">sans-serif-light</string>
-  <string name="abc_font_family_headline_material">sans-serif</string>
-  <string name="abc_font_family_menu_material">sans-serif</string>
-  <string name="abc_font_family_subhead_material">sans-serif</string>
-  <string name="abc_font_family_title_material">sans-serif-medium</string>
-  <string name="abc_search_hint">Hae…</string>
+  <string name="abc_search_hint">Haku…</string>
   <string name="abc_searchview_description_clear">Tyhjennä kysely</string>
   <string name="abc_searchview_description_query">Hakukysely</string>
   <string name="abc_searchview_description_search">Hae</string>
@@ -54,6 +42,8 @@
   <string name="app_name">指纹测试</string>
   <string name="app_name_far_frr">FRR/FAR测试</string>
   <string name="app_name_goodix">Goodix指纹测试</string>
+  <string name="audio_spk_cal_wait">Kalibroidaan...</string>
+  <string name="audio_spk_def">Kalibroi kaiuttimet</string>
   <string name="authenticate_category">识别策略</string>
   <string name="authenticate_time">识别耗时:</string>
   <string name="authentication_failed">识别失败</string>
@@ -98,30 +88,28 @@ Before you calibrate the device, place it on a flat surface."</string>
   <string name="cit_accelermeter_sensor_check_title">Accelerometer</string>
   <string name="cit_apk_signature_failed">apk signature FAILED</string>
   <string name="cit_apk_signature_passed">apk signature PASSED</string>
-  <string name="cit_aud_current_state">Current State:</string>
-  <string name="cit_aud_spk_l">spk_L</string>
-  <string name="cit_aud_spk_r">spk_R</string>
-  <string name="cit_aud_spk_vendor">Speaker Vendor:</string>
-  <string name="cit_aud_spkcal">Calibrate</string>
-  <string name="cit_aud_test_result">Test Result:</string>
-  <string name="cit_audio_cali_TEMP">Temp:</string>
-  <string name="cit_audio_cali_done">Calibration Done!</string>
-  <string name="cit_audio_cali_failed">Calibration Failed, please Retry!</string>
-  <string name="cit_audio_cali_file_existed">Music file do not exist,can not do calibration!</string>
-  <string name="cit_audio_cali_playing">Check Calibrated Data</string>
+  <string name="cit_aud_current_state">Nykyinen tila:</string>
+  <string name="cit_aud_spk_vendor">Kaiuttimen myyjä:</string>
+  <string name="cit_aud_spkcal">Kalibroi</string>
+  <string name="cit_aud_test_result">Testin tulos:</string>
+  <string name="cit_audio_cali_TEMP">Lämpötila:</string>
+  <string name="cit_audio_cali_done">Kalibrointi valmis!</string>
+  <string name="cit_audio_cali_failed">Kalibrointi epäonnistui, yritä uudelleen!</string>
+  <string name="cit_audio_cali_file_existed">Musiikkitiedostoa ei ole olemassa, kalibrointia ei voi suorittaa!</string>
+  <string name="cit_audio_cali_playing">Tarkista kalibroitu data</string>
   <string name="cit_audio_cali_q">Q:</string>
-  <string name="cit_audio_cali_summary">Calibrate Speaker PA</string>
+  <string name="cit_audio_cali_summary">Kalibroi kaiuttimen PA</string>
   <string name="cit_audio_cali_t0">T0:</string>
-  <string name="cit_audio_cali_title">Speaker PA Calibration Test</string>
-  <string name="cit_audio_calibrating">Calibration is ongoing...</string>
-  <string name="cit_audio_check_summary">The Audio Info.</string>
-  <string name="cit_audio_check_title">Audio Info</string>
-  <string name="cit_audio_get_temp_fail">Get temp data Failed!</string>
-  <string name="cit_audio_hdset_plug">"Audio headset plug times: "</string>
+  <string name="cit_audio_cali_title">Kaiuttimen PA kalibrointitesti</string>
+  <string name="cit_audio_calibrating">Kalibrointi on meneillään...</string>
+  <string name="cit_audio_check_summary">Äänitiedot.</string>
+  <string name="cit_audio_check_title">Äänitiedot</string>
+  <string name="cit_audio_get_temp_fail">Lämpötilan tietojen haku epäonnistui!</string>
+  <string name="cit_audio_hdset_plug">"Äänikuulokkeiden liittämiskerrat: "</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Back mic speaker feedback test</string>
   <string name="cit_audio_lb_frontmic_to_speaker_title">Front mic speaker feedback test</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Main mic speaker feedback test</string>
-  <string name="cit_audio_lb_phonecall_title">Simulation call test</string>
+  <string name="cit_audio_lb_phonecall_title">Simuloitu puhelutesti</string>
   <string name="cit_audio_lb_summary_backmic_to_speaker">"Back microphone to speaker feedback test. 
 
 Turn the phone, Speak to back microphone , you should hear voice in speaker"</string>
@@ -169,15 +157,15 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
 2.Tap the zoom button on camera preview, preview frame will zoom in
 3.Tap the Done icon."</string>
   <string name="cit_back_pointer_location_title">Back touch sensor</string>
-  <string name="cit_battery_check_summary">Device battery statistics</string>
-  <string name="cit_battery_check_title">Battery info</string>
-  <string name="cit_battery_temp_fail">Battery temperature is not normal (value=%d)</string>
-  <string name="cit_battery_temp_pass">Battery temperature is normal</string>
-  <string name="cit_batterylight_blue">Blue</string>
-  <string name="cit_batterylight_green">Green</string>
-  <string name="cit_batterylight_red">Red</string>
-  <string name="cit_batterylight_rgb">Battery light</string>
-  <string name="cit_batterylight_white">White</string>
+  <string name="cit_battery_check_summary">Laitteen akkutilastot</string>
+  <string name="cit_battery_check_title">Akun tiedot</string>
+  <string name="cit_battery_temp_fail">Akun lämpötila ei ole normaali (arvo=%d)</string>
+  <string name="cit_battery_temp_pass">Akun lämpötila on normaali</string>
+  <string name="cit_batterylight_blue">Sininen</string>
+  <string name="cit_batterylight_green">Vihreä</string>
+  <string name="cit_batterylight_red">Punainen</string>
+  <string name="cit_batterylight_rgb">Akun valo</string>
+  <string name="cit_batterylight_white">Valkoinen</string>
   <string name="cit_blue_tooth_address_check_summary">The Bluetooth address of this device should be displayed below.</string>
   <string name="cit_blue_tooth_address_check_title">Get Bluetooth address</string>
   <string name="cit_blue_tooth_scan_check_summary">Below is the info of the Bluetooth devices that were detected nearby.</string>
@@ -194,27 +182,27 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
   <string name="cit_build_finger_passed">build fingerprint PASSED</string>
   <string name="cit_button_light_off">Buttons light off</string>
   <string name="cit_button_light_on">Buttons light on</string>
-  <string name="cit_calibration_fail">Calibration failed</string>
-  <string name="cit_calibration_pass">Calibration passed</string>
+  <string name="cit_calibration_fail">Kalibrointi epäonnistui</string>
+  <string name="cit_calibration_pass">Kalibrointi läpäisty</string>
   <string name="cit_camera_calibration_summary">"Test instructions:
 
 1.Tap the calibration button below to start OIS calibration.
 2.There will be a calibration pass label to indicate the ois has been calibrated"</string>
-  <string name="cit_camera_sdcard_error">"Can't take photo. SD card is full."</string>
+  <string name="cit_camera_sdcard_error">Kuvaa ei voi ottaa. SD-kortti on täynnä.</string>
   <string name="cit_charger_plugin_check_summary">When USB charger is connected the text \"Charging via USB/AC\" should be displayed below.</string>
-  <string name="cit_charger_plugin_check_title">Charger (connect)</string>
+  <string name="cit_charger_plugin_check_title">Laturi (yhdistä)</string>
   <string name="cit_charger_plugout_check_summary">When USB charger is disconnected the text \"USB/AC charger disconnected\" should be displayed below.</string>
-  <string name="cit_charger_plugout_check_title">Charger (disconnect)</string>
-  <string name="cit_charger_waiting_in">Connect charger</string>
-  <string name="cit_charger_waiting_out">Disconnect charger now</string>
-  <string name="cit_dial_emergencycall">Dial 112</string>
+  <string name="cit_charger_plugout_check_title">Laturi (irrota)</string>
+  <string name="cit_charger_waiting_in">Yhdistä laturi</string>
+  <string name="cit_charger_waiting_out">Irrota laturi nyt</string>
+  <string name="cit_dial_emergencycall">Soita 112</string>
   <string name="cit_display_check_summary">Confirm that the required bmp file is on the SD card. Confirm that the colors are consistently displayed across the whole screen. Make sure there are no irregular bright spots and dark spots.</string>
-  <string name="cit_display_check_title">Display</string>
-  <string name="cit_display_continue">Touch screen to begin test</string>
+  <string name="cit_display_check_title">Näyttö</string>
+  <string name="cit_display_continue">Kosketa ruutua aloittaaksesi testin</string>
   <string name="cit_emergencycall_check_summary">Please click Dial 112 button to dial 112 to check if 112 can be placed.</string>
-  <string name="cit_emergencycall_check_title">Emergency Call</string>
+  <string name="cit_emergencycall_check_title">Hätäpuhelu</string>
   <string name="cit_exit_test_summary">When you exit, all related text data will be erased.</string>
-  <string name="cit_exit_test_title">Exit test</string>
+  <string name="cit_exit_test_title">Poistu testistä</string>
   <string name="cit_fail">Fail</string>
   <string name="cit_finger_check_title">Finger Print Test</string>
   <string name="cit_flash_life_check_summary">Device flash life time estimation</string>
