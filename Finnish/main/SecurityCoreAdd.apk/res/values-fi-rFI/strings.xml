@@ -179,6 +179,7 @@ siirtyäksesi Toiseen tilaan Lukitusnäytöltä"</string>
   <string name="scanner_fingerprint_tips_desc">Valitse olemassa oleva sormenjälki siirtyäksesi Toiseen tilaan. Et voi käyttää sitä Ensimmäisessä tilassa.</string>
   <string name="scanner_fingerprint_tips_title">Siirry Toiseen tilaan käyttämällä olemassa olevaa sormenjälkeä</string>
   <string name="scanner_second_space_fingerprint">Skannaa Toisen tilan sormenjälki</string>
+  <string name="sdcardfs_dialog_message">进入分身前需要在开发者选项中关闭”模拟SD卡优化“</string>
   <string name="search_input_txt_na">%s</string>
   <string name="search_result_text">Yhtään sovellusta ei löytynyt</string>
   <string name="secondSpace">Toinen tila</string>
