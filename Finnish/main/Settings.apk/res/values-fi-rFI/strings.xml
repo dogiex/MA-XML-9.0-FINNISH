@@ -2066,9 +2066,9 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="lock_screen_notifications_interstitial_title_profile">Profiilin ilmoitukset</string>
   <string name="lock_screen_notifications_summary_disable">Älä näytä ilmoituksia lainkaan</string>
   <string name="lock_screen_notifications_summary_disable_profile">Älä näytä mitään työilmoituksia</string>
-  <string name="lock_screen_notifications_summary_hide">Piilota henkilökohtainen ilmoitussisältö</string>
+  <string name="lock_screen_notifications_summary_hide">Näytä kaikki ilmoitukset, mutta piilota sisällöt</string>
   <string name="lock_screen_notifications_summary_hide_profile">Piilota työilmoitusten arkaluontoinen sisältö</string>
-  <string name="lock_screen_notifications_summary_show">Näytä ilmoitusten koko sisältö</string>
+  <string name="lock_screen_notifications_summary_show">Näytä kaikki ilmoitukset ja niiden sisällöt</string>
   <string name="lock_screen_notifications_summary_show_profile">Näytä kaikki työilmoitussisältö</string>
   <string name="lock_screen_notifications_title">Lukitusnäytöllä</string>
   <string name="lock_screen_secure_after_timeout_immediately_summary">Salasana vaaditaan heti</string>
@@ -2559,6 +2559,8 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="no_updates_warning2">Ota rennosti, kerromme kyllä, kun uusi päivitys on saatavilla :)</string>
   <string name="no_vr_listeners">Asennettuja sovelluksia ei ole pyydetty toimimaan virtuaalitodellisuuden avustinpalveluina.</string>
   <string name="noise_suppression">Taustamelun vaimennus</string>
+  <string name="normal">Normaali</string>
+  <string name="normal_info">Kaikki äänenvoimakkuudet ovat normaaleja</string>
   <string name="normal_smartcover_title">Läpikuultamaton etukuori</string>
   <string name="not_battery_optimizing">Akun käytön optimointi ei käytössä</string>
   <string name="not_installed">Ei asennettu tälle käyttäjälle</string>
@@ -3102,7 +3104,6 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="remove_managed_profile_label">Poista työprofiili</string>
   <string name="repeat">Toista</string>
   <string name="repeat_call">Toistuvan soittajan muistutus</string>
-  <string name="repeat_call_info">Äänettömässä tilassa, jos sama henkilö soittaa 15 minuutin sisällä kaksi kertaa, sallitaan Ling Ling muistutukset</string>
   <string name="repeat_title">Toista</string>
   <string name="reset_aaid">Nollaa mainosten tunnistaja</string>
   <string name="reset_app_preferences">Nollaa sovellusasetukset</string>
@@ -3714,10 +3715,11 @@ Huom. Sormenjälki ei välttämättä ole yhtä turvallinen kuin vahva kuvio tai
   <string name="shut_down_find_device_network_failure_content">Etsi-laite toiminnon sammuttaminen epäonnistui. Varmista, että sinulla on internet-yhteys.</string>
   <string name="shut_down_find_device_network_failure_title">Verkkoon yhdistäminen epäonnistui</string>
   <string name="shuting_down_find_device">Etsi-laite toimintoa sammutetaan…</string>
+  <string name="silent_duration">Kesto</string>
   <string name="silent_mode">Äänetön tila</string>
   <string name="silent_mode_title">Äänetön tila</string>
   <string name="silent_off">Poista käytöstä</string>
-  <string name="silent_settings">Äänetön tila</string>
+  <string name="silent_settings">Mykistä/Älä häiritse</string>
   <string name="silent_standard">Äänetön</string>
   <string name="silent_time">Äänettömän tilan kesto</string>
   <string name="silent_total">Älä häiritse</string>

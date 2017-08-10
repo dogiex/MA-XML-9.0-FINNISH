@@ -43,4 +43,5 @@ Päivitykset eivät ole käytettävissä sinulle!"</string>
   <string name="stable">vakaa</string>
   <string name="version">Nykyinen versio:</string>
   <string name="weekly">viikottainen</string>
+  <string name="wifi_recommended">Wi-Fi-yhteyttä ei ole, jolla lataus aloitettaisiin turvallisesti!</string>
 </resources>

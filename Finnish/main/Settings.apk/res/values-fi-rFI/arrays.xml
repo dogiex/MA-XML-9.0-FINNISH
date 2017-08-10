@@ -1171,6 +1171,13 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Paramaribo</item>
         <item>Quito</item>
     </string-array>
+    <string-array name="silent_mode_duration_text">
+        <item>Aina</item>
+        <item>30 minuuttia</item>
+        <item>1 tunti</item>
+        <item>2 tuntia</item>
+        <item>8 tuntia</item>
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Joka päivä</item>
         <item>Arkipäivät</item>
