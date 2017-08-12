@@ -4,9 +4,9 @@
     <string name="date_time_12">EEEE d. MMMM'ta'</string>
     <string name="language">fi_FI</string>
     <string name="desc_date_format">EEEE d. MMMM'ta'</string>
-    <string name="desc_time">'nykyinen aika' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', tupla-napauta kello-sovellukseen'</string>
+    <string name="desc_time">'nykyinen aika' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', avaa kellosovellus tuplanapauttamalla'</string>
     <string name="weather_type_0">Selkeä</string>
-    <string name="weather_type_1">Puolipilvinen</string>
+    <string name="weather_type_1">Pilvinen</string>
     <string name="weather_type_2">Usvainen</string>
     <string name="weather_type_3">Sumuinen</string>
     <string name="weather_type_4">Kova rankkasade</string>

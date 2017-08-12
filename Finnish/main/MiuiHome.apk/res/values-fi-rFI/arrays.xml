@@ -24,31 +24,31 @@
         <item>Klassinen</item>
     </string-array>
     <string-array name="gadget_weather_image">
-        <item>Clear</item>
-        <item>Cloudy</item>
-        <item>Hazy</item>
-        <item>Foggy</item>
-        <item>Severe rainstorm</item>
-        <item>Rainstorm</item>
-        <item>Very heavy rainfall</item>
-        <item>Thunderstorm</item>
-        <item>Shower</item>
-        <item>Heavy rainfall</item>
-        <item>Rain</item>
-        <item>Drizzle</item>
-        <item>Sleet</item>
-        <item>Snowstorm</item>
-        <item>Patches of snowfall</item>
-        <item>Heavy snowfall</item>
-        <item>Snowfall</item>
-        <item>Light snowfall</item>
-        <item>Strong sandstorm</item>
-        <item>Sandstorm</item>
-        <item>Light sandstorm</item>
-        <item>Sandstorm</item>
-        <item>Hail</item>
-        <item>Floating Dust</item>
-        <item>Haze</item>
+        <item>Selkeä</item>
+        <item>Pilvinen</item>
+        <item>Usvainen</item>
+        <item>Sumuinen</item>
+        <item>Kova rankkasade</item>
+        <item>Rankkasade</item>
+        <item>Kova sade</item>
+        <item>Ukkosmyrsky</item>
+        <item>Sataa</item>
+        <item>Kova sade</item>
+        <item>Sataa</item>
+        <item>Tihkusade</item>
+        <item>Räntää</item>
+        <item>Lumimyrsky</item>
+        <item>Lumisadekuuro</item>
+        <item>Rankka lumisade</item>
+        <item>Lumisade</item>
+        <item>Kevyt lumisade</item>
+        <item>Kova hiekkamyrsky</item>
+        <item>Hiekkamyrsky</item>
+        <item>Kevyt hiekkamyrsky</item>
+        <item>Hiekkamyrsky</item>
+        <item>Raekuuro</item>
+        <item>Leijuvaa pölyä</item>
+        <item>Usva</item>
     </string-array>
     <string-array name="editing_mode_entries">
         <item>Taustakuva</item>

@@ -2,7 +2,7 @@
 <MIUI-Theme category="tools" size="4:4">
 	<version>1</version>
 	<uiVersion>1</uiVersion>
-	<title>Laskin</title>
+	<title>Calculator</title>
 	<titles>
 		<title locale="zh_CN">Calculator</title>
 		<title locale="zh_TW">計算機</title>
