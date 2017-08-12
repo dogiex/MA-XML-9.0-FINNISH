@@ -60,10 +60,10 @@ Käytä Selaimen asetuksia selainhistorian tyhjentämiseen."</string>
   <string name="recent_apps">Viimeaikaiset sovellukset</string>
   <string name="recent_apps_filter">Piilota sovellukset, joita et käytä</string>
   <string name="recent_close_content">"Poistetaanko tämä ominaisuus käytöstä nyt?
-Voit vaihtaa asetusta Asetukset &gt; Asennetut sovellukset &gt; Hae"</string>
+Voit vaihtaa asetusta Asetukset &gt; Asennetut sovellukset &gt; Haku"</string>
   <string name="recent_close_title">Poista ominaisuus käytöstä</string>
   <string name="recent_delete_content">"Piilotetaanko nämä sovellukset nyt?
-Voit vaihtaa asetusta Asetukset &gt; Asennetut sovellukset &gt; Hae"</string>
+Voit vaihtaa asetusta Asetukset &gt; Asennetut sovellukset &gt; Haku"</string>
   <string name="recent_delete_negative">Peruuta</string>
   <string name="recent_delete_positive">OK</string>
   <string name="recent_delete_title">Piilota sovellukset</string>
@@ -83,7 +83,7 @@ Voit vaihtaa asetusta Asetukset &gt; Asennetut sovellukset &gt; Hae"</string>
   <string name="search_in_app_store">Hae Mi Sovelluskaupasta</string>
   <string name="search_in_web">Hae verkosta</string>
   <string name="search_keyword_quicksearchbox">Hae</string>
-  <string name="search_path_quicksearchbox">Asetukset/Järjestelmäsovellukset/Haku</string>
+  <string name="search_path_quicksearchbox">Asetukset/Asennetut sovellukset/Haku</string>
   <string name="search_settings">Hae asetuksia</string>
   <string name="search_sources">Haettavat kohteet</string>
   <string name="search_sources_summary">Valitse, mitä laitteesta Haetaan</string>

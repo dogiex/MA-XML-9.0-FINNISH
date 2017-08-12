@@ -4215,7 +4215,6 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="trackball_wake_title">Pallohiiri hälytys</string>
   <string name="traffic_balance">Älykäs tiedonsiirtostrategia</string>
   <string name="transition_animation_scale_title">Siirtymä</string>
-  <string name="translation_contributors_summary"/>
   <string name="translation_contributors_title">Avustajat</string>
   <string name="trusted_credentials">Luotetut todennustiedot</string>
   <string name="trusted_credentials_disable_confirmation">Poistetaanko järjestelmän CA-varmenne käytöstä?</string>
