@@ -1,7 +1,6 @@
 ## Perustiedot
-Laite: esim Cancro
+Laite: esim Mi 3 Cancro <- on laitteen koodinimi
 MIUI versio: Weekly x.x.x | Stable x.x.x.x
-Muista valita ilmoittamasi vian kategoria "Labels" kohdasta.
 
 ## Kuvaus
 Kirjoita tähän mahdollisimman tarkka kuvaus
