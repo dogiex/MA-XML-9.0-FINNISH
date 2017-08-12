@@ -108,8 +108,8 @@
         <item quantity="one">Varmuuskopioidaan kappaletta, %1$d kappale jäljellä (%2$.1f Mt)</item>
     </plurals>
     <plurals name="Nstop_backup_songs_message">
-        <item quantity="other">%d kappaletta ei ole varmuuskopioitu Mi Pilveen. Pysäytetäänkö nyt?</item>
-        <item quantity="one">%d kappale ei ole varmuuskopioitu Mi Pilveen. Pysäytetäänkö nyt?</item>
+        <item quantity="other">%d kappaletta ei ole varmuuskopioitu Mi Pilveen. Lopetetaanko nyt?</item>
+        <item quantity="one">%d kappale ei ole varmuuskopioitu Mi Pilveen. Lopetetaanko nyt?</item>
     </plurals>
     <plurals name="Nsong_group_detail_subtitle">
         <item quantity="other">Luotu %1$s | yhteensä %2$d kappaletta</item>

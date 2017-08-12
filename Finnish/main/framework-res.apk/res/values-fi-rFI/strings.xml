@@ -666,7 +666,7 @@ Yritä uudelleen %2$d sekunnin kuluttua."</string>
   <string name="lockscreen_transport_play_description">Toista</string>
   <string name="lockscreen_transport_prev_description">Edellinen raita</string>
   <string name="lockscreen_transport_rew_description">Kelaa taakse</string>
-  <string name="lockscreen_transport_stop_description">Seis</string>
+  <string name="lockscreen_transport_stop_description">Lopeta</string>
   <string name="lockscreen_unlock_label">Poista lukitus</string>
   <string name="low_internal_storage_view_text">Kaikki järjestelmätoiminnot eivät välttämättä toimi</string>
   <string name="low_internal_storage_view_text_no_boot">Tallennustila ei riitä. Varmista, että vapaata tilaa on 250 Mt, ja käynnistä uudelleen.</string>
@@ -796,7 +796,7 @@ Yritä uudelleen %2$d sekunnin kuluttua."</string>
   <string name="network_switch_metered_toast">%1$s poistettiin käytöstä ja %2$s otettiin käyttöön.</string>
   <string name="network_switch_type_name_unknown">tuntematon verkon tyyppi</string>
   <string name="new_app_action">Käynnistä %1$s</string>
-  <string name="new_app_description">Pysäytä vanha sovellus tallentamatta.</string>
+  <string name="new_app_description">Lopeta vanha sovellus tallentamatta.</string>
   <string name="new_sms_notification_content">Katso avaamalla tekstiviestisovellus.</string>
   <string name="new_sms_notification_title">Sinulle on uusia viestejä</string>
   <string name="next_button_label">Seuraava</string>

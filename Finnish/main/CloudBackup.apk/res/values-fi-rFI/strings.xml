@@ -66,9 +66,9 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="cloud_backup_detail_time">Edellinen varmuuskopio: %1$s</string>
   <string name="cloud_backup_have_data">Löydettiin varmuuskopio Mi Pilvestä</string>
   <string name="cloud_backup_select_recover">Valitse varmuuskopio Mi Pilvestä</string>
-  <string name="cloud_restore_from_other_device">Lopeta kohteesta %s palauttaminen ja poista tämä varmuuskopio? Et voi kumota tätä toimintoa.</string>
+  <string name="cloud_restore_from_other_device">Lopetetaanko kohteesta %s palauttaminen ja poistetaanko tämä varmuuskopio? Et voi kumota tätä toimintoa.</string>
   <string name="cloud_restore_task">Palautetaan…</string>
-  <string name="cloud_task_in_process">Lopeta %s palauttaminen ja poista tämä varmuuskopio? Et voi kumota tätä toimintoa.</string>
+  <string name="cloud_task_in_process">Lopetetaanko %s palauttaminen ja poistetaanko tämä varmuuskopio? Et voi kumota tätä toimintoa.</string>
   <string name="confirm_restore">Palauta</string>
   <string name="confirm_restore_summary">Aloitusnäyttö käynnistyy uudelleen ja sovellukset ladataan automaattisesti laitteen ollessa yhteydessä Wi-Fi-verkkoon</string>
   <string name="confirm_restore_title">Palauta</string>

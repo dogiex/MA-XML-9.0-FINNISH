@@ -979,7 +979,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="projection_local_mobile">Tämä puhelin</string>
   <string name="projection_multi_title">Laitteet</string>
   <string name="projection_single_title">Suoratoista kohteeseen %s</string>
-  <string name="projection_slide_exit">Pysäytä diaesitys</string>
+  <string name="projection_slide_exit">Lopeta diaesitys</string>
   <string name="projection_slide_fail_cause_loading">Käynnistä diaesitys uudelleen kuvan ladattua</string>
   <string name="projection_slide_playing">Diaesitys toistetaan laitteessa %s</string>
   <string name="projection_video_quit">Poistu napauttamalla</string>

@@ -505,7 +505,7 @@ Aseta vain laitteet vierekkäin (yleensä takakannet vastakkain) ja kosketa näy
   <string name="battery_stats_wifi_running_label">Wi-Fi</string>
   <string name="battery_status_title">Akun tila</string>
   <string name="battery_sugg_apps_gps">Valitse virransäästötila</string>
-  <string name="battery_sugg_apps_info">Pysäytä tai poista sovellus</string>
+  <string name="battery_sugg_apps_info">Lopeta tai poista sovellus</string>
   <string name="battery_sugg_apps_settings">Sovellus saattaa tarjota käyttöön asetuksia, joiden avulla akun käyttöä voidaan vähentää.</string>
   <string name="battery_sugg_bluetooth_basic">Poista Bluetooth-yhteys käytöstä, kun et käytä sitä.</string>
   <string name="battery_sugg_bluetooth_headset">Yritä yhdistää eri Bluetooth-laitteeseen.</string>
@@ -1324,7 +1324,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="disable_overlays_summary">Käytä GPU:ta näytön renderöintiin</string>
   <string name="disable_power_key_long_press_under_keyguard">Poista Virta-painikkeen valikko käytöstä</string>
   <string name="disable_service_message">Jos valitset OK, %1$s pysäytetään.</string>
-  <string name="disable_service_title">Pysäytetäänkö %1$s?</string>
+  <string name="disable_service_title">Lopetetaanko %1$s?</string>
   <string name="disable_text">Poista käytöstä</string>
   <string name="disabled">Pois käytöstä</string>
   <string name="disabled_because_no_backup_security">Käytä asettamalla ensin näytön lukitus</string>
@@ -3192,7 +3192,7 @@ Tämä asetus vaikuttaa kaikkiin tämän puhelimen käyttäjiin."</string>
   <string name="runningservicedetails_services_title">Palvelut</string>
   <string name="runningservicedetails_settings_title">Käynnissä oleva sovellus</string>
   <string name="runningservicedetails_stop_dlg_text">Jos pysäytät palvelun, jotkut puhelimen toiminnot eivät välttämättä enää toimi oikein, kunnes sammutat laitteen ja käynnistät sen uudelleen.</string>
-  <string name="runningservicedetails_stop_dlg_title">Pysäytetäänkö järjestelmäpalvelu?</string>
+  <string name="runningservicedetails_stop_dlg_title">Lopetetaanko järjestelmäpalvelu?</string>
   <string name="runningservices_settings_summary">Tarkastele ja hallitse käynnissä olevia palveluita</string>
   <string name="runningservices_settings_title">Käynnissä olevat palvelut</string>
   <string name="runtime_permissions_summary_no_permissions_granted">Käyttöoikeuksia ei ole myönnetty</string>
@@ -5200,7 +5200,7 @@ Muodosta yhteys toiseen Wi-Fi-verkkoon valitsemalla "&lt;b&gt;Takaisin&lt;/b&gt;
 %2$s"</string>
   <string name="zen_mode_rule_type">Säännön tyyppi</string>
   <string name="zen_mode_rule_type_unknown">Tuntematon</string>
-  <string name="zen_mode_schedule_alarm_summary">Lopeta päättymisajan tai seuraavan hälytyksen yhteydessä.</string>
+  <string name="zen_mode_schedule_alarm_summary">Lopeta päättymisajan tai seuraavan hälytyksen yhteydessä</string>
   <string name="zen_mode_schedule_alarm_title">Hälytys voi ohittaa päättymisajan</string>
   <string name="zen_mode_schedule_rule_days">Päivät</string>
   <string name="zen_mode_schedule_rule_days_all">Joka päivä</string>

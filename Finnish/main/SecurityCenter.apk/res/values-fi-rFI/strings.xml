@@ -383,7 +383,7 @@
   <string name="btn_back">Takaisin</string>
   <string name="btn_finish_diagnostic">OK</string>
   <string name="btn_start_diagnostic">Testaa verkkoa</string>
-  <string name="btn_stop_diagnostic">Pysäytä</string>
+  <string name="btn_stop_diagnostic">Lopeta</string>
   <string name="btn_text_already_opened">Päällä</string>
   <string name="btn_text_goto_power_rank">Näytä akun tilasto</string>
   <string name="btn_text_goto_setup">Mene Asetuksiin</string>
@@ -396,7 +396,7 @@
   <string name="btn_text_quick_cleanup">Puhdista</string>
   <string name="btn_text_quick_save_power">Viilennä</string>
   <string name="btn_text_quick_scan">Skannaa</string>
-  <string name="btn_text_stop">Pysäytä</string>
+  <string name="btn_text_stop">Lopeta</string>
   <string name="business_have_hongbao">来自%1$s的一个红包</string>
   <string name="business_lucky_warning">企业红包</string>
   <string name="button_text_accept">Hyväksy</string>
@@ -554,7 +554,7 @@
   <string name="dialog_app_roaming_message">%1$s ei voi käyttää mobiilidataa roaming-tilassa. Kun olet ulkomailla roaming-tilassa, vain poikkeuslistalle lisäämäsi sovellukset voi käyttää mobiilidataa.</string>
   <string name="dialog_app_roaming_title">Ulkomaan roaming-tila ei ole käytössä sovellukselle %1$s</string>
   <string name="dialog_msg_auto_start_declare">Jotkut sovellukset saattaa ilmoittaa väärin, että MIUI on estänyt sitä käynnistymästä. Tarkista sovelluksille myönnetyt käyttöoikeudet asetuksista Asetukset, Käyttöoikeudet.</string>
-  <string name="dialog_msg_stop_virus_scan">Lopetetaanko tietoturvatarkistus?</string>
+  <string name="dialog_msg_stop_virus_scan">Lopetetaanko tietoturvatarkistus ennen, kuin se on valmis?</string>
   <string name="dialog_remobe_luckymoney_cancle">Vanha</string>
   <string name="dialog_remobe_luckymoney_ok">Uusi</string>
   <string name="dialog_remove_luckymoney">Voit käyttää uutta sisäänrakennettua punaisen kirjekuoren avustajaa, tai jatka asennetun version käyttämistä. Kumpaa sinä suosit?</string>
@@ -563,7 +563,7 @@
   <string name="dialog_text">Luo Aloitusnäytölle pikakuvake Pelien Nopeuttajasta</string>
   <string name="dialog_title_attention">Huomio</string>
   <string name="dialog_title_auto_start_declare">Tietoa käynnistyksestä</string>
-  <string name="dialog_title_stop_virus_scan">Pysäytä tietoturvatarkistus</string>
+  <string name="dialog_title_stop_virus_scan">Lopeta tietoturvatarkistus</string>
   <string name="disable_air_mode">Poista Lentokonetila ensin käytöstä</string>
   <string name="dlg_add_blacklist">Estetäänkö tämä numero?</string>
   <string name="dlg_add_blacklist_title">Lisää mustalle listalle</string>

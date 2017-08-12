@@ -22,7 +22,7 @@
   <string name="delete_profile">Poista</string>
   <string name="delete_profile_title">Poistetaanko työprofiili?</string>
   <string name="device_owner_cancel_cancel">Peruuta</string>
-  <string name="device_owner_cancel_message">Haluatko keskeyttää määrittämisen ja tyhjentää laitteen tiedot?</string>
+  <string name="device_owner_cancel_message">Haluatko lopettaa määrittämisen ja tyhjentää laitteen tiedot?</string>
   <string name="device_owner_error_already_provisioned">Laitteen asetukset on jo määritetty.</string>
   <string name="device_owner_error_download_failed">Hallintasovelluksen lataaminen epäonnistui</string>
   <string name="device_owner_error_frp">Laite on lukittu tehdasasetusten palautussuojauksella. Ota yhteyttä yrityksesi IT-osastoon.</string>
@@ -53,7 +53,7 @@
   <string name="pick_launcher">OK</string>
   <string name="preprovisioning_error_encryption_not_supported">Laitteesi ei tue salausta. Ota yhteyttä yrityksesi IT-osastoon.</string>
   <string name="profile_owner_cancel_cancel">Ei</string>
-  <string name="profile_owner_cancel_message">Keskeytetäänkö määrittäminen?</string>
+  <string name="profile_owner_cancel_message">Lopetetaanko määrittäminen?</string>
   <string name="profile_owner_cancel_ok">Kyllä</string>
   <string name="profile_owner_cancelling">Peruutetaan…</string>
   <string name="progress_connect_to_wifi">Muodostetaan Wi-Fi-yhteyttä…</string>
@@ -86,5 +86,5 @@
   <string name="work_profile_setup_continue">Jatka</string>
   <string name="work_profile_setup_later_message">Voit määrittää työprofiilisi myöhemmin käyttämällä yrityksesi käytössä olevaa laitehallintasovellusta.</string>
   <string name="work_profile_setup_later_title">Lopetetaanko profiilin määritys?</string>
-  <string name="work_profile_setup_stop">Pysäytä</string>
+  <string name="work_profile_setup_stop">Lopeta</string>
 </resources>

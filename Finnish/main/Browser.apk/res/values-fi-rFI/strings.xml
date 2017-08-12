@@ -899,7 +899,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="video_history_empty">Ei historiaa</string>
   <string name="video_manager_action_bar_end_view">Videot</string>
   <string name="video_play_error">Videota ei voitu toistaa</string>
-  <string name="video_project_button">Pysäytä</string>
+  <string name="video_project_button">Lopeta</string>
   <string name="video_project_msg">Videota suoratoistetaan kohteeseen %s</string>
   <string name="video_project_title">Videon suoratoisto</string>
   <string name="video_push_multi_message">%1$d päivityksiä saatavilla.</string>

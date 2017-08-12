@@ -521,7 +521,7 @@ Jatka palaamalla takaisin"</string>
   <string name="match_dvd_intro_stop">Vapauta, kun DVD toisto lakkaa</string>
   <string name="match_dvd_name_pause">Pysäytä</string>
   <string name="match_dvd_name_play">Toista</string>
-  <string name="match_dvd_name_stop">Pysäytä</string>
+  <string name="match_dvd_name_stop">Lopeta</string>
   <string name="match_fail_frame">%1$d kaukosäädintä ei voitu parittaa</string>
   <string name="match_fail_model_hint">Syötä kaukosäätimen mallinumero</string>
   <string name="match_failed">Ei enempää kohteita, mene takaisin tai yritä uudelleen</string>
@@ -1150,7 +1150,7 @@ suoraan Lukitusnäytöltäsi"</string>
   <string name="stb_power">STB päälle/pois</string>
   <string name="steps">Yritys #%d</string>
   <string name="stop_auto_tune">停止自动换台</string>
-  <string name="stop_diagnosis">Pysäytä</string>
+  <string name="stop_diagnosis">Lopeta</string>
   <string name="study_room">Opiskelu</string>
   <string name="submit">Lähetä</string>
   <string name="submit_fail_retry">Laitteen tietoja ei voitu lähettää. Odota minuutti tai kaksi ja yritä uudelleen.</string>

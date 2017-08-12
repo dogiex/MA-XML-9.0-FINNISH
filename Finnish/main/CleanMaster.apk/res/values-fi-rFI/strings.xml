@@ -55,7 +55,7 @@
   <string name="btn_text_quick_cleanup_large_file">Poista valitut tiedostot %1$s</string>
   <string name="btn_text_quick_cleanup_video">Poista valitut videot %1$s</string>
   <string name="btn_text_quick_scan">Skannaa</string>
-  <string name="btn_text_stop">Pysäytä</string>
+  <string name="btn_text_stop">Lopeta</string>
   <string name="button_optimizer">OK</string>
   <string name="button_text_add_to_white_list">Poikkeus</string>
   <string name="button_text_backup_uninstall">Varmuuskopioi ensin</string>
@@ -152,9 +152,9 @@
   <string name="dialog_msg_add_white_list_error">Tiedosto ei tue poikkeuksiin lisäämistä</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Varmuuskopioidaanko ja poistetaanko valittujen sovelluksien asennus?</string>
   <string name="dialog_msg_check_all">Varmista, että valitsit %1$s, joka sisältää %2$d asiaa</string>
-  <string name="dialog_msg_esc_cleanmaster">Pysäytetäänkö puhdistuksen skannaus?</string>
+  <string name="dialog_msg_esc_cleanmaster">Lopetetaanko puhdistuksen skannaus?</string>
   <string name="dialog_msg_load_cleanup_engine_error">Puhdistajan moottori on korruptoitunut.</string>
-  <string name="dialog_msg_stop_scan">Pysäytetäänkö puhdistuksen skannaus?</string>
+  <string name="dialog_msg_stop_scan">Lopetetaanko puhdistuksen skannaus?</string>
   <string name="dialog_msg_uninstall_apps">Poistetaanko nämä sovellukset?</string>
   <string name="dialog_msg_uninstall_apps_xspace">Poistetaanko nämä sovellukset mukaan lukien kloonatut sovellukset?</string>
   <string name="dialog_ok_add_white_list_error">Selvä</string>
@@ -164,7 +164,7 @@
   <string name="dialog_title_delete_image">Poista valitut kuvat</string>
   <string name="dialog_title_esc_cleanmaster">Sulje cleanmaster</string>
   <string name="dialog_title_load_cleanup_engine_error">Joku meni pieleen</string>
-  <string name="dialog_title_stop_scan">Pysäytä skannaus</string>
+  <string name="dialog_title_stop_scan">Lopeta skannaus</string>
   <string name="dialog_title_uninstall_apps">Poista asennus</string>
   <string name="download">Lataa</string>
   <string name="downloading">Ladataan</string>
@@ -535,9 +535,9 @@
   <string name="wechat_chat_data_type_other_desc">Ole varovainen, et välttämättä voi palauttaa näitä tiedostoja poistamisen jälkeen.</string>
   <string name="wechat_clean">WeChat puhdistaja</string>
   <string name="wechat_clean_exit_confirm">Poistutaanko?</string>
-  <string name="wechat_clean_exit_confirm_msg">Pysäytetäänkö skannaus ja poistutaanko nyt?</string>
-  <string name="wechat_clean_stop_confirm">Pysäytetäänkö skannaus?</string>
-  <string name="wechat_clean_stop_confirm_msg">Pysäytetäänkö skannaus nyt?</string>
+  <string name="wechat_clean_exit_confirm_msg">Lopetetaanko skannaus ja poistutaanko nyt?</string>
+  <string name="wechat_clean_stop_confirm">Lopetetaanko skannaus?</string>
+  <string name="wechat_clean_stop_confirm_msg">Lopetetaanko skannaus nyt?</string>
   <string name="wechat_content_bad_pic_file">Tiedosto on korruptoitunut</string>
   <string name="wechat_content_empty">Ei vietäviä tiedostoja</string>
   <string name="wechat_copy_to_gallery">Vie Galleriaan</string>

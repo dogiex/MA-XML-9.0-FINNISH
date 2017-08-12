@@ -782,7 +782,7 @@
   <string name="similar_songs">Samanlaiset kappaleet</string>
   <string name="sleep_mode">Nukkuma-ajastin</string>
   <string name="sleep_mode_canceled">Nukkuma-tila poistettu käytöstä</string>
-  <string name="sleep_mode_summary">Pysäytä soitin tietyn ajan jälkeen</string>
+  <string name="sleep_mode_summary">Lopeta soitin tietyn ajan jälkeen</string>
   <string name="sleep_mode_title">Nukkuma-ajastin</string>
   <string name="song_exist_in_playlist">Toiminto epäonnistui. Kappale on jo soittolistalla.</string>
   <string name="song_is_empty">Kappaleen nimi ei voi olla tyhjä.</string>
@@ -799,8 +799,8 @@
   <string name="start_to_play">Toista</string>
   <string name="start_to_use">Aloita nauttiminen</string>
   <string name="start_update">Päivitä Musiikki-sovellus uusimpaan versioon.</string>
-  <string name="stop">Pysäytä</string>
-  <string name="stop_backup">Pysäytä</string>
+  <string name="stop">Lopeta</string>
+  <string name="stop_backup">Lopeta</string>
   <string name="storage_internal">Sisäinen tallennustila</string>
   <string name="storage_sd_card">SD-kortti</string>
   <string name="storage_usb">USB tallennustila</string>

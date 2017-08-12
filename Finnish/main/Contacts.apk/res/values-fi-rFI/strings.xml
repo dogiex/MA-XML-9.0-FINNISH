@@ -49,7 +49,7 @@
   <string name="blurbJoinContactDataWith">Valitse kontakti, jonka haluat yhdistää kontaktiin %s:</string>
   <string name="btn_rotation">Käännä</string>
   <string name="btn_split_contact">Erota</string>
-  <string name="button_cancel_scan">Pysäytä</string>
+  <string name="button_cancel_scan">Lopeta</string>
   <string name="button_join_service_number">Liity Palvelunumeroon</string>
   <string name="button_my_center">Minun Keskus</string>
   <string name="button_scan">Skannaa uudelleen</string>
