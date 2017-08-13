@@ -23,6 +23,7 @@ Tietoja ei poisteta."</string>
   <string name="menu_title_pick_rom_file">Valitse päivityspaketti</string>
   <string name="menu_title_recovery">Käynnistä Recoverytilaan</string>
   <string name="new_version">Uusi versio löytyi!</string>
+  <string name="no_info">Tietoja ei ole saatavilla.</string>
   <string name="no_network">Ei pääsyä verkkoon.</string>
   <string name="no_update">Sinulla on jo uusin versio!</string>
   <string name="no_xioamieu">"Et käytä Xiaomi.eu ryhmän tekemää MIUI:ta!
@@ -43,5 +44,5 @@ Päivitykset eivät ole käytettävissä sinulle!"</string>
   <string name="stable">vakaa</string>
   <string name="version">Nykyinen versio:</string>
   <string name="weekly">viikottainen</string>
-  <string name="wifi_recommended">Wi-Fi-yhteyttä ei ole, jolla lataus aloitettaisiin turvallisesti!</string>
+  <string name="wifi_recommended">Wi-Fi-yhteyttä ei ole, jotta lataus voidaan aloittaa turvallisesti!</string>
 </resources>
