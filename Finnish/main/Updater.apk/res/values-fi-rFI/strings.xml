@@ -32,6 +32,7 @@ Päivitykset eivät ole käytettävissä sinulle!"</string>
   <string name="notif_install">Asenna</string>
   <string name="notif_new_summary">Hae tiedot napauttamalla</string>
   <string name="notif_new_title">Uusi versio saatavilla!</string>
+  <string name="notifications_switch">Näytä ilmoitukset</string>
   <string name="permdesc_cache_filesystem">Sallii sovelluksen kirjoittaa tiedostoja /cache osioon.</string>
   <string name="permdesc_reboot">Sallii sovelluksen käynnistää laite uudelleen.</string>
   <string name="permlab_cache_filesystem">Pääsy Välimuistiin</string>
