@@ -2195,6 +2195,7 @@ Voit asettaa uuden näytön lukituksen sekä laitteelle että työprofiilille, m
   <string name="lockscreen_glogin_checking_password">Tarkistetaan…</string>
   <string name="lockscreen_glogin_password_hint">Salasana</string>
   <string name="lockscreen_glogin_submit_button">Kirjaudu sisään</string>
+  <string name="lockscreen_magazine">Taustakuvan Karuselli</string>
   <string name="lockscreen_magazine_title">Taustakuvan Karuselli</string>
   <string name="lockscreen_remote_input">Estä vastausten ja muun tekstin kirjoittaminen ilmoituksiin, kun laite on lukittu</string>
   <string name="login_account_dialog_message">Kirjaudu sisään Mi Tililläsi ja ota Mi Pilven synkronointi käyttöön.</string>
@@ -2214,6 +2215,7 @@ Voit asettaa uuden näytön lukituksen sekä laitteelle että työprofiilille, m
   <string name="man_add_application">Lisää sovelluksia käynnistykseen</string>
   <string name="manage_device_admin">Laitteen ylläpitäjät</string>
   <string name="manage_device_admin_summary">Näytä tai poista käytöstä laitteen ylläpitäjiä</string>
+  <string name="manage_fakecell_settings">Suojaaminen vääriltä tukiasemilta</string>
   <string name="manage_fingerprint_text">Hallitse sormenjälkiä</string>
   <string name="manage_mobile_plan_title">Mobiilisopimus</string>
   <string name="manage_notification_access_summary_zero">Sovellukset eivät voi lukea ilmoituksia</string>
@@ -2913,6 +2915,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="privacy_childmode">Lapsi-tila</string>
   <string name="privacy_file">Tiedostot</string>
   <string name="privacy_gallery">Kuvat</string>
+  <string name="privacy_header_text_less_than_half">Liian vähän tilaa tälle sovellukselle. Vedä erotin kauemmaksi.</string>
   <string name="privacy_mms">Viestit</string>
   <string name="privacy_mode_dialog_message">Piilotetaanko viestit, muistiot, kuvat, asetukset ja saapuvat puhelut?</string>
   <string name="privacy_mode_dialog_title">Vierastila</string>
@@ -3895,6 +3898,8 @@ Laitteeseesi asennettu luotettu varmenne tekee tämän mahdolliseksi."</string>
   <string name="status_bar_settings_style">Ilmoituksien &amp; nappuloiden ulkoasu</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Sulje kosketuksen jälkeen</string>
   <string name="status_bar_settings_toggle_position">Nappuloiden sijainnit</string>
+  <string name="status_bar_settings_user_fold">Ilmoituksien kansio</string>
+  <string name="status_bar_settings_user_fold_summary">Kaikki ei-tärkeät ilmoitukset ilmestyvät erilliseen kansioon</string>
   <string name="status_bar_style_list">Yhdistetty</string>
   <string name="status_bar_style_page">Erikseen</string>
   <string name="status_bt_address">Bluetooth-osoite</string>
@@ -4265,6 +4270,13 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">Jos poistat Lukitusnäytön salasanan käytöstä, tallennetut sormenjäljet poistetaan. Et voi sen jälkeen avata laitteen lukitusta sormenjäljelläsi.</string>
   <string name="turn_off_security_lock">Poista lukitus käytöstä</string>
   <string name="turn_on_keyguard_password">Ota Lukitusnäytön salasana käyttöön</string>
+  <string name="turn_on_keyguard_password_alert">Muista salasanasi. Jos unohdat sen, et voi palauttaa sitä.</string>
+  <string name="turn_on_keyguard_password_alert_choose">Muista salasanasi. Jos unohdat sen, joudut poistamaan kaikki tiedot laitteeltasi ja asettaaksesi uuden.</string>
+  <string name="turn_on_keyguard_password_alert_foget_cacel">Ei nyt</string>
+  <string name="turn_on_keyguard_password_alert_foget_ok">Selvä</string>
+  <string name="turn_on_keyguard_password_alert_foget_ok_time">Selvä (%d sekuntia)</string>
+  <string name="turn_on_keyguard_password_alert_forget_content">Muista Lukitusnäytön salasanasi. Jos unohdat sen, joudut poistamaan kaikki tiedot laitteeltasi, mukaan lukien kuvat ja yhteystiedot ja sen jälkeen aseta uusi.</string>
+  <string name="turn_on_keyguard_password_alert_forget_title">Jos unohdat sen, et voi palauttaa sitä.</string>
   <string name="turn_on_security_lock">Valitse näytön lukitus</string>
   <string name="turn_on_wifi_dialog_text">Wi-Fi poistetaan käytöstä sen ajaksi, kun kannettava yhteyspiste Hotspot on käytössä. Ottaaksesi Wi-Fin takaisin käyttöön, ole hyvä ja poista Hotspot ensin käytöstä.</string>
   <string name="turn_on_wifi_dialog_title">Ota Wi-Fi käyttöön</string>

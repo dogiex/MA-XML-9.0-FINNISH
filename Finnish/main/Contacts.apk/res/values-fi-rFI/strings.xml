@@ -1165,10 +1165,14 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="strequentList">Suosikit</string>
   <string name="success_message_import_from_account">Yhteystieto tuotu</string>
   <string name="summary_kind_title">Yhteenveto</string>
+  <string name="t9_search_empty_create_contact">Uusi yhteystieto</string>
+  <string name="t9_search_empty_edit_contact">Lisää yhteystietoon</string>
+  <string name="t9_search_empty_send_sms">Lähetä viesti</string>
+  <string name="t9_search_empty_video_call">Videopuhelu</string>
   <string name="t9_search_guide_pinyin_title1">Etsi yhteystietoja syöttämällä numeroita</string>
-  <string name="t9_search_guide_pinyin_title2">Syötä 6 ja 4 etsiäksesi henkilön Mika Häkkinen</string>
+  <string name="t9_search_guide_pinyin_title2">Syötä 9 ja 4 etsiäksesi henkilön Xavier Henry</string>
   <string name="t9_search_guide_zhuyin_title1">Etsi yhteystietoja syöttämällä numeroita</string>
-  <string name="t9_search_guide_zhuyin_title2">Syötä 5 ja 4 etsiäksesi henkilön Joonas Heikkinen</string>
+  <string name="t9_search_guide_zhuyin_title2">Syötä 5 ja 6 etsiäksesi henkilön Jeff Max</string>
   <string name="take_new_photo">Ota uusi kuva</string>
   <string name="take_photo">Ota valokuva</string>
   <string name="telecom_fraud_insurance">Telecom fraud insurance</string>

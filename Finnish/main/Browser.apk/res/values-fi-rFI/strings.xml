@@ -87,6 +87,7 @@
   <string name="aqi_quality_index_moderate">ILI %1$s</string>
   <string name="aqi_quality_index_pure">ILI %1$s</string>
   <string name="aqi_quality_index_unhealthy">ILI %1$s</string>
+  <string name="at_miui_browser">\@小米浏览器</string>
   <string name="autoSwithcingSearchEngineTips">Vaihdettiin usein käytettyyn hakukoneeseen</string>
   <string name="autofill_keyboard_accessory_content_description">Suosituksia saatavilla…</string>
   <string name="autofill_popup_content_description">Näytetään automaattisen täyttämisen ponnahdusikkuna</string>
@@ -483,6 +484,8 @@ Poistutaanko tältä sivulta?"</string>
   <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(WiFi) Tarkista %s1proxy asetuksesi%s2.</string>
   <string name="miuichromium_error_page_suggestion_clear_cache" formatted="false">Tyhjennä välimuisti (%s1Asetukset%s2 - Tyhjennä tiedot).</string>
   <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Tyhjennä välimuisti ja evästeet (%s1Asetukset%s2 - Tyhjennä tiedot, tilisi tiedot saattaa hävitä).</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Tyhjennä välimuisti ja evästeet (tilisi tiedot saattaa hävitä).</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache_no_invoke">Tyhjennä välimuisti.</string>
   <string name="miuichromium_error_page_suggestion_connect_and_retry">Päivitä internetiin yhdistämisen jälkeen</string>
   <string name="miuichromium_error_page_suggestion_contact_admin">Ota yhteyttä järjestelmänvalvojaasi.</string>
   <string name="miuichromium_error_page_suggestion_correct_url">Tarkista syöttämäsi osoite ja yritä uudelleen oikealla URL-osoitteella.</string>
@@ -662,6 +665,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="pull_to_refresh_pull_label">Vedä päivittääksesi</string>
   <string name="pull_to_refresh_release_label">Vapauta suositellaksesi ja päivittääksesi</string>
   <string name="qr_code_title">QR Koodi</string>
+  <string name="qr_description">Skannaa QR-koodi</string>
   <string name="quicklink_bookmark_save">Tallenna kohteeseen</string>
   <string name="quicklink_cannot_save_url">Tätä URL-osoitetta ei voi lisätä.</string>
   <string name="quicklink_folder_text">Top sovellukset</string>
@@ -761,8 +765,9 @@ Poistutaanko tältä sivulta?"</string>
   <string name="send_comment_title">Kommentoi</string>
   <string name="senddesktop">Aloitusnäyttö</string>
   <string name="sendstartpage">Aloitussivu</string>
-  <string name="share_image_text">Katso mitä löysin!</string>
-  <string name="share_page_text">Katso mitä löysin: %1$s | %2$s</string>
+  <string name="share_by_yidianzixun">【一点资讯】</string>
+  <string name="share_image_text">Katso mitä jaoin! @MIUI</string>
+  <string name="share_page_text">Katso mitä jaoin: %1$s @MIUI | %2$s</string>
   <string name="show_check_security_url_check_tip_dialog_description">Selain tarvitsee internetyhteyden toimiakseen normaalisti. Parantaaksesi tietoturvaa ja vastaanottaaksesi suosituksia, salli Selaimelle pääsy vierailemiesi verkkosivustojen URL-osoitteisiin ja sijaintitietoosi.</string>
   <string name="show_check_security_url_check_tip_dialog_description_international">Selain tarvitsee internetyhteyden toimiakseen normaalisti. Vastaanottaaksesi suosituksia, salli Selaimelle pääsy vierailemiesi verkkosivustojen URL-osoitteisiin ja sijaintitietoosi.</string>
   <string name="show_security_tip_dialog_title">Palveluehdot</string>
@@ -772,12 +777,13 @@ Poistutaanko tältä sivulta?"</string>
   <string name="skip_current_version">Ohita tämä versio</string>
   <string name="snapshot">Paikallinen</string>
   <string name="snapshot_failed">Sivua ei voitu tallentaa.</string>
-  <string name="snapshot_successed">Sivu tallennettiin onnistuneesti</string>
+  <string name="snapshot_successed">Avaa Kirjanmerkit/Historia-%gt;PAIKALLINEN nähdäksesi sivun</string>
   <string name="ssl_bad_clock_date_settings">Aseta päivämäärä</string>
   <string name="ssl_bad_clock_warning" formatted="false">Yksityistä yhteyttä kohteeseen %s1 ei voi muodostaa, koska laitteesi päivämäärä ja aika (%s2) ovat väärin.</string>
   <string name="ssl_certificate">Turvallisuusvarmenne</string>
   <string name="ssl_certificate_is_valid">Tämä varmenne on voimassa.</string>
   <string name="ssl_continue">Jatka</string>
+  <string name="ssl_date_error_warnings_header">Tämän sivuston varmenne on vanhentunut tai se ei ole vielä kelvollinen. Sinua suositellaan poistumaan tältä sivulta.</string>
   <string name="ssl_date_invalid">Varmenteen päiväys ei kelpaa.</string>
   <string name="ssl_expired">Varmenne ei ole enää voimassa.</string>
   <string name="ssl_go_back">Takaisin</string>
@@ -914,6 +920,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="view_document_downloaded_files">Katso ladattuja tiedostoja Latauksissa</string>
   <string name="voice_check_network">Tarkista verkkoasetuksesi ja yritä uudelleen.</string>
   <string name="voice_connect_network">Verkkoyhteyttä ei voitu muodostaa.</string>
+  <string name="voice_description">Äänihaku</string>
   <string name="voice_network_connection">Äänihaku tarvitsee internetyhteyden toimiakseen normaalisti.</string>
   <string name="voice_search_permission">Äänihaku tarvitsee käyttää mikrofoniasi toimiakseen normaalisti.</string>
   <string name="voice_semantic_analysis">Selain pystyy analysoimaan semantiikan, kun olet sallinut sen yhdistää.</string>

@@ -184,7 +184,7 @@
   <string name="chooseUsbActivity">Valitse sovellus USB-laitetta varten</string>
   <string name="choose_profile">Valitse profiili</string>
   <string name="clear_adb_keys">Peruuta USB-vianetsinnän käyttöoikeudet</string>
-  <string name="click_to_return_multi_window">Napauta palataksesi Moni-Ikkunatilaan</string>
+  <string name="click_to_return_multi_window">Napauta palataksesi Moni-ikkunatilaan</string>
   <string name="confirm_enable_oem_unlock_text">VAROITUS: laitteen suojaustoiminnot eivät toimi tämän asetuksen ollessa käytössä.</string>
   <string name="confirm_enable_oem_unlock_title">Sallitaanko OEM:n lukituksen avaus?</string>
   <string name="connected_via_passpoint">Yhdistetty seuraavan kautta: %1$s</string>
@@ -251,6 +251,7 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="dlg_error_title">USB-toiminto epäonnistui</string>
   <string name="dlg_ok">OK</string>
   <string name="dock_forced_resizable">Sovellus ei välttämättä toimi jaetulla näytöllä.</string>
+  <string name="dock_keyguard_locked_failed_to_dock_text">KeyGuard ei tue moni-ikkunaa, poistu moni-ikkunatilasta.</string>
   <string name="dock_non_resizeble_failed_to_dock_text">Sovellus ei tue jaettua näyttöä</string>
   <string name="drive_mode_tip">Olet Ajotilassa</string>
   <string name="enable_adb">USB-vianetsintä</string>

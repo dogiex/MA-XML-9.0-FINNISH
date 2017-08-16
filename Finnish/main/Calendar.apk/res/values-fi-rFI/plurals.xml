@@ -91,6 +91,18 @@
         <item quantity="other">%d työpäivää</item>
         <item quantity="one">%d työpäivä</item>
     </plurals>
+    <plurals name="birthday_event_description_days_ago">
+        <item quantity="other">%1$d päivää sitten</item>
+        <item quantity="one">%1$d päivä sitten</item>
+    </plurals>
+    <plurals name="birthday_event_description_days_later">
+        <item quantity="other">%1$d päivän kuluttua</item>
+        <item quantity="one">%1$d päivän kuluttua</item>
+    </plurals>
+    <plurals name="edit_date_calculate_days_error_hint">
+        <item quantity="other">Voit syöttää enintään %1$d päivää</item>
+        <item quantity="one">Voit syöttää enintään %1$d päivän</item>
+    </plurals>
     <plurals name="Ndays_after">
         <item quantity="other">%1$d天后</item>
         <item quantity="one">%1$d天后</item>

@@ -109,9 +109,6 @@
   <string name="cancel_running_download">Peruuta</string>
   <string name="change_download_quality">Vaihda latauksen laatu</string>
   <string name="channel_list_fragment_title">Radio</string>
-  <string name="chinese_female">Naisartistit (Kiina)</string>
-  <string name="chinese_group">Yhtyeet (Kiina)</string>
-  <string name="chinese_male">Miesartistit (Kiina)</string>
   <string name="choose_download_quality">Valitse latauksen laatu</string>
   <string name="choose_stream_quality">Valitse suoratoiston laatu</string>
   <string name="click_modify">Muokkaa sanoja napauttamalla.</string>
@@ -124,8 +121,6 @@
   <string name="cloud_loading_message">Etsitään kappaleita...</string>
   <string name="cloud_music">Pilven Musiikki</string>
   <string name="cloud_settings">Synkronointiasetukset</string>
-  <string name="cloud_space_full">Tallennustila on täynnä</string>
-  <string name="cloud_space_full_message">Mi Pilvessäsi ei ole tarpeeksi tallennustilaa uuden musiikin lisäämiseksi. Päivitä Mi Tilisi hankkiaksesi lisää tallennustilaa.</string>
   <string name="cloud_state_cloud_space_full">Mi Pilven tallennustilaa ei ole tarpeeksi, varmuuskopiointi pysäytetty</string>
   <string name="cloud_state_low_power">Jatka varmuuskopiointia yhdistämällä laturi</string>
   <string name="cloud_state_network_data">Wi-Fi-verkkoa ei löytynyt, varmuuskopiointi pysäytetty</string>
@@ -208,7 +203,6 @@
   <string name="disable_auto_payment_success_message">Automaattinen uusiminen poistettiin käytöstä. Kun tämän hetkinen tilauksesi loppuu, joudut uusimaan tilauksesi uudelleen ladataksesi kappaleita.</string>
   <string name="disallow_add_to_fm">FM Radioon ei voi lisätä kappaleita</string>
   <string name="disallow_add_to_personal_radio">Henkilökohtaiseen radioon ei voi lisätä kappaleita</string>
-  <string name="do_not_remind_again">Älä näytä uudelleen</string>
   <string name="doc_filter">Asiakirjat</string>
   <string name="done">Valmis</string>
   <string name="download">Lataa</string>
@@ -305,9 +299,6 @@
   <string name="enable_auto_payment_success">Uusi automaattisesti</string>
   <string name="enable_auto_payment_success_message">Automaattinen uusiminen otettiin käyttöön. Seuraavan maksu %s.</string>
   <string name="enabled">Käytössä</string>
-  <string name="english_female">Naisartistit (US/Eurooppa)</string>
-  <string name="english_group">Yhtyeet (US/Eurooppa)</string>
-  <string name="english_male">Miesartistit (US/Eurooppa)</string>
   <string name="enter_garbage_clean">Puhdista sisäinen tallennustila.</string>
   <string name="eq_auto">Mukautettu</string>
   <string name="eq_blues">Blues</string>
@@ -344,7 +335,6 @@
   <string name="favorites">Suosikit</string>
   <string name="favourite_music_left_half">Lisätäksesi kappaleita tähän soittolistaan, napauta</string>
   <string name="favourite_music_right_half">Suosikki kuvaketta kappaleen otsikon oikealla puolella</string>
-  <string name="female_artist">Naisartistit</string>
   <string name="file_not_found">Tiedostoa ei ole olemassa</string>
   <string name="filter_by_duration">Pituuden mukaan</string>
   <string name="filter_by_duration_format">%2$d min %5$2d s</string>
@@ -403,7 +393,6 @@
   <string name="global_search_title_movie">Elokuvien soittolista</string>
   <string name="global_search_title_prenatal">Raskaudenaikainen musiikki</string>
   <string name="global_search_title_radar">Musiikin tunnistus</string>
-  <string name="group_artist">Yhtyeet</string>
   <string name="handle_later">Ei nyt</string>
   <string name="higher_quality_music">Korkea äänenlaatu</string>
   <string name="higher_quality_music_summary">Suoratoista ja lataa korkeamman bitraten tiedostoja</string>
@@ -430,9 +419,6 @@
   <string name="is_scanning">Tarkistetaan tallennustilaa…</string>
   <string name="is_scanning_support_online">"Tarkistetaan tallennustilaa…
 (Sillä aikaa voit suoratoistaa musiikkia)"</string>
-  <string name="japan_korea_female">Naisartistit (Japani/Korea)</string>
-  <string name="japan_korea_group">Yhtyeet (Japani/Korea)</string>
-  <string name="japan_korea_male">Miesartistit (Japani/Korea)</string>
   <string name="keep_queued_download">Säilytä</string>
   <string name="ktv_playlist">KTV soittolista</string>
   <string name="latest_song">Soittohistoria (%d).</string>
@@ -464,7 +450,6 @@
   <string name="lyric_is_empty">Sanoituksia ei saatavilla</string>
   <string name="lyric_open_other_connect">Lataa sanoitukset mobiilidatalla</string>
   <string name="lyric_setting">Sanoitusten asetukset</string>
-  <string name="male_artist">Miesartistit</string>
   <string name="manager_cloud_space">Hallitse Mi Pilven tallennustilaa</string>
   <string name="max_sleep_time">%d</string>
   <string name="media_filter">Media</string>
@@ -572,7 +557,6 @@
   <string name="no_song_downloaded">Palvelimeen ei saatu yhteyttä</string>
   <string name="normal_quality">Hyvä</string>
   <string name="not_login">Ei kirjautuneena</string>
-  <string name="not_now">Ei nyt</string>
   <string name="not_selected">Valitse kappale</string>
   <string name="notif_text_engine_off">Xunlei kiihdyttäjä ei ole käytössä.</string>
   <string name="notif_text_engine_on">Kiihdytetään…</string>
@@ -893,7 +877,6 @@
   <string name="upgrade">Päivitys:</string>
   <string name="upgrade_force">Lopetamme nykyisen suoratoistopalvelun kopiosuojaus syistä. Päivitä Musiikki-sovellus uusimpaan versioon kuunnellaksesi korkean laadun musiikkia.</string>
   <string name="upgrade_immediate">Päivitä nyt</string>
-  <string name="upgrade_membership">Hanki lisää tilaa</string>
   <string name="upgrade_music">Päivitä Musiikki</string>
   <string name="upgrade_music_message">Paketti on valmis. Päivitä käynnistämällä uudelleen.</string>
   <string name="upgrade_nobeta">Lopetamme nykyisen suoratoistopalvelun kopiosuojaus syiden selvittämisen ajaksi. Pahoittelemme tästä aiheutunutta haittaa.</string>

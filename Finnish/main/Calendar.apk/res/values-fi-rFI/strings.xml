@@ -53,8 +53,6 @@
   <string name="birthday_event_description_a_week_later">Ensiviikolla</string>
   <string name="birthday_event_description_day_after_tomorrow">Ylihuomenna</string>
   <string name="birthday_event_description_day_before_yesterday">Toissapäivänä</string>
-  <string name="birthday_event_description_days_ago">%1$d päivää sitten</string>
-  <string name="birthday_event_description_days_later">%1$d päivää kunnes</string>
   <string name="birthday_event_description_default">"%1$s's %2$s %3$s %4$s"</string>
   <string name="birthday_event_description_special">"%1$s on %2$s's %3$s %4$s %5$s"</string>
   <string name="birthday_event_description_today">Tänään</string>
@@ -157,7 +155,6 @@
   <string name="downloading_wallpaper">原图下载中</string>
   <string name="edit_date_calculate_days_backward_error_hint">Eteenpäin ei voi laskea</string>
   <string name="edit_date_calculate_days_empty_hint">Syötä päivien lukumäärä</string>
-  <string name="edit_date_calculate_days_error_hint">Voit syöttää enintään %1$d päivää</string>
   <string name="edit_date_calculate_days_forward_error_hint">Taaksepäin ei voi laskea</string>
   <string name="edit_event_all_day_label">Koko päivä</string>
   <string name="edit_event_anniversary_name_empty_hint">Syötä tapahtuman nimi</string>
@@ -192,6 +189,7 @@
   <string name="email_picker_label">Sähköposti ja</string>
   <string name="email_subject_prefix">"Re: "</string>
   <string name="empty_event">Tyhjää tapahtumaa ei voi luoda</string>
+  <string name="english_premium_league">Englannin Premium-Liiga</string>
   <string name="event_account">Tili</string>
   <string name="event_action_delete">Poista</string>
   <string name="event_action_edit">Muokkaa</string>
@@ -240,6 +238,8 @@
   <string name="gas_bill_event_title">燃气缴费：</string>
   <string name="global_action_text_card_manager">Lisää kategorioita</string>
   <string name="global_cricket_no_match">Yhtään krikettiottelua ei ole tälle päivälle. Tarkista muut päivät.</string>
+  <string name="global_football_final">FINAALI</string>
+  <string name="global_football_no_match">Jatkapallo-otteluita ei ole suunniteltu tälle päivälle.</string>
   <string name="global_onthisday_com">OnThisDay.com</string>
   <string name="guide_card_hint_text">Tuo syntymäpäivät yhteystiedoista</string>
   <string name="hint_attendees">Osallistujat</string>

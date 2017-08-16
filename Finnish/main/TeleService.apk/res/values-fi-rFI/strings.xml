@@ -389,6 +389,7 @@
   <string name="card_title_outgoing_barred">Lähtevät puhelut estetty</string>
   <string name="card_title_redialing">Soitetaan uudelleen</string>
   <string name="card_title_unconditionalCF">Call Forward Unconditional is enabled</string>
+  <string name="carrier_info">Operaattorin tiedot</string>
   <string name="carrier_settings_title">Operaattorin asetukset</string>
   <string name="category_personal">Henkilökohtainen</string>
   <string name="category_work">Työ</string>

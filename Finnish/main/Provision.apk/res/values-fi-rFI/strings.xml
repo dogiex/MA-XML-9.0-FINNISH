@@ -3,6 +3,7 @@
   <string name="agree">Hyväksy</string>
   <string name="agree_terms">Olen lukenut ja hyväksyn Palveluehdot ja Tietosuojakäytännön.</string>
   <string name="app_name">Sopimusehto</string>
+  <string name="application_permissions">Sovelluksen Käyttöoikeudet</string>
   <string name="back">Takaisin</string>
   <string name="cm_terms_content">Parantaaksemme sinulle tarjoamia palveluita, sinun valitsema mobiiliverkko-operaattori voi lähettää henkilökohtaisia tietoja sinusta ja tästä laitteesta heidän palvelimille käyttäen Wi-Fi-verkkoja tai mobiilidata-yhteyttä. Näitä tietoja käytetään vain tilastollisiin tarkoituksiin parantaakseen palveluiden laatua ja tarjoamaan henkilökohtaisempaa sisältöä. Tätä tietoa ei käytetä henkilön tunnistamiseen, eikä niitä anneta kolmansille osapuolille.</string>
   <string name="cm_terms_title">Mobiiliverkko-operaattorin Sopimusehdot</string>

@@ -23,7 +23,14 @@
         <item>SoundRecorderRewind</item>
         <item>LowBattery</item>
     </string-array>
+    <string-array name="wallpaper_settings_precust_cover_name">
+        <item>Viihde</item>
+        <item>Maisema</item>
+        <item>Tähtitaivas</item>
+        <item>Kasvitiede</item>
+        <item>Eläin</item>
+    </string-array>
     <string-array name="disable_package_replacement">
-        <item>disable package name</item>
+        <item>Poista paketin nimi käytöstä</item>
     </string-array>
 </resources>
