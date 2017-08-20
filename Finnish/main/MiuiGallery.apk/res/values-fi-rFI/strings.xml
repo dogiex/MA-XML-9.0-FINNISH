@@ -1020,7 +1020,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="photo">Kuvat</string>
   <string name="photo_edit_file_not_exits_tip">Lataa kuva ennen muokkaamista</string>
   <string name="photo_editor_adjust">Säädä</string>
-  <string name="photo_editor_beautify">Kaunisto</string>
+  <string name="photo_editor_beautify">Kaunista</string>
   <string name="photo_editor_beautify_auto">Automaattinen</string>
   <string name="photo_editor_beauty_compare">Alkuperäinen</string>
   <string name="photo_editor_crop_and_rotate">Rajaa&amp;Kierrä</string>
