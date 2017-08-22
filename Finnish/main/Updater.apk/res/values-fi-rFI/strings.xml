@@ -4,7 +4,7 @@
   <string name="battery_islow">Liitä laturisi</string>
   <string name="battery_islow_desc">Akun taso on liian alhainen zip-tiedoston asentamista varten. Liitä laturisi ja yritä myöhemmin uudelleen!</string>
   <string name="btn_changelog">Muutosloki</string>
-  <string name="btn_download">Lataa</string>
+  <string name="btn_download">Lataa (%1$s)</string>
   <string name="btn_install">Asenna</string>
   <string name="btn_no">Peruuta</string>
   <string name="btn_ok">OK</string>
