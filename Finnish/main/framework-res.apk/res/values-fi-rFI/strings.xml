@@ -305,6 +305,7 @@ käyttäen numeroa %s"</string>
   <string name="editTextMenuTitle">Tekstitoiminnot</string>
   <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
   <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
+  <string name="ellipsis">…</string>
   <string name="emailTypeCustom">Muokattu</string>
   <string name="emailTypeHome">Sähköposti (koti)</string>
   <string name="emailTypeMobile">Mobiili</string>
@@ -1365,6 +1366,19 @@ Pitkäkestoinen kova äänenvoimakkuus saattaa heikentää kuuloa."</string>
   <string name="usb_mtp_notification_title">USB on tiedonsiirtotilassa</string>
   <string name="usb_notification_message">Näet lisää vaihtoehtoja napauttamalla.</string>
   <string name="usb_ptp_notification_title">USB on kuvansiirtotilassa</string>
+  <string name="usb_storage_activity_title">USB-massamuistilaite</string>
+  <string name="usb_storage_button_mount">Ota USB-tallennustila käyttöön</string>
+  <string name="usb_storage_error_message">USB-tallennustilasi käyttäminen USB-massamuistilaittena ilmeni ongelma.</string>
+  <string name="usb_storage_message">Olet yhdistänyt tietokoneeseesi käyttämällä USB:tä. Kosketa alla olevaa painiketta, jos tahdot kopioida tiedostoja tietokoneesi ja Android USB-tallennustilasi välillä.</string>
+  <string name="usb_storage_notification_message">Kosketa kopioidaksesi tiedostoja tietokoneellesi/tietokoneeltasi.</string>
+  <string name="usb_storage_notification_title">USB yhdistetty</string>
+  <string name="usb_storage_stop_button_mount">Poista USB-tallennustila käytöstä</string>
+  <string name="usb_storage_stop_error_message">USB-tallennustilan käytöstä poistamisessa ilmeni ongelma. Tarkista, että olet poistanut USB-isäntälaitteen tietokoneesta ja yritä sen jälkeen uudelleen.</string>
+  <string name="usb_storage_stop_message">Ennen, kuin poistat USB-tallennustilan käytöstä, poista (\"poista\") Android USB-tallennustilasi tietokoneestasi.</string>
+  <string name="usb_storage_stop_notification_message">Kosketa poistaaksesi USB-tallennustilan käytöstä.</string>
+  <string name="usb_storage_stop_notification_title">Poista USB-tallennustila käytöstä</string>
+  <string name="usb_storage_stop_title">USB-tallennustila on käytössä</string>
+  <string name="usb_storage_title">USB yhdistetty</string>
   <string name="usb_supplying_notification_title">Liitetty laite saa virtaa USB-yhteyden kautta</string>
   <string name="use_a_different_app">Käytä toista sovellusta</string>
   <string name="user_creation_account_exists">Myönnetäänkö sovellukselle %1$s oikeus luoda käyttäjä tilille %2$s?</string>

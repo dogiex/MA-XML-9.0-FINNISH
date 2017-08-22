@@ -75,6 +75,7 @@
   <string name="feedback_report_remind_login_desc2">Voit myös nähdä raporttisi etenemistä menemällä \"Raporttini\".</string>
   <string name="feedback_retest_label">Askeleet ongelman jäljentämiseen</string>
   <string name="feedback_select_images">Lisää kuvia</string>
+  <string name="feedback_select_modem_log">Lisää modeemin lokitiedot</string>
   <string name="feedback_select_problem">Ongelmat</string>
   <string name="feedback_select_suggestion">Ehdotukset</string>
   <string name="feedback_select_upload_log">Lisää lokitiedot</string>
