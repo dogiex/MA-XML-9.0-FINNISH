@@ -923,7 +923,6 @@ Muodostetaanko pari tämän laitteen kanssa?"</string>
   <string name="clear_failed_dlg_title">Tyhjennä tiedot</string>
   <string name="clear_uri_btn_text">Poista käyttöoikeus</string>
   <string name="clear_user_data_text">Tyhjennä tiedot</string>
-  <string name="close_gesture">Sulje käyttäen elettä</string>
   <string name="close_miui_optimization_title">Poista MIUI:n optimointi käytöstä</string>
   <string name="close_miui_optimization_warning_message">Laitteesi käynnistyy uudelleen, jotta muutokset tulevat voimaan.</string>
   <string name="close_sdcard_optimization_title">Sulje emuloidun SD-kortin optimointi</string>
@@ -1735,7 +1734,6 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="google_backup_enable">Ota varmuuskopiointi käyttöön</string>
   <string name="google_backup_section_title">Google varmuuskopiointi &amp; palautus</string>
   <string name="google_title">Google</string>
-  <string name="got_it">Selvä</string>
   <string name="gsm_to_wifi_connect_type_title">GSM:stä Wi-Fiin</string>
   <string name="handy_mode">Yhden käden-tila</string>
   <string name="handy_mode_enable">Yhden käden-tila</string>
@@ -1773,8 +1771,6 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="help_feedback_label">Ohje ja palaute</string>
   <string name="help_label">Ohjeet ja palaute</string>
   <string name="hidden_ssid_label">Piilotettu SSID:</string>
-  <string name="hide">Piilota</string>
-  <string name="hide_screen_button">Piilota näytön painikkeet</string>
   <string name="high_performance_notif_summary">Laite saattaa kuumentua kovassa käytössä.</string>
   <string name="high_performance_notif_title">Suorituskyky-tila on käytössä</string>
   <string name="high_performance_title">"Näyttää siltä, että olet käynnistänyt suorituskyvyn testisovelluksen. Aseta laite virranhallinnasta \"Suorituskyky\" -tilaan parhaan testituloksen saamiseksi."</string>
@@ -2146,8 +2142,8 @@ Voit asettaa uuden näytön lukituksen sekä laitteelle että työprofiilille, m
   <string name="lockpassword_pin_no_sequential_digits">Nouseva, laskeva tai toistuva numerosarja on kielletty</string>
   <string name="lockpassword_pin_recently_used">Järjestelmänv. ei salli viimeaik. PIN-koodin käyttöä.</string>
   <string name="lockpassword_pin_set_toast">PIN-koodi asetettu</string>
-  <string name="lockpassword_pin_too_long">PIN-koodin on oltava lyhyempi kuin %d numeroa.</string>
-  <string name="lockpassword_pin_too_short">PIN-koodin täytyy olla vähintään %d merkin pituinen</string>
+  <string name="lockpassword_pin_too_long">PIN-koodin on oltava alle %d numeroa pitkä.</string>
+  <string name="lockpassword_pin_too_short">PIN-koodin täytyy olla %d numeroa pitkä</string>
   <string name="lockpassword_strong_auth_required_reason_restart_device_password">Syötä laitteesi salasana jatkaaksesi. Vaaditaan laitteen uudelleenkäynnistymisen jälkeen.</string>
   <string name="lockpassword_strong_auth_required_reason_restart_device_pattern">Käytä laitteesi kuviota jatkaaksesi. Vaaditaan laitteen uudelleenkäynnistymisen jälkeen.</string>
   <string name="lockpassword_strong_auth_required_reason_restart_device_pin">Syötä laitteesi PIN-koodi jatkaaksesi. Vaaditaan laitteen uudelleenkäynnistymisen jälkeen.</string>
@@ -2188,7 +2184,6 @@ Voit asettaa uuden näytön lukituksen sekä laitteelle että työprofiilille, m
   <string name="lockpattern_settings_require_pin_before_startup_summary">Vaadi PIN-koodi laitteen käynnistyksen yhteydessä. Kun laite ei ole päällä, se ei voi käyttää puheluja, viestejä, ilmoituksia eikä hälytyksiä.</string>
   <string name="lockpattern_settings_title">Lukituksenpoistokuvio</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts">Liian monta virheellistä yritystä. Yritä uudelleen %d sekunnin kuluttua.</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Odota %d sekuntia ja yritä uudelleen.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Liian monta virheellistä yritystä</string>
   <string name="lockpattern_tutorial_cancel_label">Peruuta</string>
   <string name="lockpattern_tutorial_continue_label">Seuraava</string>
@@ -2276,6 +2271,7 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="master_clear_progress_title">Tyhjennetään</string>
   <string name="master_clear_summary">Poistaa puhelimen kaikki tiedot</string>
   <string name="master_clear_title">Tehdasasetuksien palauttaminen</string>
+  <string name="max_aspect_settings_all_app_display_loading">Odota hetki…</string>
   <string name="max_cpu10_info">"Deca-core Max "</string>
   <string name="max_cpu2_info">"Dual-core Max "</string>
   <string name="max_cpu4_info">"Quad-core Max "</string>
@@ -3145,6 +3141,7 @@ Bluetooth."</string>
   <string name="restore_default_apn_completed">APN-oletusasetukset on palautettu.</string>
   <string name="restr_pin_enter_admin_pin">Anna järjestelmänvalvojan PIN-koodi</string>
   <string name="restrict_background_blacklisted">Taustatiedonsiirto ei käytössä</string>
+  <string name="restrict_max_aspect_ratio_title">Ehdota maksimaalisen kuvasuhteen poistaminen käytöstä</string>
   <string name="restriction_bluetooth_config_summary">Salli Bluetooth-parien ja -asetuksien muokkaaminen</string>
   <string name="restriction_bluetooth_config_title">Bluetooth</string>
   <string name="restriction_location_enable_summary">Anna sovellusten käyttää sijaintitietojasi</string>
@@ -3206,8 +3203,6 @@ Tämä asetus vaikuttaa kaikkiin tämän puhelimen käyttäjiin."</string>
   <string name="saved_wifi_delete">Poista</string>
   <string name="scan_list_label">Haun tulokset:</string>
   <string name="screen">Näyttö</string>
-  <string name="screen_button">Näytön painikkeet</string>
-  <string name="screen_button_tips">Piilota näytön painikkeet pyyhkäisemällä alas</string>
   <string name="screen_cells_config_title">Aloitusnäytön ulkoasu</string>
   <string name="screen_color_and_optimize">Värit &amp; kontrasti</string>
   <string name="screen_color_and_optimize_disabled">Värien lämpötilansäätö ei toimi Lukutilassa</string>
@@ -3223,6 +3218,8 @@ Tämä asetus vaikuttaa kaikkiin tämän puhelimen käyttäjiin."</string>
   <string name="screen_key_press">Navigointipainikkeiden painallus</string>
   <string name="screen_key_press_action">Käynnistettävä toiminto</string>
   <string name="screen_locking_sounds_title">Ruudun lukitusäänet</string>
+  <string name="screen_max_aspect_ratio_desc">Voiko sovellus käyttää kokonäyttöä vai ei</string>
+  <string name="screen_max_aspect_ratio_title">Maksimaalisen kuvasuhteen asetukset</string>
   <string name="screen_monochrome_mode_apps_loading">Odota hetki…</string>
   <string name="screen_monochrome_mode_apps_title">Käytä Yksiväristä tilaa</string>
   <string name="screen_monochrome_mode_global_summary">Käytä Yksiväristä tilaa kaikissa sovelluksissa</string>
@@ -3858,9 +3855,9 @@ Laitteeseesi asennettu luotettu varmenne tekee tämän mahdolliseksi."</string>
   <string name="status_bar_app_enable_keyguard">Lukitusnäyttö</string>
   <string name="status_bar_app_enable_message">Merkit</string>
   <string name="status_bar_key_position_custom">Muokattu painikkeen sijainti</string>
-  <string name="status_bar_screen_button_desc">Piilota näyttöpainikkeet pyyhkäisemällä alas</string>
+  <string name="status_bar_screen_button_force_immersive_desc">Pyyhkäise ylös näytön alareunasta näyttääksesi näyttöpainikkeet</string>
   <string name="status_bar_screen_button_key">Näyttöpainikkeet</string>
-  <string name="status_bar_screen_button_key_can_hide">Näyttöpainikkeet voidaan piilottaa</string>
+  <string name="status_bar_screen_button_key_force_immersive">Piilota näyttöpainikkeet</string>
   <string name="status_bar_screen_key_back">Takaisin-painike</string>
   <string name="status_bar_screen_key_home">Koti-painike</string>
   <string name="status_bar_screen_key_menu">Valikko-painike</string>
@@ -4072,6 +4069,7 @@ Nopeampi ^1 voi toimia tehokkaammin."</string>
   <string name="storageuse_settings_title">Tallennustilan käyttö</string>
   <string name="strict_mode">Tiukka tila käytössä</string>
   <string name="strict_mode_summary">Vilkuta näyttöä sovellusten tehdessä pitkiä toimia</string>
+  <string name="suggest_unrestrict_max_aspect_ratio_title">Ehdota maksimaalisen kuvasuhteen ottaminen käyttöön</string>
   <string name="suggested_fingerprint_lock_settings_summary">Lukituksen avaaminen sormenjäljellä</string>
   <string name="suggested_lock_settings_summary">Suojaa laitettasi</string>
   <string name="suggested_lock_settings_title">Näytön lukitus</string>
@@ -4088,8 +4086,6 @@ Nopeampi ^1 voi toimia tehokkaammin."</string>
   <string name="supplicant_state_label">Supplicant state:</string>
   <string name="sure_sync_now">Synkronoidaanko kohteet nyt?</string>
   <string name="suspend_gesture_enabled">Sammuta näyttö kääntämällä puhelin ympäri</string>
-  <string name="suspension_ball_enable">Pikavalikon pikakuvaketta</string>
-  <string name="suspension_ball_enable_desc">Ota Pikavalikko käyttöön ja poista se käytöstä käyttämällä pikakuvaketta</string>
   <string name="suw_back_button_label">Takaisin</string>
   <string name="suw_more_button_label">Lisää</string>
   <string name="suw_next_button_label">Seuraava</string>
@@ -4347,6 +4343,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="unlock_set_unlock_summary">Aseta näytön lukitus</string>
   <string name="unlock_setup_wizard_fingerprint_details">Kun olet määrittänyt näytön lukituksen, voit määrittää myös sormenjälkesi kohdassa Asetukset &gt; Tietoturva.</string>
   <string name="unmount_inform_text">USB-tallennustila poistetaan käytöstä</string>
+  <string name="unrestrict_max_aspect_ratio_title">Tukee maksimaalista kuvasuhdetta</string>
   <string name="unrestricted_app_summary">Salli rajoittamaton data Data Saverin kanssa</string>
   <string name="unrestricted_app_title">Rajoittamaton datan käyttö</string>
   <string name="unrestricted_data_saver">Rajoittamaton data sallittu</string>

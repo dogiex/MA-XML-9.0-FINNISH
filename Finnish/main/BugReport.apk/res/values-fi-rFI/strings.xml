@@ -55,6 +55,7 @@
   <string name="feedback_choose_module">Valitse kohde</string>
   <string name="feedback_choose_module_hint">Vaadittu</string>
   <string name="feedback_collect_log_failed">Lokitietoja ei saatu</string>
+  <string name="feedback_contact_info_hint">Puhelinnumero/Sähköposti</string>
   <string name="feedback_continue">Jatka palautetta</string>
   <string name="feedback_description">Selitys</string>
   <string name="feedback_description_bugreport_hint">Jossain tapauksissa () puhelimeni käyttäytyy omituisesti ().</string>
@@ -195,6 +196,7 @@
   <string name="module_data">Tallennustila &amp; Kloonatut sovellukset</string>
   <string name="module_desktop">Aloitusnäyttö &amp; asetukset</string>
   <string name="module_finance">Talous &amp; Mi Lompakko</string>
+  <string name="module_google_apps">Google sovellukset</string>
   <string name="module_item_less">Piilota</string>
   <string name="module_item_more">Lisää</string>
   <string name="module_medias">Media</string>

@@ -252,6 +252,7 @@
   <string name="apps_list_header_title_sms_access">Rajoita pääsyä vahvistuskoodeihin</string>
   <string name="auto_atsk_condition_battery_level_text_down">Kun akku saavuttaa %s</string>
   <string name="auto_atsk_condition_battery_level_text_up">Kun akkua on ladattu %s</string>
+  <string name="auto_clean_close">Automaattiset puhdistukset on pois päältä</string>
   <string name="auto_handle_title">YLEINEN</string>
   <string name="auto_import_games">Laita kaikki pelisi yhteen paikkaan</string>
   <string name="auto_task_condition_choose_battery_level_down">Kun akku saavuttaa tietyn tason</string>
@@ -353,6 +354,7 @@
   <string name="battery_status_unknown">Tuntematon virhe</string>
   <string name="battery_temperature_title">Lämpötila</string>
   <string name="begin_date">Käytön nollauspäivämäärä</string>
+  <string name="best_booster_status">Pelinopeus on nyt paras mahdollinen.</string>
   <string name="best_warning_dialog_button">我知道了</string>
   <string name="best_warning_dialog_message">"温馨提示：使用小米红包助手后，会提升您抢红包的速度。但如果您手太快，姿势太迅猛，每次都率先抢到红包，&lt;font color='#e56255'&gt;有一定几率会被微信误认为使用了自动抢红包插件&lt;/font&gt;，影响您后面使用红包功能。所以，有时候，高抬贵手略控制节奏，抢红包风味更佳。红包虽好，可不要贪多哟～"</string>
   <string name="best_warning_dialog_message1">"使用小米红包助手后，会提升您抢红包的速度。但如果您手太快，姿势太迅猛，每次都率先抢到红包，&lt;font color='#e56255'&gt;有一定几率会被微信误认为使用了自动抢红包插件&lt;/font&gt;，影响您后面使用红包功能。所以，有时候，高抬贵手略控制节奏，抢红包风味更佳。红包虽好，可不要贪多哟～～"</string>
@@ -436,11 +438,13 @@
   <string name="card_main_applock_summary">Suojaa yksityiset kohteet Sovelluslukolla</string>
   <string name="card_main_applock_title">Sovelluslukko</string>
   <string name="card_main_deepclean_action">Tyhjennä</string>
+  <string name="card_main_deepclean_qq_title">QQ puhdistaja</string>
   <string name="card_main_deepclean_summary">Poista tarpeettomat tiedostot</string>
   <string name="card_main_deepclean_title">Syväpuhdista</string>
   <string name="card_main_deepclean_wechat_action">Tyhjennä</string>
   <string name="card_main_deepclean_wechat_summary">Vapauta tallennustilaa tyhjentämällä WeChat välimuisti</string>
   <string name="card_main_deepclean_wechat_title">WeChat välimuisti</string>
+  <string name="card_main_gamebooster_title">Pelien nopeuttaja</string>
   <string name="card_main_hbassistant_summary">Nopeuta &amp; paranna pelikokemusta</string>
   <string name="card_main_hbassistant_title">Pelien nopeuttaja</string>
   <string name="card_main_monthreport_action">Näytä</string>
@@ -607,6 +611,7 @@
   <string name="dnd_no_sound">仅屏蔽声音</string>
   <string name="dns_exception_summary">Tarkista reitittimen DNS-asetukset</string>
   <string name="dns_exception_title">Tarkista DNS-asetukset</string>
+  <string name="do_clean">Puhdistetaan…</string>
   <string name="domestic_roaming_setting">Kansainvälinen roaming</string>
   <string name="dont_bore">Älä anna painikkeiden ja ilmoituksien häiritä sinua</string>
   <string name="dont_bore_text">Mykistä ilmoitukset ja poista painikkeet käytöstä poistaaksesi häiriötekijät</string>
@@ -679,6 +684,8 @@
   <string name="forget_password_button_text">Unohdin salasanan</string>
   <string name="forget_password_button_text_normal">Unohdin salasanan</string>
   <string name="forget_pattern">Unohdin salasanan</string>
+  <string name="free_send_net_booster">Ilmainen Verkon nopeuden parantaja</string>
+  <string name="free_send_net_booster_tip">Nauti sulavasta pelaamisesta ilmaisella Verkon nopeuden parantajalla.</string>
   <string name="free_time_traffic">Hiljaisen ajan datan raja</string>
   <string name="free_time_traffic_hint">Syötä hiljaisen ajan datan raja</string>
   <string name="free_time_traffic_settings">Hiljaisen ajan datan raja</string>
@@ -788,6 +795,7 @@
   <string name="item_install_monitor">Asennuksen valvonta</string>
   <string name="item_lucky_alarm_has_been_closed">已结束</string>
   <string name="item_mms">Suodata ei-toivotut viestit</string>
+  <string name="item_system_auto_download">Lataa päivitykset automaattisesti</string>
   <string name="item_usb_debug">USB-virheenkorjaus</string>
   <string name="item_virus_lib">Päivitä virustunnisteet automaattisesti</string>
   <string name="keywords_antispam">Estolista;Esto;Musta lista;Älykäs estolista;Petos;Myyjä;Agentit;Puhelun estolista;Viestin estolista;Viestien estolista;Tekstiviestin estolista;mustalista;musta lista;estolista;esto lista;estä yhteystieto;estä yhteystietoja</string>
@@ -968,6 +976,7 @@ vastausta"</string>
   <string name="memory_clean_running_process_title">Seurataan sovelluksia (%d)</string>
   <string name="memory_cleaned_memory_info">Käytettävissä oleva muisti</string>
   <string name="memory_cleaned_memory_up">Nopeutta parannettiin</string>
+  <string name="memory_clear_unused">Tyhjennä välimuisti (%s)</string>
   <string name="menu_add">Lisää</string>
   <string name="menu_bl_call_log">Näytä estetyt puhelut</string>
   <string name="menu_bl_remove">Poista esto</string>
@@ -1010,6 +1019,7 @@ vastausta"</string>
   <string name="menu_text_networkassistants_unit_gb">Gt</string>
   <string name="menu_text_networkassistants_unit_kb">Kt</string>
   <string name="menu_text_networkassistants_unit_mb">Mt</string>
+  <string name="menu_text_optimize_manage">Paranna nopeutta</string>
   <string name="menu_text_power_manager">Akun käyttö</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Akku %s</string>
@@ -1028,7 +1038,16 @@ vastausta"</string>
   <string name="more_game">Lisää pelejä</string>
   <string name="more_setting_summary">支持红包提醒种类、红包闹钟、勿扰时段等功能</string>
   <string name="name">Nimi</string>
+  <string name="net_booster">Verkon nopeuden parantaja</string>
+  <string name="net_booster_expire_notification">Verkon nopeuden parantajan istunto on päättymässä</string>
+  <string name="net_booster_expire_notification_tip">%d pv jäljellä, kunnes Verkon nopeuden parantajan istunto päättyy. Uusi istuntosi välttääksesi ongelmia verkon nopeuden kanssa.</string>
+  <string name="net_booster_overdue_notification">Verkon nopeuden parantajan istunto on päättymässä</string>
+  <string name="net_booster_overdue_notification_tip">Verkon nopeuden parantajan istunto päättyy pian. Uusitaanko istunto?</string>
+  <string name="net_booster_tip">Ota Verkon nopeuden parantaja käyttöön, jotta Wi-Fi-yhteys olisi vakaampi ja vähentääksesi verkon viivettä.</string>
+  <string name="net_booster_title">Verkon nopeuden parantaja</string>
+  <string name="net_boosting">Parannetaan nopeutta…</string>
   <string name="net_delay_title">Viive</string>
+  <string name="net_overdue">Istunto päättyi</string>
   <string name="network_blocked_connected_open_wifi">Yhdistetty julkiseen verkkoon</string>
   <string name="network_blocked_notification_summary">Testaa verkko</string>
   <string name="network_blocked_switch_wifi">Vaihda verkkoja</string>
@@ -1443,6 +1462,7 @@ Kalibroinnin aikana, MIUI lähettää tekstiviestin operaattorillesi saadakseen 
   <string name="reach_daily_limit_value_body">Vähennä mobiilidatan käyttöäsi.</string>
   <string name="reach_daily_limit_value_title">Päiväkohtainen dataraja saavutettu</string>
   <string name="read_all_sms">Lue kaikki</string>
+  <string name="receive_now">Vastaanota</string>
   <string name="recently_reject_message">Hylättiin %1$s asennus ja %2$d muuta sovellusta</string>
   <string name="recently_reject_message_one">Hylättiin %1$s asennuspyyntöä</string>
   <string name="recommend_news">Vastaanota suosituksia</string>
@@ -1450,8 +1470,10 @@ Kalibroinnin aikana, MIUI lähettää tekstiviestin operaattorillesi saadakseen 
   <string name="reject_all">Rajoita kaikki</string>
   <string name="reject_countdown">Kiellä (%d)</string>
   <string name="reject_usb_install">Kiellettiin seuraavien sovelluksien asennus USB:n kautta</string>
+  <string name="release_meminfo">Vapauta %d Mt</string>
   <string name="release_memory">Tyhjennä välimuisti</string>
   <string name="renew_ip">Yritä uudelleen</string>
+  <string name="renew_now">Uusi</string>
   <string name="repair">Korjaa</string>
   <string name="repair_loading_text">Odota hetki…</string>
   <string name="repeated_marked_number_summary">Älä estä toista puhelua samasta ilmoitetusta numerosta, jos ne ovat 3 minuutin sisällä toisistaan</string>
@@ -1775,6 +1797,8 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="tab_blacklist">Musta lista</string>
   <string name="tab_block_log_unKnowNumber">Yksityinen numero</string>
   <string name="tab_call">Puhelut</string>
+  <string name="tab_gift">Lahjat</string>
+  <string name="tab_guide">Opas</string>
   <string name="tab_sms">Tekstiviestit</string>
   <string name="tab_title">Musta lista</string>
   <string name="tc_diagnostic_all_error_notification_summary">Ilmoita ongelma napauttamalla</string>
@@ -1881,6 +1905,7 @@ Tässä ohjeet:
   <string name="title_app_lock_disable">Lukitse sovelluksia</string>
   <string name="title_app_update">Päivityksiä saatavilla</string>
   <string name="title_auto_update">Päivitä automaattisesti</string>
+  <string name="title_chain_start">Rajoita ketjukäynnistystä</string>
   <string name="title_cleaner_cloudscan">Pilven roskien skannaus</string>
   <string name="title_cloud_account">Mi Tili</string>
   <string name="title_cloud_service">Mi Pilvi</string>
@@ -1889,8 +1914,11 @@ Tässä ohjeet:
   <string name="title_cmcc_app_check">Vahvistus ei ole valmis</string>
   <string name="title_consume_power_rank">Akun käyttö</string>
   <string name="title_data_flow">Hallitse mobiilidataa</string>
+  <string name="title_data_flow_monitor">Datan käytön monitorointi on päällä</string>
+  <string name="title_dev_model_off">Kehittäjäasetukset on pois päältä</string>
   <string name="title_dev_no">Kehittäjäasetukset käytössä</string>
   <string name="title_dev_yes">Kehittäjäasetukset ei käytössä</string>
+  <string name="title_device_not_root">Root-oikeutta ei myönnetty</string>
   <string name="title_find_device">Etsi laite</string>
   <string name="title_flow_notification">Mobiilidatan ilmoitus</string>
   <string name="title_flow_purchase">Osta mobiilidataa</string>
@@ -1898,18 +1926,21 @@ Tässä ohjeet:
   <string name="title_flow_verify">Vertaa kirjanpitoa</string>
   <string name="title_flow_verify_failed">Ei voitu säätää 5 päivänä peräkkäin</string>
   <string name="title_garbage_clean">Sovelluksien välimuistin koko saavuttanut %s</string>
+  <string name="title_garbage_less">Sovelluksen välimuisti on vähäinen</string>
   <string name="title_garbage_lib">Päivitä roskien tunnisteet</string>
   <string name="title_install_virus_no">Asennuksen monitorointi ei käytössä</string>
   <string name="title_install_virus_yes">Asennuksen monitorointi käytössä</string>
   <string name="title_limit_traffic_per_day">Päiväkohtainen tiedonsiirtoraja</string>
   <string name="title_mifi_insurance">Laajennettu takuu</string>
   <string name="title_miui_update">Päivitys saatavilla</string>
+  <string name="title_miui_update_latest">MIUI on ajan tasalla</string>
   <string name="title_mms_no">Viestin suodatin ei käytössä</string>
   <string name="title_mms_yes">Viestin suodatin käytössä</string>
   <string name="title_more_setting">更多设置</string>
   <string name="title_network_switch">Verkkoyhteys</string>
   <string name="title_of_app_manage">Sovellukset</string>
   <string name="title_of_auto_launch_manage">Käynnistys</string>
+  <string name="title_payment_protection">Maksaminen on suojattu</string>
   <string name="title_payment_risk">Maksuriskejä löytyi</string>
   <string name="title_permission_no">Käyttöoikeuden hallinta ei käytössä</string>
   <string name="title_permission_root">Root oikeus</string>
@@ -1917,6 +1948,7 @@ Tässä ohjeet:
   <string name="title_power_optimizer">Virransäästö</string>
   <string name="title_realname_verify">ID varmistus</string>
   <string name="title_show_notification">Ilmoitusalueen widgetti</string>
+  <string name="title_system_auto_download">Päivitykset ladataan automaattisesti</string>
   <string name="title_telecom_operator">Säädä automaattisesti</string>
   <string name="title_usb_no">USB-virheenkorjaus käytössä</string>
   <string name="title_usb_yes">USB-virheenkorjaus ei käytössä</string>
@@ -2062,8 +2094,13 @@ Lisää saldoa napauttamalla."</string>
   <string name="wifi_item_title_encryption">Wi-Fi salaus</string>
   <string name="wifi_item_title_fake">Tunnista vale Wi-Fi</string>
   <string name="wifi_network_blocked_notification_title">Ei internetyhteyttä</string>
+  <string name="wifi_optizition_loading">Otetaan Xunyou Verkon nopeuden parantaja käyttöön…</string>
+  <string name="wifi_optizition_tip">Ota Wi-Fi nopeuden parantaja käyttöön, jotta Wi-Fi-yhteys olisi vakaampi. Pieni määrä mobiilidataa käytetään.</string>
+  <string name="wifi_optizition_title">Wi-Fi nopeuden parantaja</string>
   <string name="wl_no_whitelist">Ei poikkeuksia.</string>
+  <string name="wlan_booster">Wi-Fi nopeuden parantaja</string>
   <string name="wlan_change_protection_detail">Älä yhdistä Wi-Fi-verkkoon automaattisesti, kun mobiilidataverkko on yhteydessä</string>
   <string name="wlan_change_protection_title">Estä verkkojen vaihto</string>
+  <string name="xunyou_pay_webview">Xunyou palvelut</string>
   <string name="zhifubao_not_found">您的应用版本过低或者未安装</string>
 </resources>

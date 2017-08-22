@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accept_modify_call_request_prompt">Hyväksytäänkö puhelun muokkaus -pyyntö?</string>
-  <string name="add_vm_number_str">Lisää numero</string>
   <string name="antispam_local_marked">Paikallisesti merkattu</string>
   <string name="antispam_marked_count">%1$d MIUI-käyttäjää on raportoinut tämän</string>
   <string name="antispam_marked_title">%1$s</string>
@@ -184,8 +183,6 @@
   <string name="no_balance_title">Raha loppu</string>
   <string name="no_call_back_message">Yhdistäminen kestää liian kauan. Vaihdetaan normaaliin puheluun, josta operaattorisi saattaa laskuttaa sinua.</string>
   <string name="no_call_back_title">Huomio</string>
-  <string name="no_vm_number">Vastaajan numero puuttuu</string>
-  <string name="no_vm_number_msg">SIM-kortilla ei ole vastaajan numeroita.</string>
   <string name="non_ivr_menu_collapse_menu">Avaa valikko</string>
   <string name="non_ivr_menu_view_menu">Näytä valikko</string>
   <string name="not_activate_sim_card_content">Varmenna puhelinnumerosi käyttääksesi Top-up -pakettia. Voit silti tehdä normaalin puhelun, josta operaattorisi saattaa laskuttaa sinua.</string>

@@ -18,10 +18,8 @@
   <string name="fingerprint_try_again_msg">Sormenjälkeä ei voitu vahvistaa, yritä uudelleen.</string>
   <string name="fingerprint_try_again_text">Yritä uudelleen</string>
   <string name="forget_password_string">Salasana hukassa</string>
-  <string name="incorrect_pincode">Väärä PIN-koodi</string>
-  <string name="incorrect_pincode_remaining_attempts">Väärä PIN-koodi, %d yritystä jäljellä</string>
-  <string name="incorrect_pukcode">Väärä PUK-koodi</string>
-  <string name="incorrect_pukcode_remaining_attempts">Väärä PUK-koodi, %d yritystä jäljellä</string>
+  <string name="incorrect_pincode">Virheellinen PIN-koodi</string>
+  <string name="incorrect_pukcode">Virheellinen PUK-koodi</string>
   <string name="input_password_after_boot_msg">Avaa laitteen lukitus syöttämällä salasana</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Puhelun aikana ei voi siirtyä Tilojen välillä</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">Sinun täytyy siirtyä Ensimmäiseen tilaan laitteen uudelleenkäynnistyksen jälkeen</string>
@@ -35,24 +33,15 @@
   <string name="invalid_sim_puk_hint">PUK-koodin pitää olla vähintään kahdeksan numeroa pitkä</string>
   <string name="keyguard_charging_info_battery_temperature_text">Akun lämpötila</string>
   <string name="keyguard_charging_info_battery_used_time_text">Akkukäytöllä</string>
-  <string name="keyguard_charging_info_charging_full_need_hour_time__text">Noin %d t kunnes täynnä</string>
-  <string name="keyguard_charging_info_charging_full_need_min_time__text">Noin %d min kunnes täynnä​</string>
-  <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">Noin %d t %d min kunnes täynnä</string>
   <string name="keyguard_charging_info_charging_text">Ladataan</string>
   <string name="keyguard_charging_info_charging_voltage_text">Jännite</string>
   <string name="keyguard_charging_info_click_to_detail">Näytä tiedot</string>
-  <string name="keyguard_charging_info_could_use_hour_time_text">Noin %d t jäljellä</string>
-  <string name="keyguard_charging_info_could_use_min_time_text">Noin %d min jäljellä</string>
-  <string name="keyguard_charging_info_could_use_time_text" formatted="false">Noin %d t %d min jäljellä</string>
   <string name="keyguard_charging_info_current_now_text">Reaaliaikainen näyttö</string>
   <string name="keyguard_charging_info_data_c">%s℃</string>
   <string name="keyguard_charging_info_data_ma">%smA</string>
   <string name="keyguard_charging_info_data_percent">%s%%</string>
   <string name="keyguard_charging_info_data_v">%sV</string>
-  <string name="keyguard_charging_info_drained_hour_time_format">%d t</string>
-  <string name="keyguard_charging_info_drained_min_time_format">%d min</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Kuluttanut</string>
-  <string name="keyguard_charging_info_drained_time_format" formatted="false">%d t %d min</string>
   <string name="keyguard_charging_info_finished_charging_text">Ladattu täyteen</string>
   <string name="keyguard_charging_info_last_charge_time">d.M. H:mm</string>
   <string name="keyguard_charging_info_last_charge_today_time">Tänään %s</string>
@@ -98,8 +87,6 @@
   <string name="phone_locked_forget_password_suggesstion_two_content">Valitse \"Nollaa &amp; Resetoi\" ja odota, kunnes laite käynnistyy uudelleen.</string>
   <string name="phone_locked_forget_password_suggesstions_title">Kuinka poistan kaikki tiedot?</string>
   <string name="phone_locked_string">Puhelin on lukittu</string>
-  <string name="phone_locked_timeout_minutes_string">Yritä uudelleen %d minuutin kuluttua</string>
-  <string name="phone_locked_timeout_seconds_string">Yritä uudelleen %d sekunnin kuluttua</string>
   <string name="symbol_colon">:</string>
   <string name="unlock_string">Avaa</string>
   <string name="unlocking_sim_card">Avataan SIM-korttia</string>

@@ -142,6 +142,10 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="other">Suojataan %d sovellusta</item>
         <item quantity="one">Suojataan %d sovellus</item>
     </plurals>
+    <plurals name="title_virus_clean">
+        <item quantity="other">Puhdistettiin %d virusta</item>
+        <item quantity="one">Puhdistettiin %d virus</item>
+    </plurals>
     <plurals name="hints_auto_start_enable_title">
         <item quantity="other">%d sovellusta käynnistyy automaattisesti</item>
         <item quantity="one">%d sovellus käynnistyy automaattisesti</item>

@@ -97,6 +97,7 @@
   <string name="bugreport_in_power">Virheraportin pikakuvake</string>
   <string name="bugreport_in_power_summary">Näytä virheraporttipainike virtavalikossa</string>
   <string name="button_convert_fbe">Poista ja muunna…</string>
+  <string name="callFailed_simError">SIM-korttivirhe</string>
   <string name="can_not_dial_vt_while_voice_prompt">Videopuhelua ei voi suorittaa äänipuhelun ollessa käynnissä</string>
   <string name="can_not_dial_while_vt_prompt">Ei voi soittaa videopuhelun ollessa käynnissä</string>
   <string name="category_personal">Henkilökohtainen</string>
@@ -108,6 +109,7 @@
   <string name="charge_length_format">%1$s sitten</string>
   <string name="choose_profile">Valitse profiili</string>
   <string name="clear_adb_keys">Peruuta USB-vianetsinnän käyttöoikeudet</string>
+  <string name="close">Sulje</string>
   <string name="confirm_enable_oem_unlock_text">VAROITUS: laitteen suojaustoiminnot eivät toimi tämän asetuksen ollessa käytössä.</string>
   <string name="confirm_enable_oem_unlock_title">Sallitaanko OEM:n lukituksen avaus?</string>
   <string name="connected_via_passpoint">Yhdistetty seuraavan kautta: %1$s</string>
@@ -192,6 +194,8 @@
   <string name="inactive_app_inactive_summary">Ei käytössä. Ota käyttöön koskettamalla.</string>
   <string name="inactive_apps_title">Epäaktiiviset sovellukset</string>
   <string name="incall_error_call_failed">Puhelua ei voi yhdistää.</string>
+  <string name="incall_error_power_off">Poista lentokonetila käytöstä soittaaksesi puheluita.</string>
+  <string name="incall_error_supp_service_unknown">Tämä palvelu ei ole tuettu.</string>
   <string name="incoming_call_failed_low_battery">Saapuva Puhelu epäonnistui vähäisen virran takia.</string>
   <string name="keep_screen_on">Pysy käynnissä</string>
   <string name="keep_screen_on_summary">Näyttö ei sammu puhelimen latautuessa</string>

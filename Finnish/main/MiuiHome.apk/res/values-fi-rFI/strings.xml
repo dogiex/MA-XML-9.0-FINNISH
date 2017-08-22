@@ -85,7 +85,6 @@
   <string name="failed_to_delete_temporary">Ei voi poistaa</string>
   <string name="failed_to_drop">Ei voi siirtää</string>
   <string name="failed_to_drop_widget_invalid">Widget on viallinen</string>
-  <string name="failed_to_drop_widget_nospace">Tällä Aloitusnäytöllä ei ole tarpeeksi tilaa</string>
   <string name="failed_to_load_image">Kuvaa ei voi ladata</string>
   <string name="folder_name">Kansio</string>
   <string name="frame_load_failed">Raameja ei voi ladata</string>
@@ -180,6 +179,7 @@
   <string name="mtzgadget_missing_text">Widgetti ei ole saatavilla</string>
   <string name="multi_selecting_tips">Valitaksesi sovelluksen, raahaa sen kuvaketta ja tiputa tänne</string>
   <string name="no_detail_page">Ei tietoja-sivu</string>
+  <string name="no_space_toast">Ei tilaa</string>
   <string name="normal_wallpaper">Taustakuva</string>
   <string name="notification_installed">Asennettiin onnistuneesti</string>
   <string name="notification_open_button">Avaa</string>

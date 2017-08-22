@@ -38,6 +38,7 @@
   <string name="mibi_button_retry">Yritä uudelleen</string>
   <string name="mibi_cancel">Peruuta</string>
   <string name="mibi_change_security_lock">Lisää näytön lukituksia</string>
+  <string name="mibi_click_retry">%1$s, yritä uudelleen napauttamalla</string>
   <string name="mibi_colon">": "</string>
   <string name="mibi_deduct_goods_name">Tuote</string>
   <string name="mibi_deduct_open_prompt">%1$s voi veloittaa sinua automaattisesti käyttäen %2$s ilman vahvistusta. Voit poistaa tämän ominaisuuden käytöstä asetuksista %1$s</string>
@@ -128,6 +129,7 @@ Ota yhteyttä Xiaomin asiakaspalveluun."</string>
   <string name="mibi_giftcard_title">Mi Krediitin Lahjakortti</string>
   <string name="mibi_giftcard_will_expire">Vanhentuu %1$s</string>
   <string name="mibi_giftcard_with_num">%1$s Mi Krediitin kuponki käytettävissä</string>
+  <string name="mibi_header_network_error">Verkkoyhteyttä ei voitu muodostaa.</string>
   <string name="mibi_illegal_intent">Laittoman aikomuksen pyyntö</string>
   <string name="mibi_is_what">Mitä voit ostaa Mi Krediiteillä?</string>
   <string name="mibi_label_balance">Saldo</string>

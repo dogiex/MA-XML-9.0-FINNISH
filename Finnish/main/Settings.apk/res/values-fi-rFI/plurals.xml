@@ -193,4 +193,24 @@ Saat lisätietoja varmenteesta järjestelmänvalvojaltasi."</item>
         <item quantity="other">Älä ota pois käytöstä %d sovellukselle</item>
         <item quantity="one">Älä ota pois käytöstä yhdelle sovellukselle</item>
     </plurals>
+    <plurals name="lockpassword_pin_too_short">
+        <item quantity="other">PIN-koodin täytyy olla %d numeroa pitkä</item>
+        <item quantity="one">PIN-koodin täytyy olla %d numeroa pitkä</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_long">
+        <item quantity="other">PIN-koodi voi sisältää enintään %d numeroa</item>
+        <item quantity="one">PIN-koodi voi sisältää enintään %d numeron</item>
+    </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Yhdistä vähintään %d pistettä. Yritä uudelleen.</item>
+        <item quantity="one">Yhdistä vähintään %d piste. Yritä uudelleen.</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts">
+        <item quantity="other">Liian monta virheellistä yritystä. Yritä uudelleen %d sekunnin kuluttua.</item>
+        <item quantity="one">Liian monta virheellistä attempt. Yritä uudelleen %d sekunnin kuluttua.</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">Odota %d sekuntia ja yritä uudelleen.</item>
+        <item quantity="one">Odota %d sekunti ja yritä uudelleen.</item>
+    </plurals>
 </resources>
