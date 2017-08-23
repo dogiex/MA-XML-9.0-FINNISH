@@ -29,10 +29,10 @@
   <string name="backup_empty">Ei varmuuskopioita.</string>
   <string name="backup_empty_info">" Varmuuskopioi tietosi, asetuksesi ja sovelluksesi"</string>
   <string name="backup_empty_info_onpad">" Varmuuskopioi tietosi, asetuksesi ja sovelluksesi"</string>
-  <string name="backup_error">Ei voitu varmuuskopioida</string>
-  <string name="backup_failed">Ei voitu varmuuskopioida</string>
-  <string name="backup_file_error">"Ei voitu varmuuskopioida"</string>
-  <string name="backup_finished">Varmuuskopio onnistua</string>
+  <string name="backup_error">Varmuuskopiointi epäonnistui</string>
+  <string name="backup_failed">Varmuuskopiointi epäonnistui</string>
+  <string name="backup_file_error">Varmuuskopiointi epäonnistui</string>
+  <string name="backup_finished">Varmuuskopioitiin onnistuneesti</string>
   <string name="backup_hint">Pidä laitteesi päällä</string>
   <string name="backup_hint_onpad">Pidä laitteesi päällä</string>
   <string name="backup_is_running">Varmuuskopioidaan laitetta</string>
@@ -40,9 +40,12 @@
   <string name="backup_items_sysdata_tailer">" järjestelmädatan tiedostoa "</string>
   <string name="backup_new">Uusi:</string>
   <string name="backup_progress">Varmuuskopioidaan…</string>
-  <string name="backup_report">Katso tiedot</string>
+  <string name="backup_report">Näytä tiedot</string>
+  <string name="backup_security_tips_message">Joitakin sovelluksia ei välttämättä voida varmuuskopioida tai palauttaa.</string>
+  <string name="backup_security_tips_title">Varmuuskopiointi ei välttämättä toimi</string>
   <string name="backup_update">Päivitä</string>
-  <string name="batch_delete_backup_confirm">Poista valitut varmuuskopiot?</string>
+  <string name="batch_delete_backup_confirm">Poistetaanko valitut varmuuskopiot?</string>
+  <string name="btn_got_it">Selvä</string>
   <string name="button_backup">Varmuuskopioi</string>
   <string name="button_cancel">Peruuta</string>
   <string name="button_continue">Jatka</string>
@@ -304,6 +307,8 @@ Pidä laitteet lähellä toisiaan."</string>
   <string name="trans_retry">Kokeile uudelleen</string>
   <string name="trans_scan_invalid_qrcode">QR-koodi on virheellinen</string>
   <string name="trans_scan_qr_code_tips">Skannaa QR-koodi käyttäen uutta laitetta</string>
+  <string name="trans_security_tips_message">Jotkut sovellukset eivät tue Mi Siirtäjää.</string>
+  <string name="trans_security_tips_title">Mi Siirtäjän yhteensopivuus</string>
   <string name="trans_select_data">Valitse lähetettävät tiedostot</string>
   <string name="trans_select_data_no_space">"Uudella laitteella ei ole tarpeeksi tilaa.
 Valitse tiedostot uudestaan tai vapauta %s tilaa uudella laitteella"</string>

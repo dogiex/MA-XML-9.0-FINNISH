@@ -2790,6 +2790,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="pointer_location_summary">Näytön peittokuva näyttää nykyiset kosketustiedot</string>
   <string name="pointer_settings_category">Hiiri/ohjauslevy</string>
   <string name="pointer_speed">Osoittimen nopeus</string>
+  <string name="popup_window">Salli ponnahdusikkunat</string>
   <string name="power_autorun_apps_empty">Tyhjä</string>
   <string name="power_autorun_empty">Tyhjä</string>
   <string name="power_bluetooth">Bluetooth</string>

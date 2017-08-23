@@ -4,6 +4,7 @@
   <string name="app_label">HTML-lukija</string>
   <string name="app_name_which_call">Sovellus: %s</string>
   <string name="app_version_which_call">Sovellusversio: %s</string>
+  <string name="autoconnect">Yhdistä automaattisesti</string>
   <string name="ime_privacy_policy">Valitse näppäimistö</string>
   <string name="license_host_unreachable">Verkkoyhteyttä ei voi muodostaa. Nähdäksesi tämän tiedon nyt, mene %s toisella yhdistetyllä laitteella.</string>
   <string name="loading">Odota hetki…</string>

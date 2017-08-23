@@ -10,6 +10,10 @@
         <item>Oinas</item>
         <item>21.3. - 19.4.</item>
     </string-array>
+    <string-array name="bundesliga">
+        <item>2</item>
+        <item>Bundesliiga</item>
+    </string-array>
     <string-array name="buttons_list">
         <item>Päivä</item>
         <item>Viikko</item>
@@ -50,6 +54,10 @@
         <item>Tämä ja tulevat tapahtumat</item>
         <item>Kaikki tapahtumat</item>
     </string-array>
+    <string-array name="la_liga">
+        <item>3</item>
+        <item>La Liga</item>
+    </string-array>
     <string-array name="delete_repeating_labels_no_selected">
         <item>Tämä ja tulevat tapahtumat</item>
         <item>Kaikki tapahtumat</item>
@@ -68,6 +76,10 @@
         <item>vaaka</item>
         <item>Vaaka</item>
         <item>23.9. - 23.10.</item>
+    </string-array>
+    <string-array name="ligue_1">
+        <item>5</item>
+        <item>Ligue 1</item>
     </string-array>
     <string-array name="ordinal_labels">
         <item>ensimmäinen</item>
@@ -204,6 +216,10 @@
         <item>Skorpioni</item>
         <item>24.10. - 22.11.</item>
     </string-array>
+    <string-array name="serie_a">
+        <item>1</item>
+        <item>Serie A</item>
+    </string-array>
     <string-array name="taurus_info">
         <item>härkä</item>
         <item>Härkä</item>
@@ -319,21 +335,5 @@
     <string-array name="widget_style_list">
         <item>Läpinäkyvä</item>
         <item>Valkoinen tausta</item>
-    </string-array>
-    <string-array name="bundesliga">
-        <item>2</item>
-        <item>Bundesliiga</item>
-    </string-array>
-    <string-array name="la_liga">
-        <item>3</item>
-        <item>La Liga</item>
-    </string-array>
-    <string-array name="ligue_1">
-        <item>5</item>
-        <item>Ligue 1</item>
-    </string-array>
-    <string-array name="serie_a">
-        <item>1</item>
-        <item>Serie A</item>
     </string-array>
 </resources>

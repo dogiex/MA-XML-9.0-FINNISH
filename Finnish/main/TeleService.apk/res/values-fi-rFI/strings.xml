@@ -316,7 +316,7 @@
   <string name="call_advanced_setting_title">Lisäasetukset</string>
   <string name="call_background_default">Oletus</string>
   <string name="call_background_lock_wallpaper">Lukitusnäytön taustakuva</string>
-  <string name="call_background_setting">Puhelun taustakuva</string>
+  <string name="call_background_setting">Saapuvan puhelun taustakuva</string>
   <string name="call_barring">Puhelunesto</string>
   <string name="call_barring_sum">Äänipuheluiden estoasetukset</string>
   <string name="call_description_recording">Nauhoitetaan…</string>
