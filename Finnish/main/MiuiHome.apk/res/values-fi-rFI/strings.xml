@@ -61,6 +61,7 @@
   <string name="default_folder_title_security">Järjestelmä</string>
   <string name="default_folder_title_telcel">Telcel</string>
   <string name="default_folder_title_tools">Työkalut</string>
+  <string name="default_screen_preview_title">Oletusnäytön asettaminen</string>
   <string name="default_shortcut_title_10086">10086.cn</string>
   <string name="delete">Poista</string>
   <string name="delete_screen">Poista näyttö</string>
@@ -161,6 +162,7 @@
   <string name="menu_back_desktop">Takaisin Aloitusnäytölle</string>
   <string name="menu_cell_setting">Näytön Asetukset</string>
   <string name="menu_customize">Asetukset</string>
+  <string name="menu_default_screen_preview">Oletusnäytön asettaminen</string>
   <string name="menu_edit">Muokkaa Aloitusnäyttöä</string>
   <string name="menu_exit_scene">Poistu Mi Space</string>
   <string name="menu_item_add_item">Aseta Aloitusnäytölle</string>

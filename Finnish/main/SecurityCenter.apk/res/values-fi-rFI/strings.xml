@@ -15,6 +15,7 @@
   <string name="ac_firstUseApplock_title">Aseta salasana sovellusten suojaamiseksi</string>
   <string name="ac_summaryOff">Ei käytössä, salasanaa ei vaadita sovelluksien avaamiseen</string>
   <string name="ac_summaryOn">Käytössä, salasana vaaditaan sovelluksien avaamiseen</string>
+  <string name="access_control_app_is_launching">Sovellus käynnistyy</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Salasana vaaditaan sovelluksien avaamiseen</string>
   <string name="access_control_fingerprint_not_identified_msg">Sormenjälkeä ei voitu lukea.</string>
   <string name="access_control_need_password">"%s lisätty onnistuneesti
@@ -133,6 +134,7 @@
   <string name="app_manager_app_update">Päivitykset</string>
   <string name="app_manager_app_version_name">Versio:</string>
   <string name="app_manager_appupdate_remind">Ilmoita päivityksistä</string>
+  <string name="app_manager_back">Takaisin</string>
   <string name="app_manager_bipartition">Kloonatut sovellukset</string>
   <string name="app_manager_card_permission_title">Käyttöoikeudet</string>
   <string name="app_manager_clear_data_dlg_message">Tämän sovelluksen kaikki sovellusdatat poistetaan pysyvästi. Tämä sisältää kaikki tiedostot, asetukset, tilit, tietokannat, jne.</string>
@@ -316,6 +318,7 @@
   <string name="auto_task_operation_sync">Synkronoi</string>
   <string name="auto_task_operation_vibration">Värinä</string>
   <string name="auto_task_operation_wifi">Wi-Fi</string>
+  <string name="background_restrict_app_dialog_message">Rajoittamalla tämän sovelluksen verkon käyttöä taustalla saattaa vaikuttaa sen toimintaan toimia normaalisti, vastaanottaa viestejä, ladata sisältöä jne. Rajoitetaanko siitä huolimatta?</string>
   <string name="background_traffic">Tausta %s</string>
   <string name="backsound_set_hint">Asetetaanko poissaoloviestisi: %s?</string>
   <string name="battery_capacity_title">Akun kapasiteetti</string>
@@ -637,10 +640,10 @@
   <string name="examination_score_80_100">Muutama kohde voidaan optimoida</string>
   <string name="examination_score_80_60">Joitakin kohteita voidaan optimoida</string>
   <string name="examination_score_has_virus">Havaittiin epäilyttäviä sovelluksia.</string>
-  <string name="exception_dialog_message">当前网络统计模块异常，可能导致无法正常统计手机流量消耗与超流量断网，重启可解决此问题，是否立即重启？</string>
-  <string name="exception_dialog_ok_button">立即重启</string>
-  <string name="exception_notify_message">网络统计模块异常，建议重启恢复</string>
-  <string name="exception_titile">网络助手异常</string>
+  <string name="exception_dialog_message">Virheen vuoksi datan käyttötilastoja ei voitu laskea. Ilman tarkkoja tilastoja Tietoturva ei voi tilastoida datan käyttöä. Palautetaanko tämä ominaisuus käynnistämällä laite uudelleen?</string>
+  <string name="exception_dialog_ok_button">Käynnistä uudelleen</string>
+  <string name="exception_notify_message">Virheen vuoksi datan käyttötilastoja ei voitu laskea. Palauta käynnistämällä laite uudelleen.</string>
+  <string name="exception_titile">Tapahtui virhe</string>
   <string name="exit">Poistu</string>
   <string name="finger_remind_message">Lisää sormenjälkesi ensin. Avaa Asetukset napauttamalla.</string>
   <string name="fingerprint_identify_msg">Ota Sormenjäljellä avaaminen käyttöön</string>
@@ -982,6 +985,8 @@ vastausta"</string>
   <string name="menu_bl_remove">Poista esto</string>
   <string name="menu_bl_sms_log">Näytä estetyt tekstiviestit</string>
   <string name="menu_call">Soita</string>
+  <string name="menu_charge_bill">Top-up saldo</string>
+  <string name="menu_charge_traffic">Osta dataa</string>
   <string name="menu_edit">Muokkaa</string>
   <string name="menu_item_about_content">Versio %s</string>
   <string name="menu_item_about_summary">Versio %s</string>
@@ -1005,6 +1010,7 @@ vastausta"</string>
   <string name="menu_item_virus_install_monitor_title">Skannaa ennen asentamista</string>
   <string name="menu_item_virus_lib_auto_update_summary">Päivitetty %s</string>
   <string name="menu_remove">Poista</string>
+  <string name="menu_report">Ilmoita virheestä</string>
   <string name="menu_sms">Lähetä viesti</string>
   <string name="menu_text_antispam">Estolista</string>
   <string name="menu_text_antivirus">Tietoturvatarkistus</string>
@@ -1435,6 +1441,7 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="preferred_app_entries_messaging">Viestit</string>
   <string name="preferred_app_entries_music">Musiikki</string>
   <string name="privacy_declare_dialog_title">Palveluehdot</string>
+  <string name="privacy_dialog_message">Kun yhdistät internetiin, tämä viesti salataan ja lähetetään operaattorisi tietojen kanssa Mi:n palvelimille auttamaan meitä tilastoimaan datan käyttöä.</string>
   <string name="privacy_mode_dialog_title">Vieras tila</string>
   <string name="privacy_prompt_tc_sms_report_message">Puhelinnumerosi ja operaattorisi tiedot salataan ja lähetetään Mi:n palvelimille, jotta datan käytön tiedot voidaan päivittää.</string>
   <string name="privacy_prompt_traffic_adjust_message">"Kalibroinnin käynnistämisen jälkeen, MIUI yhdistää verkkoon, enkoodaa operaattorisi tiedot, puhelinnumerosi, IMEI-koodisi, ja Mi Tilisi ja lähettää ne Mi:n palvelimille. Tämä tehdään, jotta saadaan operaattorin kalibrointimalli ja opitaan, onko sijainnissasi mahdollista ostaa dataa.
@@ -1599,6 +1606,8 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="sms_contact_block">Estä tekstiviestit yhteystiedoilta</string>
   <string name="sms_delete_hint">Poistetaanko kaikki estetyt viestit tästä numerosta?</string>
   <string name="sms_delete_title">Poista viestit</string>
+  <string name="sms_detail_fragment_title_bill">Puhelimen saldo</string>
+  <string name="sms_detail_fragment_title_traffic">Jäljellä oleva data</string>
   <string name="sms_filter">Älykäs suodatin</string>
   <string name="sms_keywords">Avainsanan estolista</string>
   <string name="sms_malicious_url">Estä haitallisten URL-osoitteiden sisältävät tekstiviestit</string>
@@ -2098,7 +2107,7 @@ Lisää saldoa napauttamalla."</string>
   <string name="wifi_optizition_tip">Ota Wi-Fi nopeuden parantaja käyttöön, jotta Wi-Fi-yhteys olisi vakaampi. Pieni määrä mobiilidataa käytetään.</string>
   <string name="wifi_optizition_title">Wi-Fi nopeuden parantaja</string>
   <string name="wl_no_whitelist">Ei poikkeuksia.</string>
-  <string name="wlan_booster">Wi-Fi nopeuden parantaja</string>
+  <string name="wlan_booster">Wi-Fi optimointi</string>
   <string name="wlan_change_protection_detail">Älä yhdistä Wi-Fi-verkkoon automaattisesti, kun mobiilidataverkko on yhteydessä</string>
   <string name="wlan_change_protection_title">Estä verkkojen vaihto</string>
   <string name="xunyou_pay_webview">Xunyou palvelut</string>

@@ -11,7 +11,7 @@
   <string name="alert_message_delete_note">Poistetaanko tämä muistio?</string>
   <string name="alert_message_edit_anyway">Jos muokkaat tätä muistiota, joitakin kohtia sen sisällöstä saattaa hukkua.</string>
   <string name="alert_message_restore">Tätä muistiota ei voitu avata. Palauta se muokkaaksesi sen sisältöä.</string>
-  <string name="alert_title_delete">Poistetaanko muistio?</string>
+  <string name="alert_title_delete">Poista muistio</string>
   <string name="alert_title_edit_anyway">Tämä muistio sisältää sisältöä, jota ei tueta</string>
   <string name="alert_title_hidden_note">Vastaanota piilotetun muistion muistutus</string>
   <string name="alert_title_restore">Palauta muistio</string>
@@ -178,6 +178,7 @@
   <string name="toast_notes_unhidden">Poistettiin piilosta onnistuneesti</string>
   <string name="toast_notes_unhidden_count">Poistettiin %1$s piilosta onnistuneesti</string>
   <string name="toast_reach_text_limit_attachment">Uusia liitetiedostoja ei voi lisätä, koska muistio on liian pitkä</string>
+  <string name="toast_reach_text_limit_checkbox">Valintaruutua ei voi lisätä, koska muistio on liian pitkä</string>
   <string name="toast_reach_text_limit_truncate">Tämä muistio on liian pitkä. Joitakin tekstejä poistettiin lopusta.</string>
   <string name="toolbar_check_description">Lisää valintaruutu</string>
   <string name="toolbar_delete_description">Poista tämä muistio</string>

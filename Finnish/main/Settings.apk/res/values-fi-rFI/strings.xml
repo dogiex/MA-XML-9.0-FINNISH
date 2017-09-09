@@ -137,6 +137,7 @@ Näyttöön tai navigointipalkkiin lähentäminen ei ole mahdollista."</string>
   <string name="add_auto_startup_application">Lisää käynnistyviä sovelluksia</string>
   <string name="add_device_admin">Aktivoi laitteen järjestelmänvalvoja</string>
   <string name="add_device_admin_msg">Otetaanko laitteen järjestelmänvalvoja käyttöön?</string>
+  <string name="add_facerecoginition_text">Lisää kasvojen tiedot</string>
   <string name="add_fingerprint_done_msg">Voit nyt avata laitteen lukituksen sormenjäljellä.</string>
   <string name="add_fingerprint_done_title">Olet valmis rokkaamaan!</string>
   <string name="add_fingerprint_failed_retry_text">Sormenjäljen lisääminen epäonnistui, yritä uudelleen</string>
@@ -375,7 +376,6 @@ Aseta vain laitteet vierekkäin (yleensä takakannet vastakkain) ja kosketa näy
   <string name="auto_rule">ajasta sääntö</string>
   <string name="auto_silent">Ajastettu Mykistys</string>
   <string name="auto_startup_application_manage">Automaattinen käynnistys</string>
-  <string name="auto_startup_count">%d sovellusta on sallittu käynnistymään automaattisesti</string>
   <string name="automatic_brightness">Automaattinen kirkkaus</string>
   <string name="available_size">%s jäljellä</string>
   <string name="available_via_passpoint">Käytettävissä seuraavan kautta: %1$s</string>
@@ -520,7 +520,7 @@ Aseta vain laitteet vierekkäin (yleensä takakannet vastakkain) ja kosketa näy
   <string name="bind_xiaomi_account_confirm">Lisää</string>
   <string name="bind_xiaomi_account_dialog_summery">Olet lisäämässä Mi Tiliä %s. Jos unohdat salasanasi, voit käyttää tätä tiliä palauttaaksesi sen.</string>
   <string name="bind_xiaomi_account_success">Mi Tili lisätty onnistuneesti</string>
-  <string name="biometric_weak_improve_matching_title">Paranna kasvojen tunnistusta</string>
+  <string name="biometric_weak_improve_matching_title">Paranna kasvojentunnistusta</string>
   <string name="biometric_weak_liveliness_summary">Vaadi silmien räpyttely avaamisessa</string>
   <string name="biometric_weak_liveliness_title">Eläväisyystarkistus</string>
   <string name="ble_scan_notify_text">Parantaakseen sijainnin tarkkuutta järjestelmäsovellukset ja -palvelut voivat edelleen havaita Bluetooth-laitteita. Voit muuttaa tätä LINK_BEGINetsintäasetuksissaLINK_END.</string>
@@ -1274,7 +1274,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="device_available_memory">Muistia käytettävissä</string>
   <string name="device_battery">Akku</string>
   <string name="device_build_id">Versionumero</string>
-  <string name="device_complete_parameters">Valmis</string>
+  <string name="device_complete_parameters">Kaikki tiedot</string>
   <string name="device_cpu">CPU</string>
   <string name="device_cpu10_info">Deca-core</string>
   <string name="device_cpu2_info">Dual-core</string>
@@ -1558,6 +1558,8 @@ Tämä auttaa suojaamaan kadotettujen tai varastettujen laitteiden tietoja."</st
   <string name="external_data_size_label">USB-tallennustilan tiedot</string>
   <string name="extreme_threats_summary">Saa hälytyksiä ihmishenkiä ja omaisuutta koskevista uhista</string>
   <string name="extreme_threats_title">Erittäin vakavat uhat</string>
+  <string name="face_unlock_disable">Kasvojentunnistus on pois päältä</string>
+  <string name="face_unlock_enable">Kasvojentunnistus on päällä</string>
   <string name="factory_reset_summary">Poista kaikki tiedot laitteen sisäiseltä tallennustilalta</string>
   <string name="failed_to_check_find_device_status_content">Etsi laite tilaa ei voitu tarkistaa. Odota minuutti tai kaksi ja yritä uudelleen.</string>
   <string name="failed_to_check_find_device_status_title">Tilaa ei voitu tarkistaa</string>
@@ -1594,6 +1596,7 @@ Tämä auttaa suojaamaan kadotettujen tai varastettujen laitteiden tietoja."</st
   <string name="fingerprint_enable_keyguard_toggle_title">näytön lukitus</string>
   <string name="fingerprint_enroll_button_add">Lisää toinen</string>
   <string name="fingerprint_enroll_button_next">Seuraava</string>
+  <string name="fingerprint_first_open_screen_password_face_tittle">Biometriikka （aseta Lukitusnäytön salasana ennen käyttöä）</string>
   <string name="fingerprint_first_open_screen_password_tittle">Sormenjälki (aseta Lukitusnäytön salasana ennen käyttöä)</string>
   <string name="fingerprint_for_keyguard_disabled">Sormenjälki on otettu pois käytöstä tietoturva-asetuksista.</string>
   <string name="fingerprint_identify_input_password_msg">Syötä salasana</string>
@@ -1608,6 +1611,7 @@ Tämä auttaa suojaamaan kadotettujen tai varastettujen laitteiden tietoja."</st
   <string name="fingerprint_lock_second">Avaa Toisen tilan lukitus</string>
   <string name="fingerprint_manage">Hallitse sormenjälkiä</string>
   <string name="fingerprint_manage_category_title">Sormenjälkien hallinta</string>
+  <string name="fingerprint_manage_tittle">Sormenjälki</string>
   <string name="fingerprint_not_identified_msg">Sormenjäljen luku epäonnistui. Syötä salasana.</string>
   <string name="fingerprint_not_recognized">Ei tunnistettu</string>
   <string name="fingerprint_removal_failed">Sormenjälkeä ei voitu poistaa, yritä myöhemmin uudelleen</string>
@@ -1650,6 +1654,10 @@ Näkyvissä ei ollut lainkaan hevosia tai minkäänlaisia muita eläimiä. Miehe
   <string name="force_allow_on_external_summary">Mahdollistaa sovelluksen tietojen tallentamisen ulkoiseen tallennustilaan luetteloarvoista riippumatta.</string>
   <string name="force_hw_ui">Pakota GPU-hahmonnus</string>
   <string name="force_hw_ui_summary">Käytä GPU:ta 2D-piirtämiseen</string>
+  <string name="force_immersive_compatibility_dont_hide">Älä piilota</string>
+  <string name="force_immersive_compatibility_hide">Piilota</string>
+  <string name="force_immersive_compatibility_hint_message">Jotkut sovellukset eivät välttämättä toimi oikein, jos valitset näyttöpainikkeiden piilottamisen.</string>
+  <string name="force_immersive_compatibility_hint_title">Yhteensopivuusongelmia</string>
   <string name="force_msaa">Pakota 4x MSAA</string>
   <string name="force_msaa_summary">Ota käyttöön 4x MSAA OpenGL ES 2.0 -sovelluksissa</string>
   <string name="force_resizable_activities">Pakota kaikki toiminnot hyväksymään koon muutos</string>
@@ -1683,7 +1691,6 @@ Näkyvissä ei ollut lainkaan hevosia tai minkäänlaisia muita eläimiä. Miehe
   <string name="free_wifi_connect_summary">Yhdistä %1$s-verkkoon napauttamalla.</string>
   <string name="free_wifi_connect_title">Wi-Fi saatavilla</string>
   <string name="free_wifi_connected">Yhdistetty ilmaiseen Wi-Fi-verkkoon</string>
-  <string name="free_wifi_connected_count">%1$s käyttäjää yhdistänyt</string>
   <string name="free_wifi_connected_time">Kesto: %1$s</string>
   <string name="free_wifi_connecting">Yhdistetään…</string>
   <string name="free_wifi_login_again">Kirjaudu sisään uudelleen</string>
@@ -1993,22 +2000,21 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="location_agps_apn_choose_dialog_title">APN tyypit</string>
   <string name="location_agps_apn_summary">Valitse ensisijainen APN tyyppi</string>
   <string name="location_agps_apn_type">APN tyypit</string>
-  <string name="location_agps_params_settings_title">AGPS asetukset</string>
+  <string name="location_agps_params_settings_title">A-GPS asetukset</string>
   <string name="location_agps_pref_apn_title">Ensisijainen APN</string>
   <string name="location_agps_pref_network_title">Suosi verkkoa</string>
   <string name="location_agps_pref_reset_type_title">Ensisijainen resetointi tyyppi</string>
   <string name="location_agps_pref_si_title">Ensisijainen-tila</string>
   <string name="location_agps_register_network_type">Pääsy verkon tyyppiin</string>
-  <string name="location_agps_register_network_type_dialog_summary">Valitse verkko</string>
-  <string name="location_agps_register_network_type_dialog_title">Valitse verkko</string>
-  <string name="location_agps_register_network_type_summary">Valitse verkko A-GPS:ää varten</string>
+  <string name="location_agps_register_network_type_dialog_title">Käytä Avustettua GPS:ää</string>
+  <string name="location_agps_register_network_type_summary">Valitse verkko</string>
   <string name="location_agps_reset_type">Resetoi tyypit</string>
   <string name="location_agps_reset_type_choose_dialog_title">Resetoi tyypit</string>
   <string name="location_agps_reset_type_summary">Valitse ensisijainen resetointi tyyppi</string>
   <string name="location_agps_roaming_help">Valitsemalla kaikki verkot saattaa nostaa roaming datakäyttöä. Jos menet yli käyttörajan, operaattorisi saattaa veloittaa siitä ylimääräistä maksua.</string>
-  <string name="location_agps_si_mode">AGPS SI-tila</string>
-  <string name="location_agps_si_mode_dialog_title">AGPS menetelmä</string>
-  <string name="location_agps_si_mode_summary">Valitse ensisijainen AGPS menetelmä</string>
+  <string name="location_agps_si_mode">A-GPS SI-tila</string>
+  <string name="location_agps_si_mode_dialog_title">A-GPS menetelmä</string>
+  <string name="location_agps_si_mode_summary">Valitse ensisijainen A-GPS menetelmä</string>
   <string name="location_agps_supl_server_addr">Palvelimen osoite</string>
   <string name="location_agps_supl_server_port">Palvelimen portti</string>
   <string name="location_agps_supl_settings">SUPL asetukset</string>
@@ -2138,7 +2144,6 @@ Voit asettaa uuden näytön lukituksen sekä laitteelle että työprofiilille, m
   <string name="lockpassword_password_too_short">Salasanan täytyy olla vähintään %d merkkiä</string>
   <string name="lockpassword_pattern_set_toast">Kuvio on asetettu</string>
   <string name="lockpassword_pin_contains_non_digits">PIN-koodi saa sisältää vain numeroita 0–9.</string>
-  <string name="lockpassword_pin_fixed_length">PIN-koodi saa sisältää vain %d numeroita</string>
   <string name="lockpassword_pin_no_sequential_digits">Nouseva, laskeva tai toistuva numerosarja on kielletty</string>
   <string name="lockpassword_pin_recently_used">Järjestelmänv. ei salli viimeaik. PIN-koodin käyttöä.</string>
   <string name="lockpassword_pin_set_toast">PIN-koodi asetettu</string>
@@ -2210,6 +2215,7 @@ Voit asettaa uuden näytön lukituksen sekä laitteelle että työprofiilille, m
   <string name="man_add_application">Lisää sovelluksia käynnistykseen</string>
   <string name="manage_device_admin">Laitteen ylläpitäjät</string>
   <string name="manage_device_admin_summary">Näytä tai poista käytöstä laitteen ylläpitäjiä</string>
+  <string name="manage_facerecoginition_text">Hallitse kasvojen tietoja</string>
   <string name="manage_fakecell_settings">Suojaaminen vääriltä tukiasemilta</string>
   <string name="manage_fingerprint_text">Hallitse sormenjälkiä</string>
   <string name="manage_mobile_plan_title">Mobiilisopimus</string>
@@ -2641,9 +2647,9 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="oem_unlock_enable_summary">Salli käynnistysohjelman lukituksen avaaminen</string>
   <string name="ok_rules">valmis</string>
   <string name="okay">OK</string>
-  <string name="oldman_mode_confirm_title">Käynnistetäänkö puhelin?</string>
-  <string name="oldman_mode_confirm_will_normal_mode_text">Puhelimesi käynnistyy uudelleen, jotta Lite-tila poistuu käytöstä.</string>
-  <string name="oldman_mode_confirm_will_oldman_mode_text">Puhelimesi käynnistyy uudelleen, jotta Lite-tila voidaan ottaa käyttöön.</string>
+  <string name="oldman_mode_confirm_title">Käynnistetäänkö uudelleen nyt?</string>
+  <string name="oldman_mode_confirm_will_normal_mode_text">Laitteesi käynnistyy uudelleen, jotta Lite-tila poistuu käytöstä.</string>
+  <string name="oldman_mode_confirm_will_oldman_mode_text">Laitteesi käynnistyy uudelleen, jotta Lite-tila voidaan ottaa käyttöön.</string>
   <string name="oldman_mode_enabled_name">Lite-tila</string>
   <string name="oldman_mode_entry_name">Lite-tila</string>
   <string name="oldman_mode_entry_title">Lite-tila</string>
@@ -2895,7 +2901,6 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="print_searching_for_printers">Etsitään tulostimia</string>
   <string name="print_service_disabled">Palvelu poistettu käytöstä</string>
   <string name="print_settings">Tulostus</string>
-  <string name="print_settings_title">Tulostuspalvelut</string>
   <string name="printer_info_desc">Lisätietoja tästä tulostimesta</string>
   <string name="priority_storage_app_settings">Tiedostot tallennetaan sijaintiin %1$s</string>
   <string name="priority_storage_settings_summary">Jos SD-korttia ei tunnisteta, tiedostosi tallennetaan laitteesi sisäiseen tallennustilaan automaattisesti.</string>
@@ -3502,7 +3507,7 @@ Näytön kiinnittäminen:
   <string name="search_status_bar_settings_style">Ilmoituksien &amp; nappuloiden ulkoasu;nappulat;nappuloiden ulkoasu;nappulat erikseen;yhdistetty;erikseen;yhdistä</string>
   <string name="search_status_bar_settings_toggle_collapse_after_clicked">Kutista kosketuksen jälkeen;piilota;</string>
   <string name="search_status_bar_settings_toggle_position">Nappuloiden sijainnit;Nappulat;nappula;vaihda nappuloita;muuta nappuloita</string>
-  <string name="search_storage_settings">Puhdistaja;Tyhjennä välimuisti;Välimuisti</string>
+  <string name="search_storage_settings">Tallennustila;Muisti</string>
   <string name="search_sync_settings">Synkronointi;Auto;vain Wi-Fi</string>
   <string name="search_system_app_settings">Järjestelmäsovellukset</string>
   <string name="search_theme_settings_title">Teemat;Teema;Mukauttaminen;Mukauta</string>
@@ -4264,7 +4269,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="turn_off_keyguard_password_confirm_msg">Poistetaanko Lukitusnäytön salasana käytöstä?</string>
   <string name="turn_off_keyguard_password_wait_dialog">Suljetaan salasanaa</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Et voi enää avata laitettasi sormenjäljelläsi, kun poistat Lukitusnäytön salasanan käytöstä</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">Jos poistat Lukitusnäytön salasanan käytöstä, tallennetut sormenjäljet poistetaan. Et voi sen jälkeen avata laitteen lukitusta sormenjäljelläsi.</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">Jos poistat Lukitusnäytön salasanan käytöstä, tallennetut sormenjäljet poistetaan. Et voi sen jälkeen avata laitteen lukitusta sormenjäljelläsi.</string>
   <string name="turn_off_security_lock">Poista lukitus käytöstä</string>
   <string name="turn_on_keyguard_password">Ota Lukitusnäytön salasana käyttöön</string>
   <string name="turn_on_keyguard_password_alert">Muista salasanasi. Jos unohdat sen, et voi palauttaa sitä.</string>
@@ -4555,7 +4560,6 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="virtual_sim_title">Roaming dataverkko</string>
   <string name="virus_scan">Virus skannaus</string>
   <string name="virus_scan_app_continue">Jatka skannsuta</string>
-  <string name="virus_scan_app_find_risk">%d riskiä löydetty</string>
   <string name="virus_scan_app_finish">Skannaus valmis</string>
   <string name="virus_scan_app_force_stop">Skannaus pysäytetty</string>
   <string name="virus_scan_app_is_stop_scan">Lopetetaanko skannaus?</string>
@@ -4993,7 +4997,6 @@ Muodosta yhteys toiseen Wi-Fi-verkkoon valitsemalla "&lt;b&gt;Takaisin&lt;/b&gt;
   <string name="wifi_share_connect">Yhdistä</string>
   <string name="wifi_share_connected_summary">Olet yhteydessä julkiseen Wi-Fi-verkkoon, jonka on joku toinen käyttäjä jakanut.</string>
   <string name="wifi_share_connected_title">MIUI jaetut Wi-Fi-yhteydet</string>
-  <string name="wifi_share_count">Jaettuna %d verkkoa</string>
   <string name="wifi_share_current_network">Nykyinen verkko</string>
   <string name="wifi_share_know">OK</string>
   <string name="wifi_share_list_empty">Jaettuja verkkoja ei löytynyt.</string>

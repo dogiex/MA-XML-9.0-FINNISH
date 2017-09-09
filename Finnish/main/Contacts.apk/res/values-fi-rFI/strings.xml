@@ -23,6 +23,7 @@
   <string name="add_contact_dlg_message_fmt">Lisätäänkö %s yhteystietoihin?</string>
   <string name="add_display_photo_entry">Lisää profiilikuva</string>
   <string name="add_field">Lisää toinen kenttä</string>
+  <string name="add_field_toast">Lisättäviä kenttiä ei ole enempää.</string>
   <string name="add_incall_show_entry">Lisää video</string>
   <string name="add_new_account">Lisää uusi tili</string>
   <string name="add_new_entry_for_section">Lisää uusi</string>
@@ -739,7 +740,6 @@ Odota…"</string>
   <string name="multi_number_menu_message">Viesti</string>
   <string name="multi_number_title">Konferenssipuhelu</string>
   <string name="multipleContactDeleteConfirmation">Jos poistat tämän yhteystiedon, tietoja poistetaan useilta tileiltä.</string>
-  <string name="multipleContactDeleteConfirmationDetail">Poistamalla \"%s\" yhteystiedon tulee poistamaan tiedot useilta tileiltä..</string>
   <string name="my_phone_not_provider_bluetooth">Ei</string>
   <string name="my_phone_provider_bluetooth">Kyllä</string>
   <string name="nameLabelsGroup">Nimi</string>
@@ -989,7 +989,6 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="quit_dialog_confirm_message">Et ole yhdistänyt yhtään yhteystietoa</string>
   <string name="quit_dialog_confirm_title">Peruuta yhteystietojen yhdistäminen</string>
   <string name="readOnlyContactDeleteConfirmation">Poistettava yhteystieto sisältää tietoja useilta tileiltä. Vain luku -tilassa olevien tilien tiedot piilotetaan, eikä niitä poisteta.</string>
-  <string name="readOnlyContactDeleteConfirmationDetail">"\"%s\" sisältää tietoja useammalta tililtä. Tiedot, joita ei voi poistaa, piilotetaan yhteystiedoista."</string>
   <string name="readOnlyContactWarning">Vain luku -tilassa olevien tiliesi yhteystietoja ei voida poistaa, mutta ne voidaan piilottaa.</string>
   <string name="readingSimContacts">Luetaan SIM-korttia…</string>
   <string name="reading_vcard_canceled_title">vCard-tietojen lukeminen peruutettiin</string>

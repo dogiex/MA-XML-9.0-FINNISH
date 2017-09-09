@@ -56,6 +56,7 @@
   <string name="badpoint_category">坏点测试</string>
   <string name="baterry_percent">"Akun latausta jäljellä: "</string>
   <string name="baterry_temperature">"Akun Lämpötila: "</string>
+  <string name="battery_info">Ladataan akun käyttöön liittyviä tietoja</string>
   <string name="begin_to_save_finger_data">Aloita sormen tietojen tallentaminen</string>
   <string name="bio_assay_time">活体识别耗时</string>
   <string name="bio_flag">活体标识</string>

@@ -2,11 +2,10 @@
 <resources>
   <string name="app_loaction">Etsi Aloitusnäytöltä</string>
   <string name="app_name">Haku</string>
-  <string name="appindex_description">asennettujen sovelluksien ominaisuudet</string>
-  <string name="appindex_search_label">Sovelluksien ominaisuudet</string>
+  <string name="appindex_description">Asennettujen sovelluksien toiminnot</string>
+  <string name="appindex_search_label">Sovelluksien toiminnot</string>
   <string name="application_desc">Sovellus</string>
   <string name="applications_search_label">Sovellukset</string>
-  <string name="apps_search_activity"/>
   <string name="barcode_install_back">Takaisin</string>
   <string name="barcode_install_cancel">Peruuta</string>
   <string name="barcode_install_confirm">Asenna</string>
@@ -29,7 +28,7 @@ Käytä Selaimen asetuksia selainhistorian tyhjentämiseen."</string>
   <string name="corpus_hint_apps">Hae sovelluksia</string>
   <string name="corpus_label_apps">Sovellukset</string>
   <string name="corpus_label_global">Kaikki</string>
-  <string name="corpus_label_web">Tulokset verkosta</string>
+  <string name="corpus_label_web">Verkkohakutulokset</string>
   <string name="corpus_selection_heading">Hae</string>
   <string name="cta_declaration">Tämä ominaisuus tarvitsee internetyhteyden, pääsyn laitteesi sijaintiin ja nähdä puheluhistorian ja yhteystiedot toimiakseen normaalisti.</string>
   <string name="cta_declaration_ignore">Älä näytä uudelleen</string>
@@ -40,7 +39,7 @@ Käytä Selaimen asetuksia selainhistorian tyhjentämiseen."</string>
   <string name="device_settings_category_title">Poista pikakuvakkeet</string>
   <string name="entrance_setting">Avataan hakua</string>
   <string name="google_app_label">Google Haku</string>
-  <string name="google_search_description">Googlen hakuehdotukset</string>
+  <string name="google_search_description">Google Haun ehdotukset</string>
   <string name="google_search_hint">Google Haku</string>
   <string name="google_search_label">Google</string>
   <string name="google_settings_category_title">Google Haku</string>

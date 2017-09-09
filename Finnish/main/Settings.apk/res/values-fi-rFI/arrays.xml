@@ -747,7 +747,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Kahden mikrofonin taustamelunsuodatin</item>
     </string-array>
     <string-array name="change_security_lock_picker">
-        <item>Kasvojen tunnistus</item>
+        <item>Kasvojentunnistus</item>
         <item>Kuvio</item>
         <item>PIN-koodi</item>
         <item>Salasana</item>

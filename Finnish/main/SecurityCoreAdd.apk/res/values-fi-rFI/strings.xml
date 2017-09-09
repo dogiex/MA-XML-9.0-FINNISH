@@ -68,7 +68,7 @@ jotta voit katsoa niitä milloin tahansa"</string>
   <string name="delete_src_photo">Poista kuvat</string>
   <string name="dir_switch_out_all_photos">Toisen tilan Galleria</string>
   <string name="disable">Poista käytöstä</string>
-  <string name="do_not_ask">不再询问</string>
+  <string name="do_not_ask">Älä kysy uudelleen</string>
   <string name="dont_import">Ei nyt</string>
   <string name="downloading_space">Ladataan…</string>
   <string name="enable">Ota käyttöön</string>
@@ -90,13 +90,13 @@ jotta voit katsoa niitä milloin tahansa"</string>
   <string name="finger_print_of_use">Käytä sormenjälkeä</string>
   <string name="fingerprint_removal_failed">Sormenjälkeä ei voitu poistaa</string>
   <string name="function_not_support">Ei tueta tällä laitteella</string>
-  <string name="gms_message">双开该应用需要依赖谷歌服务,是否同步双开谷歌服务</string>
-  <string name="gms_open_button">开启</string>
-  <string name="gms_title">双开谷歌服务</string>
+  <string name="gms_message">Kloonattujen sovelluksien luominen vaatii toimiakseen Google palvelut. Luodaanko Google palveluista kloonattu sovellus?</string>
+  <string name="gms_open_button">Ota käyttöön</string>
+  <string name="gms_title">Ota Google palvelut käyttöön</string>
   <string name="goToSecondSpacce">Siirry Toiseen tilaan</string>
   <string name="go_on_import">Jatka tuomista</string>
-  <string name="gpg_message">双开游戏需要依赖谷歌游戏中心应用,是否同步双开谷歌游戏中心应用</string>
-  <string name="gpg_title">双开谷歌游戏中心</string>
+  <string name="gpg_message">Kloonattujen pelisovelluksien luominen vaatii toimiakseen Google Play Pelit. Luodaanko Google Play Pelistä kloonattu sovellus?</string>
+  <string name="gpg_title">Kloonattu sovellus Google Play Peliä varten</string>
   <string name="guide_contact_sub_title_desc">"Toiseen tilaan lisätyistä yhteystiedoista tulee yksityisiä.
 Viestit ilmestyvät vain Toisessa tilassa."</string>
   <string name="guide_contact_suc_sub_title_desc">Vain yksityiset yhteystiedot ja viestit näytetään Toisessa tilassa</string>
@@ -185,7 +185,7 @@ siirtyäksesi Toiseen tilaan Lukitusnäytöltä"</string>
   <string name="scanner_fingerprint_tips_desc">Valitse olemassa oleva sormenjälki siirtyäksesi Toiseen tilaan. Et voi käyttää sitä Ensimmäisessä tilassa.</string>
   <string name="scanner_fingerprint_tips_title">Siirry Toiseen tilaan käyttämällä olemassa olevaa sormenjälkeä</string>
   <string name="scanner_second_space_fingerprint">Skannaa Toisen tilan sormenjälki</string>
-  <string name="sdcardfs_dialog_message">进入分身前需要在开发者选项中关闭”模拟SD卡优化“</string>
+  <string name="sdcardfs_dialog_message">Poista \"Mock SD-kortin optimointi\" käytöstä Kehittäjäasetuksista ennen siirtymistä Toiseen tilaan.</string>
   <string name="search_input_txt_na">%s</string>
   <string name="search_result_text">Yhtään sovellusta ei löytynyt</string>
   <string name="secondSpace">Toinen tila</string>

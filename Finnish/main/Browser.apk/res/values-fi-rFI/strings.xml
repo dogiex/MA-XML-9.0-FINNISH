@@ -181,6 +181,7 @@
   <string name="contextmenu_dial_dot">Soita</string>
   <string name="contextmenu_download_image">Tallenna kuva</string>
   <string name="contextmenu_download_image_as">Tallenna nimellä</string>
+  <string name="contextmenu_manually_block_ad">Merkitse mainokseksi</string>
   <string name="contextmenu_map">Kartta</string>
   <string name="contextmenu_openlink">Avaa</string>
   <string name="contextmenu_openlink_newwindow">Avaa uudessa välilehdessä</string>
@@ -563,8 +564,10 @@ Poistutaanko tältä sivulta?"</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Nopea URL-osoitteen syöttö</string>
   <string name="pref_adblock_counts">%d estetty</string>
   <string name="pref_adblock_title">Mainostenesto</string>
-  <string name="pref_auto_update_under_wifi">Päivitä käyttäen Wi-Fi:ä</string>
+  <string name="pref_advert_null">Poistettiin mainosten merkintä. Voit painaa sivulla olevaa merkkiä</string>
+  <string name="pref_auto_update_under_wifi">Päivitä käyttäen Wi-Fi-yhteyttä</string>
   <string name="pref_automatic_matching_searchengines_title">Vaihda usein käytettyyn hakukoneeseen</string>
+  <string name="pref_cancel_screen">Peruuta näyttö</string>
   <string name="pref_category_hint">Kategoria</string>
   <string name="pref_check_security_url_summary">Lähetä verkkosivujen URL-osoite Mi:n palvelimille tarkastaakseen sen turvallisuuden</string>
   <string name="pref_check_security_url_summary_international">Salli Selaimen käyttää vierailemiesi verkkosivustojen URL-osoitteita saadaksesi parempia suosituksia.</string>
@@ -608,6 +611,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="pref_force_userscalable_summary">Ohita sivuston skaalauksenhallintapyyntö</string>
   <string name="pref_general_title">Yleiset</string>
   <string name="pref_key_gesture_title">Painikkeet &amp; eleet</string>
+  <string name="pref_label_advert_manager">Merkittyjen mainoksien hallinnoija</string>
   <string name="pref_nav_mode_summary_pad">Tabletti</string>
   <string name="pref_nav_mode_summary_phone">Puhelin</string>
   <string name="pref_nav_mode_title">Pöytäkone</string>
@@ -919,11 +923,14 @@ Poistutaanko tältä sivulta?"</string>
   <string name="view_certificate">Näytä varmenne</string>
   <string name="view_document_downloaded_files">Katso ladattuja tiedostoja Latauksissa</string>
   <string name="voice_check_network">Tarkista verkkoasetuksesi ja yritä uudelleen.</string>
+  <string name="voice_close_description">Sulje</string>
   <string name="voice_connect_network">Verkkoyhteyttä ei voitu muodostaa.</string>
   <string name="voice_description">Äänihaku</string>
   <string name="voice_network_connection">Äänihaku tarvitsee internetyhteyden toimiakseen normaalisti.</string>
   <string name="voice_search_permission">Äänihaku tarvitsee käyttää mikrofoniasi toimiakseen normaalisti.</string>
   <string name="voice_semantic_analysis">Selain pystyy analysoimaan semantiikan, kun olet sallinut sen yhdistää.</string>
+  <string name="voice_start_description">Aloita</string>
+  <string name="voice_stop_description">Lopeta</string>
   <string name="voice_sub_title">Etkö tiedä mitä sanoa? Kokeile avata mi.com!</string>
   <string name="voice_title">Sano komentosi</string>
   <string name="voice_title_distinguish">Käsitellään…</string>
