@@ -326,7 +326,6 @@
   <string name="contextmenu_send_mail">Lähetä sähköposti</string>
   <string name="contextmenu_sharelink">Jaa linkki</string>
   <string name="contextmenu_sms_dot">Tekstiviesti...</string>
-  <string name="conversation_content_provider">Keskustelun sisällöntarjoaja</string>
   <string name="conversation_detail_hide">Piilota</string>
   <string name="conversation_detail_show">Tiedot</string>
   <string name="conversation_folder_moved">Siirretty kansioon %1$s</string>
