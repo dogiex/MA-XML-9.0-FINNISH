@@ -338,8 +338,8 @@
   <string name="mx_type_guide">Mi Viestillä voit lähettää viestejä toisille MIUI:n käyttäjille ilman lisäkustannuksia</string>
   <string name="need_download">Synkronoidaan…</string>
   <string name="networking_allow_continue">Salli</string>
-  <string name="networking_allow_desc">Mi Viestin täytyy yhdistää internetiin toimiakseen normaalisti. Tarjotakseen ilmaisia viesti- ja äänipalveluita, tunnistaakseen tuntemattomia numeroita, suodattaakseen roskaposteja ja ottaakseen muita ominaisuuksia käyttöön, Mi Viestin täytyy käyttää Keltaisia sivuja. Sallitaanko Keltaisten sivujen yhdistää internetiin, hakea sijaintitietosi ja lukea yhteystietosi?</string>
-  <string name="networking_allow_desc_without_mx">Mi Viestin täytyy yhdistää internetiin toimiakseen normaalisti. Tunnistaakseen tuntemattomia numeroita, suodattaakseen roskaposteja ja ottaakseen muita ominaisuuksia käyttöön, Mi Viestin täytyy käyttää Keltaisia sivuja. Sallitaanko Keltaisten sivujen yhdistää internetiin, hakea sijaintitietosi ja lukea yhteystietosi?</string>
+  <string name="networking_allow_desc">Mi Viestin täytyy yhdistää internetiin toimiakseen normaalisti. Tarjotakseen ilmaisia viesti- ja äänipalveluita, tunnistaakseen tuntemattomia numeroita, suodattaakseen roskaposteja ja ottaakseen muita ominaisuuksia käyttöön, Mi Viestin täytyy käyttää Hakemistoa. Sallitaanko Hakemiston yhdistää internetiin, hakea sijaintitietosi ja lukea yhteystietosi?</string>
+  <string name="networking_allow_desc_without_mx">Mi Viestin täytyy yhdistää internetiin toimiakseen normaalisti. Tunnistaakseen tuntemattomia numeroita, suodattaakseen roskaposteja ja ottaakseen muita ominaisuuksia käyttöön, Mi Viestin täytyy käyttää Hakemistoa. Sallitaanko Hakemiston yhdistää internetiin, hakea sijaintitietosi ja lukea yhteystietosi?</string>
   <string name="networking_allow_title">Huomio</string>
   <string name="new_message">Kirjoita</string>
   <string name="new_message_arrived">Sinulla on uusi viesti</string>

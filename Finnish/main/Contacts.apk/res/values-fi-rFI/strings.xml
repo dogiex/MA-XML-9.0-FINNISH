@@ -403,7 +403,7 @@ Yhteystietokortit on poistettu käytöstä"</string>
   <string name="dialog_voicemail_airplane_mode_message">Poista lentokonetila käytöstä ennen vastaajaan soittamista.</string>
   <string name="dialog_voicemail_not_ready_message">Määritä vastaaja-asetukset valitsemalla Valikko &gt; Asetukset.</string>
   <string name="directory_search_label">Osoitekirja</string>
-  <string name="disclaimer_text">"Keltaiset sivut hakee saldosi tiedot lähettämällä tekstiviestin. Operaattorisi saattaa päivittää tämän tiedon viiveellä, joten saamasi tieto ei saata olla tarkka. Jos huomaat virheen, voit kertoa siitä lähettämällä tekstiviestin meille parantaaksemme palvelua. 
+  <string name="disclaimer_text">"Hakemistot hakee saldosi tiedot lähettämällä tekstiviestin. Operaattorisi saattaa päivittää tämän tiedon viiveellä, joten saamasi tieto ei saata olla tarkka. Jos huomaat virheen, voit kertoa siitä lähettämällä tekstiviestin meille parantaaksemme palvelua. 
 
 Välttääksemme useita pyyntöjä, päivitämme saldon tiedot kerran päivässä."</string>
   <string name="disclaimer_title">Vastuuvapauslauseke</string>
