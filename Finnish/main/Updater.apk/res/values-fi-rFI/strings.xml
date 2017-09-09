@@ -11,10 +11,14 @@
   <string name="btn_share">Jaa</string>
   <string name="btn_yes">Kyllä</string>
   <string name="check_new_version">Tarkista</string>
+  <string name="dialog_3g_desc">Huomioithan, että käyttämällä mobiilidataa ROM:ien lataamiseen saattaa viedä suuren osan datapaketistasi.</string>
+  <string name="dialog_3g_title">Varoitus!</string>
+  <string name="dialog_btn_3g">Jatka siitä huolimatta</string>
+  <string name="dialog_btn_wifi">Vaihda Wi-Fi-yhteyteen</string>
   <string name="download_done">Ladattiin onnistuneesti!</string>
   <string name="download_fail">Virhe latauksen aikana!</string>
   <string name="download_fail_desc">MD5 tarkistenumero ei täsmää…</string>
-  <string name="downloading">Ladataan…</string>
+  <string name="downloading">Ladataan:</string>
   <string name="downloading_desc">Lataaminen on käynnissä, tarkista tila ilmoitusalueella.</string>
   <string name="install_desc">Laite käynnistyy uudelleen recoverytilaan ja asentaa valitun tiedoston: %1$s"
 Tietoja ei poisteta."</string>

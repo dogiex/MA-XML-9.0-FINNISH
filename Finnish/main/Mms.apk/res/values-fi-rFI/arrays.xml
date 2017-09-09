@@ -14,13 +14,9 @@
         <item>Muistilappu</item>
         <item>Suhde</item>
     </string-array>
-    <string-array name="resent_via_entries_sms">
-        <item>Tekstiviesti</item>
-        <item>Mi Viesti</item>
-    </string-array>
-    <string-array name="resent_via_entries_mms">
-        <item>Tekstiviesti</item>
-        <item>Mi Viesti</item>
+    <string-array name="entries_mms_validity_period">
+        <item>Maksimi</item>
+        <item>2 päivää</item>
     </string-array>
     <string-array name="entries_sms_validity_period">
         <item>Ei asetettu</item>
@@ -30,17 +26,18 @@
         <item>1 päivä</item>
         <item>Maksimi</item>
     </string-array>
-    <string-array name="entries_mms_validity_period">
-        <item>Maksimi</item>
-        <item>2 päivää</item>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Aina</item>
+        <item>Vain äänettömällä</item>
+        <item>Ei koskaan</item>
     </string-array>
-    <string-array name="wild_msg_sync_options">
-        <item>Synkronoi kaikki viestit</item>
-        <item>Synkronoi viestit valituilta SIM-korteilta</item>
-    </string-array>
-    <string-array name="switch_sdk">
+    <string-array name="resent_via_entries_mms">
+        <item>Tekstiviesti</item>
         <item>Mi Viesti</item>
-        <item>CMCC Älykäs tekstiviesti</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>Tekstiviesti</item>
+        <item>Mi Viesti</item>
     </string-array>
     <string-array name="select_dialog_items">
         <item>1 sekunti</item>
@@ -55,9 +52,8 @@
         <item>10 sekuntia</item>
         <item>Muu</item>
     </string-array>
-    <string-array name="prefEntries_vibrateWhen">
-        <item>Aina</item>
-        <item>Vain äänettömällä</item>
-        <item>Ei koskaan</item>
+    <string-array name="switch_sdk">
+        <item>Mi Viesti</item>
+        <item>CMCC Älykäs tekstiviesti</item>
     </string-array>
 </resources>

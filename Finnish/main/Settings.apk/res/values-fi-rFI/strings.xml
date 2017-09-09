@@ -584,6 +584,7 @@ Varmista, että laite esittää tämän koodin:
   <string name="bluetooth_device_context_pair_connect">Muodosta laitepari ja yhdistä</string>
   <string name="bluetooth_device_context_unpair">Poista laitepariyhteys</string>
   <string name="bluetooth_device_details">Laiteasetukset</string>
+  <string name="bluetooth_device_misc_title">Harvoin käytetyt bluetooth -laitteet</string>
   <string name="bluetooth_device_name">Laitteen nimi</string>
   <string name="bluetooth_device_searchable">Tunnistettavuus</string>
   <string name="bluetooth_devices">Bluetooth-laitteet</string>
@@ -625,8 +626,6 @@ laitteesta
   <string name="bluetooth_enter_passkey_other_device">Saatat joutua syöttämään tämän koodin myös toiseen laitteeseen.</string>
   <string name="bluetooth_enter_pin_other_device">Saatat joutua syöttämään tämän PIN-koodin myös toiseen laitteeseen.</string>
   <string name="bluetooth_error_title"/>
-  <string name="bluetooth_filter_device_display">Näytä kaikki</string>
-  <string name="bluetooth_filter_device_filter">Vain tyypillisiä</string>
   <string name="bluetooth_headset_profile_summary_connected">Yhdistetty puhelimen ääneen</string>
   <string name="bluetooth_headset_profile_summary_use_for">Käytä puhelimen äänille</string>
   <string name="bluetooth_hid_profile_summary_connected">Yhdistetty syöttölaitteeseen</string>
@@ -799,6 +798,7 @@ Muodostetaanko pari tämän laitteen kanssa?"</string>
   <string name="bssid_label">BSSID:</string>
   <string name="bt_hci_snoop_log">Ota Bluetoothin HCI-tarkkailuloki käyttöön</string>
   <string name="bt_hci_snoop_log_summary">Tallenna kaikki Bluetoothin HCl-paketit tiedostoon</string>
+  <string name="bt_rarely_used_device_title">Harvoin käytetyt laitteet (%d)</string>
   <string name="bt_trace_log">Bluetooth jäljitysloki</string>
   <string name="bt_trace_log_summary">Bluetooth jäljitysloki</string>
   <string name="bugreport_in_power">Virheraportin pikakuvake</string>
@@ -923,6 +923,7 @@ Muodostetaanko pari tämän laitteen kanssa?"</string>
   <string name="clear_failed_dlg_title">Tyhjennä tiedot</string>
   <string name="clear_uri_btn_text">Poista käyttöoikeus</string>
   <string name="clear_user_data_text">Tyhjennä tiedot</string>
+  <string name="close_gesture">Sulje käyttämällä elettä</string>
   <string name="close_miui_optimization_title">Poista MIUI:n optimointi käytöstä</string>
   <string name="close_miui_optimization_warning_message">Laitteesi käynnistyy uudelleen, jotta muutokset tulevat voimaan.</string>
   <string name="close_sdcard_optimization_title">Sulje emuloidun SD-kortin optimointi</string>
@@ -1741,6 +1742,7 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="google_backup_enable">Ota varmuuskopiointi käyttöön</string>
   <string name="google_backup_section_title">Google varmuuskopiointi &amp; palautus</string>
   <string name="google_title">Google</string>
+  <string name="got_it">Selvä</string>
   <string name="gsm_to_wifi_connect_type_title">GSM:stä Wi-Fiin</string>
   <string name="handy_mode">Yhden käden-tila</string>
   <string name="handy_mode_enable">Yhden käden-tila</string>
@@ -1778,6 +1780,8 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="help_feedback_label">Ohje ja palaute</string>
   <string name="help_label">Ohjeet ja palaute</string>
   <string name="hidden_ssid_label">Piilotettu SSID:</string>
+  <string name="hide">Piilota</string>
+  <string name="hide_screen_button">Piilota näyttöpainikkeet</string>
   <string name="high_performance_notif_summary">Laite saattaa kuumentua kovassa käytössä.</string>
   <string name="high_performance_notif_title">Suorituskyky-tila on käytössä</string>
   <string name="high_performance_title">"Näyttää siltä, että olet käynnistänyt suorituskyvyn testisovelluksen. Aseta laite virranhallinnasta \"Suorituskyky\" -tilaan parhaan testituloksen saamiseksi."</string>
@@ -3209,6 +3213,8 @@ Tämä asetus vaikuttaa kaikkiin tämän puhelimen käyttäjiin."</string>
   <string name="saved_wifi_delete">Poista</string>
   <string name="scan_list_label">Haun tulokset:</string>
   <string name="screen">Näyttö</string>
+  <string name="screen_button">Näyttöpainikkeet</string>
+  <string name="screen_button_tips">Pyyhkäise alaspäin piilottaaksesi näyttöpainikkeet</string>
   <string name="screen_cells_config_title">Aloitusnäytön ulkoasu</string>
   <string name="screen_color_and_optimize">Värit &amp; kontrasti</string>
   <string name="screen_color_and_optimize_disabled">Värien lämpötilansäätö ei toimi Lukutilassa</string>

@@ -164,6 +164,7 @@
   <string name="bugreport_in_power_summary">Näytä virheraporttipainike virtavalikossa</string>
   <string name="button_convert_fbe">Poista ja muunna…</string>
   <string name="call_status_dialing">Soitetaan</string>
+  <string name="call_status_holding">Pidossa</string>
   <string name="call_status_ringing">Soi</string>
   <string name="camera_key_action_app_title">Avaa sovellus</string>
   <string name="camera_key_action_category_title">Käytä jos Kamerasovellus ei ole auki</string>

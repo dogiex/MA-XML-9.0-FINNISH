@@ -37,14 +37,17 @@
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">%s kirjautuminen epäonnistui. Palvelin ilmoittaa virheestä: %s</string>
   <string name="account_settings_login_dialog_title">Kirjautuminen ei onnistu</string>
   <string name="account_settings_mail_check_frequency_label">Synkronoinnin tiheys</string>
-  <string name="account_settings_mibill_resolve_label">Manage bills automatically</string>
+  <string name="account_settings_mibill_resolve_label">Hallitse laskut automaattisesti</string>
   <string name="account_settings_name_label">Oma nimi</string>
   <string name="account_settings_notifications">Ilmoitusasetukset</string>
   <string name="account_settings_notify_label">Sähköposti-ilmoitukset</string>
   <string name="account_settings_notify_summary">Lähetä ilmoitus, kun sähköpostiviesti saapuu</string>
   <string name="account_settings_param">Tilin asetukset</string>
   <string name="account_settings_policies">Suojauskäytännöt</string>
-  <string name="account_settings_retry_label">Yritä synkronointia</string>
+  <string name="account_settings_preference_add_account">Lisää sähköpostitili</string>
+  <string name="account_settings_preference_head_icon">Lähettäjän pikkukuva</string>
+  <string name="account_settings_preference_notify">Ilmoita</string>
+  <string name="account_settings_retry_label">Yritä synkronoida</string>
   <string name="account_settings_retry_summary">Synkronoi tili koskettamalla tätä</string>
   <string name="account_settings_ringtone">Valitse soittoääni</string>
   <string name="account_settings_servers">Palvelinasetukset</string>
@@ -57,6 +60,7 @@
   <string name="account_settings_sync_email_summary">Synkronoi tämän tilin sähköpostit</string>
   <string name="account_settings_unsupported_label">Käytäntöjä ei tueta</string>
   <string name="account_settings_unsupported_summary">Ei mitään</string>
+  <string name="account_settings_user_usage">Tilin asetukset</string>
   <string name="account_settings_using_ringtone">Soittoääni</string>
   <string name="account_settings_vibrate_when_label">Värinä</string>
   <string name="account_setup_account_type_instructions">Minkä tyyppinen tili on?</string>
@@ -117,6 +121,7 @@
   <string name="account_setup_incoming_username_label">Käyttäjätunnus</string>
   <string name="account_setup_incoming_username_label_default_hint">Voi sisältää domainin</string>
   <string name="account_setup_need_password_verification">Tililläsi on kahden-vaiheen salasana-autentikointi. Autentikointi vaaditaan.</string>
+  <string name="account_setup_options_actionbar_title">Yleiset asetukset</string>
   <string name="account_setup_options_mail_check_frequency_10min">10 minuutin välein</string>
   <string name="account_setup_options_mail_check_frequency_12hour">12 tunnin välein</string>
   <string name="account_setup_options_mail_check_frequency_1hour">Tunnin välein</string>
@@ -143,7 +148,9 @@
   <string name="account_setup_security_required_title">Suojauksen etähallinta</string>
   <string name="account_setup_server_acc_manager_title">Tilit</string>
   <string name="account_setup_username_password_toast">Anna kelvollinen sähköpostiosoite ja salasana.</string>
-  <string name="account_sync_off">"Tilin synkronointi on pois käytöstä. Ota se käyttöön &lt;a href='http://www.esimerkki.fi'&gt;tilin asetuksista.&lt;/a&gt;"</string>
+  <string name="account_sync_off">Tilin synkronointi on pois käytöstä.</string>
+  <string name="account_sync_settings_settings">Synkronoi tilin yhteystiedot ja kalenterit</string>
+  <string name="account_sync_settingstip_description">Synkronoinnin asetukset</string>
   <string name="account_waiting_for_folders_msg">Ladataan kansioluetteloa...</string>
   <string name="actionbar_large_unread_count">%1$d+ lukematonta</string>
   <string name="activity_folder_selection">Valitse kansio</string>
@@ -233,12 +240,12 @@
   <string name="body_forward_email_text">[Välitä]</string>
   <string name="body_hint">Kirjoita sähköposti</string>
   <string name="body_inline_pic_text">[Kuva]</string>
-  <string name="bottom_bar_more_quickreply">Nopea vastaus</string>
+  <string name="bottom_bar_more_quickreply">Pikavastaus</string>
   <string name="bottom_bar_more_share">Jaa</string>
-  <string name="bottom_bar_no_quickreply_toast">Ei nopeaa vastausta</string>
+  <string name="bottom_bar_no_quickreply_toast">Ei pikavastausta</string>
   <string name="bytes">%s t</string>
-  <string name="calendar_remind_dialog_title">Muistutus</string>
-  <string name="calendar_remind_gridview_pick_date">Valitse päiväys</string>
+  <string name="calendar_remind_dialog_title">Muistuta myöhemmin</string>
+  <string name="calendar_remind_gridview_pick_date">Valitse päivämäärä</string>
   <string name="cancel">Peruuta</string>
   <string name="cancel_action">Peruuta</string>
   <string name="cancel_pop3_attchemt_downloading">POP3-tyypin tilin liitteiden lataamisen peruuttaminen ei ole käytettävissä.</string>
@@ -319,10 +326,15 @@
   <string name="contextmenu_send_mail">Lähetä sähköposti</string>
   <string name="contextmenu_sharelink">Jaa linkki</string>
   <string name="contextmenu_sms_dot">Tekstiviesti...</string>
+  <string name="conversation_content_provider">Keskustelun sisällöntarjoaja</string>
+  <string name="conversation_detail_hide">Piilota</string>
+  <string name="conversation_detail_show">Tiedot</string>
   <string name="conversation_folder_moved">Siirretty kansioon %1$s</string>
   <string name="conversation_item_mark_read">Luettu</string>
   <string name="conversation_item_mark_unread">Lukematon</string>
+  <string name="conversation_msg_header_collapsed_sent_to">"Lähetetty henkilölle "</string>
   <string name="conversation_photo_welcome_text">Valitse keskustelu koskettamalla lähettäjän kuvaa.</string>
+  <string name="conversation_pull_ad_content">Tehokas sähköpostien hallinta</string>
   <string name="conversation_quick_button_approve">OK</string>
   <string name="conversation_quick_button_disapprove">Peruuta</string>
   <string name="conversation_quick_button_received">Vastaanotettu</string>
@@ -395,6 +407,7 @@
   <string name="due">Maksettava</string>
   <string name="due_date_text">Viimeinen takaisinmaksu</string>
   <string name="edit_quick_response_dialog">Pikavastaukset</string>
+  <string name="edit_signature">Muokkaa allekirjoitusta</string>
   <string name="elided_padding_token"> </string>
   <string name="email_address">Sähköpostiosoite</string>
   <string name="email_feedback_uri"/>
@@ -487,10 +500,10 @@
   <string name="forward_download_failed_ticker">Vähintään yhden liitteen välittäminen epäonnistui.</string>
   <string name="forward_download_failed_title">Liitettä ei välitetty</string>
   <string name="free_period_text">Koroton jakso</string>
-  <string name="from_heading">Lähettäjä:</string>
+  <string name="from_heading">"Lähettäjä: "</string>
   <string name="general_preference_confirm_delete_label">Vahvista ennen poistamista</string>
   <string name="general_preference_confirm_send_label">Vahvista ennen lähettämistä</string>
-  <string name="general_preference_str_auto_translation">Nopea käännös</string>
+  <string name="general_preference_str_auto_translation">Pikakäännös</string>
   <string name="general_preference_str_auto_translation_prompt">Kopioi teksti nähdäksesi käännöksen</string>
   <string name="general_preference_text_zoom_dialog_title">Tekstin koko</string>
   <string name="general_preference_text_zoom_huge">Valtava</string>
@@ -546,15 +559,17 @@
   <string name="login139">Kirjaudu sisään China Mobilella</string>
   <string name="login_failed_ticker">Kirjautuminen tiliin %s epäonnistui.</string>
   <string name="login_failed_title">Kirjautuminen ei onnistu</string>
+  <string name="login_support_tip_text">Tukee kaikkia yleisiä sähköpostitilin kirjautumisia</string>
   <string name="long_press_to_select_tip">Valitse yksi keskustelu koskettamalla sitä pitkään ja valitse sitten lisää keskusteluja koskettamalla niitä.</string>
   <string name="long_string">pitkäääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääää</string>
   <string name="mail">Sähköposti</string>
   <string name="mail_body_turncated">Tämä sähköposti on liian pitkä näytettäväksi, vain osa siitä näytetään, katso loput viestistä tietokoneella</string>
-  <string name="mail_description_content">Sähköposti on sähköpostisovellus, jolla voi hallita useita postilaatikoita, se tukee lähettämistä ja vastaanottamista, sähköpostien merkkailua, ja tarjoaa palveluita, kuten istuntotilaa, laskutussähköposteja ja muita palveluita. Sähköpostin poistamisen jälkeen sähköpostin data poistetaan.</string>
+  <string name="mail_description_content">Sähköposti on sähköpostisovellus, joka voi hallita useita postilaatikoita, lähettää ja vastaanottaa sähköposteja sekä tarjota kalenterin- ja yhteystietojen synkronointia. Vahvista, että hylkäät kyseisten ominaisuuksien ja palveluiden tarjoamat sähköpostit, mukaan lukien exchange palvelimen synkronoimat yhteystiedot ja kalenteritiedot.</string>
   <string name="mail_description_title">Sähköpostiesittely</string>
   <string name="mail_header_network_not_available">Ei verkkoyhteyttä.</string>
   <string name="mailbox_list_account_selector_combined_view">Yhdistetty näkymä</string>
   <string name="mailbox_name_display_ad">Mainokset</string>
+  <string name="mailbox_name_display_add_account">Lisää sähköpostitili</string>
   <string name="mailbox_name_display_circular">Ilmoitukset</string>
   <string name="mailbox_name_display_drafts">Luonnokset</string>
   <string name="mailbox_name_display_inbox">Postilaatikko</string>
@@ -614,10 +629,10 @@
   <string name="megabytes">%s Mt</string>
   <string name="menu_att_mgr">Liitetiedostot</string>
   <string name="menu_att_mgr_order_default">Viimeksi katsotut</string>
-  <string name="menu_att_mgr_order_mime">Järjestä tyypin mukaan</string>
-  <string name="menu_att_mgr_order_name">Järjestä nimen mukaan</string>
-  <string name="menu_att_mgr_order_rev_date">Järjestä päivämäärän mukaan</string>
-  <string name="menu_att_mgr_order_size">Järjestä koon mukaan</string>
+  <string name="menu_att_mgr_order_mime">Muoto</string>
+  <string name="menu_att_mgr_order_name">Nimi</string>
+  <string name="menu_att_mgr_order_rev_date">Vastaanottopäivämäärä</string>
+  <string name="menu_att_mgr_order_size">Tiedostokoko</string>
   <string name="menu_change_folders">Vaihda kansiota</string>
   <string name="menu_compose">Kirjoita viesti</string>
   <string name="menu_contact_edit">Muokkaa</string>
@@ -665,6 +680,7 @@
   <string name="network_unavailable">Verkko ei saatavilla</string>
   <string name="new_incoming_messages_one">Uusi viesti lähettäjältä %s. Näytä.</string>
   <string name="new_messages">%1$d uutta viestiä</string>
+  <string name="new_signature_has_saved">Uusi allekirjoitus tallennettiin</string>
   <string name="next_action">Seuraava</string>
   <string name="no">Ei</string>
   <string name="no_address_email">eisähköpostia@123.com</string>
@@ -849,7 +865,7 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="quick_reply_hint">Vastaa %1$d henkilölle</string>
   <string name="quick_reply_hint_bcc">(BCC:llä)</string>
   <string name="quick_reply_hint_cc">(CC:llä)</string>
-  <string name="quick_reply_hint_reply_only_from">Nopea vastaus (vain lähettäjä)</string>
+  <string name="quick_reply_hint_reply_only_from">Pikavastaus (vain lähettäjä)</string>
   <string name="quick_reply_pattern">.*审批.*|.*批准.*|.*申请.*|.*申报.*|.*请示.*|.*请求.*</string>
   <string name="quick_responses_empty_view">Ei nopeita vastauksia</string>
   <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
@@ -915,7 +931,7 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="remove_folder">Poista kansiosta %1$s</string>
   <string name="remove_star">Poista tähti</string>
   <string name="reply">Vastaa</string>
-  <string name="reply_add_bodycontent">Lisätäänkö nopean vastauksen teksti viestin sisältöön?</string>
+  <string name="reply_add_bodycontent">Lisätäänkö vastaus viestin sisältöön?</string>
   <string name="reply_all">Vastaa kaikille</string>
   <string name="reply_attribution" formatted="false">%s kirjoitti %s:</string>
   <string name="report_phishing">Ilmoita kalastelusta</string>
@@ -928,9 +944,11 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="save_draft_failed">Luonnoksen tallentaminen epäonnistui</string>
   <string name="save_power_summary">Aseta virransäästöaika</string>
   <string name="save_power_title">Virransäästö</string>
+  <string name="save_this_new_signature">Tallennetaanko tämä uusi allekirjoitus?</string>
   <string name="saved">Tallennettu, %s</string>
   <string name="saving">Tallennetaan…</string>
   <string name="sdcard_cannot_use">SD-korttia ei voi käyttää</string>
+  <string name="search_bar_text">Hae sähköposteja, lähettäjiä yms.</string>
   <string name="search_hint">Hae sähköposteja</string>
   <string name="search_result">"Hakutulokset "</string>
   <string name="search_tabs_name_all">Kaikki</string>
@@ -991,7 +1009,7 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="single_new_message_notification_title">%1$s: %2$s</string>
   <string name="sms_tip">Todennus epäonnistui, tarkasta, ettei antivirus ohjelma estä tekstiviestejä</string>
   <string name="smtp_password_error">Lähtevän sähköpostin palvelimen salasana on väärin</string>
-  <string name="sort_attachment">Järjestä</string>
+  <string name="sort_attachment">Lajittele</string>
   <string name="special_text_1">写道:</string>
   <string name="special_text_2">写道：</string>
   <string name="special_text_3">寫道:</string>
@@ -1026,7 +1044,7 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="tap_to_configure">Kosketa ja määritä asetukset</string>
   <string name="tap_to_enable_sync">Ota käyttöön koskettamalla.</string>
   <string name="to">Vastaanott.</string>
-  <string name="to_heading">"Vast.ott.: "</string>
+  <string name="to_heading">"Vastaanottaja(t): "</string>
   <string name="toast_bar_fail_synchronization">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="toast_bar_insufficient_memory_space">Tallennustilaa ei ole tarpeeksi</string>
   <string name="toast_bar_invalid_account">Sinun pitää kirjautua uudelleen</string>
@@ -1036,7 +1054,8 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="too_large_to_attach_additional">Tiedostoa ei liitetty. Raja (%1$s ) saavutettu.</string>
   <string name="too_large_to_attach_multiple">Vähintään yhtä tiedostoa ei liitetty. Raja %1$s.</string>
   <string name="too_large_to_attach_single">Et voi liittää tiedostoja, joiden koko on yli %1$s.</string>
-  <string name="topic_merge">Yhdistä teemat</string>
+  <string name="topic_merge">Sähköpostin näyttäminen</string>
+  <string name="topic_merge_summary">Yhdistä saman keskustelun/aiheen sähköpostit</string>
   <string name="translation_loading">Odota hetki…</string>
   <string name="translation_no_result">Ei hakutuloksia</string>
   <string name="translation_pronunciation_am">AmE</string>
@@ -1061,6 +1080,7 @@ Lopetetaanko nyt?"</string>
   <string name="unsent_messages_in_outbox">%2$s: %1$s lähettämätöntä viestiä</string>
   <string name="unzip_file_failed">Tiedoston purkaminen epäonnistui</string>
   <string name="update_date_format_templete">HH:mm, d.m.</string>
+  <string name="update_to_wps_mail">Monipuolisempia ominaisuuksia, päivitä WPS-sähköpostiin</string>
   <string name="updated_at">Päivitetty viimeksi %1$s</string>
   <string name="upload_log">Lähetä lokitiedostot</string>
   <string name="upload_log_failed">Lokitiedostojen lähettäminen epäonnistui</string>

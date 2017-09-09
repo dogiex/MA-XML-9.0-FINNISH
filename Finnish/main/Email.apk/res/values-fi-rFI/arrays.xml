@@ -35,11 +35,11 @@
         <item>Valtava</item>
     </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
-        <item>Viimeksi katsottu</item>
-        <item>Formaatti</item>
+        <item>Viimeksi katsotut</item>
+        <item>Muoto</item>
         <item>Nimi</item>
         <item>Lähettäjä</item>
-        <item>Saapuneen päiväyksen</item>
+        <item>Vastaanottopäivämäärä</item>
     </string-array>
     <string-array name="moveto_folder_sections">
         <item>Järjestelmä</item>

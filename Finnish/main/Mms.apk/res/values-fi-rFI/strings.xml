@@ -307,9 +307,9 @@
   <string name="mx_and_voip_enable_popup_msg">Lähetä viestejä ja soita puheluita toisiin MIUI laitteisiin ilman operaattorin lisäkustannuksia. VoIP palvelun tarjoaa Weihui. Katso weihuin Tietosuojakäytäntö.</string>
   <string name="mx_and_voip_enable_popup_msg2">Tietosuojakäytäntö</string>
   <string name="mx_auto_resend_mms">Lähetä multimediaviestinä</string>
-  <string name="mx_auto_resend_mms_summary">Lähetä multimediaviestit multimediaviesteinä (MMS) mobiilidatayhteydellä, kun et ole yhteydessä Wi-Fi-verkkoon. Operaattorisi laskuttaa normaalisti kustannuksista.</string>
+  <string name="mx_auto_resend_mms_summary">Lähetä multimediaviestit multimediaviesteinä (MMS) mobiilidatayhteydellä, kun et ole yhteydessä Wi-Fi-verkkoon. Operaattorisi veloittaa sinua normaalisti.</string>
   <string name="mx_auto_resend_sms">Lähetä tekstiviestinä</string>
-  <string name="mx_auto_resend_sms_summary">Lähetä viestit tekstiviesteinä mobiilidatayhteydellä, kun et ole yhteydessä Wi-Fi-verkkoon. Operaattorisi laskuttaa normaalisti kustannuksista.</string>
+  <string name="mx_auto_resend_sms_summary">Lähetä viestit tekstiviesteinä mobiilidatayhteydellä, kun et ole yhteydessä Wi-Fi-verkkoon. Operaattorisi veloittaa sinua normaalisti.</string>
   <string name="mx_btn_enable">Aktivoi</string>
   <string name="mx_btn_enable_now">Aktivoi</string>
   <string name="mx_count_dspt">Olet lähettänyt %1$d tekstiviestiä ja %2$d multimediaviestiä ilmaiseksi</string>
