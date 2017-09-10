@@ -173,6 +173,16 @@
         <item>Näytä operaattorin nimi aina</item>
         <item>Älä näytä operaattorin nimeä koskaan</item>
     </string-array>
+    <string-array name="check_importance_entries">
+        <item>Suositeltu</item>
+        <item>Tärkeä</item>
+        <item>Ei-tärkeä</item>
+    </string-array>
+    <string-array name="check_importance_summary">
+        <item>Älykäs ratkaisu, ei-tärkeät ilmoitukset näkyvät erillisessä kansiossa</item>
+        <item>Ilmoitukset näkyvät suoraan Ilmoitusalueella</item>
+        <item>Kaikki ilmoitukset näkyvät erillisessä kansiossa</item>
+    </string-array>
     <string-array name="timezone_filters">
         <item>Amerikka</item>
         <item>Eurooppa</item>

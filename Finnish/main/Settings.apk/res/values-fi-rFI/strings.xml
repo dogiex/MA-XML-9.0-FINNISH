@@ -901,6 +901,7 @@ Muodostetaanko pari tämän laitteen kanssa?"</string>
   <string name="charge_length_format">%1$s sitten</string>
   <string name="charging_sounds_title">Latausäänet</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
+  <string name="check_importance">Tarkista tärkeys</string>
   <string name="check_update">Tarkista päivitykset</string>
   <string name="checkbox_notification_same_as_incoming_call">Käytä ilmoituksille puhelun äänenvoimakkuutta</string>
   <string name="checking_decryption">Tarkistetaan…</string>
@@ -3958,6 +3959,7 @@ Laitteeseesi asennettu luotettu varmenne tekee tämän mahdolliseksi."</string>
   <string name="status_wifi_mac_address">Wi-Fi-yhteyden MAC-osoite</string>
   <string name="status_wimax_mac_address">4G MAC -osoite</string>
   <string name="status_write_success">Onnistui!</string>
+  <string name="statusbar_permission_desc">Käyttöoikeudet ovat vain käytettävissä tärkeille Ilmoituksille</string>
   <string name="storage_detail_apps">Sovellukset</string>
   <string name="storage_detail_audio">Audio</string>
   <string name="storage_detail_cached">Välimuistitiedot</string>
@@ -4308,7 +4310,8 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="turn_on_wifi_dialog_title">Ota Wi-Fi käyttöön</string>
   <string name="turn_update_keyguard_password_wait_dialog">Muokataan salasanaa…</string>
   <string name="twohours">1 tunti</string>
-  <string name="under_keyguard">Lukitusnäyttö</string>
+  <string name="under_keyguard">Näyttö pois käytöstä</string>
+  <string name="unimportant">Ei-tärkeä</string>
   <string name="uninstall_all_users_text">Poista kaikilta käyttäjiltä</string>
   <string name="uninstall_device_admin">Poista sovellus</string>
   <string name="uninstall_dlg_msg">Poistaminen poistaa kaikki sovellustiedot.</string>

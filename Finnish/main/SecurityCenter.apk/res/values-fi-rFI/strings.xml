@@ -1052,7 +1052,6 @@ vastausta"</string>
   <string name="name">Nimi</string>
   <string name="net_booster">Verkon nopeuden parantaja</string>
   <string name="net_booster_expire_notification">Verkon nopeuden parantajan istunto on päättymässä</string>
-  <string name="net_booster_expire_notification_tip">%d pv jäljellä, kunnes Verkon nopeuden parantajan istunto päättyy. Uusi istuntosi välttääksesi ongelmia verkon nopeuden kanssa.</string>
   <string name="net_booster_overdue_notification">Verkon nopeuden parantajan istunto on päättymässä</string>
   <string name="net_booster_overdue_notification_tip">Verkon nopeuden parantajan istunto päättyy pian. Uusitaanko istunto?</string>
   <string name="net_booster_tip">Ota Verkon nopeuden parantaja käyttöön, jotta Wi-Fi-yhteys olisi vakaampi ja vähentääksesi verkon viivettä.</string>
