@@ -422,7 +422,6 @@
   <string name="flybird_no_pwd_check_item">系统自动选择</string>
   <string name="flybird_nopwd_check_label">小额免密支付</string>
   <string name="flybird_nopwd_label">免密支付</string>
-  <string name="flybird_nopwd_value_label">免密金额</string>
   <string name="flybird_save_setting">保存当前设置</string>
   <string name="flybird_save_setting_label">请输入支付密码,验证身份信息</string>
   <string name="flybird_save_setting_title">请输入支付密码</string>
