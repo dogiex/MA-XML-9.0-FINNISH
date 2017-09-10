@@ -23,11 +23,6 @@
         <item>Myöhään iltapäivällä</item>
         <item>Illalla</item>
     </string-array>
-    <string-array name="icon_pkg">
-        <item>musiikki</item>
-        <item>kartta</item>
-        <item>taxiuber</item>
-    </string-array>
     <string-array name="aqi_title_prefix">
         <item>空气%1$s</item>
         <item>空气%1$s</item>
