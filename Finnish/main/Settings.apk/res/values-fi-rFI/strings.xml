@@ -1881,6 +1881,7 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="key_gesture_function_preview">Eleiden ja painikkeiden esikatselu</string>
   <string name="key_gesture_function_shortcut">Toiminnon oikotie</string>
   <string name="key_none">Ei mitään</string>
+  <string name="key_position_cat">Painikkeiden sijainnit</string>
   <string name="key_settings">Painikkeen ja eleen oikotie</string>
   <string name="key_settings_title">Painikkeen ja eleen oikotie</string>
   <string name="key_system_control">Järjestelmän hallinta</string>
@@ -3240,6 +3241,7 @@ Tämä asetus vaikuttaa kaikkiin tämän puhelimen käyttäjiin."</string>
   <string name="screen_key_long_press">Navigointipainikkeiden pitkä painallus</string>
   <string name="screen_key_long_press_action">Käynnistettävä toiminto</string>
   <string name="screen_key_long_press_timeout">Aseta pitkän painalluksen aika</string>
+  <string name="screen_key_position">Navigointipainikkeet</string>
   <string name="screen_key_press">Navigointipainikkeiden painallus</string>
   <string name="screen_key_press_action">Käynnistettävä toiminto</string>
   <string name="screen_locking_sounds_title">Ruudun lukitusäänet</string>

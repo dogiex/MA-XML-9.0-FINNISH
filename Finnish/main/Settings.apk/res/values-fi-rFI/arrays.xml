@@ -655,6 +655,10 @@
         <item>Valkoinen</item>
         <item>Violetti</item>
     </string-array>
+    <string-array name="screen_key_position_action">
+        <item>Valikko-painike vasemmalla, Takaisin-painike oikealla</item>
+        <item>Takaisin-painike vasemmalla, Valikko-painike oikealla</item>
+    </string-array>
     <string-array name="screen_key_press_action">
         <item>Näytä viimeaikaiset sovellukset</item>
         <item>Näytä valikko</item>
