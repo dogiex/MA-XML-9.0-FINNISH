@@ -65,6 +65,7 @@
   <string name="authorize_title">Valtuutus</string>
   <string name="bind_facebook">Yhdistä Facebook Tilisi</string>
   <string name="bind_qq">QQ</string>
+  <string name="bind_safe_phone_msg">Lisää turvallinen puhelin seuraavaa kirjautumista varten</string>
   <string name="bind_settings">Tilit</string>
   <string name="bind_sina_weibo">Yhdistä Sina Weibo Tili</string>
   <string name="bind_sns_description">Kirjaudu sisään käyttäen %s</string>
@@ -152,6 +153,7 @@
   <string name="logout_account">Kirjaudu ulos</string>
   <string name="logout_failed">Uloskirjautuminen epäonnistui</string>
   <string name="mi_account_identity_title">Vahvista henkilöllisyytesi</string>
+  <string name="mi_vip_info">查看我的特权</string>
   <string name="mipay">Maksu</string>
   <string name="mipay_balance">Saldo</string>
   <string name="mipay_bank_card">Pankkikortti</string>
@@ -179,7 +181,7 @@
   <string name="oauth_title">Kirjaudu Mi Tilillä</string>
   <string name="other_devices_title">Muut laitteet</string>
   <string name="passport_access_denied">Pääsy kielletty</string>
-  <string name="passport_account_hint_text">Sähköpostiosoite, Puhelinnumero tai Mi Tilin ID</string>
+  <string name="passport_account_hint_text">Sähköpostiosoite, puhelinnumero tai Mi Tilin ID</string>
   <string name="passport_account_identity_title">Vahvista henkilöllisyytesi</string>
   <string name="passport_account_label">Mi Tili</string>
   <string name="passport_account_name">Tili: %1$s</string>
@@ -255,6 +257,7 @@ Aktivoi tilisi seuraamalla
   <string name="passport_input_password_hint">Syötä salasana</string>
   <string name="passport_input_phone_hint">Syötä puhelinnumero</string>
   <string name="passport_input_vcode_hint">Syötä vahvistuskoodi</string>
+  <string name="passport_instant_login">Kirjaudu sisään</string>
   <string name="passport_license_host_unreachable">Verkkoyhteyttä ei voi muodostaa. Voit katsoa tämän sivun osoitteessa %s.</string>
   <string name="passport_loading">Ladataan…</string>
   <string name="passport_login">Kirjaudu sisään</string>
@@ -335,6 +338,8 @@ Aktivoi tilisi seuraamalla
   <string name="passport_skip_setup_account_msg">Voit asettaa Mi Tilin myöhemmin Asetuksissa.</string>
   <string name="passport_skip_setup_account_title">Ohita asetus</string>
   <string name="passport_sms_send_success">Lähetetty</string>
+  <string name="passport_sync_account_data">正在同步您的帐号数据</string>
+  <string name="passport_sync_account_data_failed_warning">您的帐号数据有延迟,将只能使用小米ID登录。若使用邮箱/手机登录,请稍等几分钟</string>
   <string name="passport_title_reg">Luo tili</string>
   <string name="passport_trust_device">Lisää tämä laite luotettaviin laitteisiin</string>
   <string name="passport_trying_read_verify_code_sms">Haetaan vahvistuskoodia…</string>
@@ -348,6 +353,9 @@ Aktivoi tilisi seuraamalla
   <string name="passport_user_agreement_p2">Palveluehdot</string>
   <string name="passport_user_agreement_p3"> ja </string>
   <string name="passport_user_agreement_p4">Tietosuojakäytännön</string>
+  <string name="passport_user_id_notice">您的小米ID是: %s</string>
+  <string name="passport_user_reg_region">Maa/Alue</string>
+  <string name="passport_user_reg_region_warning">Et voi muuttaa maatasi/aluettasi tilin luomisen jälkeen</string>
   <string name="passport_vcode_notification_title">Kirjautumisesi vahvistus on kesken</string>
   <string name="passport_vcode_prompt_long">Syötä vahvistuskoodi</string>
   <string name="passport_vcode_sms_send_prompt">Lähetä vahvistuskoodi %s</string>
@@ -419,6 +427,6 @@ Aktivoi tilisi seuraamalla
   <string name="verify_phone_prompt">Valitse vahvistettava puhelinnumero</string>
   <string name="verify_phone_title">Vahvista puhelinnumero</string>
   <string name="vip_account_settings">VIP Asetukset</string>
-  <string name="vip_more_info">Lisää VIP tietoa</string>
+  <string name="vip_settings_info">我的数据中心</string>
   <string name="xiao_mi_vip">Mi VIP</string>
 </resources>

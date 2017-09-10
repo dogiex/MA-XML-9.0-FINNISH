@@ -819,8 +819,8 @@
   <string name="talkback_mode_repeat_shuffle">Satunnaistoisto</string>
   <string name="talkback_more">Lisää valikoita</string>
   <string name="talkback_next">Seuraava kappale</string>
-  <string name="talkback_nowplaying_bar">Play-palkki</string>
-  <string name="talkback_nowplaying_circle">Play-ympyrä</string>
+  <string name="talkback_nowplaying_bar">Toistopalkki</string>
+  <string name="talkback_nowplaying_circle">Toistoympyrä</string>
   <string name="talkback_play">Toista / Pysäytä</string>
   <string name="talkback_pre">Edellinen kappale</string>
   <string name="talkback_progress">Etenemispalkki</string>

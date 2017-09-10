@@ -9,8 +9,8 @@
         <item quantity="one">%d sovellus voi näyttää ilmoituksia</item>
     </plurals>
     <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">%1$d nappulaa asetettu palkin yläpuolelle on aktiivisia</item>
-        <item quantity="one">%1$d nappula asetettu palkin yläpuolelle on aktiivinen</item>
+        <item quantity="other">%1$d nappulaa näytetään Ilmoitusalueella</item>
+        <item quantity="one">%1$d nappula näytetään Ilmoitusalueella</item>
     </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">Enää %1$d vaihetta, niin sinusta tulee kehittäjä.</item>
@@ -207,7 +207,7 @@ Saat lisätietoja varmenteesta järjestelmänvalvojaltasi."</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts">
         <item quantity="other">Liian monta virheellistä yritystä. Yritä uudelleen %d sekunnin kuluttua.</item>
-        <item quantity="one">Liian monta virheellistä attempt. Yritä uudelleen %d sekunnin kuluttua.</item>
+        <item quantity="one">Liian monta virheellistä yritystä. Yritä uudelleen %d sekunnin kuluttua.</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">Odota %d sekuntia ja yritä uudelleen.</item>

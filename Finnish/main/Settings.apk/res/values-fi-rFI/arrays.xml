@@ -169,7 +169,7 @@
         <item>Erikseen</item>
     </string-array>
     <string-array name="status_bar_show_carrier_entries">
-        <item>Näytä vain lukitusnäytöllä ja ilmoitusalueella</item>
+        <item>Näytä vain Lukitusnäytöllä ja Ilmoitusalueella</item>
         <item>Näytä operaattorin nimi aina</item>
         <item>Älä näytä operaattorin nimeä koskaan</item>
     </string-array>

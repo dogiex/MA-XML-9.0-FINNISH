@@ -25,8 +25,8 @@
         <item>1 Gt</item>
     </string-array>
     <string-array name="auto_process_mode">
-        <item>Kysy ilmoituksella</item>
-        <item>Puhdista taustalla</item>
-        <item>Näytä ilmoitus puhdistamisen jälkeen</item>
+        <item>Ilmoita</item>
+        <item>Tyhjennä</item>
+        <item>Tyhjennä ja ilmoita</item>
     </string-array>
 </resources>

@@ -273,9 +273,12 @@ siirtyäksesi Toiseen tilaan Lukitusnäytöltä"</string>
   <string name="tryNow">Kokeile nyt</string>
   <string name="wating">Odota hetki…</string>
   <string name="xpsace_guide_button">Luo</string>
+  <string name="xspace_account">双开帐号</string>
   <string name="xspace_chocie">Kloonatun sovelluksen tuki</string>
   <string name="xspace_creating">Luodaan kloonattua sovellusta…</string>
-  <string name="xspace_description">Luo sovelluksesta klooni, jotta voit käyttää niitä erikseen. Kloonatuilla sovelluksilla on omat Aloitusnäytön kuvakkeet.</string>
+  <string name="xspace_description">"双开应用将在桌面生成一个全新的应用副本，两者可同时运行互不影响。
+
+部分应用需要谷歌服务框架支持，双开这部分应用时会同步双开谷歌服务以保障体验。"</string>
   <string name="xspace_guide_des">Käytä kahta tiliä ilman, että vaihdat niiden välillä</string>
   <string name="xspace_guide_title">Luo Kloonattu sovellus sovelluksesta %s</string>
   <string name="xspace_header">Kloonatut sovellukset</string>
@@ -285,6 +288,7 @@ siirtyäksesi Toiseen tilaan Lukitusnäytöltä"</string>
   <string name="xspace_introduce">Suositeltu</string>
   <string name="xspace_label">Kloonatut sovellukset</string>
   <string name="xspace_loading_msg">Ladataan sovelluksia…</string>
+  <string name="xspace_setting_label">双开设置</string>
   <string name="xspace_uninstall_completed">Kloonattu sovellus poistettiin onnistuneesti</string>
   <string name="xspace_uninstall_dialog_content">Kloonatun sovelluksen poistaminen poistaa myös kaiken sovellusdatan.</string>
   <string name="xspace_uninstall_dialog_title">Poista kloonattu sovellus</string>
