@@ -406,11 +406,13 @@
   <string name="business_lucky_warning">企业红包</string>
   <string name="button_text_accept">Hyväksy</string>
   <string name="button_text_accept_timer">Hyväksy (%d)</string>
+  <string name="button_text_clear">Tyhjennä</string>
   <string name="button_text_delete">Poista</string>
   <string name="button_text_delete_from_virus_white_list">Poista</string>
   <string name="button_text_deny">Kiellä</string>
   <string name="button_text_disconnect_now">Katkaise yhteys</string>
   <string name="button_text_fix_now">Korjaa</string>
+  <string name="button_text_forbid_now">Kiellä</string>
   <string name="button_text_ignore">Jätä huomiotta</string>
   <string name="button_text_ignore_alert_title">Jätetäänkö tämä hälytys huomiotta?</string>
   <string name="button_text_known">OK</string>
@@ -755,6 +757,8 @@
   <string name="hints_handle_item_text_virus">Vaara</string>
   <string name="hints_input_roaming_daily_limit">Syötä tiedonsiirtoraja</string>
   <string name="hints_loading_text">Ladataan…</string>
+  <string name="hints_risk_descx_title">Kuvaus:</string>
+  <string name="hints_risk_name_title">Riski:</string>
   <string name="hints_scan_danger_result">Riski löytyi, korjaa nyt</string>
   <string name="hints_scan_result_no_finish">Skannaus ei ole valmis. Aloita alusta napauttamalla.</string>
   <string name="hints_scan_result_phone_safe">Kaikki näyttää hyvältä</string>
@@ -762,7 +766,9 @@
   <string name="hints_scanning">Skannataan…</string>
   <string name="hints_scanning_text">Skannataan…</string>
   <string name="hints_virus_apk_list_item_summary">apk</string>
+  <string name="hints_virus_apk_summary">%s (apk)</string>
   <string name="hints_virus_app_list_item_summary">sovellus</string>
+  <string name="hints_virus_app_summary">%s (sovellus)</string>
   <string name="hints_virus_lib_update_default_summary">Edellisen päivityksen aika tuntematon</string>
   <string name="hongbao_cancel">取消</string>
   <string name="hongbao_message_slogon">小米手机就是快!</string>

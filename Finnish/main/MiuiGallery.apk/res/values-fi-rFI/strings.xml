@@ -709,6 +709,7 @@
   <string name="error_connect_timeout_msg">Yhdistä toiseen verkkoon ja yritä uudelleen.</string>
   <string name="error_connect_timeout_tip">Yhteys aikakatkaistiin.</string>
   <string name="error_decode_tip">Tiedostomuoto ei ole tuettu tai tiedostot ovat korruptoituneet.</string>
+  <string name="error_download_tip">Lataaminen epäonnistui</string>
   <string name="error_external_sdcard_write_action">Vaihda tallennustila</string>
   <string name="error_external_sdcard_write_msg">Mene Asetukset &gt; Tallennustila, vaihda tallennustila siellä ja yritä uudelleen.</string>
   <string name="error_external_sdcard_write_tip">Kohteita ei voi tallentaa SD-kortille.</string>
@@ -1147,6 +1148,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="search_title_album">Albumi</string>
   <string name="search_title_history">Hakuhistoria</string>
   <string name="search_title_location">Sijainnit</string>
+  <string name="search_title_more">Lisää</string>
   <string name="search_title_others">Kaikki tulokset</string>
   <string name="search_title_people">Henkilöt</string>
   <string name="search_title_recommend">Suositeltu</string>

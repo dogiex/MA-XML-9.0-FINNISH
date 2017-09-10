@@ -923,6 +923,7 @@ Muodostetaanko pari tämän laitteen kanssa?"</string>
   <string name="clear_failed_dlg_title">Tyhjennä tiedot</string>
   <string name="clear_uri_btn_text">Poista käyttöoikeus</string>
   <string name="clear_user_data_text">Tyhjennä tiedot</string>
+  <string name="close_app">Sulje nykyinen sovellus</string>
   <string name="close_gesture">Sulje käyttämällä elettä</string>
   <string name="close_miui_optimization_title">Poista MIUI:n optimointi käytöstä</string>
   <string name="close_miui_optimization_warning_message">Laitteesi käynnistyy uudelleen, jotta muutokset tulevat voimaan.</string>
@@ -1003,7 +1004,7 @@ Muodostetaanko pari tämän laitteen kanssa?"</string>
   <string name="contributors_title">Avustajat</string>
   <string name="controls_label">Hallinta</string>
   <string name="controls_subtitle">Säädä virrankäyttöä</string>
-  <string name="convenience_key_category_title">Pikakuvakkeet</string>
+  <string name="convenience_key_category_title">Järjestelmän hallinta</string>
   <string name="convert_to_fbe_warning">"Muunna dataosio tiedostopohjaiseksi salaukseksi.
  Varoitus: Kaikki tiedot poistetaan.
  Tämä ominaisuus on kehitysvaiheessa, eikä se välttämättä toimi oikein.
@@ -1430,6 +1431,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="domain_urls_title">Sovelluslinkit</string>
   <string name="done">Valmis</string>
   <string name="done_button">Valmis</string>
+  <string name="double_click_power_key">Tuplanapauta Virtapainiketta</string>
   <string name="download_current_rom">Hanki uusin MIUI versio</string>
   <string name="downloading_description">Ladataan…</string>
   <string name="doze_summary">Aktivoi näyttö, kun laite otetaan käteen tai ilmoituksia saapuu</string>
@@ -1739,6 +1741,7 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="global_change_warning">Tämä asetus vaikuttaa kaikkiin tämän puhelimen käyttäjiin.</string>
   <string name="global_locale_change_title">Vaihda kieltä</string>
   <string name="go_back_button_label">Takaisin</string>
+  <string name="go_to_sleep">Mene nukkumaan</string>
   <string name="google_backup_enable">Ota varmuuskopiointi käyttöön</string>
   <string name="google_backup_section_title">Google varmuuskopiointi &amp; palautus</string>
   <string name="google_title">Google</string>
@@ -1866,9 +1869,19 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="keep_screen_on">Pysy käynnissä</string>
   <string name="keep_screen_on_summary">Näyttö ei sammu puhelimen latautuessa</string>
   <string name="kernel_version">Kernel-versio</string>
-  <string name="key_position_cat">Painikkeiden sijainnit</string>
-  <string name="key_settings">Painikkeet</string>
-  <string name="key_settings_title">Painikkeet</string>
+  <string name="key_combination_power_back">Virtapainike + Takaisin-painike</string>
+  <string name="key_combination_power_home">Virtapainike + Koti-painike</string>
+  <string name="key_combination_power_menu">Virtapainike + Valikko-painike</string>
+  <string name="key_gesture_function_dialog_message">%1$s on asetettu %2$s pikatoiminnoksi, ja korvaa toiminnon %3$s</string>
+  <string name="key_gesture_function_dialog_negative">Peruuta</string>
+  <string name="key_gesture_function_dialog_positive">Korvaa</string>
+  <string name="key_gesture_function_optional">Valinnaiset eleet ja painikkeet</string>
+  <string name="key_gesture_function_preview">Eleiden ja painikkeiden esikatselu</string>
+  <string name="key_gesture_function_shortcut">Toiminnon oikotie</string>
+  <string name="key_none">Ei mitään</string>
+  <string name="key_settings">Painikkeen ja eleen oikotie</string>
+  <string name="key_settings_title">Painikkeen ja eleen oikotie</string>
+  <string name="key_system_control">Järjestelmän hallinta</string>
   <string name="keyboard_and_input_methods_category">Näppäimistö ja syöttötavat</string>
   <string name="keyboard_assistance_category">Näppäimistön apuvälineet</string>
   <string name="keyboard_layout_default_label">Oletus</string>
@@ -1948,8 +1961,11 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="later">MYÖHEMMIN</string>
   <string name="lattice_smartcover_title">Säleikkö etukuori</string>
   <string name="launch_by_default">Avaa oletuksena</string>
+  <string name="launch_camera">Käynnistä kamera</string>
   <string name="launch_defaults_none">Oletuksia ei asetettu.</string>
   <string name="launch_defaults_some">Joitakin oletuksia on asetettu.</string>
+  <string name="launch_google_search">Käynnistä Google Haku</string>
+  <string name="launch_voice_assistant">Käynnistä Ääniavustaja</string>
   <string name="launcher_auto_fill_empty_title">Täytä tyhjät ruudukot automaattisesti</string>
   <string name="launcher_title">Aloitusnäyttö &amp; Viimeaikaiset</string>
   <string name="launching_cit">Käynnistetään CIT</string>
@@ -2205,6 +2221,11 @@ Voit asettaa uuden näytön lukituksen sekä laitteelle että työprofiilille, m
   <string name="login_account_dialog_message">Kirjaudu sisään Mi Tililläsi ja ota Mi Pilven synkronointi käyttöön.</string>
   <string name="login_account_dialog_title">Kirjaudu sisään Mi Tilillä</string>
   <string name="login_action">Kirjaudu sisään</string>
+  <string name="long_press_back_key">Paina pitkään Takaisin-painiketta</string>
+  <string name="long_press_buttom_key">Paina pitkään painiketta, kun lukittu</string>
+  <string name="long_press_home_key">Paina pitkään Koti-painiketta</string>
+  <string name="long_press_menu_key">Paina pitkään Valikko-painiketta</string>
+  <string name="long_press_menu_key_when_lock">Paina pitkään Valikko-painiketta, kun lukittu</string>
   <string name="long_press_volume_down">Paina pitkään Ääni alas-painiketta</string>
   <string name="lte_4g_settings_4gdisable_summary">4G Ei käytössä</string>
   <string name="lte_4g_settings_4genable_summary">4G Käytössä</string>
@@ -3226,7 +3247,6 @@ Tämä asetus vaikuttaa kaikkiin tämän puhelimen käyttäjiin."</string>
   <string name="screen_key_long_press">Navigointipainikkeiden pitkä painallus</string>
   <string name="screen_key_long_press_action">Käynnistettävä toiminto</string>
   <string name="screen_key_long_press_timeout">Aseta pitkän painalluksen aika</string>
-  <string name="screen_key_position">Navigointipainikkeet</string>
   <string name="screen_key_press">Navigointipainikkeiden painallus</string>
   <string name="screen_key_press_action">Käynnistettävä toiminto</string>
   <string name="screen_locking_sounds_title">Ruudun lukitusäänet</string>
@@ -3292,6 +3312,7 @@ Näytön kiinnittäminen:
   <string name="screen_resolution_title">Näytön resoluutio</string>
   <string name="screen_resolution_ultrahigh_format">Ultrakorkea (%1$s)</string>
   <string name="screen_saturation">Saturaatio</string>
+  <string name="screen_shot">Ota kuvakaappaus</string>
   <string name="screen_timeout">Siirtyminen virransäästöön</string>
   <string name="screen_timeout_summary">Laitteen oltua käyttämättä: %1$s</string>
   <string name="screen_timeout_title">Näyttö sammuu</string>
@@ -3710,6 +3731,7 @@ Huom. Sormenjälki ei välttämättä ole yhtä turvallinen kuin vahva kuvio tai
   <string name="show_ime_summary">Pidä näytöllä, kun fyysinen näppäimistö on aktiivinen.</string>
   <string name="show_magnifier_when_input">Tekstin suurennuslasi</string>
   <string name="show_mem_info_title">Näytä muistin tiedot</string>
+  <string name="show_menu">Näytä valikko</string>
   <string name="show_non_rect_clip">Korjaa ei-suorakulmaisten leiketoimintojen virheet</string>
   <string name="show_owner_info_on_lockscreen_label">Näytä omistajan tiedot lukitusnäytöllä</string>
   <string name="show_password">Näytä salasanat</string>
@@ -4189,6 +4211,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="tethering_settings_not_available">Tämä käyttäjä ei voi käyttää yhteyden jakamisasetuksia</string>
   <string name="tethering_settings_summary">Jaa laitteesi mobiilidatayhteys USB:n tai kannettavan Hotspot yhteyspisteen kautta</string>
   <string name="theme_settings_title">Teemat</string>
+  <string name="three_gesture_down">Kolmen sormen ele alaspäin</string>
   <string name="time_picker_title">Aika</string>
   <string name="time_zone_auto_stub">Valitse aikavyöhyke</string>
   <string name="timed_titlei">ajasta sääntö %d</string>
@@ -4286,6 +4309,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="turn_on_keyguard_password_alert_forget_content">Muista Lukitusnäytön salasanasi. Jos unohdat sen, joudut poistamaan kaikki tiedot laitteeltasi, mukaan lukien kuvat ja yhteystiedot ja sen jälkeen aseta uusi.</string>
   <string name="turn_on_keyguard_password_alert_forget_title">Muista salasanasi</string>
   <string name="turn_on_security_lock">Valitse näytön lukitus</string>
+  <string name="turn_on_torch">Käynnistä taskulamppu</string>
   <string name="turn_on_wifi_dialog_text">Wi-Fi poistetaan käytöstä sen ajaksi, kun kannettava yhteyspiste Hotspot on käytössä. Ottaaksesi Wi-Fin takaisin käyttöön, ole hyvä ja poista Hotspot ensin käytöstä.</string>
   <string name="turn_on_wifi_dialog_title">Ota Wi-Fi käyttöön</string>
   <string name="turn_update_keyguard_password_wait_dialog">Muokataan salasanaa…</string>

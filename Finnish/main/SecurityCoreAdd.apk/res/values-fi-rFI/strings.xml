@@ -52,6 +52,7 @@ jotta voit katsoa niitä milloin tahansa"</string>
   <string name="createUserFail">Luonti epäonnistui</string>
   <string name="create_app_icon_failed">Kuvaketta ei voitu luoda</string>
   <string name="create_app_icon_success">Kuvake luotiin onnistuneesti</string>
+  <string name="create_second_space">Luotiin onnistuneesti</string>
   <string name="create_space_loading">Luodaan Toista tilaa…</string>
   <string name="create_work_space">Luo Työtila</string>
   <string name="creating_app_icon">Luodaan kuvaketta…</string>
@@ -105,6 +106,10 @@ Viestit ilmestyvät vain Toisessa tilassa."</string>
   <string name="guide_pwd_detail_title">"Suojaa tietosi
 Siirry Toiseen tilaan Lukitusnäytöltä"</string>
   <string name="guide_setting_guide_title">Hallitse Toista tilaa</string>
+  <string name="guide_start_ads_text">Täysin uuden tason tietoturvaa</string>
+  <string name="guide_start_text">Kaksi tilaa. Yksi laite.</string>
+  <string name="has_created_second_space">"Voit avata Toisen tilan nyt.
+Yksi laite. Kaksi tilaa."</string>
   <string name="hidden_app">Toinen tila</string>
   <string name="imageData">Kuvat</string>
   <string name="import_application">Tuo sovelluksia</string>
@@ -118,6 +123,8 @@ Voit myös ladata ne erikseen."</string>
   <string name="import_photo">Tuo kuvia</string>
   <string name="import_photo_desc">Katso jaetut kohteet Toisessa tilassa</string>
   <string name="import_photo_suc">Tuodut kuvat</string>
+  <string name="input_space_finger">Aseta nyt</string>
+  <string name="input_space_password">Aseta nyt</string>
   <string name="invalid_qr_code">Virheellinen QR-koodi</string>
   <string name="list_empty_text">Tyhjä</string>
   <string name="loading">Odota hetki…</string>
@@ -159,6 +166,8 @@ Voit myös ladata ne erikseen."</string>
 Tai et välttämättä voi siirtyä Toiseen tilaan Lukitusnäytöltä."</string>
   <string name="privacyContactsSummary">Näytä yksityiset kohteet Toisessa tilassa</string>
   <string name="privacyContactsTitle">Yksityiset viestit ja yhteystiedot</string>
+  <string name="privacy_password_fingerprint_dialog_message">Aseta sormesi tunnistimelle</string>
+  <string name="privacy_password_fingerprint_dialog_title">Skannaa sormenjälkesi</string>
   <string name="private_sms_show_sub_title">Viestien tiedot jaetaan molempien tilojen kesken​</string>
   <string name="private_sms_show_title">Yksityiset viestit näytetään Toisessa tilassa</string>
   <string name="private_space_setting">Hallitse</string>
@@ -199,6 +208,9 @@ siirtyäksesi Toiseen tilaan Lukitusnäytöltä"</string>
   <string name="setSecondSpacePasswordGuideDes">Käytä tätä salasanaa siirtyäksesi Toiseen tilaan Lukitusnäytöltä</string>
   <string name="setSpacePasswordGuide">Käytä eri salasanoja siirtyäksesi molempiin tiloihin Luklitusnäytöltä</string>
   <string name="setSuccess">Salasanat asetettiin onnistuneesti</string>
+  <string name="set_space_finger">Aseta sormenjälki</string>
+  <string name="set_space_finger_sub_text_suc">Sormenjälki asetettiin onnistuneesti</string>
+  <string name="set_space_password">Aseta salasana</string>
   <string name="set_space_pwd_detail">Voit siirtyä Toiseen tilaan käyttämällä salasanaa</string>
   <string name="set_space_pwd_suc">Lisättiin Toisen tilan salasana</string>
   <string name="setting_finger_print_sub_title">Varmista, että sormenjälki on eri, kuin Ensimmäisessä tilassa</string>
@@ -215,13 +227,21 @@ siirtyäksesi Toiseen tilaan Lukitusnäytöltä"</string>
   <string name="settings_status_icon_title">Toisen tilan kuvake</string>
   <string name="settings_switch_shortcut_summary">Näytä Aloitusnäytön pikakuvake Ensimmäisessä tilassa</string>
   <string name="settings_switch_shortcut_title">Vaihda napauttamalla pikakuvaketta</string>
+  <string name="show_decktop_quick_switch_icon">Aloitusnäytön pikakuvake</string>
+  <string name="show_decktop_quick_switch_icon_detail">Näytä tilojen vaihtamisen pikakuvake Ensimmäisen tilan Aloitusnäytöllä</string>
   <string name="show_normal_content">Älä näytä yksityisiä kohteita</string>
+  <string name="show_noti_from_owner">Ilmoituksia toisesta tilasta</string>
+  <string name="show_noti_from_owner_detail">Näytä nykyisessä tilassa ilmoituksia, kun ne saapuvat toisessa tilassa</string>
+  <string name="show_noti_quick_switch_icon">Ilmoitusalueen pikakuvake</string>
+  <string name="show_noti_quick_switch_icon_detail">Näytä tilojen vaihtamisen välillä oleva pikakuvake Ilmoitusalueella</string>
   <string name="show_private_content">Näytä yksityiset kohteet</string>
   <string name="show_private_msg">Näytä yksityiset viestit</string>
   <string name="show_private_msg_summary">Näytä yksityiset viestit Toisessa tilassa</string>
+  <string name="skip">Ohita</string>
   <string name="spaceSetting">Asetukset</string>
   <string name="space_deleted">Tämä tila poistettiin</string>
   <string name="space_des_default">Eristetty tila tietojen salauksella</string>
+  <string name="space_finger_sub_text">Aseta Toisen tilan sormenjälki vaihtaaksesi tilaan nopeammin</string>
   <string name="space_name_default">Työtila</string>
   <string name="startSet">Aseta</string>
   <string name="startTransfer">Siirrä</string>

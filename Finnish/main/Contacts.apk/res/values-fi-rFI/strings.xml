@@ -1108,6 +1108,7 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="sim_error_password_error">Syöttämäsi salasana on väärä</string>
   <string name="sim_error_storage_full">SIM-kortin tallennustila on täynnä</string>
   <string name="sim_error_text_too_long">Nimi on liian pitkä</string>
+  <string name="sim_export_error">SIM-kortti ei ole valmis, yritä myöhemmin uudelleen</string>
   <string name="sim_export_loading">Luetaan SIM-korttia…</string>
   <string name="sim_indexed_contact_not_exist">%1$d SIM-kortilla ei ole sopiva, pitäisi olla välillä %2$d ja %3$d.</string>
   <string name="sim_no_contact">Ei yhteystietoja SIM-kortilla</string>
@@ -1185,6 +1186,7 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="toast_for_saving_nickname">Lempinimi tallennettu</string>
   <string name="toast_join_with_empty_contact">Kirjoita kontaktin nimi ennen kuin yhdistät sen toiseen.</string>
   <string name="toast_making_personal_copy">Luodaan oma kopio…</string>
+  <string name="toast_start_intent_failed">Tätä toimintoa käsittelevää sovellusta ei löydy</string>
   <string name="toast_text_copied">Teksti kopioitu</string>
   <string name="today">Tänään</string>
   <string name="tomorrow">Huomenna</string>

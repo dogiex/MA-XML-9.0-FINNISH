@@ -645,21 +645,8 @@
         <item>Valkoinen</item>
         <item>Violetti</item>
     </string-array>
-    <string-array name="screen_key_position_action">
-        <item>Valikko-painike vasemmalla, Takaisin-painike oikealla</item>
-        <item>Takaisin-painike vasemmalla, Valikko-painike oikealla</item>
-    </string-array>
     <string-array name="screen_key_press_action">
         <item>Näytä viimeaikaiset sovellukset</item>
-        <item>Näytä valikko</item>
-    </string-array>
-    <string-array name="screen_key_long_press_action">
-        <item>Ei mitään</item>
-        <item>Näytä viimeaikaiset sovellukset</item>
-        <item>Käynnistä Avustaja</item>
-        <item>Käynnistä Google Now</item>
-        <item>Sulje nykyinen sovellus</item>
-        <item>Käynnistä nopea haku</item>
         <item>Näytä valikko</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">

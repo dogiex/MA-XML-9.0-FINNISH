@@ -102,8 +102,6 @@
   <string name="resource_select">Valitse</string>
   <string name="screen_button_notification_text">Ota ne takaisin käyttöön painamalla Koti- ja Virtapainiketta samanaikaisesti.</string>
   <string name="screen_button_notification_title">Navigointipainikkeet on poistettu käytöstä</string>
-  <string name="screen_on_proximity_sensor_hint">Poista ominaisuus käytöstä painamalla Takaisin- ja Äänenvoimakkuus ylös -painikkeita samanaikaisesti.</string>
-  <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Poista tämä ominaisuus käytöstä painamalla Äänenvoimakkuus ylös painiketta.</string>
   <string name="screen_on_proximity_sensor_summary">Älä peitä näytöllä näkyvää oranssia aluetta</string>
   <string name="screen_on_proximity_sensor_title">Estä taskusoittaminen</string>
   <string name="screen_paper_mode_enter_toast">Lukutila on käytössä. Voit poistaa ominaisuuden käytöstä menemällä Asetukset &gt; Näyttö &gt; Lukutila.</string>
