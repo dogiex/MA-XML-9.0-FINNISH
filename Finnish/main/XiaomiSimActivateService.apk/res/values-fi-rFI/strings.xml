@@ -23,11 +23,11 @@
   <string name="activate_history_success">SIM-kortti aktivoitiin onnistuneesti. \"%1$s\" käynnisti aktivoinnin.</string>
   <string name="activate_history_title">SIM-kortin aktivointi</string>
   <string name="activate_phone_cancel_notif_title">SIM-kortin aktivointi peruutettiin</string>
-  <string name="activate_phone_cancel_notif_title_msim">SIM-kortin %s aktivointi peruutettiin</string>
+  <string name="activate_phone_cancel_notif_title_msim">SIM-kortin %d aktivointi peruutettiin</string>
   <string name="activate_phone_failed_notif_title">SIM-korttia ei voi aktivoida</string>
-  <string name="activate_phone_failed_notif_title_msim">SIM-korttia %s ei voi aktivoida</string>
+  <string name="activate_phone_failed_notif_title_msim">SIM-korttia %d ei voi aktivoida</string>
   <string name="activate_phone_success_notif_title">SIM-kortti aktivoitu</string>
-  <string name="activate_phone_success_notif_title_msim">SIM-kortti %s aktivoitu</string>
+  <string name="activate_phone_success_notif_title_msim">SIM-kortti %d aktivoitu</string>
   <string name="activate_popup_confirm_all_gateway_failed_query_info">Yritä uudelleen</string>
   <string name="activate_popup_confirm_all_gateway_failed_send_sms">Yritä uudelleen</string>
   <string name="activate_popup_confirm_error_device_id">Yritä uudelleen</string>
@@ -103,10 +103,17 @@ Syötä uuden SIM-korttisi puhelinnumero aktivoidaksesi %s uudelleen"</string>
   <string name="activate_status_desc_wait_for_sms_fail">Aktivointitekstiviestiä ei voitu vastaanottaa palvelimelta</string>
   <string name="activate_status_desc_wait_for_sms_success">Aktivointitekstiviesti vastaanotettiin palvelimelta</string>
   <string name="activate_status_title_activating">Aktivoidaan SIM-korttia…</string>
-  <string name="activate_status_title_activating_msim">Aktivoidaan SIM-korttia %s…</string>
+  <string name="activate_status_title_activating_msim">Aktivoidaan SIM-korttia %d…</string>
+  <string name="agree">Hyväksy</string>
   <string name="app_name">Xiaomi SIM Aktivointipalvelu</string>
   <string name="explain_send_sms_permission_button">Vahvista</string>
   <string name="explain_send_sms_permission_msg">Ottaaksesi %s käyttöön, Xiaomi Service Framework lähettää tekstiviestin vahvistaakseen puhelinnumerosi. Operaattorisi veloittaa sinua normaalista tekstiviestistä.</string>
   <string name="explain_send_sms_permission_title">Vahvista puhelinnumerosi</string>
+  <string name="phone_get_processing">haetaan…</string>
+  <string name="phone_get_text">Hyväksytkö %1$s hakea puhelinnumerosi: %2$s</string>
+  <string name="phone_get_title">Hyväksy %1$s hakea puhelinnumerosi</string>
+  <string name="phone_verify_processing">vahvistetaan…</string>
+  <string name="phone_verify_text">%1$s ei hae puhelinnumeroasi, vahvista vain, että puhelinnumerosi täsmää</string>
+  <string name="phone_verify_title">Hyväksy %1$s vahvistaa puhelinnumerosi</string>
   <string name="sim_unactivated_title">SIM-korttisi ei ole aktivoitu</string>
 </resources>

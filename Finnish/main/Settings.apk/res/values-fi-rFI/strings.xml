@@ -201,9 +201,9 @@ Järjestelmänvalvoja voi valvoa ja hallinnoida asetuksia, käyttöoikeuksia, so
   <string name="amber_alerts_summary">Vastaanota tiedotteita kaapatuista lapsista</string>
   <string name="amber_alerts_title">AMBER-hälytykset</string>
   <string name="android_beam_disabled_summary">Ei käytettävissä, koska NFC on poistettu käytöstä</string>
-  <string name="android_beam_explained">"Kun tämä ominaisuus on käytössä, voit jakaa sovellusten sisältöä toiselle NFC-yhteensopivalle laitteelle asettamalla laitteet lähekkäin. Voit jakaa esimerkiksi Selaimen sivuja, YouTube-videoita ja Henkilöt-sovelluksen yhteystietoja.
+  <string name="android_beam_explained">"Kun tämä ominaisuus on käytössä, voit jakaa sovellusten sisältöä toiselle NFC-yhteensopivalle laitteelle asettamalla laitteet lähekkäin. Voit jakaa esimerkiksi Selaimen sivuja, YouTube-videoita ja Henkilöiden yhteystietoja ja paljon muuta.
 
-Aseta vain laitteet vierekkäin (yleensä takakannet vastakkain) ja kosketa näyttöä. Jaettava sisältö riippuu sovelluksesta."</string>
+Aseta vain laitteet vierekkäin (yleensä takakannet vastakkain) ja napauta näyttöäsi. Sovellus määrittää, mitä sisältöä jaetaan."</string>
   <string name="android_beam_label">Android Beam</string>
   <string name="android_beam_off_summary">Pois käytöstä</string>
   <string name="android_beam_on_summary">Valmis lähettämään sovelluksen sisältöä NFC:n kautta</string>
@@ -1338,7 +1338,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="display_auto_rotate_stay_in_current">Säilytä nykyinen suunta</string>
   <string name="display_auto_rotate_stay_in_landscape">Säilytä vaakanäkymä</string>
   <string name="display_auto_rotate_stay_in_portrait">Säilytä pystynäkymä</string>
-  <string name="display_auto_rotate_title">Kun laite käännetään</string>
+  <string name="display_auto_rotate_title">Laitteen kierto</string>
   <string name="display_font_size_label">Kirjasimen koko:</string>
   <string name="display_label">Näyttö</string>
   <string name="display_order_text">Lajittelu:</string>
@@ -1486,7 +1486,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="enable_service_password_reason">Koska palvelun %1$s ottaminen käyttöön vaikuttaa tietojen salaukseen, sinun pitää vahvistaa salasana.</string>
   <string name="enable_service_pattern_reason">Koska palvelun %1$s ottaminen käyttöön vaikuttaa tietojen salaukseen, sinun pitää vahvistaa kuvio.</string>
   <string name="enable_service_pin_reason">Koska palvelun %1$s ottaminen käyttöön vaikuttaa tietojen salaukseen, sinun pitää vahvistaa PIN-koodi.</string>
-  <string name="enable_service_title">Palvelu suorittaa nämä toiminnot:</string>
+  <string name="enable_service_title">Otetaanko %1$s käyttöön?</string>
   <string name="enable_snapshot_screenlock">Ota kuva painamalla pitkään Takaisin-painiketta</string>
   <string name="enable_terminal_summary">Ota käyttöön päätesov. joka mahdollistaa paikall. liittymäkäytön</string>
   <string name="enable_terminal_title">Paikallinen pääte</string>
@@ -2072,9 +2072,9 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="lock_screen_notifications_interstitial_title_profile">Profiilin ilmoitukset</string>
   <string name="lock_screen_notifications_summary_disable">Älä näytä ilmoituksia lainkaan</string>
   <string name="lock_screen_notifications_summary_disable_profile">Älä näytä mitään työilmoituksia</string>
-  <string name="lock_screen_notifications_summary_hide">Näytä kaikki ilmoitukset, mutta piilota sisällöt</string>
+  <string name="lock_screen_notifications_summary_hide">Piilota henkilökohtainen ilmoitussisältö.</string>
   <string name="lock_screen_notifications_summary_hide_profile">Piilota työilmoitusten arkaluontoinen sisältö</string>
-  <string name="lock_screen_notifications_summary_show">Näytä kaikki ilmoitukset ja niiden sisällöt</string>
+  <string name="lock_screen_notifications_summary_show">Näytä ilmoitusten koko sisältö.</string>
   <string name="lock_screen_notifications_summary_show_profile">Näytä kaikki työilmoitussisältö</string>
   <string name="lock_screen_notifications_title">Lukitusnäytöllä</string>
   <string name="lock_screen_secure_after_timeout_immediately_summary">Salasana vaaditaan heti</string>
@@ -2109,7 +2109,7 @@ Voit asettaa uuden näytön lukituksen sekä laitteelle että työprofiilille, m
   <string name="lock_sounds_enable_title">Näytön lukitus -ääni</string>
   <string name="lockpassword_cancel_label">Peruuta</string>
   <string name="lockpassword_choose_for_second_user">Aseta Toisen tilan salasana</string>
-  <string name="lockpassword_choose_lock_generic_header">Poista lukitus valinnasta</string>
+  <string name="lockpassword_choose_lock_generic_header">Lukituksenpoistovalikko</string>
   <string name="lockpassword_choose_your_password_header">Valitse salasana</string>
   <string name="lockpassword_choose_your_password_second_space">"Aseta salasana 
  Toinen tila -toiminnolle"</string>
@@ -2123,14 +2123,14 @@ Voit asettaa uuden näytön lukituksen sekä laitteelle että työprofiilille, m
   <string name="lockpassword_confirm_workspace_password">Vahvista Työtilan salasana</string>
   <string name="lockpassword_confirm_your_lock_password_header">Vahvista salasanasi</string>
   <string name="lockpassword_confirm_your_lock_pattern_header">Vahvista kuviosi</string>
-  <string name="lockpassword_confirm_your_password_generic">Jatka antamalla laitteesi salasana.</string>
-  <string name="lockpassword_confirm_your_password_generic_profile">Jatka antamalla työprofiilisi salasana.</string>
+  <string name="lockpassword_confirm_your_password_generic">Jatka antamalla laitteesi salasana</string>
+  <string name="lockpassword_confirm_your_password_generic_profile">Jatka antamalla työprofiilisi salasana</string>
   <string name="lockpassword_confirm_your_password_header">Vahvista salasana</string>
   <string name="lockpassword_confirm_your_pattern_generic">Jatka piirtämällä laitteesi kuvio</string>
-  <string name="lockpassword_confirm_your_pattern_generic_profile">Jatka piirtämällä työprofiilisi kuvio.</string>
+  <string name="lockpassword_confirm_your_pattern_generic_profile">Jatka piirtämällä työprofiilisi kuvio</string>
   <string name="lockpassword_confirm_your_pattern_header">Vahvista kuvio</string>
-  <string name="lockpassword_confirm_your_pin_generic">Jatka antamalla laitteesi PIN-koodi.</string>
-  <string name="lockpassword_confirm_your_pin_generic_profile">Jatka antamalla työprofiilisi PIN-koodi.</string>
+  <string name="lockpassword_confirm_your_pin_generic">Jatka antamalla laitteesi PIN-koodi</string>
+  <string name="lockpassword_confirm_your_pin_generic_profile">Jatka antamalla työprofiilisi PIN-koodi</string>
   <string name="lockpassword_confirm_your_pin_header">Vahvista PIN-koodi</string>
   <string name="lockpassword_confirm_your_private_password_header">Vahvista salasanasi</string>
   <string name="lockpassword_confirm_your_private_pattern_header">Vahvista kuviosi</string>
@@ -2149,10 +2149,10 @@ Voit asettaa uuden näytön lukituksen sekä laitteelle että työprofiilille, m
   <string name="lockpassword_pattern_set_toast">Kuvio on asetettu</string>
   <string name="lockpassword_pin_contains_non_digits">PIN-koodi saa sisältää vain numeroita 0–9.</string>
   <string name="lockpassword_pin_no_sequential_digits">Nouseva, laskeva tai toistuva numerosarja on kielletty</string>
-  <string name="lockpassword_pin_recently_used">Järjestelmänv. ei salli viimeaik. PIN-koodin käyttöä.</string>
+  <string name="lockpassword_pin_recently_used">Järjestelmänvalvoja esti PIN-koodin, koska sitä on käytetty hiljattain.</string>
   <string name="lockpassword_pin_set_toast">PIN-koodi asetettu</string>
-  <string name="lockpassword_pin_too_long">PIN-koodin on oltava alle %d numeroa pitkä.</string>
-  <string name="lockpassword_pin_too_short">PIN-koodin täytyy olla %d numeroa pitkä</string>
+  <string name="lockpassword_pin_too_long">PIN-koodissa saa olla enintään %d numeroa.</string>
+  <string name="lockpassword_pin_too_short">PIN-koodin vähimmäispituus on %d merkkiä.</string>
   <string name="lockpassword_strong_auth_required_reason_restart_device_password">Syötä laitteesi salasana jatkaaksesi. Vaaditaan laitteen uudelleenkäynnistymisen jälkeen.</string>
   <string name="lockpassword_strong_auth_required_reason_restart_device_pattern">Käytä laitteesi kuviota jatkaaksesi. Vaaditaan laitteen uudelleenkäynnistymisen jälkeen.</string>
   <string name="lockpassword_strong_auth_required_reason_restart_device_pin">Syötä laitteesi PIN-koodi jatkaaksesi. Vaaditaan laitteen uudelleenkäynnistymisen jälkeen.</string>
@@ -2508,7 +2508,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="network_scorer_change_active_dialog_text">Hallinnoidaanko verkkoyhteyksiä sovelluksella %1$s sovelluksen %2$s sijaan?</string>
   <string name="network_scorer_change_active_dialog_title">Vaihdetaanko Wi-Fi Assistant?</string>
   <string name="network_scorer_change_active_no_previous_dialog_text">Hallinnoidaanko verkkoyhteyksiä sovelluksella %s?</string>
-  <string name="network_settings_title">Matkapuhelinverkot</string>
+  <string name="network_settings_title">Mobiiliverkko</string>
   <string name="network_state_label">Verkon tila:</string>
   <string name="networkid_label">Verkon ID:</string>
   <string name="networks">Operaattorin valinta</string>
@@ -2693,7 +2693,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="overlay_display_devices_title">Simuloi toissijaiset näytöt</string>
   <string name="overlay_settings">Sovelluksien päälle piirtäminen</string>
   <string name="owner_info_settings_edit_text_hint">Esim. Rikun android</string>
-  <string name="owner_info_settings_status">%1$d/%2$d</string>
+  <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary">Ei mitään</string>
   <string name="owner_info_settings_title">Lukitusnäytön teksti</string>
   <string name="owner_space">Ensimmäinen tila</string>
@@ -3770,7 +3770,7 @@ PIN-koodi on mahdollisesti virheellinen."</string>
   <string name="sim_lock_off">Puhelin avautuu PIN-koodilla</string>
   <string name="sim_lock_on">Puhelin avautuu PIN-koodilla</string>
   <string name="sim_lock_settings">SIM-kortin lukitusasetukset</string>
-  <string name="sim_lock_settings_category">Ota SIM-kortin lukitus käyttöön</string>
+  <string name="sim_lock_settings_category">SIM-kortin lukitus</string>
   <string name="sim_lock_settings_title">SIM-kortin lukitus</string>
   <string name="sim_management_title">SIM-kortit &amp; matkapuhelinverkot</string>
   <string name="sim_management_title_cr_kolbi">SIM-kortit &amp; matkapuhelinverkot</string>
@@ -4047,7 +4047,7 @@ Alustamisen jälkeen ^1 toimii vain tässä laitteessa.
   <string name="storage_wizard_migrate_body">"Uusi ^1 on nyt käytettävissä, ja voit siirtää kuvasi, tiedostosi ja jotkin sovellukset siihen. 
 
 Siirto vie noin ^2 ja vapauttaa ^3 sisäistä tallennustilaa. Jotkin sovellukset eivät toimi siirron aikana."</string>
-  <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;Siirron kesto on arviolta ^1. Siirron my&amp;#246;tä ^3 saa ^2 lisätilaa.&lt;/b&gt;</string>
+  <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;Siirron kesto on arviolta ^1. Siirron myötä ^3 saa ^2 lisätilaa.&lt;/b&gt;</string>
   <string name="storage_wizard_migrate_confirm_next">Siirrä</string>
   <string name="storage_wizard_migrate_confirm_title">Siirrä tiedot nyt</string>
   <string name="storage_wizard_migrate_details">"Siirron aikana: 
@@ -4495,7 +4495,6 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="user_dict_settings_edit_dialog_title">Muokkaa sanaa</string>
   <string name="user_dict_settings_empty_text">Käyttäjän sanakirjassa ei ole sanoja. Lisää sana koskettamalla Lisää (+) ‑painiketta.</string>
   <string name="user_dict_settings_more_languages">Lisää kieliä...</string>
-  <string name="user_dict_settings_summary"/>
   <string name="user_dict_settings_title">Oma sanakirja</string>
   <string name="user_enable_calling">Ota puhelut käyttöön</string>
   <string name="user_enable_calling_and_sms_confirm_message">Soitto- ja tekstiviestihistoria jaetaan tämän käyttäjän kanssa.</string>
@@ -4610,8 +4609,8 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="voice_search_settings_title">Puhehaku</string>
   <string name="voice_service_preference_section_title">Äänisyötepalvelut</string>
   <string name="volte_provisioned_switch_string">VoLTEn hallinnoima</string>
-  <string name="volume_alarm_description">Hälytykset</string>
-  <string name="volume_alarm_mute">Mykistä hälytykset</string>
+  <string name="volume_alarm_description">Herätykset</string>
+  <string name="volume_alarm_mute">Mykistä herätykset</string>
   <string name="volume_bluetooth_description">Bluetooth</string>
   <string name="volume_category_title">Äänenvoimakkuus</string>
   <string name="volume_hifi_description">Hi-Fi asetukset</string>
@@ -5052,7 +5051,7 @@ Muodosta yhteys toiseen Wi-Fi-verkkoon valitsemalla "&lt;b&gt;Takaisin&lt;/b&gt;
   <string name="wifi_tether_checkbox_text">Kannettava Wi-Fi-hotspot</string>
   <string name="wifi_tether_configure_ap_text">Luo Wi-Fi-hotspot</string>
   <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
-  <string name="wifi_tether_configure_subtext">%1$s %2$s kannettava Wi-Fi-hotspot</string>
+  <string name="wifi_tether_configure_subtext">Hotspot: %1$s %2$s</string>
   <string name="wifi_tether_enabled_subtext">Kannettava yhteyspiste %1$s käytössä</string>
   <string name="wifi_tether_failed_subtext">Kannettavan Wi-Fi-hotspotin virhe</string>
   <string name="wifi_tether_first_use_message">Määritä kannettava Wi-Fi-hotspot ensimmäisellä käyttökerralla</string>
