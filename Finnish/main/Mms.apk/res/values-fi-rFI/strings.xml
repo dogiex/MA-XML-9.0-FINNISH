@@ -7,6 +7,7 @@
   <string name="addBlackList">Estä</string>
   <string name="add_attachment">Lisää liitetiedostoja</string>
   <string name="add_contact">vCard</string>
+  <string name="add_miui_contact">Mi Kortti</string>
   <string name="add_music">Lisää musiikkia</string>
   <string name="add_number_to_sender">Lisää numero lähettäjään %s</string>
   <string name="add_picture">Lisää kuva</string>
@@ -391,8 +392,10 @@
   <string name="pref_show_sms_template_in_summary">Tunnista automaattisesti kertakäyttösalasanat tekstiviesteistä</string>
   <string name="pref_show_sms_template_summary">Kopioi ja täyty automaattisesti vahvistuskoodit</string>
   <string name="pref_smart_messages_settings">Älykkäät viestit</string>
+  <string name="pref_sms_storage_title">Tallennustila</string>
   <string name="pref_sms_theme_title">Näyttäminen</string>
   <string name="pref_summary_allow_si_sl_push">Salli viestien ladata verkkosivustojen sisältöä</string>
+  <string name="pref_summary_auto_delete">Poista vanhoja viestejä, kun rajat on saavutettu</string>
   <string name="pref_summary_delete_limit">%1$s viestiä per keskustelu</string>
   <string name="pref_summary_delivery_reports">Näytä toimitettujen viestien tila</string>
   <string name="pref_summary_delivery_ringtone">Vastaanota ääni-ilmoituksia toimitetuista viesteistä.</string>
@@ -410,6 +413,7 @@
   <string name="pref_system_title">Järjestelmä</string>
   <string name="pref_title_about_smart_sms">Tietoa Älykkäiden viestien kumppaneista</string>
   <string name="pref_title_allow_si_sl_push">Salli WAP push-viestit (SI/SL)</string>
+  <string name="pref_title_auto_delete">Poista vanhoja viestejä</string>
   <string name="pref_title_card_format">Käyntikortin jakomuoto</string>
   <string name="pref_title_delivery_reports">Toimituksen tila</string>
   <string name="pref_title_fwd_sender_info">Välitä lähettäjän tiedot</string>
@@ -418,6 +422,8 @@
   <string name="pref_title_mms_auto_retrieval">Lataa multimediaviestin sisältö automaattisesti</string>
   <string name="pref_title_mms_delete">Multimediaviestin raja</string>
   <string name="pref_title_mms_read_reports">Multimediaviestien lukukuittaukset</string>
+  <string name="pref_title_mms_retrieval_during_international_roaming">Lataa multimediaviestien sisältö kansainvälisen verkkovierailun yhteydessä</string>
+  <string name="pref_title_mms_retrieval_during_national_roaming">Lataa multimediaviestien sisältö kansallisen verkkovierailun yhteydessä</string>
   <string name="pref_title_mms_retrieval_during_roaming">Lataa multimediaviestin sisältö roaming-tilassa</string>
   <string name="pref_title_mms_validity_period">Multimediaviestin vanhentuminen</string>
   <string name="pref_title_notification_body_enabled">Näytä viestit lukitusnäytöllä</string>

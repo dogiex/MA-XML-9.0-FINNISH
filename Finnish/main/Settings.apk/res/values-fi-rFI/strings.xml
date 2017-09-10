@@ -801,6 +801,7 @@ Muodostetaanko pari tämän laitteen kanssa?"</string>
   <string name="bt_rarely_used_device_title">Harvoin käytetyt laitteet (%d)</string>
   <string name="bt_trace_log">Bluetooth jäljitysloki</string>
   <string name="bt_trace_log_summary">Bluetooth jäljitysloki</string>
+  <string name="bug_report_settings">Palaute</string>
   <string name="bugreport_in_power">Virheraportin pikakuvake</string>
   <string name="bugreport_in_power_summary">Näytä virheraporttipainike virtavalikossa</string>
   <string name="build_number">Ohjelmistoversion numero</string>
@@ -2672,15 +2673,6 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="oem_unlock_enable_summary">Salli käynnistysohjelman lukituksen avaaminen</string>
   <string name="ok_rules">valmis</string>
   <string name="okay">OK</string>
-  <string name="oldman_mode_confirm_title">Käynnistetäänkö uudelleen nyt?</string>
-  <string name="oldman_mode_confirm_will_normal_mode_text">Laitteesi käynnistyy uudelleen, jotta Lite-tila poistuu käytöstä.</string>
-  <string name="oldman_mode_confirm_will_oldman_mode_text">Laitteesi käynnistyy uudelleen, jotta Lite-tila voidaan ottaa käyttöön.</string>
-  <string name="oldman_mode_enabled_name">Lite-tila</string>
-  <string name="oldman_mode_entry_name">Lite-tila</string>
-  <string name="oldman_mode_entry_title">Lite-tila</string>
-  <string name="oldman_mode_settings_caption">Lite-tilan asetukset</string>
-  <string name="oldman_mode_summary">Käytä yksinkertaistettua Aloitusnäyttöä ja valikkoja</string>
-  <string name="oldman_mode_summary_cta">Lite-tila tarvitsee internetyhteyden ja oikeuden lukea yhteystietoja, viestejä ja pääsyn sijaintitietoihin toimiakseen normaalisti.</string>
   <string name="one_cacrt">yksi CA-varmenne</string>
   <string name="one_usercrt">yhden käyttäjän varmenne</string>
   <string name="one_userkey">yhden käyttäjän näppäin</string>
@@ -3449,6 +3441,7 @@ Näytön kiinnittäminen:
   <string name="search_handy_mode">Yhden käden-tila;Yhden-käden tila;Yhdenkäden tila;Yhden käden tila;Yksi käsi;</string>
   <string name="search_hint">Etsi asetuksia</string>
   <string name="search_home_key">Koti;Koti-painike;Koti näppäin</string>
+  <string name="search_input_hint">Hae asetuksia</string>
   <string name="search_key_settings_title">Painikkeet;Näppäimet</string>
   <string name="search_lab_functions_title">Beta toiminnot,Lab toiminnot</string>
   <string name="search_label">Asetukset</string>
@@ -3868,6 +3861,7 @@ PIN-koodi on mahdollisesti virheellinen."</string>
   <string name="spellchecker_language">Kieli</string>
   <string name="spellchecker_quick_settings">Asetukset</string>
   <string name="spellchecker_security_warning">Tämä oikoluku voi ehkä kerätä kaiken kirjoittamasi tekstin, mukaan lukien henkilötiedot, kuten salasanat ja luottokorttien numerot. Se on lähtöisin sovelluksesta %1$s. Käytetäänkö tätä oikolukua?</string>
+  <string name="spellchecker_switch_title">Ota oikeinkirjoituksen tarkistus käyttöön</string>
   <string name="spellcheckers_settings_title">Oikeinkirjoituksen tarkistus</string>
   <string name="ssid_label">SSID:</string>
   <string name="ssl_ca_cert_warning">Verkkoa saatetaan valvoa</string>
@@ -4849,7 +4843,6 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="wifi_eap_ca_cert">CA-varmenne</string>
   <string name="wifi_eap_domain">Verkkotunnus</string>
   <string name="wifi_eap_identity">Identiteetti</string>
-  <string name="wifi_eap_info_reconnect">Todennus epäonnistui, ole hyvä ja yritä uudelleen!</string>
   <string name="wifi_eap_method">EAP-tapa</string>
   <string name="wifi_eap_sim_simcard">Valitse SIM-kortti</string>
   <string name="wifi_eap_user_cert">Käyttäjävarmenne</string>
@@ -4878,7 +4871,7 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="wifi_hotspot_message">%1$s edellyttää kirjautumista online-tilassa ennen verkkoon yhdistämistä.</string>
   <string name="wifi_hotspot_title">Kirjaudutaanko sisään yhteyttä varten?</string>
   <string name="wifi_in_airplane_mode">Lentokonetilassa</string>
-  <string name="wifi_info_reconnect">Salasanavirhe, ole hyvä ja yritä uudelleen!</string>
+  <string name="wifi_info_reconnect">Yhteyden muodostaminen epäonnistui, ole hyvä ja yritä uudelleen!</string>
   <string name="wifi_install_credentials">Asenna varmenteet</string>
   <string name="wifi_ip_address">IP-osoite</string>
   <string name="wifi_ip_address_hint">192.168.1.128</string>

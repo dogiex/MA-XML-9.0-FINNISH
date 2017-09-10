@@ -58,7 +58,7 @@
   <string name="can_not_use">Ei voi käyttää</string>
   <string name="cancel">Peruuta</string>
   <string name="card_title_answering">Vastataan puheluun</string>
-  <string name="card_title_answering_fail">Puheluun ei voitu vastata, yritä uudelleen.</string>
+  <string name="card_title_answering_time_out">Puheluun ei voitu vastata, yritä uudelleen.</string>
   <string name="card_title_call_ended">"Puhelu päättyi "</string>
   <string name="card_title_conf_call">Konferenssipuhelu</string>
   <string name="card_title_dialing">Soitetaan</string>
@@ -158,10 +158,6 @@
   <string name="ivr_menu_dialing_msg_no_mute">Mene valittuun palveluun…[Automatic error correction is enabled]</string>
   <string name="ivr_menu_list_sub_menu_count_format">Napauta %s</string>
   <string name="ivr_menu_list_title">Ääni-valikko</string>
-  <string name="jeejen_answer_call_text">Vastaa puheluun</string>
-  <string name="jeejen_end_call_text">Lopeta puhelu</string>
-  <string name="jeejen_reject_call_text">Hylkää puhelu</string>
-  <string name="jeejen_toggle_dialpad_text">Numerovalitsin</string>
   <string name="keep_wait_call_back">Jatka odottamista</string>
   <string name="livetalk_dial">Käytetään Top-up -pakettia</string>
   <string name="livetalk_hangup">Lopeta puhelu</string>
