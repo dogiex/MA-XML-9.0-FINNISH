@@ -126,9 +126,7 @@
   <string name="express_booking_txt">Tilaa pikatoimitus</string>
   <string name="express_code_txt">Koodi:</string>
   <string name="express_complete">Hyväksytty</string>
-  <string name="express_complete_flag">3</string>
   <string name="express_delivery">Toimitetaan</string>
-  <string name="express_delivery_flag">5</string>
   <string name="express_icon_tip">Vastaanota pikatoimitustietoja käyttämällä puhelinnumeroasi ja tilaustietojasi.</string>
   <string name="express_icon_tip_link">Tietoturva &amp; yksityisyys</string>
   <string name="express_install_cainiao_description">%s vaatii Cainiao -sovelluksen asennuksen. Asennetaanko nyt?</string>
@@ -278,7 +276,6 @@
   <string name="steps">askel</string>
   <string name="stock_card_add">Lisää yrityksiä</string>
   <string name="stock_card_title">Osakkeet</string>
-  <string name="stock_change_rate_format">%.2f%%</string>
   <string name="take_off">Lähde matkaan</string>
   <string name="taxi_book">Soita taksi</string>
   <string name="taxi_card_departure">Nykyinen sijainti</string>

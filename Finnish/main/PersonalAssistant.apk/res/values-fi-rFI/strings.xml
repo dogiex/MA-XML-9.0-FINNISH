@@ -628,9 +628,6 @@
   <string name="msp_memo_user_cancel">操作已经取消。</string>
   <string name="msp_mini_card_type_text">卡类型</string>
   <string name="msp_mini_choose_identitify">选择证件类别</string>
-  <string name="msp_mini_layout">mini_layout</string>
-  <string name="msp_mini_layout_parent">mini_layout_parent</string>
-  <string name="msp_mini_linblocksconpent">mini_linBlocksConpent</string>
   <string name="msp_mini_read_protocal_title">选择阅读协议</string>
   <string name="msp_mini_root">mini_root</string>
   <string name="msp_mini_safty_code_info">安全码是打印在信用卡背面签名区的一组数字，一般是后3位数字</string>
