@@ -30,13 +30,6 @@
         <item>Kasvitiede</item>
         <item>Eläin</item>
     </string-array>
-    <string-array name="wallpaper_settings_precust_cover_name">
-        <item>Viihde</item>
-        <item>Maisema</item>
-        <item>Tähtitaivas</item>
-        <item>Kasvi</item>
-        <item>Eläin</item>
-    </string-array>
     <string-array name="wallpaper_settings_precust_global_cover_name">
         <item>Maisema</item>
         <item>Eläin</item>
