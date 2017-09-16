@@ -354,7 +354,7 @@
   <string name="no_login_btn_text">Kirjaudu sisään</string>
   <string name="no_login_str">Ei kirjautunut</string>
   <string name="no_message">Ei viestejä</string>
-  <string name="no_new_content_tip">Kaikki kohteet ovat ajantasalla</string>
+  <string name="no_new_content_tip">Kaikki kohteet ovat ajan tasalla</string>
   <string name="no_recent_files">Ei viimeaikaisia tiedostoja</string>
   <string name="no_search_content">Tuloksia ei löytynyt</string>
   <string name="no_topic">Ei otsikoita</string>

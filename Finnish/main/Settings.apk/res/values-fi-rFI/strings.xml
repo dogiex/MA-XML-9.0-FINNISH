@@ -2587,7 +2587,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="no_trust_agents">Ei luotettavia tahoja</string>
   <string name="no_update_found">Sinulla on jo viimeisin MIUI versio</string>
   <string name="no_updates_found">Sinulla on jo viimeisin MIUI versio</string>
-  <string name="no_updates_warning">Järjestelmäsi on ajantasalla</string>
+  <string name="no_updates_warning">Järjestelmäsi on ajan tasalla</string>
   <string name="no_updates_warning2">Ota rennosti, kerromme kyllä, kun uusi päivitys on saatavilla :)</string>
   <string name="no_vr_listeners">Asennettuja sovelluksia ei ole pyydetty toimimaan virtuaalitodellisuuden avustinpalveluina.</string>
   <string name="noise_suppression">Taustamelun vaimennus</string>
@@ -4146,7 +4146,7 @@ Nopeampi ^1 voi toimia tehokkaammin."</string>
 %1$s"</string>
   <string name="sync_plug">&lt;font fgcolor="#ffffffff"&gt;Tervetuloa käyttämään Google Sync -palvelua!&lt;/font&gt;" 
 Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystietojasi, tapaamisiasi ynnä muita tietoja mistä tahansa."</string>
-  <string name="sync_settings">Synkronoi</string>
+  <string name="sync_settings">Synkronointi</string>
   <string name="sync_wifi_label">Wi-Fi</string>
   <string name="sync_wifi_only">Vain Wi-Fi</string>
   <string name="system">Järjestelmä</string>

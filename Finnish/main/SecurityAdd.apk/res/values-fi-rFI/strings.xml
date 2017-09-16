@@ -82,7 +82,7 @@
   <string name="month_report_disconnect_tip">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="month_report_follow_service_negative">Ei kiitos</string>
   <string name="month_report_follow_service_positive">Seuraa</string>
-  <string name="month_report_follow_service_summary">Pysy ajantasalla tietoturvauutisista ja tiedoista seuraamalla MIUI:n Tietoturvasovelluksen virallista tiliä.</string>
+  <string name="month_report_follow_service_summary">Pysy ajan tasalla tietoturvauutisista ja tiedoista seuraamalla MIUI:n Tietoturvasovelluksen virallista tiliä.</string>
   <string name="month_report_follow_service_title">Tietoturvapäivitykset</string>
   <string name="month_report_history_activity_label">Raporttien historia</string>
   <string name="month_report_network_dialog_description">Sallitaanko tämän sovelluksen yhdistää internetiin hakeakseen raporttien tiedot?</string>

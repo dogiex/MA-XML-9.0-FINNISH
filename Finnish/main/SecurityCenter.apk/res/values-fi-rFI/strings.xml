@@ -105,7 +105,7 @@
   <string name="antivirus_privacy_dialog_summary_link">näytä Tietosuojakäytäntö</string>
   <string name="antivirus_privacy_dialog_title">Tietosuojakäytäntö</string>
   <string name="antivirus_sec_network_unavailable">Tietoturvasovellus ei voi päivittää, koska olet rajoittanut internetyhteyttä. Sallitaanko Tietoturvan yhdistää internetiin?</string>
-  <string name="antivirus_toast_already_update">Ajantasalla</string>
+  <string name="antivirus_toast_already_update">Ajan tasalla</string>
   <string name="antivirus_toast_network_unavailable">Verkkoyhteyttä ei voitu muodostaa</string>
   <string name="antivirus_toast_update_failed">Päivittäminen epäonnistui</string>
   <string name="antivirus_toast_update_success">Päivitettiin onnistuneesti</string>
