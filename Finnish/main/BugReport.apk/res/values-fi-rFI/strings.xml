@@ -13,9 +13,8 @@
   <string name="bugreport_dump_complete_notification_title">Luo virheraportti</string>
   <string name="bugreport_dump_start_notification_summary">Tämä kestää useita minuutteja.</string>
   <string name="bugreport_dump_start_notification_title">Luodaan virheraporttia…</string>
-  <string name="bugreport_tool_log">Luo bugiraportti</string>
-  <string name="bugreport_tool_log_toast">Loki tallennettu kansioon %s</string>
-  <string name="bugreport_tool_log_toast_generate_bugreport">Luodaan bugiraporttia (kestää noin minuutin)</string>
+  <string name="bugreport_tool_log_dumping_desc">Kestää noin minuutin</string>
+  <string name="bugreport_tool_log_dumping_title">Luodaan virheraporttia</string>
   <string name="close_feedback_main">Piilota</string>
   <string name="cta_cancel">Peruuta</string>
   <string name="cta_confirm">OK</string>
@@ -190,11 +189,10 @@
   <string name="mobile_data_note_dialog_content">Käyttämällä mobiilidataa lokitietojen lähettämiseen saattaa luoda lisää maksuja.</string>
   <string name="mobile_data_note_dialog_content_with_file_size">Lähettämällä lokitiedot käyttämällä mobiilidatayhteyttä vaatii %s Mt edestä dataa.</string>
   <string name="mobile_data_note_dialog_title">Tiedonsiirtovaroitus</string>
-  <string name="modem_tool_log">Tallenna modeemin lokit</string>
-  <string name="modem_tool_log_start">Aloita</string>
-  <string name="modem_tool_log_start_toast">"Aloita modeemin lokin vedos %s"</string>
-  <string name="modem_tool_log_stop">Lopeta</string>
-  <string name="modem_tool_log_stop_toast">"Lopeta modeemin lokin vedos %s"</string>
+  <string name="modem_tool_log_dumping_desc">Napauta kuvaketta aloittaaksesi</string>
+  <string name="modem_tool_log_dumping_title">Tallennetaan modeemin lokitietoja</string>
+  <string name="modem_tool_log_finish_desc">Loki tallennettiin nimellä %s</string>
+  <string name="modem_tool_log_finish_title">Modeemin loki tallennettiin</string>
   <string name="module_communication">Kommunikointi</string>
   <string name="module_data">Tallennustila &amp; Kloonatut sovellukset</string>
   <string name="module_desktop">Aloitusnäyttö &amp; asetukset</string>

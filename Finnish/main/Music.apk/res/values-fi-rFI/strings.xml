@@ -555,6 +555,7 @@
   <string name="no_scanned_songs">Tyhjä</string>
   <string name="no_song">Ei kappaleita</string>
   <string name="no_song_downloaded">Palvelimeen ei saatu yhteyttä</string>
+  <string name="no_system_cropper_find">Järjestelmässä ei ole kuvan rajaajaa</string>
   <string name="normal_quality">Hyvä</string>
   <string name="not_login">Ei kirjautuneena</string>
   <string name="not_selected">Valitse kappale</string>

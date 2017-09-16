@@ -768,13 +768,13 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Yhdistä manuaalisesti</item>
     </string-array>
     <string-array name="connect_mode_entries">
-        <item>Yhteensopiva tila</item>
-        <item>Korkea tila</item>
+        <item>Yhteensopivuus</item>
+        <item>Nopeus</item>
     </string-array>
     <string-array name="traffic_balance_entries">
-        <item>Sulje</item>
-        <item>Normaali tila</item>
-        <item>Äärimmäinen tila</item>
+        <item>Pois käytöstä</item>
+        <item>Tavallinen</item>
+        <item>Äärimmäinen</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>Käynnistin</item>

@@ -1971,7 +1971,7 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="launch_camera">Käynnistä kamera</string>
   <string name="launch_defaults_none">Oletuksia ei asetettu.</string>
   <string name="launch_defaults_some">Joitakin oletuksia on asetettu.</string>
-  <string name="launch_google_search">Käynnistä Google Haku</string>
+  <string name="launch_google_search">Käynnistä Google-avustaja</string>
   <string name="launch_voice_assistant">Käynnistä Ääniavustaja</string>
   <string name="launcher_auto_fill_empty_title">Täytä tyhjät ruudukot automaattisesti</string>
   <string name="launcher_title">Aloitusnäyttö &amp; Viimeaikaiset</string>
@@ -3491,7 +3491,7 @@ Näytön kiinnittäminen:
   <string name="search_power_optimize">Virransäästö;Säästä virtaa</string>
   <string name="search_power_usage_summary_title">Akku &amp; suorituskyky;Akku ja suorituskyky;Akku;Suorituskyky;Virransäästö;Säästä akkua</string>
   <string name="search_pref_edge_handgrip">Reunasäätimet</string>
-  <string name="search_pref_volume_wake_title">Herätä Äänenvoimakkuuspainikkeella;äänenvoimakkuuspainikkeet</string>
+  <string name="search_pref_volume_wake_title">Herätä äänenvoimakkuuspainikkeella;äänenvoimakkuuspainikkeet</string>
   <string name="search_preferred_network_type_title">Ensisijaisen verkon tyyppi;Ensisijainen verkko;Verkon tyyppi</string>
   <string name="search_privacy_policy">Tietosuojakäytäntö</string>
   <string name="search_privacy_settings">Varmuuskopioi &amp; palauta;Varmuuskopioi ja palauta;Varmuuskopioi;palauta;Varmuuskopiointi</string>

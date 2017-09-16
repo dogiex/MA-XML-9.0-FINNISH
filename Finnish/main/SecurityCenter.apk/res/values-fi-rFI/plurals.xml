@@ -276,7 +276,7 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="one">%d peliä ei ole lisätty</item>
     </plurals>
     <plurals name="net_booster_expire_notification_tip">
-        <item quantity="other">%d pv jäljellä, kunnes Verkon nopeuden parantajan istunto päättyy. Uusi istuntosi välttääksesi ongelmia verkon nopeuden kanssa.</item>
-        <item quantity="one">%d pv jäljellä, kunnes Verkon nopeuden parantajan istunto päättyy. Uusi istuntosi välttääksesi ongelmia verkon nopeuden kanssa.</item>
+        <item quantity="other">%d päivää jäljellä, kunnes Verkon nopeuden parantajan istunto päättyy. Uusi istuntosi välttääksesi ongelmia verkon nopeuden kanssa.</item>
+        <item quantity="one">%d päivä jäljellä, kunnes Verkon nopeuden parantajan istunto päättyy. Uusi istuntosi välttääksesi ongelmia verkon nopeuden kanssa.</item>
     </plurals>
 </resources>

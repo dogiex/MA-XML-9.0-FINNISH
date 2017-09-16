@@ -70,7 +70,7 @@
   <string name="adjust_traffic_carrier_summary_two_day_before">Päivitetty kaksi päivää sitten</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Päivitetty eilen klo %s</string>
   <string name="adjust_traffic_data">Aseta datan käyttö</string>
-  <string name="after_the_lock_screen">Sovellus lukitaan näytön mukana.</string>
+  <string name="after_the_lock_screen">Lukitse sovellukset näytön mukana.</string>
   <string name="alarm_headsup_bottom">小米手机抢红包就是快</string>
   <string name="alarm_lock_screen_summary">一大波红包雨在路上...</string>
   <string name="alarm_lockscreen_btn">开始抢红包</string>
@@ -228,11 +228,11 @@
   <string name="applock_add_account">Lisää</string>
   <string name="applock_add_account_info">Lisää Mi Tilisi, jotta voit palauttaa salasanasi, mikäli unohdat sen.</string>
   <string name="applock_add_account_setting">Tili &amp; yksityisyys</string>
-  <string name="applock_bind_account_title">Salasanasi palauttaminen</string>
+  <string name="applock_bind_account_title">Unohdin salasanani</string>
   <string name="applock_close_dialog_summary">Sovellukset ei ole enää suojattu ja salasanasi poistetaan Sovelluslukon käytöstä poistamisen jälkeen.</string>
   <string name="applock_close_dialog_title">Poistetaanko Sovelluslukko käytöstä?</string>
   <string name="applock_exit_account_info">Tili poistetaan automaattisesti, kun kirjaudut ulos</string>
-  <string name="applock_header_text_less_than_half">Liian vähän tilaa tälle sovellukselle. Vedä erotinta kauemmaksi.</string>
+  <string name="applock_header_text_less_than_half">Liian pieni. Vedä hieman kauemmaksi.</string>
   <string name="applock_login_and_add_account">Kirjaudu sisään &amp; lisää</string>
   <string name="applock_not_add_account">Ei nyt</string>
   <string name="applock_not_login_account">Et ole kirjautuneena sisään</string>
@@ -648,7 +648,7 @@
   <string name="exception_titile">Tapahtui virhe</string>
   <string name="exit">Poistu</string>
   <string name="finger_remind_message">Lisää sormenjälkesi ensin. Avaa Asetukset napauttamalla.</string>
-  <string name="fingerprint_identify_msg">Ota Sormenjäljellä avaaminen käyttöön</string>
+  <string name="fingerprint_identify_msg">Ota sormenjäljellä avaaminen käyttöön</string>
   <string name="fingerprint_not_identified_msg">Sormenjäljen luku epäonnistui. Syötä salasanasi.</string>
   <string name="fingerprint_not_remind">Älä kysy uudelleen</string>
   <string name="fingerprint_remind_dialog_title">Sormenjäljellä avaaminen</string>
@@ -659,7 +659,7 @@
   <string name="firewall_activity_lable">Rajoita sovelluksen datankäyttöä</string>
   <string name="firewall_allow_all">Salli kaikkien sovelluksien yhdistää käyttäen seuraavaa menetelmää</string>
   <string name="firewall_allow_data">Salli mobiilidatan käyttö</string>
-  <string name="firewall_allow_network">Sallittu</string>
+  <string name="firewall_allow_network">Salli</string>
   <string name="firewall_allow_wlan">Salli Wi-Fi-yhteyden käyttäminen</string>
   <string name="firewall_applist">Sovellukset</string>
   <string name="firewall_fragment_nonesys_listempty">Tyhjä</string>
@@ -722,7 +722,7 @@
   <string name="give_lucky_money">红包大派送</string>
   <string name="go_to">Jatka</string>
   <string name="go_to_setting_fingerprint">Asetukset</string>
-  <string name="google_base_app_install_choice">\"%s\" vaatii Google Service Framework -sovelluksia toimiakseen normaalisti, ladataanko ja asennetaanko ne?</string>
+  <string name="google_base_app_install_choice">\"%s\" vaatii Google Services Frameworkin toimiakseen normaalisti, ladataanko ja asennetaanko se?</string>
   <string name="group_have_hongbao">来自“%1$s”%2$d个红包</string>
   <string name="gs_anto_clean_memory_whitelist">Poikkeukset</string>
   <string name="gs_app_back_self_start">Virransäästö</string>
@@ -1856,14 +1856,14 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="tc_diagnostic_upload_success">Kiitos palautteestasi!</string>
   <string name="tc_sms_report_direction">SMS kyselykoodi</string>
   <string name="tc_sms_report_do_report">Lähetä</string>
-  <string name="tc_sms_report_get_default">Tekstiviesteistä ei veloiteta, joita käytetään datan käytön saldon hakemiseksi operaattoriltasi.</string>
+  <string name="tc_sms_report_get_default">Viesteistä ei veloiteta mitään, joita käytetään datan käyttötietojen hakemiseksi operaattoriltasi.</string>
   <string name="tc_sms_report_get_sms">Hae SMS</string>
   <string name="tc_sms_report_get_sms2">Hae SMS</string>
   <string name="tc_sms_report_get_sms_again">Päivitä SMS</string>
   <string name="tc_sms_report_get_sms_bill">Hae SMS</string>
   <string name="tc_sms_report_get_sms_calltime">Hae SMS</string>
-  <string name="tc_sms_report_get_sms_failure">"Couldn't get data usage SMS format"</string>
-  <string name="tc_sms_report_get_sms_successs">Data usage SMS format updated</string>
+  <string name="tc_sms_report_get_sms_failure">Datan käyttötietoja ei voitu hakea</string>
+  <string name="tc_sms_report_get_sms_successs">Päivitettiin datan käyttötiedot onnistuneesti</string>
   <string name="tc_sms_report_get_sms_timeout">Pyyntö aikakatkaistiin</string>
   <string name="tc_sms_report_get_success">Vastaanotettiin datan käytön raportti tekstiviestinä operaattorilta. Varmista, että se on tarkka ja lähetä se meille.</string>
   <string name="tc_sms_report_get_success_notify_body">Make sure the report is accurate and submit it to MIUI.</string>
@@ -1885,8 +1885,8 @@ Tässä ohjeet:
   <string name="tc_sms_report_receive_num">Vastaanottajan numero</string>
   <string name="tc_sms_report_send_num">Operaattorin puhelin #</string>
   <string name="tc_sms_report_summary">Help us improve this feature by sending a report when your data usage info is incorrect or fails to update</string>
-  <string name="tc_sms_report_tips_dialog_message">"Data usage uses a specially formatted SMS to get your latest data usage from your carrier. If this feature isn't working normally, try updating the data usage SMS format. The new updated format will then be uploaded to our servers."</string>
-  <string name="tc_sms_report_tips_dialog_title">Data usage SMS</string>
+  <string name="tc_sms_report_tips_dialog_message">Tekstiviesti lähetetään, jotta operaattoriltasi voidaan hakea viimeisimmät datan käyttötiedot. Jos luulet, että tiedot ei täsmää, lähetä palautteesi meille.</string>
+  <string name="tc_sms_report_tips_dialog_title">Datan käytön tekstiviesti</string>
   <string name="tc_sms_report_title">Raportoi datan käyttö bugi</string>
   <string name="tc_sms_report_toast_text">Haetaan tietoa…</string>
   <string name="tc_sms_report_type">Ilmoituksen tyyppi</string>
@@ -1995,10 +1995,10 @@ Tässä ohjeet:
   <string name="traffic_alert_auto_modify_notification_sumarry">Kuukausittainen suunnitelma vaihdettu %s.</string>
   <string name="traffic_alert_auto_modify_notification_titile">Päivitettiin datapaketti</string>
   <string name="traffic_alert_auto_modify_package_summary">"Automatically adjust data package according to the carrier's info"</string>
-  <string name="traffic_config_alert_auto_modify">Update data plan automatically</string>
-  <string name="traffic_config_alert_body">"Your carrier's accounting shows :%s.
+  <string name="traffic_config_alert_auto_modify">Päivitä datapaketti automaattisesti</string>
+  <string name="traffic_config_alert_body">"Operaattorisi suunnitelma näyttää tältä: %s.
 
-Will you take this?"</string>
+Otatko tämän vastaan?"</string>
   <string name="traffic_config_alert_body_extra">"
 You bought %1$s of additional data this month. This is different from the %2$s you added manually."</string>
   <string name="traffic_config_alert_body_extra_notset">"
@@ -2034,11 +2034,11 @@ Lisää saldoa napauttamalla."</string>
   <string name="traffic_setting_fragment_button1_text">Peruuta</string>
   <string name="traffic_setting_fragment_button2_text">Tallenna</string>
   <string name="traffic_setting_fragment_city">Kaupunki</string>
-  <string name="traffic_setting_fragment_default">请选择</string>
+  <string name="traffic_setting_fragment_default">Valitse</string>
   <string name="traffic_setting_fragment_find_brand">Etkö ole varma operaattorista?</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">Älä näytä uudelleen</string>
   <string name="traffic_setting_fragment_operator">Operaattori</string>
-  <string name="traffic_setting_fragment_operator_setting">运营商设置</string>
+  <string name="traffic_setting_fragment_operator_setting">Operaattoriasetukset</string>
   <string name="traffic_setting_fragment_province">Maakunta</string>
   <string name="traffic_setting_fragment_send_num">Operaattorin puhelinnumero</string>
   <string name="traffic_setting_fragment_send_num_tips">Syötä puhelinnumero</string>
@@ -2091,7 +2091,7 @@ Lisää saldoa napauttamalla."</string>
   <string name="use_immediately">Käytä</string>
   <string name="user_define_title">Lisää sääntöjä</string>
   <string name="virus_ad_icon_text">Mainos</string>
-  <string name="virus_auto_update_engine">Automaattinen päivitys： %s</string>
+  <string name="virus_auto_update_engine">Automaattinen päivitys: %s</string>
   <string name="virus_scan_process_pre">%</string>
   <string name="virus_update_tips_title">Yhdistä Wi-Fi-verkkoon</string>
   <string name="virus_wait_network_dialog_message">Päivitykset ovat suuria. Lataa ne yhdistämällä Wi-Fi-verkkoon.</string>

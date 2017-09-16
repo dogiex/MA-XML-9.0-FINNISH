@@ -130,8 +130,8 @@
   <string name="my_gifts_received">Vastaanotetut</string>
   <string name="no_data">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="online_no_network">Verkkoyhteyttä ei voi muodostaa</string>
-  <string name="online_precust_dreams">Unelmat</string>
-  <string name="online_precust_midnight">Keskiyö</string>
+  <string name="online_precust_asphalt">Asfaltti</string>
+  <string name="online_precust_peach_blossom">Persikan kukinta</string>
   <string name="online_search_hint">Etsi verkkolähteitä</string>
   <string name="present_local_themes">Resurssini</string>
   <string name="present_online_themes">Hae lisää teemoja ilmaiseksi</string>

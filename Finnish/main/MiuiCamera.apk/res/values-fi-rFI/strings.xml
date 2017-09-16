@@ -227,7 +227,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_flashmode_entry_on">Päällä</string>
   <string name="pref_camera_flashmode_entry_torch">Taskulamppu</string>
   <string name="pref_camera_flashmode_title">Salaman tila</string>
-  <string name="pref_camera_focus_shoot_summary">触摸对焦成功之后,点击对焦环中间的相机按钮进行拍照</string>
+  <string name="pref_camera_focus_shoot_summary">Tarkenna napauttamalla näyttöä, ota kuva napauttamalla uudelleen.</string>
   <string name="pref_camera_focus_shoot_title">Tarkenna &amp; ota kuva</string>
   <string name="pref_camera_focusmode_entry_auto">Automaattinen</string>
   <string name="pref_camera_focusmode_entry_infinity">Infinity</string>
@@ -328,7 +328,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_touchafaec_entry_on">Päällä</string>
   <string name="pref_camera_ubifocus_title">Uudelleentarkennus</string>
   <string name="pref_camera_video_duration_entry_10">10 minuuttia</string>
-  <string name="pref_camera_video_duration_entry_120">Ei rajaa</string>
+  <string name="pref_camera_video_duration_entry_120">Rajaton</string>
   <string name="pref_camera_video_duration_entry_30">30 minuuttia</string>
   <string name="pref_camera_video_duration_entry_mms">30 sekuntia (MMS)</string>
   <string name="pref_camera_volumekey_function_entry_exposure">Valotus</string>
@@ -436,8 +436,7 @@ ja tuo henkilöt esiin."</string>
   <string name="tap_to_focus">Tarkenna napauttamalla</string>
   <string name="time_lapse_error">Tätä videokokoa ei voi käyttää time-lapse nauhoituksessa</string>
   <string name="title_snap_double_confirm">Vahvista uudelleen</string>
-  <string name="toast_burst_snap_finished_end">kuvat</string>
-  <string name="toast_burst_snap_finished_start">Burst shot</string>
+  <string name="toast_burst_snap_finished_summary">Burst shot valmistui, kuvia otettiin %1$s</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">Äänitallennuksen aikana Burst Shot -toimintoa ei voi käyttää</string>
   <string name="toast_saving">Tallennetaan kuvia…</string>
   <string name="toast_start_audio_capture">Ota kuva ääntelemällä</string>

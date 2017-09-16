@@ -125,12 +125,12 @@
   <string name="find_device_io_error">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="find_device_locked_account_email" formatted="false">%s, liitetty sähköpostiosoite: %s</string>
   <string name="find_device_locked_account_phone" formatted="false">%s, liitetty puhelinnumero: %s</string>
-  <string name="find_device_message">Nykyinen laite on lukittu, viesti: %1$s, ota yhteyttä: %2$s.</string>
+  <string name="find_device_message">Laite on lukittu. Viesti: %1$s. Soita: %2$s.</string>
   <string name="find_device_null_credential_error">Laitteesta ei saada tietoja, ota yhteys Xiaomin asiakaspalveluun</string>
   <string name="find_device_operation_failed_error">Tapahtui palvelinvirhe, odota minuutti tai kaksi ja yritä uudelleen</string>
   <string name="find_device_operation_failed_error_unknown">Tapahtui virhe, yritä myöhemmin uudelleen</string>
-  <string name="find_device_owner_phone">Nykyinen laite on lukittu, ota yhteyttä: %1$s.</string>
-  <string name="find_device_prompt_message">Nykyinen laite on lukittu, viesti: %1$s.</string>
+  <string name="find_device_owner_phone">Laite on lukittu. Soita: %1$s.</string>
+  <string name="find_device_prompt_message">Laite on lukittu. Viesti: %1$s.</string>
   <string name="find_device_remote_exception">RPC virhe</string>
   <string name="find_device_request_error">Tapahtui palvelinvirhe, odota minuutti tai kaksi ja yritä uudelleen</string>
   <string name="find_device_request_prepare_error">Tilan saanti epäonnistui, yritä myöhemmin uudelleen</string>
@@ -341,8 +341,8 @@ Aktivoi tilisi seuraamalla
   <string name="passport_skip_setup_account_msg">Voit asettaa Mi Tilin myöhemmin Asetuksissa.</string>
   <string name="passport_skip_setup_account_title">Ohita asetus</string>
   <string name="passport_sms_send_success">Lähetetty</string>
-  <string name="passport_sync_account_data">正在同步您的帐号数据</string>
-  <string name="passport_sync_account_data_failed_warning">您的帐号数据有延迟,将只能使用小米ID登录。若使用邮箱/手机登录,请稍等几分钟</string>
+  <string name="passport_sync_account_data">Synkronoidaan tilitietoja…</string>
+  <string name="passport_sync_account_data_failed_warning">Tilitietojasi synkronoidaan nyt, voit kirjautua sisään käyttämällä Mi Tilisi ID:tä. Jos haluat kirjautua sisään käyttämällä puhelinnumeroasi tai sähköpostiosoitettasi, odota kunnes tiedot on kokonaan synkronoitu.</string>
   <string name="passport_title_reg">Luo tili</string>
   <string name="passport_trust_device">Lisää tämä laite luotettaviin laitteisiin</string>
   <string name="passport_trying_read_verify_code_sms">Haetaan vahvistuskoodia…</string>
@@ -356,7 +356,7 @@ Aktivoi tilisi seuraamalla
   <string name="passport_user_agreement_p2">Palveluehdot</string>
   <string name="passport_user_agreement_p3"> ja </string>
   <string name="passport_user_agreement_p4">Tietosuojakäytännön</string>
-  <string name="passport_user_id_notice">您的小米ID是: %s</string>
+  <string name="passport_user_id_notice">Mi Tilisi ID on %s.</string>
   <string name="passport_user_reg_region">Maa/Alue</string>
   <string name="passport_user_reg_region_warning">Et voi muuttaa maatasi/aluettasi tilin luomisen jälkeen</string>
   <string name="passport_vcode_notification_title">Kirjautumisesi vahvistus on kesken</string>

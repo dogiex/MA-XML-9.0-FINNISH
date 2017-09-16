@@ -30,6 +30,41 @@
         <item>Kasvitiede</item>
         <item>Eläin</item>
     </string-array>
+    <string-array name="wallpaper_settings_precust_cover_name">
+        <item>Viihde</item>
+        <item>Maisema</item>
+        <item>Tähtitaivas</item>
+        <item>Kasvi</item>
+        <item>Eläin</item>
+    </string-array>
+    <string-array name="wallpaper_settings_precust_global_cover_name">
+        <item>Maisema</item>
+        <item>Eläin</item>
+        <item>Kasvi</item>
+        <item>Luovuus</item>
+        <item>Elämäntapa</item>
+    </string-array>
+    <string-array name="wallpaper_settings_precust_india_cover_name">
+        <item>Eläin</item>
+        <item>Rakennus</item>
+        <item>Luovuus</item>
+        <item>Piirretty</item>
+        <item>Maisema</item>
+    </string-array>
+    <string-array name="wallpaper_settings_precust_brazil_cover_name">
+        <item>Maisema</item>
+        <item>Eläin</item>
+        <item>Luovuus</item>
+        <item>Kasvi</item>
+        <item>Elämäntapa</item>
+    </string-array>
+    <string-array name="wallpaper_settings_precust_hong_kong_cover_name">
+        <item>Maisema</item>
+        <item>Eläin</item>
+        <item>Luovuus</item>
+        <item>Kasvi</item>
+        <item>Elämäntapa</item>
+    </string-array>
     <string-array name="disable_package_replacement">
         <item>Poista paketin nimi käytöstä</item>
     </string-array>
