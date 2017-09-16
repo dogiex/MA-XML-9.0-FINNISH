@@ -16,6 +16,7 @@
   <string name="accessibility_bluetooth_connected">Bluetooth käytössä.</string>
   <string name="accessibility_bluetooth_disconnected">Bluetooth ei käytössä.</string>
   <string name="accessibility_bluetooth_tether">Bluetooth jako.</string>
+  <string name="accessibility_brightness_slider">Kirkkauden liukusäädin</string>
   <string name="accessibility_camera_button">Kamera</string>
   <string name="accessibility_clear_all">Tyhjennä kaikki ilmoitukset.</string>
   <string name="accessibility_data_connection_3.5g">3.5G</string>
@@ -58,9 +59,11 @@
   <string name="accessibility_recents_item_will_be_dismissed">Poista %s</string>
   <string name="accessibility_recents_task_header">%1$s %2$s</string>
   <string name="accessibility_remove_notification">Tyhjennä ilmoitukset.</string>
-  <string name="accessibility_ringer_silent">Äänetön hälytys.</string>
-  <string name="accessibility_ringer_vibrate">Värinä.</string>
+  <string name="accessibility_ringer_silent">Soittoääni äänetön.</string>
+  <string name="accessibility_ringer_vibrate">Soittoäänen värinä.</string>
   <string name="accessibility_search_light">Haku</string>
+  <string name="accessibility_search_scanner">Lukija</string>
+  <string name="accessibility_settings">Asetukset</string>
   <string name="accessibility_tty_enabled">TeleTypewriter käytössä.</string>
   <string name="accessibility_wifi_off">Wi-Fi pois käytöstä</string>
   <string name="accessibility_wifi_one_bar">Wi-Fi-signaali – yksi palkki</string>

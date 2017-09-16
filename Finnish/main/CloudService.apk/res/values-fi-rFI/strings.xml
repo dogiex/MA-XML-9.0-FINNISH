@@ -494,12 +494,13 @@ Tämä toiminto salaa ja lähettää laitteesi ID-tunnuksen Mi:n palvelimille."<
   <string name="sub_sync_item_sms_title_wifi_only">Synkronoi multimediaviestit vain Wi-Fi-yhteydellä</string>
   <string name="success_upgraded_space">%s lisätty</string>
   <string name="sync_dspt">Synkronointi</string>
-  <string name="sync_dspt_entrance_provision">Synkronoi kuvasi, yhteystietosi, puheluhistoriasi ja viestit laitteiden välillä. Pääset käsiksi synkronoituihin tiedostoihisi millä tahansa selaimella osoitteessa %s.</string>
-  <string name="sync_dspt_entrance_provision_2">Learn more</string>
+  <string name="sync_dspt_entrance_provision">Mi Pilvi auttaa sinua synkronoimaan kuvasi, yhteystietosi ja paljon muuta laitteiden välillä. Pääset käsiksi synkronoituihin tiedostoihisi millä tahansa selaimella osoitteessa %s.</string>
+  <string name="sync_dspt_entrance_provision_2">Lisätietoja</string>
   <string name="sync_dspt_entrance_provision_confirm_close">Älä käytä</string>
   <string name="sync_dspt_entrance_provision_confirm_content">MIUI:n järjestelmäsovellukset tarvitsevat Mi Pilveä kuvien, yhteystietojen, muistioiden ja muiden varmuuskopiointiin. Mi Pilvi on ilmainen ja valmiina käytettäväksi.</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Käytä Mi Pilveä</string>
   <string name="sync_dspt_entrance_provision_confirm_title">Etkö käytä Mi Pilveä?</string>
+  <string name="sync_dspt_entrance_provision_network">Tämä sovellus tarvitsee internetyhteyden toimiakseen normaalisti. Synkronointitiedot saattaa olla yhdistettynä tietoverkkoon ja avoimeen Wi-Fi-verkkoon.</string>
   <string name="sync_dspt_entrance_provision_skip">Ohita tämä vaihe</string>
   <string name="sync_dspt_provision">"Synkronoi kuvasi, yhteystietosi, puheluhistoriasi ja viestit laitteiden välillä tai katsele niitä osoitteessa "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>

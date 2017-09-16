@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">HybridAccessory</string>
+  <string name="short_cut_dialog_cancel_button_text">Ei</string>
+  <string name="short_cut_dialog_cotent">Seuraavia sovelluksia voidaan käyttää ilman asentamista. Tallennetaanko pikakuvakkeet?</string>
+  <string name="short_cut_dialog_create_button_text">Kyllä</string>
+  <string name="short_cut_dialog_not_tip_check_box">Älä muistuta uudelleen kahteen viikkoon</string>
+  <string name="short_cut_dialog_title">Luo pikakuvake</string>
+</resources>

@@ -1104,6 +1104,7 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="network_speed_for_apps_others">Muu</string>
   <string name="network_speed_for_apps_title">Yhteys</string>
   <string name="network_speed_for_apps_total">Yhteyden nopeus</string>
+  <string name="network_test_speed">Testaa Wi-Fi-verkon nopeus</string>
   <string name="networkchanged_exception_summary">Verkkoyhteys on muuttunut. Testaa uudelleen.</string>
   <string name="networkchanged_exception_title">Yhteys vaihdettu</string>
   <string name="never">1 kerta</string>
@@ -1760,7 +1761,6 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="start_diagnostic_botton">Aloita</string>
   <string name="start_downloading_app">Aloitetaan latausta: %1$s</string>
   <string name="start_game">Aloita</string>
-  <string name="start_tc_button">Kalibroi</string>
   <string name="still_retain_btn">Säilytä</string>
   <string name="suggest_app_tolock">Ehdotukset</string>
   <string name="suggest_scan_again">Suorita tarkistus loppuun välttääksesi tietoturvariskejä.</string>
@@ -2030,13 +2030,16 @@ Jos menet pakettisi datan käytön rajan yli, operaattorisi saattaa veloittaa si
 Lisää saldoa napauttamalla."</string>
   <string name="traffic_purchase_body">Top up saldoasi napauttamalla.</string>
   <string name="traffic_setting_fragment_area">Kieliasetus</string>
-  <string name="traffic_setting_fragment_area_dual">%s Kieliasetus</string>
   <string name="traffic_setting_fragment_brand">Merkki</string>
   <string name="traffic_setting_fragment_button1_text">Peruuta</string>
   <string name="traffic_setting_fragment_button2_text">Tallenna</string>
+  <string name="traffic_setting_fragment_city">Kaupunki</string>
+  <string name="traffic_setting_fragment_default">请选择</string>
   <string name="traffic_setting_fragment_find_brand">Etkö ole varma operaattorista?</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">Älä näytä uudelleen</string>
   <string name="traffic_setting_fragment_operator">Operaattori</string>
+  <string name="traffic_setting_fragment_operator_setting">运营商设置</string>
+  <string name="traffic_setting_fragment_province">Maakunta</string>
   <string name="traffic_setting_fragment_send_num">Operaattorin puhelinnumero</string>
   <string name="traffic_setting_fragment_send_num_tips">Syötä puhelinnumero</string>
   <string name="traffic_setting_fragment_sms_content">Viestin sisältö</string>

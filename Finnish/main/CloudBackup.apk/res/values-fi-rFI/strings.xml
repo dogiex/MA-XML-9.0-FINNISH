@@ -37,7 +37,7 @@
   <string name="cloud_app_restore_data">Henkilökohtaiset tiedot ja aikaisemmin asennetut sovellukset ilmestyy laitteeseesi automaattisesti</string>
   <string name="cloud_app_restore_error">Palauttaminen epäonnistui</string>
   <string name="cloud_app_restore_success">Sovellukset palautettiin</string>
-  <string name="cloud_app_restore_wifi_prompt">Palauttaaksesi varmuuskopion Mi Pilvestä, täytyy sinun yhdistää laitteesi Wi-Fi verkkoon.</string>
+  <string name="cloud_app_restore_wifi_prompt">Palauta Mi Pilven varmuuskopiosta.</string>
   <string name="cloud_back_up_date_format">HH:mm d.M.yyyy</string>
   <string name="cloud_back_up_detail_discription">"Nämä varmuuskopioidaan Mi Pilveen, kun laitteesi on yhdistettynä Wi-Fi verkkoon: 
 *Sovellukset, Aloitusnäytön asettelu ja taustakuvat 
@@ -110,9 +110,10 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="remove_task_in_process">Poistetaan…</string>
   <string name="remove_task_unfinished">Poistaminen ei ole valmis</string>
   <string name="restore_data_summary">Tämä toiminto vaatii internet-yhteyden.</string>
-  <string name="restore_from_cloud">Palauta Mi Pilvi varmuuskopio</string>
+  <string name="restore_data_title">Palauta tiedot</string>
+  <string name="restore_from_cloud">Palauta Mi Pilven varmuuskopio</string>
   <string name="restore_from_this_device">Palauta käyttäen tätä varmuuskopiota</string>
-  <string name="restore_home_screen_apps">Palauta Mi Pilvi varmuuskopio</string>
+  <string name="restore_home_screen_apps">Palauta Mi Pilven varmuuskopio</string>
   <string name="restore_task_unfinished">Palautetaan sovelluksia, yritä myöhemmin uudelleen</string>
   <string name="restoreing_file_tile">Palautetaan %d tiedostoja</string>
   <string name="retry">Yritä uudelleen</string>
