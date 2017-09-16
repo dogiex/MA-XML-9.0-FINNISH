@@ -163,6 +163,7 @@ http://www.miliao.com
   <string name="notif_trans_receiving_failed">Tietojen vastaanottaminen epäonnistui</string>
   <string name="notif_trans_sending_completed">Tiedot lähetettiin onnistuneesti</string>
   <string name="notif_trans_sending_failed">Tietojen lähettäminen epäonnistui</string>
+  <string name="notif_trans_wait_for_reconnecting">Etälaitteen yhteys on katkaistu. Ole hyvä ja yhdistä uudelleen.</string>
   <string name="page_loading">Hetki pieni…</string>
   <string name="progress_backup_hint">Varmuuskopioidaan…</string>
   <string name="progress_restore_hint">Palautetaan…</string>
@@ -170,6 +171,7 @@ http://www.miliao.com
   <string name="prompt_sending">Lähetetään…</string>
   <string name="prompt_writing">Tallennetaan…</string>
   <string name="read_encrypt_fail">Salattua varmuuskopiota ei voitu lukea</string>
+  <string name="reconnect">Yhdistä uudelleen</string>
   <string name="refresh">Virkistä</string>
   <string name="remote_receive">Vastaanota</string>
   <string name="restore">Palauta</string>
@@ -261,6 +263,7 @@ http://www.miliao.com
   <string name="trans_calculating_base_size">Lasketaan tietojen kokoa</string>
   <string name="trans_cancel_confirm">Lähetys käynnissä, lopetetaanko nyt?</string>
   <string name="trans_cancelling">Peruutetaan…</string>
+  <string name="trans_connect_failed_device_incompatible">Laite ei ole yhteensopiva. Peruuta lähetys ja yritä uudelleen.</string>
   <string name="trans_connect_failed_message">Ei voitu yhdistää, yritä uudelleen tai käynnistä laite uudelleen. Toisella laitteella mene Asetukset, Lisäasetukset, Mi Siirtäjä, napauta [Olen lähettäjä], tai käynnistä Mi Siirtäjä uudelleen laitteen käynnistyttyä uudestaan."</string>
   <string name="trans_connect_failed_title">"Ei voitu yhdistää"</string>
   <string name="trans_connect_failed_toast">Ei voitu yhdistää</string>
@@ -271,6 +274,7 @@ http://www.miliao.com
   <string name="trans_detail_category_sysdata">Järjestelmätiedot</string>
   <string name="trans_detail_category_userdata">Sovellukset</string>
   <string name="trans_device_disconnected">Yhteys laitteeseen on katkaistu</string>
+  <string name="trans_device_wait_for_reconnecting">Laitteen yhteys katkaistu. Ole hyvä ja yhdistä uudelleen.</string>
   <string name="trans_generate_qr_code_failed">QR-koodia ei voitu luoda</string>
   <string name="trans_main_tutor">Siirrä yhteystiedot, puheluhistoria, viestit, aloitusnäytön ulkoasu, sovellukset, asetukset, jne uuteen laitteeseen</string>
   <string name="trans_my_device">Laitteeni</string>
@@ -285,6 +289,10 @@ Luo QR-koodi napauttamalla [Olen vastaanottaja]"</string>
 2. Avaa sovellus ja paina Aloita
 3. Skannaa QR-koodi vanhalla laitteellasi"</string>
   <string name="trans_operate_old_phone_tips2">"Mene Asetukset, Lisäasetukset, Mi Siirtäjä, Napauta [Olen lähettäjä]"</string>
+  <string name="trans_operate_reconnect_new_tips">"Odota, kunnes uusi puhelin näyttää \"Laitteen yhteys katkaistu\".
+Sen jälkeen napauta [Yhdistä uudelleen] luodaksesi QR-koodin."</string>
+  <string name="trans_operate_reconnect_old_tips">"Odota, kunnes vanha puhelin näyttää \"Laitteen yhteys katkaistu\".
+Sen jälkeen napauta [Yhdistä uudelleen] skannataksesi QR-koodin."</string>
   <string name="trans_please_waiting">Odota hetki…</string>
   <string name="trans_progress_subdescript_br_receiver">Palautetaan %1$s, %2$s valmiina</string>
   <string name="trans_progress_subdescript_br_sender">Varmuuskopioidaan %1$s, %2$s valmiina</string>

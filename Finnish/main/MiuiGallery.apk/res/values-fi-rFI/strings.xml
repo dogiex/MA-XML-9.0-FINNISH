@@ -1024,7 +1024,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="photo_editor_beautify">Kaunista</string>
   <string name="photo_editor_beautify_auto">Automaattinen</string>
   <string name="photo_editor_beauty_compare">Alkuperäinen</string>
-  <string name="photo_editor_crop_and_rotate">Rajaa&amp;Kierrä</string>
+  <string name="photo_editor_crop_and_rotate">Rajaa</string>
   <string name="photo_editor_crop_reset">Nollaa</string>
   <string name="photo_editor_crop_rotation_format">%d°</string>
   <string name="photo_editor_doodle">Piirrä</string>
@@ -1343,8 +1343,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="video_editor_text_edit_input_open_hint">Syötä otsikko</string>
   <string name="video_editor_text_edit_start">Otsikko</string>
   <string name="video_editor_text_input_empty_tips">Näyttää siltä, ettet ole vielä lisännyt tekstiä</string>
-  <string name="video_editor_text_none">Ei mitään</string>
-  <string name="video_editor_text_preview_text">Teksti</string>
+  <string name="video_editor_text_preview_text">MI</string>
   <string name="video_editor_trim">Leikkaa</string>
   <string name="video_editor_unsupport_audio_file">Äänitiedostoa ei tueta</string>
   <string name="video_err">Videota ei voi toistaa</string>

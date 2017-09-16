@@ -20,6 +20,7 @@
   <string name="account_error_user_birthday">Syntymäpäivä, jonka syötit on väärin</string>
   <string name="account_has_been_set">Vaihda</string>
   <string name="account_limit_update_birthday">Syntymäpäivää ei voi juuri nyt päivittää</string>
+  <string name="account_mibi_center">Mibi center</string>
   <string name="account_mipay_info">Mi Pay</string>
   <string name="account_no_set">Ei mitään</string>
   <string name="account_none">Ei mitään</string>
@@ -257,7 +258,6 @@ Aktivoi tilisi seuraamalla
   <string name="passport_input_password_hint">Syötä salasana</string>
   <string name="passport_input_phone_hint">Syötä puhelinnumero</string>
   <string name="passport_input_vcode_hint">Syötä vahvistuskoodi</string>
-  <string name="passport_instant_login">Kirjaudu sisään</string>
   <string name="passport_license_host_unreachable">Verkkoyhteyttä ei voi muodostaa. Voit katsoa tämän sivun osoitteessa %s.</string>
   <string name="passport_loading">Ladataan…</string>
   <string name="passport_login">Kirjaudu sisään</string>
@@ -270,6 +270,7 @@ Aktivoi tilisi seuraamalla
   <string name="passport_login_using_other_ways">Muita tapoja kirjautua</string>
   <string name="passport_message_dialog_title">Tekstiviesti vahvistuskoodeilla</string>
   <string name="passport_next">Seuraava</string>
+  <string name="passport_no">Ei</string>
   <string name="passport_notification_title">Kirjautumisvirhe %1$s</string>
   <string name="passport_password_phone_login">Kirjaudu sisään käyttämällä Mi Tiliä</string>
   <string name="passport_password_req_notice">Salasanan täytyy olla 8-16 merkkiä pitkä ja sisältää numeroita sekä kirjaimia (merkkikokoriippuvainen).</string>
@@ -285,6 +286,7 @@ Aktivoi tilisi seuraamalla
   <string name="passport_quick_login_dialog_title">Vahvista salasana</string>
   <string name="passport_quick_login_step2_title">2-vaiheinen vahvistus</string>
   <string name="passport_quick_login_title">Syötä salasanasi</string>
+  <string name="passport_quick_register">Rekisteröidy</string>
   <string name="passport_quick_register_notice">Eikö sinulla ole Mi Tiliä? Luo sellainen.</string>
   <string name="passport_re_get_verify_code">Hae koodi uudelleen</string>
   <string name="passport_re_register">Luo tili uudelleen</string>
@@ -332,6 +334,7 @@ Aktivoi tilisi seuraamalla
   <string name="passport_send_vcode_failed">Koodin lähettäminen epäonnistui</string>
   <string name="passport_sending_vcode">Lähetetään koodia…</string>
   <string name="passport_set">Aseta</string>
+  <string name="passport_set_password_no_phone_msg">为了保护你的数据安全，请先绑定您的手机</string>
   <string name="passport_setting">Asetetaan…</string>
   <string name="passport_skip_login">Ohita</string>
   <string name="passport_skip_register">Ohita rekisteröinti</string>
@@ -366,6 +369,7 @@ Aktivoi tilisi seuraamalla
   <string name="passport_wrong_captcha">Syöttämäsi koodi on väärin</string>
   <string name="passport_wrong_phone_number_format">Syöttämäsi puhelinnumeron muoto ei kelpaa</string>
   <string name="passport_wrong_vcode">Syöttämäsi koodi on väärin</string>
+  <string name="passport_yes">Kyllä</string>
   <string name="phone_activated">%s aktivoitu</string>
   <string name="photoPickerNotFoundText">Kuvia ei saatavilla.</string>
   <string name="push_notification_content">Hae vahvistuskoodi</string>
