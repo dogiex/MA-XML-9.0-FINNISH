@@ -1391,7 +1391,7 @@ Pitkäkestoinen kova äänenvoimakkuus saattaa heikentää kuuloa."</string>
   <string name="user_switched">Nykyinen käyttäjä: %1$s.</string>
   <string name="user_switching_message">Vaihdetaan käyttäjään %1$s…</string>
   <string name="validity_period">Voimassa:</string>
-  <string name="volume_alarm">Hälytyksien äänenvoimakkuus</string>
+  <string name="volume_alarm">Herätyksien äänenvoimakkuus</string>
   <string name="volume_bluetooth_call">Bluetooth-yhdistetty puhelun äänenvoimakkuus</string>
   <string name="volume_call">Puhelun äänenvoimakkuus</string>
   <string name="volume_icon_description_bluetooth">Bluetooth-äänenvoimakkuus</string>

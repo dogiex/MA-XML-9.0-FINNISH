@@ -26,7 +26,7 @@
   <string name="mi_band_vibrate_sms_in_contacts">Viestit yhteystiedoilta</string>
   <string name="mi_band_vibrate_sms_no_contacts">Viestit tuntemattomilta numeroilta</string>
   <string name="mi_key_alert_dialog_message">Mykistä hälytys napauttamalla OK.</string>
-  <string name="mi_key_alert_dialog_title">Mi Avaimen Hälytys</string>
+  <string name="mi_key_alert_dialog_title">Mi Avaimen Herätys</string>
   <string name="mi_key_find_mikey">Etsi Mi Avain</string>
   <string name="mi_key_find_phone">Etsi laite</string>
   <string name="mi_key_open_camera">Avaa Kamera</string>

@@ -25,9 +25,9 @@
   <string name="input_method_setting">Valitse oletusnäppäimistö</string>
   <string name="install_preinstall_app">Ladataan sovelluksia…</string>
   <string name="item_fingerprint">Sormenjälki</string>
-  <string name="item_lock_screen_password">Vain salasanalukitus</string>
+  <string name="item_lock_screen_password">Vain näytön lukitus</string>
   <string name="language_picker_other_languages_title">Lisää kieliä</string>
-  <string name="language_settings">Kieliasetukset</string>
+  <string name="language_settings">Valitse kieli</string>
   <string name="locale_picker_title">Valitse kielesi</string>
   <string name="miui_privacy_policy_no_network">Sinulla ei ole internet-yhteyttä. Katso Tietosuojakäytäntö osoitteessa %s.</string>
   <string name="miui_terms_no_network">Sinulla ei ole internet-yhteyttä. Katso Palveluehdot osoitteessa %s.</string>
@@ -64,7 +64,7 @@ Näytä valitun näppäimistön Tietosuojakäytäntö."</string>
   <string name="terms_of_use_label">"Yksityisyytesi on todella tärkeää meille. Ole ystävällinen ja lue meidän Palveluehdot ja Tietosuojakäytäntö, jotta ymmärrät mitä tietoja keräämme, kuinka käytämme niitä, ja mitä vaihtoehtoja sinulla on.
 
 Sinun täytyy hyväksyä Palveluehtomme ja Tietosuojakäytäntömme, ennen kuin voit käyttää MIUI:ta. Aktivoinnin aikana, Mi palvelut, Mi SIM-kortin aktivointipalvelut, Mi Pilvi, Etsi laite, Aloitusnäytön moduulit, Peli Palvelu, MAB ja MSA järjestelmäkomponentit, Direct Service, Quick Card, statistiikka, MiSmartCards ja Mi Tilin komponentit ottavat yhteyden internetiin ja saavat sijaintisi."</string>
-  <string name="title_fingerprint">Aseta mobiilin salasana</string>
+  <string name="title_fingerprint">Aseta salasana</string>
   <string name="two_dimensional_code_scan">QR-koodin skannaus</string>
   <string name="user_agreement">Palveluehdot</string>
   <string name="user_strayed_warning">Sivu on suunniteltu tehtaiden testaamiseen, napauta Takaisin-painiketta poistuaksesi.</string>

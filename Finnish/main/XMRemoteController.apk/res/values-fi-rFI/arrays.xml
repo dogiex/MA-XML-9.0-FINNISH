@@ -26,69 +26,80 @@
         <item>Voinko käyttää Mi 3, Mi 2, ja Redmi laitteita infrapunakaukosäätimenä?</item>
     </string-array>
     <string-array name="assistant_tab">
-        <item>视频</item>
-        <item>截屏</item>
-        <item>应用</item>
+        <item>Videot</item>
+        <item>Kuvakaappaukset</item>
+        <item>Sovellukset</item>
     </string-array>
     <string-array name="epg_channel_tab">
-        <item>全部</item>
-        <item>收藏</item>
-        <item>央视</item>
-        <item>卫视</item>
-        <item>高清</item>
-        <item>常看</item>
+        <item>Kaikki</item>
+        <item>Suosikit</item>
+        <item>CCTV</item>
+        <item>TV</item>
+        <item>HD</item>
+        <item>Viimeaikainen</item>
     </string-array>
     <string-array name="epg_channel_tab_actionbar">
-        <item>全部频道</item>
-        <item>收藏频道</item>
-        <item>央视频道</item>
-        <item>卫视频道</item>
-        <item>高清频道</item>
-        <item>经常观看</item>
+        <item>Kaikki kanavat</item>
+        <item>Suosikki kanavat</item>
+        <item>CCTV-kanavat</item>
+        <item>TV-kanavat</item>
+        <item>HD-kanavat</item>
+        <item>Viimeaikoina katsotut</item>
     </string-array>
 	<string-array name="epg_channel_tab_actionbar_v53">
-        <item>全部频道</item>
-        <item>经常观看</item>
-        <item>高清频道</item>
-        <item>卫视频道</item>
-        <item>央视频道</item>
+        <item>Kaikki kanavat</item>
+        <item>Viimeaikoina katsotut</item>
+        <item>HD-kanavat</item>
+        <item>TV-kanavat</item>
+        <item>CCTV-kanavat</item>
     </string-array>
     <string-array name="epg_channel_tab_v53">
-        <item>全部</item>
-        <item>常看</item>
-        <item>高清</item>
-        <item>卫视</item>
-        <item>央视</item>
+        <item>Kaikki</item>
+        <item>Viimeaikoina</item>
+        <item>HD</item>
+        <item>TV</item>
+        <item>CCTV</item>
+    </string-array>
+    <string-array name="epg_default_hot_channels">
+        <item>Hunan TV</item>
+        <item>CCTV-6</item>
+        <item>Zhejiang TV</item>
+        <item>CCTV-5</item>
+        <item>CCTV-3</item>
+        <item>Dragon TV</item>
+        <item>Anhui TV</item>
+        <item>Beijing TV</item>
+        <item>Guangdong TV</item>
     </string-array>
     <string-array name="epg_program_genre">
         <item></item>
         <item></item>
-        <item>综艺</item>
+        <item>Viihde</item>
         <item></item>
-        <item>体育</item>
-        <item>少儿</item>
-        <item>新闻</item>
-        <item>生活</item>
+        <item>Urheilu</item>
+        <item>Lapsille</item>
+        <item>Uutiset</item>
+        <item>Elämäntapa</item>
     </string-array>
     <string-array name="epg_program_tab">
-        <item>热门</item>
-        <item>电影</item>
-        <item>综艺</item>
-        <item>电视剧</item>
-        <item>体育</item>
-        <item>少儿</item>
-        <item>新闻</item>
-        <item>生活</item>
+        <item>Suosittu</item>
+        <item>Elokuvat</item>
+        <item>Viihde</item>
+        <item>TV-ohjelmat</item>
+        <item>Urheilu</item>
+        <item>Lapsille</item>
+        <item>Uutiset</item>
+        <item>Elämäntapa</item>
     </string-array>
     <string-array name="epg_program_tab_actionbar">
-        <item>热门节目</item>
-        <item>电影节目</item>
-        <item>综艺节目</item>
-        <item>电视剧</item>
-        <item>体育节目</item>
-        <item>少儿节目</item>
-        <item>新闻节目</item>
-        <item>生活节目</item>
+        <item>Suositut ohjelmat</item>
+        <item>Elokuvat</item>
+        <item>Viihdeohjelmat</item>
+        <item>TV-ohjelmat</item>
+        <item>Urheilu</item>
+        <item>Lapsille</item>
+        <item>Uutiset</item>
+        <item>Elämäntapaohjelmat</item>
     </string-array>
     <string-array name="user_notification_tab">
         <item>\@与我相关</item>

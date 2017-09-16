@@ -124,7 +124,7 @@
   <string name="data_consumption_checkbox_hint">Älä näytä uudelleen</string>
   <string name="data_consumption_confirm">OK</string>
   <string name="data_consumption_message">Tämä sovellus tarvitsee internetyhteyden Wi-Fin kautta toimiakseen normaalisti.</string>
-  <string name="data_consumption_message1">Video ja Tarrat tarvitsee internetyhteyden Wi-Fin kautta toimiakseen normaalisti.</string>
+  <string name="data_consumption_message1">Tiedostoselain tarvitsee internetyhteyden, jotta suositut videot ja tarrat tulevat käytettäviksi.</string>
   <string name="data_consumption_title">Internetyhteys</string>
   <string name="decompress_cancel">Peruuta</string>
   <string name="decompress_confirm">Pura</string>
@@ -488,7 +488,7 @@
   <string name="recommend_users">%1$s+</string>
   <string name="remote_video_report_success">Kiitos palautteestasi!</string>
   <string name="rename_alert">Jos vaihdat tämän tiedoston tiedostotunnisteen, et välttämättä voi avata sitä.</string>
-  <string name="rename_alert2">如果修改后缀名，文件将可能无法打开。</string>
+  <string name="rename_alert2">Tiedosto piilotetaan tiedostonimen päätteen muuttamisen jälkeen.</string>
   <string name="rename_failed">%1$s ei voi nimetä uudelleen</string>
   <string name="repair_done">Palautettu</string>
   <string name="repair_error">Palautus epäonnistui</string>
@@ -561,7 +561,7 @@
   <string name="server_control_advanced_settings">FTP asetukset</string>
   <string name="server_control_charset">Lähetyksen enkoodaus</string>
   <string name="server_control_settings">Asetukset</string>
-  <string name="server_error">Palvelinvirhe, yritä myöhemmin uudelleen. (Virhe %s)</string>
+  <string name="server_error">Palvelinvirhe, yritä myöhemmin uudelleen. (Virhe %s).</string>
   <string name="set_pattern">Salasana päivitettiin</string>
   <string name="set_pattern_btn">Aseta</string>
   <string name="set_pattern_msg">Aseta salasanasi uudelleen. Yksityisyydensuojan salasana toimii myös kuvissa ja viesteissä.</string>
@@ -591,7 +591,7 @@
   <string name="shared_sticker_page_no_file">Verkkoyhteyttä ei voi muodostaa. Tarkista verkkoyhteytesi ja yritä uudelleen.</string>
   <string name="shared_sticker_str">Viimeaikainen</string>
   <string name="shared_sticker_suffix">Tarra kohteessa %s</string>
-  <string name="shared_sticker_use_tip">"Voit lähettää Keskusteluista tallennettuja tarroja samalla tavalla, kun lähetät kuvia.
+  <string name="shared_sticker_use_tip">"Voit lähettää keskusteluista tallennettuja tarroja samalla tavalla, kun lähetät kuvia.
 (GIF-kuvat voidaan lisätä Mukautettu WeChat Tarroihin)."</string>
   <string name="shared_sticker_use_tip_title">Kuinka käytetään tarroja</string>
   <string name="shared_str">Jakaja %s</string>

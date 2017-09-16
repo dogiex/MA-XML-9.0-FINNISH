@@ -150,7 +150,7 @@
   <string name="resource_account_login_before_action">Kirjaudu Mi Tiliisi nyt</string>
   <string name="resource_account_login_title">Kirjaudu sisään</string>
   <string name="resource_account_switch">Vaihda</string>
-  <string name="resource_alarm_default">Hälytys</string>
+  <string name="resource_alarm_default">Herätys</string>
   <string name="resource_app_name">Lähteiden Selain</string>
   <string name="resource_apply">Aseta</string>
   <string name="resource_apply_trial">Kokeile nyt</string>
@@ -249,7 +249,7 @@
   <string name="resource_get_auth_not_official">Kolmannen osapuolen teemoja ei tueta</string>
   <string name="resource_get_auth_retrieving">Haetaan tietoa…</string>
   <string name="resource_has_been_downloaded">Olet jo ladannut tämän teeman.</string>
-  <string name="resource_hint">Hälytys</string>
+  <string name="resource_hint">Herätys</string>
   <string name="resource_import_failed">Tuonti epäonnistui</string>
   <string name="resource_import_successful">Valmis</string>
   <string name="resource_importing">Tuodaan…</string>
@@ -350,7 +350,7 @@
   <string name="system_precust">Järjestelmän precust</string>
   <string name="the_picture_is_not_support">Kuvaa ei tueta</string>
   <string name="the_picture_is_too_small">Kuva on liian pieni</string>
-  <string name="theme_apply_audio_dialog_item_alarm">Hälytys</string>
+  <string name="theme_apply_audio_dialog_item_alarm">Herätys</string>
   <string name="theme_apply_audio_dialog_item_notification">Ilmoitus</string>
   <string name="theme_apply_audio_dialog_item_ringtone">Soittoääni</string>
   <string name="theme_apply_failured">Lukitusnäytön taustakuvan asettaminen epäonnistui</string>
@@ -365,8 +365,8 @@
   <string name="theme_changed_failed_message">Teemaa ei voitu asettaa</string>
   <string name="theme_changed_message">Teema asetettu</string>
   <string name="theme_changing_dialog_title">"Asetetaan "</string>
-  <string name="theme_component_title_alarm">Hälytys</string>
-  <string name="theme_component_title_alarmstyle">Hälytyksen tyyli</string>
+  <string name="theme_component_title_alarm">Herätys</string>
+  <string name="theme_component_title_alarmstyle">Herätyksen tyyli</string>
   <string name="theme_component_title_all">Teemat</string>
   <string name="theme_component_title_audio_effect">Äänet</string>
   <string name="theme_component_title_boot_animation">Käynnistyksen animaatio</string>

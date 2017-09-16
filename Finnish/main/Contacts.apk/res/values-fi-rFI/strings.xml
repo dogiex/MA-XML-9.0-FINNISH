@@ -388,7 +388,7 @@ Yhteystietokortit on poistettu käytöstä"</string>
   <string name="dialer_copy_view_delete_description">Tyhjennetäänkö kopioitu numero</string>
   <string name="dialer_digits_copy_number_label">Kopioitu numero</string>
   <string name="dialer_empty_text_loading">Ladataan…</string>
-  <string name="dialer_empty_text_no_call_log">Ei viimeisiä yhteystietoja</string>
+  <string name="dialer_empty_text_no_call_log">Ei viimeaikaisia yhteystietoja</string>
   <string name="dialer_empty_text_no_search_result">Yhteystietoja ei löydy</string>
   <string name="dialer_menu_description">Näytä numerovalitsija</string>
   <string name="dialer_menu_title">Valikko asetukset</string>

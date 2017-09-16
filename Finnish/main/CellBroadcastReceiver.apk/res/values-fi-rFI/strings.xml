@@ -79,8 +79,8 @@
   <string name="enable">Ota käyttöön</string>
   <string name="enable_alert_speech_summary">Käytä tekstistä puheeksi -toimintoa hätätilannevaroitusviesteissä</string>
   <string name="enable_alert_speech_title">Puhu varoitusilmoitus</string>
-  <string name="enable_alert_tone_summary">Hälytyksen ääni päällä</string>
-  <string name="enable_alert_tone_title">Hälytyksen ääni</string>
+  <string name="enable_alert_tone_summary">Herätyksen ääni päällä</string>
+  <string name="enable_alert_tone_title">Herätyksen ääni</string>
   <string name="enable_alert_vibrate_summary">Käytä värinää ilmoituksesta</string>
   <string name="enable_alert_vibrate_title">Värinä</string>
   <string name="enable_channel_50_alerts_summary">Kanavaa 50 käytetään Brasiliassa alueellisiin tietojen päivityksiin</string>

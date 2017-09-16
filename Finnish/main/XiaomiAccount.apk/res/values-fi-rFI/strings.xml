@@ -20,7 +20,7 @@
   <string name="account_error_user_birthday">Syntymäpäivä, jonka syötit on väärin</string>
   <string name="account_has_been_set">Vaihda</string>
   <string name="account_limit_update_birthday">Syntymäpäivää ei voi juuri nyt päivittää</string>
-  <string name="account_mibi_center">Mibi center</string>
+  <string name="account_mibi_center">Mi Krediitit</string>
   <string name="account_mipay_info">Mi Pay</string>
   <string name="account_no_set">Ei mitään</string>
   <string name="account_none">Ei mitään</string>
@@ -66,7 +66,7 @@
   <string name="authorize_title">Valtuutus</string>
   <string name="bind_facebook">Yhdistä Facebook Tilisi</string>
   <string name="bind_qq">QQ</string>
-  <string name="bind_safe_phone_msg">Lisää turvallinen puhelin seuraavaa kirjautumista varten</string>
+  <string name="bind_safe_phone_msg">Lisää puhelinnumerosi, jotta voit kirjautua sisään Mi Tilillesi seuraavalla kerralla.</string>
   <string name="bind_settings">Tilit</string>
   <string name="bind_sina_weibo">Yhdistä Sina Weibo Tili</string>
   <string name="bind_sns_description">Kirjaudu sisään käyttäen %s</string>
@@ -89,7 +89,7 @@
   <string name="confirm_phone_number_dialog_message">Vahvistuskoodi lähetetään numeroon %s.</string>
   <string name="confirm_phone_number_dialog_title">Vahvista puhelinnumero</string>
   <string name="confirm_unbind">Katkaistaanko yhteys tähän tiliin?</string>
-  <string name="confirm_unbundled_phone_dialog_message">Puhelinnumero %1$s on liitetty Mi Tilin %2$s kanssa. Se ei ole enää liitettynä Mi Tilin %3$s kanssa jos jatkat. Jatketaanko?</string>
+  <string name="confirm_unbundled_phone_dialog_message">Puhelinnumero %1$s on liitetty Mi Tiliin %2$s. Se ei ole enää liitettynä Mi Tiliin %3$s jos jatkat. Jatketaanko?</string>
   <string name="continue_action">Jatka</string>
   <string name="current_location_title">Nykyinen sijainti</string>
   <string name="delete_action">Poista</string>
@@ -154,7 +154,7 @@
   <string name="logout_account">Kirjaudu ulos</string>
   <string name="logout_failed">Uloskirjautuminen epäonnistui</string>
   <string name="mi_account_identity_title">Vahvista henkilöllisyytesi</string>
-  <string name="mi_vip_info">查看我的特权</string>
+  <string name="mi_vip_info">Näytä oikeudet</string>
   <string name="mipay">Maksu</string>
   <string name="mipay_balance">Saldo</string>
   <string name="mipay_bank_card">Pankkikortti</string>
@@ -210,6 +210,8 @@ Aktivoi tilisi seuraamalla
  linkkiä, jonka lähetimme sähköpostiisi."</string>
   <string name="passport_completed">Valmis</string>
   <string name="passport_confirm_recycle_account">Kyllä</string>
+  <string name="passport_confirm_recycle_account_msg">%s 疑似是运营商回收后再次收买的号码，该号码下已有小米帐号，这个帐号是你的吗？</string>
+  <string name="passport_continue">Jatka</string>
   <string name="passport_copy_message_text_success">Kopioitu onnistuneesti</string>
   <string name="passport_copy_message_vcode">Kopioi koodi</string>
   <string name="passport_delete_account">Kirjaudu ulos</string>
@@ -266,6 +268,8 @@ Aktivoi tilisi seuraamalla
   <string name="passport_login_instead_reg_with_email">Käytä tätä sähköpostia</string>
   <string name="passport_login_other_account">Toinen tili</string>
   <string name="passport_login_prompt">Yksi Mi Tili. Kaikki Mi palvelut.</string>
+  <string name="passport_login_recycle_account_no">Ei</string>
+  <string name="passport_login_recycle_account_yes">Kyllä</string>
   <string name="passport_login_title">Kirjaudu sisään Mi Tilillesi</string>
   <string name="passport_login_using_other_ways">Muita tapoja kirjautua</string>
   <string name="passport_message_dialog_title">Tekstiviesti vahvistuskoodeilla</string>
@@ -296,6 +300,8 @@ Aktivoi tilisi seuraamalla
   <string name="passport_reg_failed">Tiliä ei voida luoda</string>
   <string name="passport_reg_new_account">Luo tili</string>
   <string name="passport_reg_prompt">Eikö sinulla ole Mi Tiliä? Luo sellainen ilmaiseksi.</string>
+  <string name="passport_reg_recycle_account_no">Ei</string>
+  <string name="passport_reg_recycle_account_yes">Kyllä</string>
   <string name="passport_reg_success">Tili luotu</string>
   <string name="passport_reg_success_summary">%1$s on liitetty tiliisi. Voit käyttää sitä kirjautimiseen tai salasanasi palauttamiseen.</string>
   <string name="passport_reg_type_email">Käytä sähköpostiosoitetta</string>
@@ -334,7 +340,7 @@ Aktivoi tilisi seuraamalla
   <string name="passport_send_vcode_failed">Koodin lähettäminen epäonnistui</string>
   <string name="passport_sending_vcode">Lähetetään koodia…</string>
   <string name="passport_set">Aseta</string>
-  <string name="passport_set_password_no_phone_msg">为了保护你的数据安全，请先绑定您的手机</string>
+  <string name="passport_set_password_no_phone_msg">Lisää puhelinnumerosi suojataksesi tilisi.</string>
   <string name="passport_setting">Asetetaan…</string>
   <string name="passport_skip_login">Ohita</string>
   <string name="passport_skip_register">Ohita rekisteröinti</string>
@@ -431,6 +437,6 @@ Aktivoi tilisi seuraamalla
   <string name="verify_phone_prompt">Valitse vahvistettava puhelinnumero</string>
   <string name="verify_phone_title">Vahvista puhelinnumero</string>
   <string name="vip_account_settings">VIP Asetukset</string>
-  <string name="vip_settings_info">我的数据中心</string>
+  <string name="vip_settings_info">VIP asetukset</string>
   <string name="xiao_mi_vip">Mi VIP</string>
 </resources>

@@ -41,7 +41,7 @@
   <string name="cloud_back_up_date_format">HH:mm d.M.yyyy</string>
   <string name="cloud_back_up_detail_discription">"Nämä varmuuskopioidaan Mi Pilveen, kun laitteesi on yhdistettynä Wi-Fi verkkoon: 
 *Sovellukset, Aloitusnäytön asettelu ja taustakuvat 
-*Hälytykset, kello, ja aika-asetukset 
+*Herätykset, kello, ja aika-asetukset 
 *Ilmoituksien asetukset 
 *MIUI ja järjestelmäasetukset 
 Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Käytä sitä varten paikallista varmuuskopiointia."</string>

@@ -440,7 +440,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="miuichromium_error_page_network_off">Ota Wi-Fi tai mobiilidata käyttöön</string>
   <string name="miuichromium_error_page_no_network">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="miuichromium_error_page_problem_access_denied">%s0 käyttö hylättiin</string>
-  <string name="miuichromium_error_page_problem_cache_miss">Tätä sivua ei voi ladata välimuistista</string>
+  <string name="miuichromium_error_page_problem_cache_miss">Välimuistissa olevaa versiota tästä sivusta ei voi ladata</string>
   <string name="miuichromium_error_page_problem_cannot_open_page">Sivua ei voi avata</string>
   <string name="miuichromium_error_page_problem_cannot_reach_site">Sivustoa ei tavoiteta</string>
   <string name="miuichromium_error_page_problem_connection_interrupted">Yhteys keskeytettiin</string>
@@ -464,7 +464,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="miuichromium_error_page_reason_invalid_address">. IP-osoite tai portin numero on virheellinen</string>
   <string name="miuichromium_error_page_reason_invalid_response">" koska %s0 lähetti virheellisen vastauksen"</string>
   <string name="miuichromium_error_page_reason_invalid_url">" koska URL-osoite on virheellinen"</string>
-  <string name="miuichromium_error_page_reason_moved_or_deleted">. Se saattaa olla siirretty tai poistettu</string>
+  <string name="miuichromium_error_page_reason_moved_or_deleted">. Se voi olla siirretty tai poistettu</string>
   <string name="miuichromium_error_page_reason_name_collision">. Tämä intranetissä olevalla sivustolla on sama URL-osoite, kuin ulkoisella verkkosivulla</string>
   <string name="miuichromium_error_page_reason_name_not_resolved">". DNS-osoitetta ei löydetty kohteelle %s0"</string>
   <string name="miuichromium_error_page_reason_network_changed">" verkon vaihtumisen takia"</string>
@@ -482,7 +482,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="miuichromium_error_page_suggestion_check_connetion">Tarkista Internetyhteytesi.</string>
   <string name="miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Mobiilidata) Palauta %s1APN asetuksesi%s2.</string>
   <string name="miuichromium_error_page_suggestion_check_url">Tarkista syöttämäsi URL-osoite.</string>
-  <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(WiFi) Tarkista %s1proxy asetuksesi%s2.</string>
+  <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Tarkista %s1proxy asetuksesi%s2.</string>
   <string name="miuichromium_error_page_suggestion_clear_cache" formatted="false">Tyhjennä välimuisti (%s1Asetukset%s2 - Tyhjennä tiedot).</string>
   <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Tyhjennä välimuisti ja evästeet (%s1Asetukset%s2 - Tyhjennä tiedot, tilisi tiedot saattaa hävitä).</string>
   <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Tyhjennä välimuisti ja evästeet (tilisi tiedot saattaa hävitä).</string>
@@ -564,10 +564,10 @@ Poistutaanko tältä sivulta?"</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Nopea URL-osoitteen syöttö</string>
   <string name="pref_adblock_counts">%d estetty</string>
   <string name="pref_adblock_title">Mainostenesto</string>
-  <string name="pref_advert_null">Poistettiin mainosten merkintä. Voit painaa sivulla olevaa merkkiä</string>
+  <string name="pref_advert_null">Kohteita ei ole merkitty mainoksiksi. Pidä verkkosivulla olevaa kohdetta pohjassa merkitäksesi sen.</string>
   <string name="pref_auto_update_under_wifi">Päivitä käyttäen Wi-Fi-yhteyttä</string>
   <string name="pref_automatic_matching_searchengines_title">Vaihda usein käytettyyn hakukoneeseen</string>
-  <string name="pref_cancel_screen">Peruuta näyttö</string>
+  <string name="pref_cancel_screen">Poista esto</string>
   <string name="pref_category_hint">Kategoria</string>
   <string name="pref_check_security_url_summary">Lähetä verkkosivujen URL-osoite Mi:n palvelimille tarkastaakseen sen turvallisuuden</string>
   <string name="pref_check_security_url_summary_international">Salli Selaimen käyttää vierailemiesi verkkosivustojen URL-osoitteita saadaksesi parempia suosituksia.</string>
@@ -611,7 +611,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="pref_force_userscalable_summary">Ohita sivuston skaalauksenhallintapyyntö</string>
   <string name="pref_general_title">Yleiset</string>
   <string name="pref_key_gesture_title">Painikkeet &amp; eleet</string>
-  <string name="pref_label_advert_manager">Merkittyjen mainoksien hallinnoija</string>
+  <string name="pref_label_advert_manager">Hallitse merkittyjä mainoksia</string>
   <string name="pref_nav_mode_summary_pad">Tabletti</string>
   <string name="pref_nav_mode_summary_phone">Puhelin</string>
   <string name="pref_nav_mode_title">Pöytäkone</string>

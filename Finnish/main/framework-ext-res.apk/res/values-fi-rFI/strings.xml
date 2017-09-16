@@ -53,7 +53,7 @@
   <string name="global_actions_airplane_mode">Lentokonetila</string>
   <string name="global_actions_reboot">Käynnistä uudelleen</string>
   <string name="global_actions_shutdown">Sammuta</string>
-  <string name="global_actions_silent_mode">Äänetöntila</string>
+  <string name="global_actions_silent_mode">Äänetön tila</string>
   <string name="group_name_contacts">Yhteystiedot</string>
   <string name="group_name_coworkers">Kollegat</string>
   <string name="group_name_family">Perhe</string>
