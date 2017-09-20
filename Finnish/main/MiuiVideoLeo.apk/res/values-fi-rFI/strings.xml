@@ -442,7 +442,7 @@ lähetettyä linkkiä."</string>
   <string name="play">Toista</string>
   <string name="play_fail">Toistaminen epäonnistui</string>
   <string name="play_his_empty_title">Tyhjä</string>
-  <string name="play_history">Viimeaikainen</string>
+  <string name="play_history">Viimeaikaiset</string>
   <string name="play_source_fetching">Yhdistetään…</string>
   <string name="player_plugin_des">Näytä saatavilla olevat videosoittimen liitännäiset</string>
   <string name="player_plugin_title">Videosoittimen liitännäiset</string>
