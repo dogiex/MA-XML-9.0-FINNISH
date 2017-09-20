@@ -158,7 +158,6 @@
   <string name="alipay_newUserRegister">新用户注册</string>
   <string name="alipay_password">密码</string>
   <string name="alipay_password_login">密码登录</string>
-  <string name="alipay_phoneNumber">+86</string>
   <string name="alipay_pre_router_alipay_account">用已登录支付宝账号</string>
   <string name="alipay_pre_router_cancel">取消</string>
   <string name="alipay_pre_router_has_auth_account">用已授权账号</string>
@@ -468,8 +467,6 @@
   <string name="kakalib_bar_qr_code">条形码·二维码</string>
   <string name="kakalib_ok">确定</string>
   <string name="keyboard_alipay">支付宝安全键盘</string>
-  <string name="keyboard_more_abc">\#+=</string>
-  <string name="keyboard_more_num">123</string>
   <string name="keyboard_ok">完成</string>
   <string name="keyboard_space">空格</string>
   <string name="keyword_recommend">推荐您</string>
@@ -767,7 +764,6 @@
   <string name="paycode_sdk_parent">Maksun pikavalinta (sovellusta ei vaadita)</string>
   <string name="paycode_sdk_parent_title">Maksun pikavalinta</string>
   <string name="payment">Maksuni</string>
-  <string name="payment_amount_empty">0.00</string>
   <string name="payment_app_name">Maksuni</string>
   <string name="payment_clear_records_dialog_message">Tyhjennetäänkö maksuhistorian kaikki tietueet?</string>
   <string name="payment_clear_records_failed">Maksuhistoriaa ei voitu tyhjentää</string>
@@ -963,7 +959,6 @@
   <string name="steps_sport_des">Hae tarkat tiedot Mi Fit -sovelluksesta.</string>
   <string name="steps_vip">Askeleet</string>
   <string name="steps_vip_des">Laske askeleet ilman kolmannen osapuolen sovelluksen asentamista.</string>
-  <string name="stock_change_rate_format">%.2f%%</string>
   <string name="stock_color_schema">Väriskeema</string>
   <string name="stock_list_empty_text">Et seuraa yhtään yritystä.</string>
   <string name="stock_search_empty">Tuloksia ei löytynyt</string>

@@ -2362,7 +2362,6 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="memory_title">Käytettävissä: %1$s Yhteensä: %2$s</string>
   <string name="memory_usage">Muistin käyttötiedot</string>
   <string name="memory_usage_apps">Sovellusten käyttämä muisti</string>
-  <string name="memory_use_running_format">%1$s / %2$s</string>
   <string name="memory_use_summary">Muistia käytetty keskimäärin %1$s viimeisen 3 tunnin aikana.</string>
   <string name="menu_cancel">Hylkää</string>
   <string name="menu_check">Kokemus</string>
@@ -2393,7 +2392,6 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="mi_shopping_mall">Mi Kauppa</string>
   <string name="misc_files">Muut tiedostot</string>
   <string name="misc_files_selected_count">valittu %1$d/%2$d</string>
-  <string name="misc_files_selected_count_bytes">%1$s / %2$s</string>
   <string name="miui_allow_alarm">Herätykset</string>
   <string name="miui_allow_light">Ilmoituksen valo</string>
   <string name="miui_allow_music">Media</string>
@@ -2554,7 +2552,6 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="nfc_how_it_works_got_it">Selvä</string>
   <string name="nfc_how_it_works_title">Maksaminen päätteellä</string>
   <string name="nfc_more_title">Lisää…</string>
-  <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
   <string name="nfc_payment_default">Oletusmaksusovellus</string>
   <string name="nfc_payment_default_not_set">Ei asetettu</string>
   <string name="nfc_payment_favor_default">Aina</string>
@@ -2712,7 +2709,6 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="overlay_display_devices_title">Simuloi toissijaiset näytöt</string>
   <string name="overlay_settings">Sovelluksien päälle piirtäminen</string>
   <string name="owner_info_settings_edit_text_hint">Esim. Rikun android</string>
-  <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary">Ei mitään</string>
   <string name="owner_info_settings_title">Lukitusnäytön teksti</string>
   <string name="owner_space">Ensimmäinen tila</string>
@@ -2992,7 +2988,6 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="private_sms_recording_intro_header">Piirrä lukituksenpoistokuvio:</string>
   <string name="private_sms_reset_by_account">Sinun on kirjauduttava Mi Tilillesi, jotta voit palauttaa salasanasi</string>
   <string name="process_dex2oat_label">Sovellusoptimointi</string>
-  <string name="process_format">%1$s (%2$d)</string>
   <string name="process_kernel_label">Android-käyttöjärjestelmä</string>
   <string name="process_mediaserver_label">Mediapalvelin</string>
   <string name="process_provider_in_use_description">Palveluntarjoaja %1$s on käytössä.</string>
@@ -3663,11 +3658,9 @@ Huom. Sormenjälki ei välttämättä ole yhtä turvallinen kuin vahva kuvio tai
   <string name="selinux_status_enforcing">Täytäntöönpano</string>
   <string name="selinux_status_permissive">Salliva</string>
   <string name="service_background_processes">%1$s vapaa</string>
-  <string name="service_client_name">%1$s</string>
   <string name="service_foreground_processes">%1$s käyt.</string>
   <string name="service_manage">Asetukset</string>
   <string name="service_manage_description">%1$s: käytössä tällä hetkellä. Hallinnoi valitsemalla Asetukset.</string>
-  <string name="service_process_name">%1$s</string>
   <string name="service_restarting">Käynnistetään uudelleen</string>
   <string name="service_started_by_app">Käynnistäjäsovellus</string>
   <string name="service_stop">Lopeta</string>
@@ -3830,7 +3823,6 @@ PIN-koodi on mahdollisesti virheellinen."</string>
   <string name="sim_reenter_new">Kirjoita uusi PIN-koodi uudelleen</string>
   <string name="sim_select_card">SIM-kortin valinta</string>
   <string name="sim_selection_required_pref">Valinta on pakollinen</string>
-  <string name="sim_settings_summary">%1$s – %2$s</string>
   <string name="sim_settings_title">SIM-kortit</string>
   <string name="sim_setup_wizard_title">SIM-kortit</string>
   <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -4157,7 +4149,6 @@ Nopeampi ^1 voi toimia tehokkaammin."</string>
   <string name="sync_gmail">Gmail</string>
   <string name="sync_in_progress">Synkronoidaan nyt...</string>
   <string name="sync_is_failing">Synkronoinnissa on tällä hetkellä ongelmia. Palvelu palaa käyttöön hetken kuluttua.</string>
-  <string name="sync_item_title">%s</string>
   <string name="sync_menu_sync_cancel">Peruuta synkronointi</string>
   <string name="sync_menu_sync_now">Synkronoi nyt</string>
   <string name="sync_now">Synkronoi</string>

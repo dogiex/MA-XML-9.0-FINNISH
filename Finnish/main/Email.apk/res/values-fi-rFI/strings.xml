@@ -170,7 +170,6 @@
   <string name="always_bcc_myself">Lähetä piilokopio itselleni</string>
   <string name="always_show_images">Näytä kuvat aina tältä lähettäjältä</string>
   <string name="app_name">Sähköposti</string>
-  <string name="application_mime_type">application/email-ls</string>
   <string name="archive">Arkistoi</string>
   <string name="archived">Arkistoitu</string>
   <string name="att_download_failed_content">Viestin liitetiedoston lataaminen epäonnistui.</string>
