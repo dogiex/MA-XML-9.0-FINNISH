@@ -47,6 +47,8 @@
   <string name="operation_delete">Poista</string>
   <string name="operation_send">Lähetä</string>
   <string name="quit_recording">Poistu Näytön nauhoituksesta</string>
+  <string name="recording_failure">Edellinen nauhoitus epäonnistui, ole hyvä ja aloita näytön nauhoittaminen uudelleen</string>
+  <string name="recording_max_size">Nauhoitus lopetettiin ja tallennettiin automaattisesti videon maksimikoon takia. Voit aloittaa uuden nauhoituksen jos tahdot jatkaa nauhoittamista.</string>
   <string name="resolution">Resoluutio</string>
   <string name="resolution_summary">Korkean resoluution videot näyttävät terävämmiltä</string>
   <string name="screen_orientation">Suunta</string>
@@ -61,8 +63,10 @@
   <string name="sound_source">Äänilähde</string>
   <string name="sound_source_summary">Järjestelmän äänet tai mikrofoni</string>
   <string name="start">Aloita</string>
+  <string name="start_recording">Aloita nauhoittaminen</string>
   <string name="stop_by_second_space">Tilan vaihtaminen lopettaa nauhoittamisen</string>
   <string name="stop_record_while_locking">Lopeta lukitsemalla näyttö</string>
   <string name="stop_record_while_locking_summary">Lopeta nauhoittaminen ja tallenna video, kun näyttö lukitaan</string>
+  <string name="stop_recording">Lopeta nauhoittaminen</string>
   <string name="timer_format">%s</string>
 </resources>

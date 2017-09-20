@@ -86,6 +86,7 @@
   <string name="fund_loan"/>
   <string name="gay_other_search_result">暂时不支持同性婚姻称呼查询，怎么称呼你决定~</string>
   <string name="gay_search_result">是男是女不重要，是你就好</string>
+  <string name="global_network_confirm_content">Valuuttamuunninlaskimien on käytettävä laitteesi verkkoyhteyttä toimiakseen normaalisti.</string>
   <string name="global_search_key_area_convertion">Alue;Aluemuunnin;Aluemuuntaja;Alueen muunnos</string>
   <string name="global_search_key_calculation">Laske;Laskin;Yksikkömuunnos;Muuntaja;Yksikön muuntaja</string>
   <string name="global_search_key_date_convertion">Ajan muuntaja;Ajan yksiköt;Ajan muuttaminen;Aika</string>
