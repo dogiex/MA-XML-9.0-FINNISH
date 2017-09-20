@@ -980,7 +980,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="operation_enable_auto_upload">Ota Mi Pilven synkronointi käyttöön</string>
   <string name="operation_failed">Operaatiota ei voitu suorittaa loppuun</string>
   <string name="operation_force_top">Kiinnitä</string>
-  <string name="operation_hide">Piilota</string>
+  <string name="operation_hide">Tee näkymätön</string>
   <string name="operation_in_process">Käsitellään…</string>
   <string name="operation_move_to_other_albums">Siirrä toisiin albumeihin</string>
   <string name="operation_not_show_in_photos_tab">Älä näytä Kuvissa</string>
@@ -1001,7 +1001,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="operation_successful">Valmis</string>
   <string name="operation_too_often">Odota vähän! IP-osoitteestasi on liian monta pyyntöä. Odota minuutti tai kaksi ja yritä uudelleen.</string>
   <string name="operation_unforce_top">Poista kiinnitys</string>
-  <string name="operation_unhide">Poista piilosta</string>
+  <string name="operation_unhide">Tee näkyvä</string>
   <string name="orientation_lock_tip">Automaattinen kierto ei käytössä</string>
   <string name="orientation_unlock_tip">Automaattinen kierto käytössä</string>
   <string name="origin_gif_name">Alkuperäinen tiedosto</string>
@@ -1044,8 +1044,8 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="photo_page_save_uri_image_ok">Kuva tallennettiin Galleriaan</string>
   <string name="pick_from_contact">Valitse yhteystiedoista</string>
   <string name="pick_too_many_recipients">Liian monta vastaanottajaa</string>
-  <string name="picker_cancel_download">Peruuta lataus</string>
-  <string name="picker_continue_download">Jatka latausta</string>
+  <string name="picker_cancel_download">Peruuta lataaminen</string>
+  <string name="picker_continue_download">Jatka lataamista</string>
   <string name="picker_continue_with_exists">Jatka paikallisilla kuvilla</string>
   <string name="picker_download">Lataa</string>
   <string name="picker_download_progress_message">Ladataan %1$d/%2$d</string>
@@ -1196,7 +1196,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="share_public_url_text">Jaoin %1$s albumin kanssasi. Katso se täältä %2$s</string>
   <string name="share_with_family">Jaa perheen kanssa</string>
   <string name="sharer_quota_fulfiled">Olet jo jakanut tämän albumin maksimimäärälle henkilöitä.</string>
-  <string name="show_hidden_album_title">Näytä piilotetut albumit</string>
+  <string name="show_hidden_album_title">Näytä näkymättömät albumit</string>
   <string name="show_in_other_albums_disable_toast_long_press_menu">Siirrettiin onnistuneesti, mene Muut albumit nähdäksesi</string>
   <string name="show_in_other_albums_enable_toast_long_press_menu">Siirrettiin onnistuneesti, mene Albumeihin nähdäksesi</string>
   <string name="slideshow_interval_dialog_title">Syötä intervalli</string>
