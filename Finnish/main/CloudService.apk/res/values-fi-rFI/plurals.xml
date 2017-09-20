@@ -56,6 +56,10 @@
         <item quantity="other">%d estolistan merkintää</item>
         <item quantity="one">%d estolistan merkintä</item>
     </plurals>
+    <plurals name="dirty_secretphoto_count">
+        <item quantity="other">%d piilotettua kuvaa on synkronoimatta. Kirjaudu ulos, kun kaikki kohteet on synkronoitu pitääksesi ne; muussa tapauksessa kohteet poistetaan.</item>
+        <item quantity="one">%d piilotettu kuva on synkronoimatta. Kirjaudu ulos, kun kaikki kohteet on synkronoitu pitääksesi ne; muussa tapauksessa kohteet poistetaan.</item>
+    </plurals>
     <plurals name="micloud_main_resume_sync_hour">
         <item quantity="other">Jatka synkronointia %d tunnin kuluttua</item>
         <item quantity="one">Jatka synkronointia %d tunnin kuluttua</item>

@@ -140,4 +140,12 @@
         <item quantity="other">%1$d tiedostoa ei ole siirretty.</item>
         <item quantity="one">%1$d tiedosto ei ole siirretty.</item>
     </plurals>
+    <plurals name="delete_folders">
+        <item quantity="other">Poistetaanko %1$d kansiota?</item>
+        <item quantity="one">Poistetaanko tämä kansio?</item>
+    </plurals>
+    <plurals name="delete_files">
+        <item quantity="other">Poistetaanko %1$d tiedostoa?</item>
+        <item quantity="one">Poistetaanko tämä tiedosto?</item>
+    </plurals>
 </resources>

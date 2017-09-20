@@ -22,9 +22,6 @@
   <string name="delete_failed">Poistaminen epäonnistui</string>
   <string name="delete_failed_retry">Poistaminen epäonnistui, odota %1$s ja yritä uudelleen</string>
   <string name="delete_file">Poistetaanko tämä tiedosto?</string>
-  <string name="delete_files">Poistetaanko %1$d tiedostoa?</string>
-  <string name="delete_folder">Poistetaanko tämä kansio?</string>
-  <string name="delete_folders">Poistetaanko %1$d kansiota?</string>
   <string name="delete_success">Tiedosto poistettiin</string>
   <string name="download_current_progress">%1$d%%</string>
   <string name="download_failed">Lataaminen epäonnistui</string>

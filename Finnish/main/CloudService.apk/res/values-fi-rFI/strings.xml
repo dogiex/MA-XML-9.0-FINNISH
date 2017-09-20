@@ -57,6 +57,8 @@ Edellinen varmuuskopiointi: %2$s"</string>
   <string name="cloud_storage_is_full">Täynnä</string>
   <string name="cloudservice_new_sync">Synkronoi %s Mi Pilven kanssa</string>
   <string name="cmcc_micloud_dspt">Käytä Mi Pilveä tietojen synkronoimiseen, laitteen paikantamiseen ja asioiden jakamiseen kavereiden kanssa.</string>
+  <string name="confirm_delete">Poista</string>
+  <string name="confirm_save">Säilytä</string>
   <string name="connect_network">Yhdistä Wi-Fi-verkkoon tai syötä SIM-kortti</string>
   <string name="connect_wlan">Yhdistä Wi-Fi-verkkoon</string>
   <string name="contact">Yhteystiedot</string>
@@ -465,6 +467,7 @@ Tämä toiminto salaa ja lähettää laitteesi ID-tunnuksen Mi:n palvelimille."<
   <string name="search_finddevice_pref_desc">Ota käyttöön/Poista käytöstä Etsi laite</string>
   <string name="search_finddevice_pref_key_words">etsilaite, etsi laite</string>
   <string name="search_finddevice_pref_path">Mi Tili/Mi Pilvi/Etsi laite</string>
+  <string name="secret_photo">Piilotetut kuvat</string>
   <string name="setting">Asetukset</string>
   <string name="settings_backup_title">Varmuuskopioi järjestelmän asetukset</string>
   <string name="share_cancel">Jakaminen peruutettu</string>
@@ -548,9 +551,10 @@ Tämä toiminto salaa ja lähettää laitteesi ID-tunnuksen Mi:n palvelimille."<
   <string name="virtual_sim_desc">Ota Mi SIM käyttöön paikantaaksesi laite ilman SIM-korttia</string>
   <string name="voip_choose_sim">Valitse puhelinnumero Mi Äänen aktivoimiseksi</string>
   <string name="wipe_data_dialog_button_check_sync">Tarkista synkronointi</string>
-  <string name="wipe_data_dialog_msg">%s ei ole synkronoitu, nämä säilytetään puhelimessa.</string>
+  <string name="wipe_data_dialog_msg">Joitakin kohteita (%s) ei ole synkronoitu. Ne tallennetaan laitteellesi ja niitä ei poisteta.</string>
   <string name="wipe_data_dialog_msg_and_on">, ja muita kohteita</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
-  <string name="wipe_data_dialog_title">Joitakin kohteita ei ole synkronoitu</string>
+  <string name="wipe_data_dialog_title">Kohteita on synkronoimatta</string>
+  <string name="wipe_secret_photo_dialog_title">Piilotettuja kuvia on synkronoimatta</string>
   <string name="xiaomi_cloud_service">Mi Pilvi</string>
 </resources>

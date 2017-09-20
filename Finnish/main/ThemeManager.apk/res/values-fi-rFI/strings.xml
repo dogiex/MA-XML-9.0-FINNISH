@@ -134,7 +134,7 @@
   <string name="online_precust_peach_blossom">Persikan kukinta</string>
   <string name="online_search_hint">Etsi verkkolähteitä</string>
   <string name="present_local_themes">Resurssini</string>
-  <string name="present_online_themes">Hae lisää teemoja ilmaiseksi</string>
+  <string name="present_online_themes">Hae lisää teemoja verkosta</string>
   <string name="provision_default_theme_title">Oletus</string>
   <string name="provision_loading_tips">Odota hetki…</string>
   <string name="provision_second_title">Valitse useista oletusteemoista yksi</string>
