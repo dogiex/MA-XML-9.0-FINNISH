@@ -782,14 +782,12 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="face_name_edit">Muokkaa</string>
   <string name="face_name_input">Syötä nimi</string>
   <string name="face_recommend">Suositukset</string>
-  <string name="face_recommend_group_number">%1$d/%2$d</string>
   <string name="fail_hint">Toimintoa ei voitu suorittaa loppuun</string>
   <string name="fail_to_pick_email">Virheellinen sähköpostiosoite</string>
   <string name="fail_to_sync_album">Albumin synkronointi epäonnistui. Tarkista datayhteytesi ja yritä uudelleen.</string>
   <string name="family_member_invitation_text">Muu perheenjäsen</string>
   <string name="fast_share_auto_render">Kaunista</string>
   <string name="fast_share_auto_render_finish">Kaunistettu</string>
-  <string name="fileSizeSuffix">%1$s%2$s</string>
   <string name="filter_category_film">Elokuva</string>
   <string name="filter_category_food">Ruoka</string>
   <string name="filter_category_portrait">Muotokuva</string>

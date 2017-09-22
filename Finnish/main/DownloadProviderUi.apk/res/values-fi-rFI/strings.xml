@@ -22,7 +22,6 @@
   <string name="apk_filter">APK</string>
   <string name="app_downloads">%s latausta</string>
   <string name="app_label">Lataukset</string>
-  <string name="app_size">%1$s</string>
   <string name="auth_activity_title">Xunlei Tili</string>
   <string name="auth_fail">Lupaa ei saatu</string>
   <string name="bind_xunlei_account">Lisää Xunlei Tili</string>
@@ -105,7 +104,6 @@
   <string name="download_list_title_browser">Lataukset</string>
   <string name="download_no_application">Tälle tiedostomuodolle ei ole tuettuja sovelluksia</string>
   <string name="download_no_application_title">Tiedostoa ei voi avata</string>
-  <string name="download_num_size">%1$s henkilöä latasi | %2$s</string>
   <string name="download_paused">Lataus tauolla</string>
   <string name="download_pending">Lataus odottaa</string>
   <string name="download_queued">Jonossa</string>

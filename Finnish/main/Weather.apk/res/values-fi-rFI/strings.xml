@@ -88,7 +88,6 @@
   <string name="daily_forcast_wind_connect">%2$s %1$s</string>
   <string name="daily_forecast_detail">Ennusteen tiedot</string>
   <string name="daily_forecast_detail_date">d.M.</string>
-  <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
   <string name="daily_forecast_no_data">"Säätietojen haku epäonnistui
 Vedä alaspäin päivittääksesi tai tarkasta verkkoasetukset"</string>
   <string name="data_provided_by">Tiedot tarjoaa</string>
@@ -110,8 +109,6 @@ Vedä alaspäin päivittääksesi tai tarkasta verkkoasetukset"</string>
   <string name="gps_hint">Nykyinen sijainti</string>
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="hourly_forcast_now">Nyt</string>
-  <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
-  <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
   <string name="hourly_forecast_date">d.M.</string>
   <string name="hourly_forecast_title">Tuntikohtainen ennustus</string>
   <string name="index_item_experience_now">Asenna nyt</string>
@@ -121,7 +118,6 @@ Vedä alaspäin päivittääksesi tai tarkasta verkkoasetukset"</string>
   <string name="indices_desc_feel">Tuntuu kuin %1$s°C</string>
   <string name="indices_desc_feel_without_pic">%1$s°C</string>
   <string name="indices_desc_humidity">Ilmankosteus %1$s%%</string>
-  <string name="indices_desc_humidity_without_pic">%1$s%%</string>
   <string name="indices_desc_pressure">%1$s hPa</string>
   <string name="indices_desc_visibility">%1$s km</string>
   <string name="indices_no_restriction">Ei mitään</string>
@@ -140,15 +136,12 @@ Vedä alaspäin päivittääksesi tai tarkasta verkkoasetukset"</string>
   <string name="information_manager_information">Säätiedot</string>
   <string name="information_manager_wlan">Näytä, kun yhteydessä Wi-Fi-verkkoon</string>
   <string name="information_set">Muut asetukset</string>
-  <string name="information_time_source">%1$s | %2$s</string>
   <string name="install">Asenna</string>
-  <string name="install_progress">%1$s%%</string>
   <string name="international_detail_menu_title">Tiedot</string>
   <string name="international_details_pressure_title">PAINE</string>
   <string name="international_details_real_feel_title">TUNTUU KUIN®</string>
   <string name="international_details_title">Tiedot</string>
   <string name="international_details_uv_index_title">UV INDEKSI</string>
-  <string name="international_details_wind_connect">%1$s %2$s</string>
   <string name="international_details_wind_title">TUULI</string>
   <string name="it_is_going_to_rain">Alkaa sataa</string>
   <string name="locate_fail_detail_err">"Laitetta ei voitu paikantaa
@@ -217,7 +210,6 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="share_subject">Jaa</string>
   <string name="share_title">Jaa sää</string>
   <string name="share_weather_desc">\#MIUI Sää#Tänään %1$s %2$s</string>
-  <string name="share_weather_desc_alert">%1$s%2$s</string>
   <string name="share_weather_desc_split">,</string>
   <string name="share_weather_save_pic_fail">Kuvankaappauksen ottaminen epäonnistui</string>
   <string name="some_where_on_earth">Jossain maapallolla</string>

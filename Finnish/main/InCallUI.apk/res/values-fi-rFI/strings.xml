@@ -3,7 +3,6 @@
   <string name="accept_modify_call_request_prompt">Hyväksytäänkö puhelun muokkaus -pyyntö?</string>
   <string name="antispam_local_marked">Paikallisesti merkattu</string>
   <string name="antispam_marked_count">%1$d MIUI-käyttäjää on raportoinut tämän</string>
-  <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Tuntematon numero</string>
   <string name="antispam_provider">Tunnistanut %s</string>
   <string name="areacode_set_default">Aseta oletukseksi</string>

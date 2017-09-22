@@ -1025,7 +1025,6 @@ vastausta"</string>
   <string name="menu_text_license_manager">Käyttöoikeudet</string>
   <string name="menu_text_networkassistants">Datan käyttö</string>
   <string name="menu_text_networkassistants_danger">%s yli</string>
-  <string name="menu_text_networkassistants_data">%1$s%2$s</string>
   <string name="menu_text_networkassistants_remain">%s jäljellä</string>
   <string name="menu_text_networkassistants_unit_b">t</string>
   <string name="menu_text_networkassistants_unit_gb">Gt</string>
@@ -1174,7 +1173,6 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="om_media_scan_timeout_proc_detail">Mediapalvelin toimii taustalla. Voit rajoittaa sen toimintaa.</string>
   <string name="om_media_scan_timeout_proc_name">Mediapalvelin</string>
   <string name="om_memory_clean_cleaning_text">Parannetaan nopeutta…</string>
-  <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
   <string name="om_notify_cpu_load_too_high_summary">Rajoita taustatyöskentelyä parantaaksesi nopeutta</string>
   <string name="om_notify_cpu_load_too_high_title">Suorittimen käyttö %s on liian korkea</string>
   <string name="om_notify_need_clean_memory_summary">Tyhjennä välimuisti parantaaksesi nopeutta</string>
@@ -1417,7 +1415,6 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="pref_normal_traffic_limit">Kun päiväkohtainen datapaketti on käytetty</string>
   <string name="pref_open_adjust_traffic">Päivitä datan käyttö joka päivä operaattorilta saamien tietojen perusteella</string>
   <string name="pref_operator_not_set">Operaattoria ei ole asetettu</string>
-  <string name="pref_operator_setting">%1$s%2$s</string>
   <string name="pref_over_traffic_limit">Kun ylität datapakettisi</string>
   <string name="pref_package_traffic_settings">Mobiilidatan raja</string>
   <string name="pref_pkg_begin_date">Käytön nollauspäivä</string>

@@ -199,7 +199,6 @@
   <string name="favorite_ringtone">Soittoäänet</string>
   <string name="favorite_screen_cap">Kuvakaappaukset</string>
   <string name="female">Nainen</string>
-  <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="file_info_canread">Lukuoikeus: </string>
   <string name="file_info_canwrite">Kirjoitusoikeus: </string>
   <string name="file_info_ishidden">Piilotettu: </string>
@@ -406,7 +405,6 @@
   <string name="operation_share">Jaa</string>
   <string name="operation_show_sys">Näytä piilotetut tiedostot</string>
   <string name="operation_unfavorite">Poista suosikeista</string>
-  <string name="origin_name">%1$s: </string>
   <string name="original_user_desc">Lähetä alkuperäisiä videoita tasaiseen tahtiin saadaksesi Luoja-statuksen</string>
   <string name="original_user_qq_group">Join Talent team QQ group</string>
   <string name="original_user_register">• %1$s liittyi yhteisöön</string>
@@ -485,7 +483,6 @@
   <string name="recommend_popup_title">Suositukset</string>
   <string name="recommend_topic">Suositellut aiheet</string>
   <string name="recommend_user">Suositellut profiilit</string>
-  <string name="recommend_users">%1$s+</string>
   <string name="remote_video_report_success">Kiitos palautteestasi!</string>
   <string name="rename_alert">Jos vaihdat tämän tiedoston tiedostotunnisteen, et välttämättä voi avata sitä.</string>
   <string name="rename_alert2">Tiedosto piilotetaan tiedostonimen päätteen muuttamisen jälkeen.</string>
@@ -778,7 +775,6 @@
   <string name="video_topic_hint">Etsi</string>
   <string name="video_upload_btn">Seuraava</string>
   <string name="video_upload_btn_hint">MP4 videoiden täytyy olla 3 s ~ 10 min pitkiä</string>
-  <string name="video_upload_item_title">%1$s (%2$s)</string>
   <string name="video_upload_kuaishou_hint">Upload KuaiShou videos to get more fans.</string>
   <string name="video_upload_retry_confirm">Yritä uudelleen</string>
   <string name="video_upload_retry_message">Lähettäminen epäonnistui, yritetäänkö uudelleen?</string>

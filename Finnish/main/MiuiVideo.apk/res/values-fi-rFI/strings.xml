@@ -35,7 +35,6 @@
   <string name="back_quit_lock">Poistu videosta painamalla takaisinpainiketta uudelleen</string>
   <string name="brightness">Kirkkaus</string>
   <string name="cancel">Peruuta</string>
-  <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="common_google_play_services_unknown_issue">%1$s on ongelmia Google Play -palveluiden kanssa. Jos ongelma jatkuu, ole hyvä ja ota yhteyttä kehittäjiin, jotta saat apua.</string>
   <string name="default_text">Oletus</string>
   <string name="delete">Poista</string>

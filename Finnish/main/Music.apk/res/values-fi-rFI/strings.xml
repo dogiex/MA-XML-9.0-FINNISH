@@ -426,7 +426,6 @@
   <string name="list_detail_title">Tiedot</string>
   <string name="list_item_play_FM_radio">Toista FM radiota koskettamalla</string>
   <string name="list_item_play_all_tracks">Toista kaikki</string>
-  <string name="listview_index_of_total">%1$d/%2$d</string>
   <string name="load_shuffle">Ladataan…</string>
   <string name="loadercontainer_loading">Odota hetki…</string>
   <string name="loading_hint">Odota hetki…</string>

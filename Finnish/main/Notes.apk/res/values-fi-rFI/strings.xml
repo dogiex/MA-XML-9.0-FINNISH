@@ -93,7 +93,6 @@
   <string name="menu_title_select_folder">Valitse kansio</string>
   <string name="menu_unhide">Tuo esiin</string>
   <string name="menu_unstick">Poista kiinnitys</string>
-  <string name="micloud_state_total_count">%1$s</string>
   <string name="not_now">Ei nyt</string>
   <string name="note_alert_expired">Vanhentunut</string>
   <string name="note_description_content">Muistio on loistava sovellus kirjata ideasi. Siinä on sisäänrakennetut muistutukset ja se synkronoi muistiosi Mi Pilveen, jotta voit käyttää niitä milloin tahansa, mistä tahansa. Varmista, että pärjäät ilman näitä ominaisuuksia, ennen kuin poistat sovelluksen.</string>

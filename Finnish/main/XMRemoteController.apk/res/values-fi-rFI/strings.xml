@@ -117,7 +117,6 @@
   <string name="bind_stb_dlg">Parita set-top box vaihtamaan kanavia</string>
   <string name="bind_stb_dlg_2">Lisää set-top-box ensin</string>
   <string name="bind_stb_dlg_agree">Parita</string>
-  <string name="brand_device">%1$s %2$s</string>
   <string name="brand_search_box_hint">Valitse valmistaja</string>
   <string name="brand_title_all">Kaikki</string>
   <string name="brand_title_hot">Suositut</string>
@@ -170,7 +169,6 @@ Kokeile seuraavaa korjataksesi ongelman:
   <string name="channel_list">频道列表</string>
   <string name="channel_num">—</string>
   <string name="channel_removed_from_fav">%1$s已取消收藏</string>
-  <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="check_upgrade">Tarkista päivitykset</string>
   <string name="choose_ac">Valitse kaukosäädin</string>
   <string name="choose_address_title">Valitse sijainti</string>
@@ -415,7 +413,6 @@ Kokeile seuraavaa korjataksesi ongelman:
   <string name="hot_videos">Suosittu</string>
   <string name="hour">tunnit</string>
   <string name="humidity">Kosteus:</string>
-  <string name="humidity_frame">%1$d%%</string>
   <string name="increase">Ylös</string>
   <string name="input_complete">OK</string>
   <string name="input_dialogue_cancel_button">取消</string>
@@ -484,7 +481,6 @@ Kokeile seuraavaa korjataksesi ongelman:
   <string name="local_video">本地视频</string>
   <string name="locate_current_place">Etsi nykyinen sijainti</string>
   <string name="location_select">Nimeä laite uudelleen</string>
-  <string name="lock_screen_device_sum">%1$d</string>
   <string name="login">Kirjaudu sisään</string>
   <string name="login_directly">Kirjaudu sisään</string>
   <string name="login_done">Kirjauduttiin sisään</string>
@@ -512,7 +508,6 @@ Kokeile seuraavaa korjataksesi ongelman:
   <string name="match_data">Paritustiedot</string>
   <string name="match_data_error_tips">"Tietoa ei saatu
 Jatka palaamalla takaisin"</string>
-  <string name="match_dataset_frame">%1$d/%2$d</string>
   <string name="match_direction_default">Toimiiko suuntapainikkeet?</string>
   <string name="match_dvd_intro_pause">Vapauta, kun DVD toisto pysähtyy</string>
   <string name="match_dvd_intro_play">Vapauta, kun DVD aloittaa toiston</string>
@@ -982,8 +977,6 @@ suoraan Lukitusnäytöltäsi"</string>
   <string name="scaning">Haetaan…</string>
   <string name="scanning_milink">Haetaan laitteita…</string>
   <string name="scene_default">Oletus</string>
-  <string name="scene_name_frame">%1$s %2$s%3$s</string>
-  <string name="scene_name_frame_short">%1$s%2$s</string>
   <string name="screen_shot_button_title">截取电视屏幕</string>
   <string name="screen_shot_delete">删除</string>
   <string name="screen_shot_delete_warning">确定删除截图吗？</string>
@@ -1129,7 +1122,6 @@ suoraan Lukitusnäytöltäsi"</string>
   <string name="start_diagnosis">Kokeile</string>
   <string name="start_match">Parita</string>
   <string name="stb">Set-top box</string>
-  <string name="stb_detail_title_frame">%1$s - %2$d</string>
   <string name="stb_power">STB päälle/pois</string>
   <string name="steps">Yritys #%d</string>
   <string name="stop_auto_tune">停止自动换台</string>
@@ -1155,7 +1147,6 @@ suoraan Lukitusnäytöltäsi"</string>
   <string name="third_app_launch_failed">应用启动失败</string>
   <string name="third_party_video">Muut videot</string>
   <string name="time_error">Näyttää siltä, että kello on väärässä</string>
-  <string name="time_interval_in_sec">%1$d</string>
   <string name="timer">Ajastin</string>
   <string name="timer_turn_off">Ajasta sammumisen aika</string>
   <string name="timer_turn_on">Ajasta käynnistymisen aika</string>
@@ -1274,7 +1265,6 @@ Vaihtaaksesi, paina TV:n virtapainiketta pitkään"</string>
   <string name="wind_sweep">Keinuva</string>
   <string name="wx_not_installed">Asenna WeChat ensin</string>
   <string name="xiaomi_vip">Mi VIP</string>
-  <string name="year_format">%1$d</string>
   <string name="year_month_day_format">d.M.yyyy</string>
   <string name="yes">Kyllä</string>
   <string name="yesterday">Eilen</string>

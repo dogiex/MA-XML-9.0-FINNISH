@@ -155,7 +155,6 @@ Check your tracking number."</string>
   <string name="express_order_failed">Failed</string>
   <string name="express_order_ongoing">Ordering…</string>
   <string name="express_order_result">Result</string>
-  <string name="express_order_state">%1$s / %2$s</string>
   <string name="express_order_state_accepted">Accepted</string>
   <string name="express_order_state_allograph">Signed</string>
   <string name="express_order_state_cancelled">Canceled</string>
@@ -328,7 +327,6 @@ Check your tracking number."</string>
   <string name="nearby_average_price">Average %d RMB</string>
   <string name="nearby_no_yellow_page">No results nearby</string>
   <string name="nearby_yellow_page_title">Nearby</string>
-  <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
   <string name="network_access_denied">Network access denied</string>
   <string name="network_unavaliable">"Can't connect to the network"</string>
   <string name="no_brief">No summary</string>
@@ -344,7 +342,6 @@ Check your tracking number."</string>
   <string name="order_id_label">Order #: %1$s</string>
   <string name="order_info">Order info</string>
   <string name="order_merchant_title">My orders</string>
-  <string name="order_merchant_title_format">%1$s-%2$s</string>
   <string name="order_not_found">No orders</string>
   <string name="order_price_label">Order price: %1$s</string>
   <string name="order_product_name_label">Product name: %1$s</string>
@@ -393,7 +390,6 @@ Check your tracking number."</string>
   <string name="recharge_payment_result_ok_title">Added RMB %s</string>
   <string name="recharge_payment_result_progress_summary">Checking payment result…</string>
   <string name="recharge_phone">Target phone number:</string>
-  <string name="recharge_phone_format">%1$s / %2$s</string>
   <string name="recharge_phone_number_empty">"The phone number can't be empty"</string>
   <string name="recharge_phone_number_error">The phone number you entered is invalid</string>
   <string name="recharge_select_money_title">Select top-up amount</string>
@@ -421,7 +417,6 @@ Total: RMB %3$s"</string>
   <string name="sending_shortcut">Sending…</string>
   <string name="service_unavailiable">Service unavailable</string>
   <string name="share">Share</string>
-  <string name="shop_recommendation_format">%1$s: %2$s</string>
   <string name="sim1">Sim 1</string>
   <string name="sim2">Sim 2</string>
   <string name="sina_share_fail">Lähettäminen epäonnistui</string>

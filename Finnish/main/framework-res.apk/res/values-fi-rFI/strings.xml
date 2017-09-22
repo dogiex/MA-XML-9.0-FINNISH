@@ -375,7 +375,6 @@ käyttäen numeroa %s"</string>
   <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
   <string name="fcComplete">Ominaisuuskoodi valmis.</string>
   <string name="fcError">Yhteysongelma tai virheellinen ominaisuuskoodi.</string>
-  <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="find">Etsi</string>
   <string name="find_next">Hae seuraava</string>
   <string name="find_on_page">Etsi sivulta</string>
@@ -791,7 +790,6 @@ Yritä uudelleen %2$d sekunnin kuluttua."</string>
   <string name="needPuk2">Pura SIM-kortin esto antamalla PUK2-koodi.</string>
   <string name="negative_duration">−%1$s</string>
   <string name="network_available_sign_in">Kirjaudu verkkoon</string>
-  <string name="network_available_sign_in_detailed">%1$s</string>
   <string name="network_switch_metered">%1$s otettiin käyttöön</string>
   <string name="network_switch_metered_detail">%1$s otetaan käyttöön, kun %2$s ei voi muodostaa yhteyttä internetiin. Veloitukset ovat mahdollisia.</string>
   <string name="network_switch_metered_toast">%1$s poistettiin käytöstä ja %2$s otettiin käyttöön.</string>
@@ -813,7 +811,6 @@ Yritä uudelleen %2$d sekunnin kuluttua."</string>
   <string name="notification_hidden_text">Sisältö piilotettu</string>
   <string name="notification_inbox_ellipsis">…</string>
   <string name="notification_listener_binding_label">Ilmoituskuuntelija</string>
-  <string name="notification_messaging_title_template">%1$s: %2$s</string>
   <string name="notification_ranker_binding_label">Ilmoitusten sijoituspalvelu</string>
   <string name="notification_title">Kirjautumisvirhe tilille %1$s</string>
   <string name="notification_work_profile_content_description">Työprofiili</string>
@@ -1490,6 +1487,5 @@ Haluatko sulkea sen?"</string>
   <string name="zen_mode_feature_name">Älä häiritse</string>
   <string name="zen_mode_forever">Kunnes poistat tämän käytöstä</string>
   <string name="zen_mode_forever_dnd">Kunnes poistat Varattu-tilan käytöstä.</string>
-  <string name="zen_mode_rule_name_combination">%1$s/%2$s</string>
   <string name="zen_mode_until">Kunnes kello on %1$s</string>
 </resources>

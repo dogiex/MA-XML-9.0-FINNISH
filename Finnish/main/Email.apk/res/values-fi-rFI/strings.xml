@@ -492,7 +492,6 @@
   <string name="folder_trash_name_en2">Poistettu viesti</string>
   <string name="folder_trash_name_en3">[Gmail]/Roskakori</string>
   <string name="formatted_email_address">&lt;%1$s&gt;</string>
-  <string name="formatted_subject">%1$s %2$s</string>
   <string name="forward">Välitä</string>
   <string name="forward_attachment">Välitä</string>
   <string name="forward_attribution">---------- Välitetty viesti ----------&lt;br&gt;Lähettäjä: %1$s&lt;br&gt;Päivämäärä: %2$s&lt;br&gt;Aihe: %3$s&lt;br&gt;Vastaanottaja: %4$s&lt;br&gt;</string>
@@ -1011,7 +1010,6 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="silent_ringtone">Äänetön</string>
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-  <string name="single_new_message_notification_title">%1$s: %2$s</string>
   <string name="sms_tip">Todennus epäonnistui, tarkasta, ettei antivirus ohjelma estä tekstiviestejä</string>
   <string name="smtp_password_error">Lähtevän sähköpostin palvelimen salasana on väärin</string>
   <string name="sort_attachment">Lajittele</string>

@@ -832,7 +832,6 @@ Muodostetaanko pari tämän laitteen kanssa?"</string>
   <string name="calendar_sound_title">Kalenterin oletusääni</string>
   <string name="call_manager_enable_summary">Anna palvelun hallinnoida puheluita.</string>
   <string name="call_manager_enable_title">Ota Call Manager käyttöön</string>
-  <string name="call_manager_summary">%1$s</string>
   <string name="call_manager_title">Call Manager</string>
   <string name="call_settings_primary_user_only">Muuta puheluasetuksia Ensimmäisessä tilassa</string>
   <string name="call_settings_summary">Ota käyttöön puhelinvastaaja, soitonsiirrot, koputuspalvelu, soittajan tunnus</string>
@@ -1379,7 +1378,6 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="dndm_auto_button_title">Toista Älä Häiritse aika</string>
   <string name="dndm_auto_setting_group">Ajastettu</string>
   <string name="dndm_auto_time_setting">Aseta aika</string>
-  <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
   <string name="dndm_auto_time_turn_off">Ei käytössä</string>
   <string name="dndm_auto_time_turn_off_title">Poista Älä Häiritse automaattisesti käytöstä</string>
   <string name="dndm_auto_time_turn_on">Ota käyttöön</string>
@@ -1730,7 +1728,6 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="gadget_picker_title">Valitse gadget</string>
   <string name="gadget_state_off">pois käytöstä</string>
   <string name="gadget_state_on">käytössä</string>
-  <string name="gadget_state_template">%1$s %2$s</string>
   <string name="gadget_state_turning_off">poistetaan käytöstä</string>
   <string name="gadget_state_turning_on">otetaan käyttöön</string>
   <string name="gadget_sync">Synkronointi</string>
@@ -2004,7 +2001,6 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="lift_to_wake_title">Herätä nostamalla</string>
   <string name="line_breaking_summary">Optimoi kappaleen rivinväli</string>
   <string name="line_breaking_title">Optimoi teksti</string>
-  <string name="link_speed">%1$d Mt/s</string>
   <string name="link_speed_label">Linkin nopeus:</string>
   <string name="loading_notification_apps">Ladataan sovelluksia…</string>
   <string name="local_auto_backup_off">Pois päältä</string>
@@ -2803,7 +2799,6 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="phone_call_noise_suppression">Poista taustamelu puhelun aikana</string>
   <string name="phone_info_label">Puhelimen tiedot</string>
   <string name="phone_language">Kielet</string>
-  <string name="physical_device_title">%1$s – %2$s</string>
   <string name="physical_keyboard_title">Fyysinen näppäimistö</string>
   <string name="picture_color_mode">Kuvien värit</string>
   <string name="picture_color_mode_desc">Ota sRGB käyttöön</string>
@@ -3836,7 +3831,6 @@ PIN-koodi on mahdollisesti virheellinen."</string>
   <string name="size_kilo_byte">Kt</string>
   <string name="size_mega_byte">Mt</string>
   <string name="size_peta_byte">Pt</string>
-  <string name="size_suffix">%1$s %2$s</string>
   <string name="size_tera_byte">Tt</string>
   <string name="skip_anyway_button_label">Ohita silti</string>
   <string name="skip_label">Ohita</string>
@@ -4122,8 +4116,6 @@ Nopeampi ^1 voi toimia tehokkaammin."</string>
   <string name="suggestions_title">Ehdotukset (%1$d)</string>
   <string name="sum_carrier_select">Valitse verkko-operaattori</string>
   <string name="summary_divider_text">", "</string>
-  <string name="summary_font_size">%1$s</string>
-  <string name="summary_range_symbol_combination">%1$s–%2$s</string>
   <string name="summary_range_verbal_combination">%1$s–%2$s</string>
   <string name="supl_not_set">Ei asetettu</string>
   <string name="supplicant_state_label">Supplicant state:</string>
@@ -5268,7 +5260,6 @@ Muodosta yhteys toiseen Wi-Fi-verkkoon valitsemalla "&lt;b&gt;Takaisin&lt;/b&gt;
   <string name="zen_mode_summary_alarms_only_by_time">Ota vain hälytykset käyttöön kello %1$s asti.</string>
   <string name="zen_mode_summary_alarms_only_indefinite">Ota vain hälytykset käyttöön toistaiseksi.</string>
   <string name="zen_mode_summary_always">Salli keskeytykset aina.</string>
-  <string name="zen_mode_summary_combination">%1$s: %2$s</string>
   <string name="zen_mode_visual_interruptions_settings_title">Estä näkyvät häiriötekijät</string>
   <string name="zen_mode_when">Ota autom. käyttöön</string>
   <string name="zen_mode_when_every_night">Joka yö</string>

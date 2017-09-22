@@ -118,7 +118,6 @@
   <string name="shutdown_alarm_enable_summary">Herätys soi laite sammutettuna</string>
   <string name="shutdown_alarm_title">Sammutetun laitteen hälytys</string>
   <string name="silent_alarm_summary">Äänetön</string>
-  <string name="skip_alarm_date_format">%1$s (%2$s)</string>
   <string name="skip_alarm_once_hint">Pois käytöstä kerran: %s</string>
   <string name="slider_text">Sammuta pyyhkäisemällä ylös</string>
   <string name="snooze_confirm_cancel">Hylkää hälytys</string>

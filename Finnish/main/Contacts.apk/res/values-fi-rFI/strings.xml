@@ -97,7 +97,6 @@
   <string name="call_sim_menu_title_suffix">(Ensisijainen)</string>
   <string name="call_telex">Soita teleksinumeroon</string>
   <string name="call_tty_tdd">Soita tekstipuhelimeen</string>
-  <string name="call_type_and_date">%1$s %2$s</string>
   <string name="call_unit">CNY</string>
   <string name="call_work">Soita työnumeroon</string>
   <string name="call_work_mobile">Soita matkapuhelimeen (työ)</string>
@@ -482,7 +481,6 @@ Syy: %s"</string>
   <string name="force_touch_new_contact">Uusi yhteystieto</string>
   <string name="foundTooManyContacts">Löytyi yli %d yhteystietoa.</string>
   <string name="frequentList">Usein käytetyt</string>
-  <string name="from_account_format">%1$s</string>
   <string name="full_name">Nimi</string>
   <string name="gallery">Galleria</string>
   <string name="generic_no_account_prompt">Pidä kontaktisi turvassa, vaikka puhelimesi katoaisi: synkronoi ne verkkopalvelun avulla.</string>
@@ -560,7 +558,6 @@ Syy: %s"</string>
   <string name="import_weibo_fetch_followers">Noudetaan yhteystietoja…</string>
   <string name="import_weibo_notification_title_done">Päivitetty %s yhteystietoja</string>
   <string name="import_weibo_progress_name">Verrataan \"%1$s\"…</string>
-  <string name="import_weibo_progress_percent">%1$d%%</string>
   <string name="importing_sim_contacts_miui">Tuodaan yhteystiedot SIM-kortilta…</string>
   <string name="importing_sim_contacts_miui_prepare">Valmistellaan yhteystietoja…</string>
   <string name="importing_vcard_canceled_title">Kohteen %s tuonti peruutettiin</string>
@@ -1115,7 +1112,6 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="sim_unloaded">SIM-kortti on purettu</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="single_group_list_empty">Ei ryhmän jäseniä</string>
-  <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
   <string name="smart_group_company_label">Yrityksittäin</string>
   <string name="smart_group_company_unavailable">Ei yrityksiä</string>
   <string name="smart_group_frequency_1">Kuukauden sisään</string>
@@ -1247,7 +1243,6 @@ Valitse seuraavista vaihtoehdoista:"</string>
   <string name="voip_audio_description">VoIP-puhelu</string>
   <string name="voip_video_description">VoIP-videopuhelu</string>
   <string name="websiteLabelsGroup">Sivusto</string>
-  <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Tyhjennä tiedot</string>
   <string name="yellowPageNavigationIconLabel">Hakemisto</string>
   <string name="yellowPageNavigationLabel">Hakemisto</string>

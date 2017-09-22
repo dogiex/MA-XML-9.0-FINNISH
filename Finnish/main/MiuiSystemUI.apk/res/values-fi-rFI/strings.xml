@@ -360,7 +360,6 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="nav_guide_message">Piilota/näytä painikkeet eleillä.</string>
   <string name="nav_guide_ok">Aseta</string>
   <string name="nav_guide_title">Piilota painikkeet</string>
-  <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_application">Nothing</string>
   <string name="no_multi_window_app">Ei sovelluksia, jotka tukevat Jaettua näyttö</string>
   <string name="no_notification_tips">Ei ilmoituksia.</string>
@@ -647,7 +646,6 @@ Pyyhkäise alas lukitaksesi"</string>
   <string name="vpn_title_long">Yhdistetään VPN-palvelimeen käyttäen %s</string>
   <string name="wait_for_debugger">Odota vianetsintää</string>
   <string name="wait_for_debugger_summary">Sovellus odottaa vianetsinnän lisäämistä, ja käynnistyy sen jälkeen.</string>
-  <string name="weather_description_no_aqi">%1$s</string>
   <string name="weather_publish_time">Päivitetty %1$s</string>
   <string name="wifi_aggressive_handover">Automaattinen Wi-Fi &gt; Matkapuhelinverkon handover</string>
   <string name="wifi_aggressive_handover_summary">Kun asetus on käytössä, Wi-Fi siirtää datayhteyden aktiivisemmin matkapuhelinverkolle, jos Wi-Fi-signaali on heikko.</string>

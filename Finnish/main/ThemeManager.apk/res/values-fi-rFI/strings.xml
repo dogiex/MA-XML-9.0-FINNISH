@@ -59,7 +59,6 @@
   <string name="favorite_list_format">Suosikki %1$s</string>
   <string name="find_more_wallpapers">Hae lisää</string>
   <string name="gift_anonymous">Anonyymi</string>
-  <string name="gift_count_format">%1$s+</string>
   <string name="gift_operation_fail_dlg_abandon">Peruuta</string>
   <string name="gift_operation_fail_dlg_retry">Yritä uudelleen</string>
   <string name="gift_operation_waiting">Odota hetki…</string>
@@ -404,7 +403,6 @@
   <string name="theme_is_external_priority_storage">Tallenna SD-kortille</string>
   <string name="theme_is_external_priority_storage_summary">Teema-sovellus käynnistyy uudelleen heti tämän asetuksen asettamisen jälkeen.</string>
   <string name="theme_multiple_button_title_customize">Kustomoi</string>
-  <string name="theme_name">%1$s</string>
   <string name="theme_no">Ei</string>
   <string name="theme_precast_create_notification_content">Näytä uudet teemat napauttamalla.</string>
   <string name="theme_precast_create_notification_title">Päivitetty MIUI 7:ään</string>

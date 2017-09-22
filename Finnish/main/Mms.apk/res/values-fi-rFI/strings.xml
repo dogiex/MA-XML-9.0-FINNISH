@@ -181,7 +181,6 @@
   <string name="file_size">Koko:</string>
   <string name="file_title">Nimi:</string>
   <string name="file_width_height">Koko:</string>
-  <string name="flatshow_page_no">%1$d</string>
   <string name="force_touch_new_message_title">Uusi viesti</string>
   <string name="forward_from">Välitetty lähettäjältä:</string>
   <string name="forward_prefix">"Fwd: "</string>
@@ -536,7 +535,6 @@
   <string name="send_signature_confirm_dialog_title">Lähetä viesti</string>
   <string name="send_sms">Lähetä viesti</string>
   <string name="send_to">To:</string>
-  <string name="send_to_index_contact">%1$s/%2$s</string>
   <string name="sent_at_time">Lähetetty klo: %1s</string>
   <string name="sent_label">"Lähetetty: "</string>
   <string name="service_message_not_found">Viesti on vanhentunut tai ei ole käytettävissä</string>
