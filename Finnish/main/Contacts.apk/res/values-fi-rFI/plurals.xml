@@ -121,10 +121,6 @@
         <item quantity="other">Poistetaanko nämä %1$d puhelinnumerot estosta?</item>
         <item quantity="one">Poistetaanko tämä puhelinnumero estosta?</item>
     </plurals>
-    <plurals name="livetalk_unit">
-        <item quantity="other">Minuuttia</item>
-        <item quantity="one">Minuutti</item>
-    </plurals>
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">Soinut %1$d kertaa</item>
         <item quantity="one">Soinut %1$d kerran</item>

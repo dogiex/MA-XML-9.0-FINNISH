@@ -588,11 +588,6 @@ Syy: %s"</string>
   <string name="list_filter_customize">Muokkaa</string>
   <string name="list_filter_phones">Kaikki kontaktit, joilla on puhelinnumero</string>
   <string name="list_filter_single">Yhteystieto</string>
-  <string name="live_talk_switch_on_toast">Top-up paketti otettiin käyttöön onnistuneesti</string>
-  <string name="livetalk_charge">Top up</string>
-  <string name="livetalk_left">Jäljellä</string>
-  <string name="livetalk_switch_on">Ota käytöön</string>
-  <string name="livetalk_title">Top-up paketti</string>
   <string name="loading_accounts">Odota hetki…</string>
   <string name="loading_group_members">Ladataan ryhmän jäseniä…</string>
   <string name="loading_groups">Ladataan ryhmiä…</string>
