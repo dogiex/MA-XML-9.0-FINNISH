@@ -26,7 +26,6 @@
   <string name="button_move">Siirrä</string>
   <string name="button_retry">Yritä uudelleen</string>
   <string name="button_select">Valitse</string>
-  <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="clipboard_files_cannot_paste">Valittuja tiedostoja ei voi liittää tähän sijaintiin.</string>
   <string name="close">Sulje</string>
   <string name="copy_converted_warning_content">Nämä tiedostot muunnettiin toiseen muotoon: %1$s</string>
