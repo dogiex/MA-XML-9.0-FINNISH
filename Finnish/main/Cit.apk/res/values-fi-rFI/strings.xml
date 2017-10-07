@@ -80,15 +80,15 @@
   <string name="cit_OTG_waiting_out">Poista USB OTG-laite nyt</string>
   <string name="cit_abnormal_reboot_summary">Ole hyvä ja odota hetki...Luetaan tämän laitteen vakaustietoja.</string>
   <string name="cit_abnormal_reboot_title">Laitteen vakaustiedot</string>
-  <string name="cit_ac_charger_in">Charging via AC</string>
-  <string name="cit_ac_charger_out">AC charger disconnected</string>
-  <string name="cit_accdata_sensor_check_summary">Values for X, Y, Z, coordinates should appear below</string>
-  <string name="cit_accdata_sensor_check_title">Accelerometer</string>
-  <string name="cit_accelermeter_sensor_check_summary">"Move the device quickly in one direction. X，Y，Z coordinate values are displayed below. (when phone is in motion: X is represents left/right, y represents front/back, z represents up and down).
-Before you calibrate the device, place it on a flat surface."</string>
-  <string name="cit_accelermeter_sensor_check_title">Accelerometer</string>
-  <string name="cit_apk_signature_failed">apk signature FAILED</string>
-  <string name="cit_apk_signature_passed">apk signature PASSED</string>
+  <string name="cit_ac_charger_in">Ladataan verkkovirralla</string>
+  <string name="cit_ac_charger_out">Verkkovirtalaturi poistettu</string>
+  <string name="cit_accdata_sensor_check_summary">X, Y ja Z -koordinaattien arvot pitäisi ilmestyä alle</string>
+  <string name="cit_accdata_sensor_check_title">Kiihtyvyysanturi</string>
+  <string name="cit_accelermeter_sensor_check_summary">"Liikuta laitetta nopeasti yhteen suuntaan. X, Y ja Z -koordinaattien arvot näkyvät alapuolella. (kun puhelinta liikutetaan: X edustaa vasemmalle/oikealle, Y edustaa eteen/taakse, Z edustaa ylös ja alas).
+Ennen laitteesi kalibrointia, aseta se tasaiselle pinnalle."</string>
+  <string name="cit_accelermeter_sensor_check_title">Kiihtyvyysanturi</string>
+  <string name="cit_apk_signature_failed">apk allekirjoitus EPÄONNISTUI</string>
+  <string name="cit_apk_signature_passed">apk allekirjoitus LÄPÄISTY</string>
   <string name="cit_aud_current_state">Nykyinen tila:</string>
   <string name="cit_aud_spk_vendor">Kaiuttimen myyjä:</string>
   <string name="cit_aud_spkcal">Kalibroi</string>
@@ -107,26 +107,26 @@ Before you calibrate the device, place it on a flat surface."</string>
   <string name="cit_audio_check_title">Äänitiedot</string>
   <string name="cit_audio_get_temp_fail">Lämpötilan tietojen haku epäonnistui!</string>
   <string name="cit_audio_hdset_plug">"Äänikuulokkeiden liittämiskerrat: "</string>
-  <string name="cit_audio_lb_backmic_to_speaker_title">Back mic speaker feedback test</string>
-  <string name="cit_audio_lb_frontmic_to_speaker_title">Front mic speaker feedback test</string>
-  <string name="cit_audio_lb_mainmic_to_earpiece_title">Main mic speaker feedback test</string>
+  <string name="cit_audio_lb_backmic_to_speaker_title">Takamikrofoni kaiutin palautetesti</string>
+  <string name="cit_audio_lb_frontmic_to_speaker_title">Etumikrofoni kaiutin palautetesti</string>
+  <string name="cit_audio_lb_mainmic_to_earpiece_title">Päämikrofoni kaiutin palautetesti</string>
   <string name="cit_audio_lb_phonecall_title">Simuloitu puhelutesti</string>
-  <string name="cit_audio_lb_summary_backmic_to_speaker">"Back microphone to speaker feedback test. 
+  <string name="cit_audio_lb_summary_backmic_to_speaker">"Takamikrofonista kaiuttimeen palautetesti.
 
-Turn the phone, Speak to back microphone , you should hear voice in speaker"</string>
-  <string name="cit_audio_lb_summary_frontmic_to_speaker">"Front microphone to speaker feedback test. 
+Käännä puhelin ympäri, puhu takamikrofoniin, sinun pitäisi kuulla ääntä kaiuttimesta."</string>
+  <string name="cit_audio_lb_summary_frontmic_to_speaker">"Etumikrofonista kaiuttimeen palautetesti.
 
-Speak to front microphone , you should hear voice in speaker"</string>
-  <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Main microphone to receiver feedback test.
+Puhu etumikrofoniin, sinun pitäisi kuulla ääntä kaiuttimesta"</string>
+  <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Päämikrofonista kaiuttimeen palautetesti.
 
-Hold the phone as if you are making a call, speak to main microphone, you should hear voice from reveiver"</string>
-  <string name="cit_audio_lb_summary_phonecall">"Simulation call test.
+Pidä puhelinta, kuin soittaisit sillä, puhu päämikrofoniin, sinun pitäisi kuulla ääntä kaiuttimesta"</string>
+  <string name="cit_audio_lb_summary_phonecall">"Puhelun simulointitesti.
 
-Hold the phone as if you are making a call, Speak to main microphone, you should hear voice in the receiver. do the test in silent environment"</string>
-  <string name="cit_audio_lb_summary_topmic_to_speaker">"Top microphone to speaker feedback test.
+Pidä puhelinta, kuin soittaisit sillä, puhu päämikrofoniin, sinun pitäisi kuulla ääntä kaiuttimesta. Tee testi hiljaisessa ympäristössä"</string>
+  <string name="cit_audio_lb_summary_topmic_to_speaker">"Ylämikrofonista kaiuttimeen palautetesti.
 
-Speak to top microphone , you should hear voice in speaker"</string>
-  <string name="cit_audio_lb_topmic_to_speaker_title">Top mic speaker feedback test</string>
+Puhu ylämikrofoniin, sinun pitäisi kuulla ääntä kaiuttimesta"</string>
+  <string name="cit_audio_lb_topmic_to_speaker_title">Ylämikrofonin kaiutin palautetesti</string>
   <string name="cit_audio_left_caldata">"Left PA Calibrated Data:
 "</string>
   <string name="cit_audio_left_calfail">Left PA Calibrated Failed!</string>
