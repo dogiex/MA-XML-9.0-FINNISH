@@ -31,6 +31,9 @@ Tietoja ei poisteta."</string>
   <string name="menu_title_current_version_log">Mitä on uutta?</string>
   <string name="menu_title_pick_rom_file">Valitse päivityspaketti</string>
   <string name="menu_title_recovery">Käynnistä Recoverytilaan</string>
+  <string name="message">%1$s</string>
+  <string name="message_checkbox">Piilota tulevat viestit Xiaomi.eu ryhmältä</string>
+  <string name="message_title">HUOMAUTUS!</string>
   <string name="new_version">Uusi versio löytyi!</string>
   <string name="no_info">Tietoja ei ole saatavilla.</string>
   <string name="no_network">Ei pääsyä verkkoon.</string>
