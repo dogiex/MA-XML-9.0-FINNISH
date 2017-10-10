@@ -19,7 +19,7 @@
   <string name="app_name_downloadedrom">Paketit</string>
   <string name="app_name_downloads">Lataukset</string>
   <string name="app_name_market">Sovelluskauppa</string>
-  <string name="app_name_midrop">Mi Siirtäjä</string>
+  <string name="app_name_midrop">Mi Drop</string>
   <string name="app_name_miui">MIUI</string>
   <string name="app_name_miuimusic">Musiikki</string>
   <string name="app_name_miuiringtone">Soittoääni</string>
@@ -294,7 +294,7 @@
   <string name="megabyteShort">Mt</string>
   <string name="menu_item_cleanup">Puhdista</string>
   <string name="menu_item_ftp">FTP</string>
-  <string name="menu_item_midrop">Mi Siirtäjä</string>
+  <string name="menu_item_midrop">Mi Drop</string>
   <string name="menu_item_router">Reititin</string>
   <string name="menu_item_search">Haku</string>
   <string name="menu_item_sort">Järjestä</string>
@@ -313,8 +313,8 @@
   <string name="message_reply_prefix">Vastaa</string>
   <string name="message_reply_suffix">": "</string>
   <string name="mi_router_label">Reititin</string>
-  <string name="midrop_msg_1">Ota Mi Siirtäjä toisessa laitteessa käyttöön</string>
-  <string name="midrop_msg_2">Kun Mi Siirtäjä on käytössä, voit etsiä lähellä olevia laitteita ja lähettää tiedostoja</string>
+  <string name="midrop_msg_1">Ota Mi Drop toisessa laitteessa käyttöön</string>
+  <string name="midrop_msg_2">Kun Mi Drop on käytössä, voit etsiä lähellä olevia laitteita ja lähettää tiedostoja</string>
   <string name="midrop_send_files">Valitse lähetettävät tiedostot</string>
   <string name="mobile_network_dialog_cancle">Peruuta</string>
   <string name="mobile_network_dialog_confirm">OK</string>
@@ -530,7 +530,7 @@
   <string name="search_hot_sticker">Tarrat;Lataa tarroja</string>
   <string name="search_hot_video">Suositut videot;Lähetä videoita;Lähetä video;Lyhyt video;Lyhyitä videoita;Pieni video;Pieniä videoita</string>
   <string name="search_keyword">Tägit</string>
-  <string name="search_kuai_chuan">Mi Siirtäjä;Lähetys</string>
+  <string name="search_kuai_chuan">Mi Drop;Siirrä</string>
   <string name="search_popup_tip">Voit etsiä henkilöitä tai otsikoita</string>
   <string name="search_recent_file">Tiedostoselain;Resurssienhallinta;Tiedosto;Tiedostot;Hallitse tiedostoja;Tiedostojen hallinta</string>
   <string name="search_result">Tulokset</string>

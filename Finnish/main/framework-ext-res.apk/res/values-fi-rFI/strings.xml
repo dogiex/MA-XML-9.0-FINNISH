@@ -141,7 +141,7 @@
   <string name="status_bar_toggle_flight_mode">Lentokonetila</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Lukitse</string>
-  <string name="status_bar_toggle_midrop">Mi Siirtäjä</string>
+  <string name="status_bar_toggle_midrop">Mi Drop</string>
   <string name="status_bar_toggle_mute">Äänetön</string>
   <string name="status_bar_toggle_nfc">NFC</string>
   <string name="status_bar_toggle_paper_mode">Lukutila</string>
