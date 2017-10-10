@@ -296,7 +296,7 @@ http://www.miliao.com
   <string name="trans_intro_question_6">6. Miksi jotkut sovellukset eivät käynnisty uudella laitteella?</string>
   <string name="trans_intro_question_7">7. Miksi WeChat hostoria ei siirry kokonaan?</string>
   <string name="trans_intro_question_8">8. Mitä kohteita ei voi siirtää?</string>
-  <string name="trans_intro_title">FAQ</string>
+  <string name="trans_intro_title">UKK</string>
   <string name="trans_intro_title_account">Tilit ja salasanat:</string>
   <string name="trans_intro_title_multiapp">Kloonattujen sovelluksien tiedot:</string>
   <string name="trans_intro_title_multiuser">Toisen tilan tiedot:</string>
