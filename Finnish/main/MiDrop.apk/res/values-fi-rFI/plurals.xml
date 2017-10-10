@@ -49,8 +49,8 @@
         <item quantity="one">Vastaanotetaan %1$s tiedosto…</item>
     </plurals>
     <plurals name="notif_receive_cancel">
-        <item quantity="other">%1$s tiedostoa ei siirtynyt</item>
-        <item quantity="one">%1$s tiedosto ei siirtynyt</item>
+        <item quantity="other">Siirto lähettäjältä %1$s peruutettiin</item>
+        <item quantity="one">Siirto lähettäjältä %1$s peruutettiin</item>
     </plurals>
     <plurals name="notif_receive_success">
         <item quantity="other">Vastaanotettiin %1$s tiedostoa</item>

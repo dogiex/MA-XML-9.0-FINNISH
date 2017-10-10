@@ -86,7 +86,7 @@
   <string name="fund_loan"/>
   <string name="gay_other_search_result">暂时不支持同性婚姻称呼查询，怎么称呼你决定~</string>
   <string name="gay_search_result">是男是女不重要，是你就好</string>
-  <string name="global_network_confirm_content">Valuuttamuunninlaskimien on käytettävä laitteesi verkkoyhteyttä toimiakseen normaalisti.</string>
+  <string name="global_network_confirm_content">Valuuttamuuntimen on yhdistettävä internetiin toimiakseen normaalisti.</string>
   <string name="global_search_key_area_convertion">Alue;Aluemuunnin;Aluemuuntaja;Alueen muunnos</string>
   <string name="global_search_key_calculation">Laske;Laskin;Yksikkömuunnos;Muuntaja;Yksikön muuntaja</string>
   <string name="global_search_key_date_convertion">Ajan muuntaja;Ajan yksiköt;Ajan muuttaminen;Aika</string>
@@ -166,15 +166,15 @@
   <string name="mortgage_repayment_amount">Takaisinmaksun suuruus</string>
   <string name="mortgage_result">Lainan lopputulos</string>
   <string name="mortgage_show_details">Näytä tiedot</string>
-  <string name="mortgage_tab_accumulation_fund">Accumulation fund</string>
+  <string name="mortgage_tab_accumulation_fund">Rahoitus</string>
   <string name="mortgage_tab_combining_loan">Combinined</string>
   <string name="mortgage_tab_commercial_loan">Commercial</string>
   <string name="mortgage_years_amount">Lainan vuodet</string>
   <string name="mother">妈妈</string>
   <string name="mul">×</string>
   <string name="mulDesc">kertaa</string>
-  <string name="network_confirm_content">Valuutan, veron ja lainan laskuun tarvitaan laitteen olevan yhteydessä verkkoon toimiaakseen normaalisti.</string>
-  <string name="network_confirm_title">Verkkopyyntö</string>
+  <string name="network_confirm_content">Valuuttamuuntimen, veron- ja lainalaskurin on yhdistettävä internetiin ja käytettävä laitteen sijaintitietoja toimiakseen normaalisti.</string>
+  <string name="network_confirm_title">Käyttöoikeuksia vaaditaan</string>
   <string name="percentDesc">prosentti</string>
   <string name="percentage">%</string>
   <string name="pi">π</string>
@@ -283,7 +283,7 @@
   <string name="unit_data_display_length_fm">Fathom</string>
   <string name="unit_data_display_length_ft">Jalka</string>
   <string name="unit_data_display_length_fur">Femara</string>
-  <string name="unit_data_display_length_gongli">Gong li</string>
+  <string name="unit_data_display_length_gongli">Gongli</string>
   <string name="unit_data_display_length_hao">Hao</string>
   <string name="unit_data_display_length_in">Tuuma</string>
   <string name="unit_data_display_length_km">Kilometri</string>
@@ -384,7 +384,7 @@
   <string name="unit_data_short_length_hao">hao</string>
   <string name="unit_data_short_length_in">in</string>
   <string name="unit_data_short_length_li">li</string>
-  <string name="unit_data_short_length_lii">li</string>
+  <string name="unit_data_short_length_lii">lii</string>
   <string name="unit_data_short_length_mi">maili</string>
   <string name="unit_data_short_length_nmi">nmi</string>
   <string name="unit_data_short_length_um">μm</string>

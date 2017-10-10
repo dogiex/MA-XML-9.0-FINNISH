@@ -108,7 +108,8 @@
   <string name="battery_low_percent_format">%d%% jäljellä</string>
   <string name="battery_low_title">Yhdistä laturi</string>
   <string name="battery_profiles">Käytä akun profiileja</string>
-  <string name="block_notification_content_text">Sovelluksen %1$s ilmoituksia ei näytetä uudelleen. Voit vaihtaa tätä Asetuksissa.</string>
+  <string name="block_notification_content_text">Sovelluksen %1$s ilmoituksia ei näytetä uudelleen. Voit muuttaa tätä Asetuksissa.</string>
+  <string name="block_notification_desc">Sovelluksen ilmoituksia ei näytetä uudelleen. Voit muuttaa tätä Asetuksissa.</string>
   <string name="block_notification_text">Piilota</string>
   <string name="block_record_notification_text">Piilotetaan %1$s ilmoitukset.</string>
   <string name="block_record_notification_title">Ilmoitukset on piilotettu</string>
@@ -441,12 +442,12 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="recents_drag_hint_message">Jaa näyttö vetämällä tähän</string>
   <string name="recents_empty_message">Ei viimeaikaisia kohteita</string>
   <string name="recents_empty_message_dismissed_all">Kaikki on hoidettu.</string>
-  <string name="recents_empty_message_multi_window">Mene Aloitusnäytölle avataksesi sovellus</string>
+  <string name="recents_empty_message_multi_window">Avaa sovelluksia Aloitusnäytöltä</string>
   <string name="recents_exit_multi_window_mode">Poistu</string>
   <string name="recents_incompatible_app_message">Tämä sovellus ei tue jaettua näyttöä</string>
   <string name="recents_launch_disabled_message">%s on poistettu käytöstä vikasietotilassa.</string>
   <string name="recents_launch_error_message">Sovelluksen %s käynnistäminen epäonnistui.</string>
-  <string name="recents_lock_to_app_button_label">Näytön kiinnitys</string>
+  <string name="recents_lock_to_app_button_label">Kiinnitä näyttö</string>
   <string name="recents_multi_window_mode">Jaa näyttö</string>
   <string name="recents_multistack_add_stack_dialog_split_custom">Muokattu jako</string>
   <string name="recents_multistack_add_stack_dialog_split_horizontal">Vaakasuuntainen jako</string>
@@ -489,6 +490,7 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="screenshot_saving_ticker">Tallennetaan kuvakaappausta…</string>
   <string name="screenshot_saving_title">Tallennetaan kuvakaappausta…</string>
   <string name="screenshot_send">Lähetä</string>
+  <string name="search_hint">Hae verkkosivuja, sovelluksia, yhteystietoja, videoita...</string>
   <string name="select_application">Valitse sovellus</string>
   <string name="select_logd_size_dialog_title">Valitse puskurikohtaiset lokikoot</string>
   <string name="select_logd_size_title">Lokipuskurien koot</string>
@@ -648,7 +650,7 @@ Pyyhkäise alas lukitaksesi"</string>
   <string name="wait_for_debugger_summary">Sovellus odottaa vianetsinnän lisäämistä, ja käynnistyy sen jälkeen.</string>
   <string name="weather_publish_time">Päivitetty %1$s</string>
   <string name="wifi_aggressive_handover">Automaattinen Wi-Fi &gt; Matkapuhelinverkon handover</string>
-  <string name="wifi_aggressive_handover_summary">Kun asetus on käytössä, Wi-Fi siirtää datayhteyden aktiivisemmin matkapuhelinverkolle, jos Wi-Fi-signaali on heikko.</string>
+  <string name="wifi_aggressive_handover_summary">Asetuksen ollessa käytössä, yhteys siirtyy mobiilidataan aktiivisemmin, kun Wi-Fi-signaali on heikko.</string>
   <string name="wifi_allow_scan_with_traffic">Salli Wi-Fi-verkkovierailuskannaus aina</string>
   <string name="wifi_allow_scan_with_traffic_summary">Salli/estä Wi-Fi-verkkovierailuskannaus liittymässä esiintyvän dataliikenteen perusteella.</string>
   <string name="wifi_connected_no_internet">Yhdistetty, ei internetyhteyttä.</string>

@@ -32,8 +32,8 @@
     <string-array name="action_param_translate">
         <item>Ei mitään</item>
         <item>Oletus</item>
-        <item>Kuva</item>
-        <item>Elokuva</item>
+        <item>Kuvat</item>
+        <item>Elokuvat</item>
         <item>Virransäästö</item>
         <item>Tasapainoinen</item>
         <item>Suorituskyky</item>
@@ -67,23 +67,23 @@
         <item>Herättää laitetta usein</item>
     </string-array>
     <string-array name="power_checker_recent_group_titles">
-        <item>Kernel WakeLock</item>
-        <item>WakeLock</item>
-        <item>WIFI scan</item>
-        <item>GPS</item>
-        <item>CPU</item>
-        <item>Wake Up</item>
+        <item>Estää syvän unen</item>
+        <item>Estää lepotilan</item>
+        <item>Hakee Wi-Fiä</item>
+        <item>Käyttää GPS:ää</item>
+        <item>Käyttää CPU:ta</item>
+        <item>Herättää laitetta usein</item>
     </string-array>
     <string-array name="invisible_app_groups">
         <item>valittu</item>
         <item>ei valittu</item>
     </string-array>
     <string-array name="thermal_entries">
-        <item>Oletus lämmönhallintatila</item>
-        <item>Suorituskyky ensin -tila</item>
+        <item>Oletus lämpötilan säätötila</item>
+        <item>Suorituskykytila</item>
     </string-array>
     <string-array name="thermal_summaries">
-        <item>Nykyinen oletustila</item>
+        <item>Nykyinen lämpötilan säätötila</item>
         <item>Nykyinen suorituskykytila</item>
     </string-array>
 </resources>

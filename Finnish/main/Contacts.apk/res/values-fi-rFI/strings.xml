@@ -207,7 +207,7 @@
   <string name="contactSavedErrorToast">Ei voitu tallentaa yhteystietojen muutoksia.</string>
   <string name="contactSavedToast">Yhteystieto tallennettu</string>
   <string name="contact_clear_search_history">Tyhjennä historia</string>
-  <string name="contact_delete_toast">Yhteystieto poistettiin onnistuneesti</string>
+  <string name="contact_delete_toast">Yhteystieto poistettu</string>
   <string name="contact_detail_action_item_calllog">Puheluloki</string>
   <string name="contact_detail_action_item_nocalllog">Ei Puhelulokia</string>
   <string name="contact_detail_calllog_call_note_tips">Muistiinpano</string>
@@ -495,7 +495,8 @@ Syy: %s"</string>
   <string name="group_delete_success_toast">Ryhmän poisto onnistui</string>
   <string name="group_detail_label_placeholder"> </string>
   <string name="group_edit_field_hint_text">Ryhmän nimi</string>
-  <string name="group_member_remove_toast">Removed from group</string>
+  <string name="group_member_remove_fail_toast">Ei poistettu ryhmästä</string>
+  <string name="group_member_remove_success_toast">Poistettu ryhmästä</string>
   <string name="group_name">Omat ryhmät</string>
   <string name="group_name_hint">Ryhmän nimi</string>
   <string name="group_read_only">Ei muokattavissa tällä laitteella.</string>
@@ -943,8 +944,8 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="preference_phone">Puhelin</string>
   <string name="preference_phone_more_title">Puheluasetukset</string>
   <string name="preference_remove_duplicate">Yhdistä yhteystietojen kaksoiskappaleet</string>
-  <string name="preference_show_yellowpage_tab_description">Sulje Hakemistot välilehti, Hakemistot ominaisuus ei toimi normaalisti</string>
-  <string name="preference_show_yellowpage_tab_title">Näytä Hakemistot-merkintä</string>
+  <string name="preference_show_yellowpage_tab_description">Hakemistot ei välttämättä toimi kunnolla, kun tämä ominaisuus on pois käytöstä.</string>
+  <string name="preference_show_yellowpage_tab_title">Näytä Hakemistot</string>
   <string name="preference_simple_mode_description">Näytä kuvat ja muut tiedot yhteystietojen luettelonäkymässä</string>
   <string name="preference_simple_mode_title">Näytä kuvat ja muut tiedot</string>
   <string name="preference_smart_group_company_summary">Ryhmitä yrityksen mukaan</string>
@@ -1155,7 +1156,7 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="success_message_import_from_account">Yhteystieto tuotu</string>
   <string name="summary_kind_title">Yhteenveto</string>
   <string name="t9_search_empty_create_contact">Uusi yhteystieto</string>
-  <string name="t9_search_empty_edit_contact">Lisää yhteystietoon</string>
+  <string name="t9_search_empty_edit_contact">Lisää yhteystietoihin</string>
   <string name="t9_search_empty_send_sms">Lähetä viesti</string>
   <string name="t9_search_empty_video_call">Videopuhelu</string>
   <string name="t9_search_guide_pinyin_title1">Etsi yhteystietoja syöttämällä numeroita</string>
@@ -1177,7 +1178,7 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="toast_for_saving_nickname">Lempinimi tallennettu</string>
   <string name="toast_join_with_empty_contact">Kirjoita kontaktin nimi ennen kuin yhdistät sen toiseen.</string>
   <string name="toast_making_personal_copy">Luodaan oma kopio…</string>
-  <string name="toast_start_intent_failed">Tätä toimintoa käsittelevää sovellusta ei löydy</string>
+  <string name="toast_start_intent_failed">Sovelluksia ei löytynyt, jolla tämä toiminto voidaan suorittaa</string>
   <string name="toast_text_copied">Teksti kopioitu</string>
   <string name="today">Tänään</string>
   <string name="tomorrow">Huomenna</string>
@@ -1188,12 +1189,13 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="type_outgoing">Lähtevä puhelu</string>
   <string name="type_voicemail">Vastaaja</string>
   <string name="unable_get_device_id">IMEI-koodia ei saada</string>
-  <string name="unfold_all">avaa kaikki</string>
+  <string name="unfold_all">Näytä kaikki</string>
   <string name="unknow_phone_number_call_failed">Tuntemattomaan numeroon ei voi soittaa</string>
   <string name="unknow_phone_number_mms_failed">Tuntemattomaan numeroon ei voi lähettää viestiä</string>
   <string name="unknown">Tuntematon</string>
   <string name="unknown_contact_name">Tuntematon yhteystieto</string>
-  <string name="unknown_details_new_contact">Uusi yhteystieto</string>
+  <string name="unknown_details_add_to_contact">Olemassa olevaan</string>
+  <string name="unknown_details_new_contact">Uusi</string>
   <string name="update_sim_contact_photo_toast">SIM-yhteystiedoille ei voi asettaa profiilikuvaa</string>
   <string name="upgrade_in_progress">Yhteystietoluetteloa päivitetään.</string>
   <string name="upgrade_out_of_memory">"Yhteystietoja päivitetään parasta aikaa. 

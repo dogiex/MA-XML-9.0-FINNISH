@@ -16,7 +16,7 @@
   <string name="ac_summaryOff">Ei käytössä, salasanaa ei vaadita sovelluksien avaamiseen</string>
   <string name="ac_summaryOn">Käytössä, salasana vaaditaan sovelluksien avaamiseen</string>
   <string name="access_control_app_is_launching">Sovellus käynnistyy</string>
-  <string name="access_control_failed_need_to_unlock_nofingerprint">Salasana vaaditaan sovelluksien avaamiseen</string>
+  <string name="access_control_failed_need_to_unlock_nofingerprint">Piirrä lukituksenpoistokuviosi käyttääksesi uutta sormenjälkeä</string>
   <string name="access_control_fingerprint_not_identified_msg">Sormenjälkeä ei voitu lukea.</string>
   <string name="access_control_need_password">"%s lisätty onnistuneesti
 "</string>
@@ -91,6 +91,7 @@
   <string name="antivirus_choose_engine_title">Virustunnisteet</string>
   <string name="antivirus_longtime_no_update">Näyttää siltä, että virustunnisteesi on vanhentuneet. Säännölliset päivitykset auttavat saamaan parempia skannaustuloksia. Sallitaanko Tietoturvan yhdistää internetiin ja päivittää virustunnisteet?</string>
   <string name="antivirus_longtime_no_update1">Näyttää siltä, että virustunnisteesi on vanhentuneet. Säännölliset päivitykset auttavat saamaan parempia skannaustuloksia. Päivitä tunnisteet ja yritä uudelleen.</string>
+  <string name="antivirus_main_activity_back">Takaisin tietoturvatarkistuksesta</string>
   <string name="antivirus_monitor_btn_text_clean_risk">Poista vaaralliset sovellukset</string>
   <string name="antivirus_monitor_btn_text_clean_virus">Poista virukset</string>
   <string name="antivirus_monitor_clean_tips">Poistettiin %s kohdetta</string>
@@ -137,6 +138,7 @@
   <string name="app_manager_back">Takaisin</string>
   <string name="app_manager_bipartition">Kloonatut sovellukset</string>
   <string name="app_manager_card_permission_title">Käyttöoikeudet</string>
+  <string name="app_manager_clear_cache">Tyhjennä välimuisti</string>
   <string name="app_manager_clear_data_dlg_message">Tämän sovelluksen kaikki sovellusdatat poistetaan pysyvästi. Tämä sisältää kaikki tiedostot, asetukset, tilit, tietokannat, jne.</string>
   <string name="app_manager_clear_data_dlg_title">Poistetaanko sovellusdata?</string>
   <string name="app_manager_clear_failed_dlg_message">Sovelluksen datan poistaminen epäonnistui.</string>
@@ -146,17 +148,27 @@
   <string name="app_manager_default_open">Avaa oletuksena</string>
   <string name="app_manager_default_open_summary">Olet valinnut tämän sovelluksen käynnistymään oletuksena joillekin toiminnoille.</string>
   <string name="app_manager_default_open_title">Poista oletukset</string>
+  <string name="app_manager_defaults_setting">Oletukset</string>
   <string name="app_manager_details_electric_title">Akku</string>
   <string name="app_manager_details_storage_title">Tallennustila</string>
-  <string name="app_manager_details_traffic_title">Datan käyttö tässä kuussa</string>
+  <string name="app_manager_details_traffic_title">Datan käyttö</string>
   <string name="app_manager_disable">Älä salli</string>
+  <string name="app_manager_disable_dlg_text">Jos poistat tämän sovelluksen käytöstä, muut sovellukset ei välttämättä toimi oikein.</string>
+  <string name="app_manager_disable_dlg_title">Poistetaanko sisäänrakennettu sovellus käytöstä?</string>
+  <string name="app_manager_disable_text">Poista käytöstä</string>
+  <string name="app_manager_disabled">Pois käytöstä</string>
   <string name="app_manager_dlg_cancel">Peruuta</string>
   <string name="app_manager_dlg_ok">OK</string>
+  <string name="app_manager_enable_text">Ota käyttöön</string>
+  <string name="app_manager_enabled">Käytössä</string>
   <string name="app_manager_factory_reset">Poista päivitykset</string>
   <string name="app_manager_factory_reset_dlg_msg">Kaikki tämän Android järjestelmäsovelluksen päivitykset poistetaan.</string>
   <string name="app_manager_factory_reset_dlg_title">Poistetaanko päivitykset?</string>
   <string name="app_manager_force_stop_dlg_text">Jos pakkolopetat sovelluksen, se saattaa käyttäytyä omituisesti.</string>
   <string name="app_manager_force_stop_dlg_title">Pakkolopetetaanko?</string>
+  <string name="app_manager_globel_other_perm_title">Muut käyttöoikeudet</string>
+  <string name="app_manager_globel_perm_summary">Hallitse sijaintiin, tallennustilaan, puhelimeen, viesteihin ja yhteystietoihin liittyviä käyttöoikeuksia.</string>
+  <string name="app_manager_globel_perm_title">Sovelluksen käyttöoikeudet</string>
   <string name="app_manager_have_not_consume">Ei mitään</string>
   <string name="app_manager_hide_system_server">Piilota järjestelmäpalvelut</string>
   <string name="app_manager_instruction">Ohje</string>
@@ -187,6 +199,17 @@
   <string name="app_manager_reduce_wakepath_dialog">Minimoi ketjukäynnistys</string>
   <string name="app_manager_reduce_wakepath_summary">Rajoittamalla käynnistystä minimoi ketjukäynnistystä. Rajoitetaanko sovelluksen %s käynnistys?</string>
   <string name="app_manager_reject_count_over">Estetty 100000+ kertaa</string>
+  <string name="app_manager_reset_app_preferences">Palauta sovellusasetukset</string>
+  <string name="app_manager_reset_app_preferences_button">Palauta sovellukset</string>
+  <string name="app_manager_reset_app_preferences_desc">"Tämä palauttaa kaikki asetukset seuraaville toiminnoille:
+
+ "&lt;li&gt;Käytöstä poistetut sovellukset&lt;/li&gt;"
+ "&lt;li&gt;Käytöstä poistetut sovellusilmoitukset&lt;/li&gt;"
+ "&lt;li&gt;Oletussovellukset toiminnoille&lt;/li&gt;"
+ "&lt;li&gt;Sovellusten taustalla tapahtuvat datarajoitukset&lt;/li&gt;"
+
+ Et menetä mitään sovellustietoja."</string>
+  <string name="app_manager_reset_app_preferences_title">Palautetaanko sovellusasetukset?</string>
   <string name="app_manager_show_all_apps">Näytä kaikki sovellukset</string>
   <string name="app_manager_show_detail_infos">Näytä kaikki</string>
   <string name="app_manager_sort">Lajittele</string>
@@ -199,7 +222,9 @@
   <string name="app_manager_stop_wp_dialog_cancel">Peruuta</string>
   <string name="app_manager_stop_wp_dialog_uninstall">Poista</string>
   <string name="app_manager_system_mobile_disable">Poista data käytöstä</string>
-  <string name="app_manager_title">Hallinnoi sovelluksia</string>
+  <string name="app_manager_title">Hallitse sovelluksia</string>
+  <string name="app_manager_uninstall_protected_dlg_msg">Järjestelmäsovelluksien poistaminen saattaa estää joitakin MIUI komponentteja toimimasta normaalisti. Poistetaanko siitä huolimatta?</string>
+  <string name="app_manager_uninstall_protected_dlg_title">Järjestelmäsovelluksien poistaminen</string>
   <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Vastaavat kloonatut sovellukset poistetaan sovellusdatan kanssa.</string>
   <string name="app_manager_uninstall_xspace_app_dlg_msg">Kloonatun sovelluksen poistaminen poistaa kaikki sovellusdatat.</string>
   <string name="app_manager_uninstall_xspace_app_dlg_title">Poistetaanko kloonattu sovellus?</string>
@@ -318,6 +343,8 @@
   <string name="auto_task_operation_sync">Synkronoi</string>
   <string name="auto_task_operation_vibration">Värinä</string>
   <string name="auto_task_operation_wifi">Wi-Fi</string>
+  <string name="back_app_name">Siirry takaisin Sovelluslukkoon</string>
+  <string name="back_modifypassword">Siirry takaisin salasanan vaihtoon</string>
   <string name="background_restrict_app_dialog_message">Rajoittamalla tämän sovelluksen verkon käyttöä taustalla saattaa vaikuttaa sen toimintaan toimia normaalisti, vastaanottaa viestejä, ladata sisältöä jne. Rajoitetaanko siitä huolimatta?</string>
   <string name="background_traffic">Tausta %s</string>
   <string name="backsound_set_hint">Asetetaanko poissaoloviestisi: %s?</string>
@@ -508,7 +535,7 @@
   <string name="convenient_mode">Avaa sovelluksien lukko kerralla</string>
   <string name="convenient_summary">Avaa kaikki sovellukset syöttämällä salasana kerran</string>
   <string name="correction_attention_dialog_message">Säädetään asetuksia. Odota prosessin valmistumista ja yritä uudelleen.</string>
-  <string name="cpu_usage_android_system">Android Järjestelmä</string>
+  <string name="cpu_usage_android_system">Android-järjestelmä</string>
   <string name="cpu_usage_app_bg_restrict_default">Automaattinen (suositus)</string>
   <string name="cpu_usage_app_bg_restrict_default_short">Automaattinen</string>
   <string name="cpu_usage_app_bg_restrict_full">Rajoita taustatyöskentelyä</string>
@@ -531,6 +558,8 @@
   <string name="daily_limit_network_available_body">Näytä datan käytön tilastot napauttamalla.</string>
   <string name="daily_limit_over_message">Olet ylittänyt päivittäisen tiedonsiirtorajan.</string>
   <string name="daily_pkg_traffic">Datan huippuraja</string>
+  <string name="data_booster_desc">Poista muut SIM-korttipaikat käytöstä, jotta yhteys pysyy vakaana</string>
+  <string name="data_booster_title">Vakauta datayhteys</string>
   <string name="data_network_blocked_notification_title">Ei internet-yhteyttä</string>
   <string name="data_usage_correction_timeout_title">Datan käytön synkronointi aikakatkaistiin</string>
   <string name="data_usage_disabled_dialog">Olet saavuttanut asettamasi tiedonsiirtorajan. Jos menet rajasi yli, operaattorisi saattaa veloittaa ylimääräsiä maksuja.</string>
@@ -700,6 +729,7 @@
   <string name="fw_blocked">Estolista</string>
   <string name="fw_blocked_count">"Estetty "</string>
   <string name="fw_blocked_join">" ja "</string>
+  <string name="game_anti_disturb_msg">Peli Älä häiritse</string>
   <string name="game_booster">Pelien nopeuttaja</string>
   <string name="game_booster_intro">Tietoja Pelien nopeuttajasta</string>
   <string name="game_booster_title">Nopeuta</string>
@@ -711,6 +741,7 @@
   <string name="game_net_text2">Paranna pelien yhteyden nopeutta samaan aikaan, kun vähennetään verkon viivettä rajoittamalla taustalla tapahtuvaa latausnopeutta</string>
   <string name="game_net_title">Optimoi yhteyden nopeus</string>
   <string name="game_setting">Peliasetukset</string>
+  <string name="gamebooster_main_activity_back">Takaisin Pelien nopeuttajaan</string>
   <string name="gamebooster_network_dialog_message">Sallitaanko Tietoturvan yhdistää verkkoon, jotta voidaan käyttää Pelien Nopeuttajan kaikkia ominaisuuksia?</string>
   <string name="gamebooster_network_dialog_title">Jotkut ominaisuudet ei ole käytettävissä</string>
   <string name="gateway_exception_summary">Tarkista reitittimesi ja yritä uudelleen.</string>
@@ -1076,7 +1107,7 @@ vastausta"</string>
   <string name="network_roaming_exception_tips">Verkkoon ei voida yhdistää, kun mobiilidata on roaming -tilassa.</string>
   <string name="network_route_exception_detail">"Yhdistetyssä reitittimessä saattaa olla ongelma:
 
-1. Julkisen Wi-Fi-verkon ongelmia
+1. Julkisen Wi-Fi-verkon ongelmat
 Jos olet yhteydessä julkiseen Wi-Fi-verkkoon, yhdistettyjen käyttäjien määrä saattaa hidastaa yhteyttä tai aiheuttaa yhteysongelmia. Vaihda toiseen verkkoon ja yritä uudelleen.
 
 2. Internetin palveluntarjoajan ongelmia
@@ -1184,7 +1215,7 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="om_settings_lock_app">Lukitse sovelluksia</string>
   <string name="om_settings_lock_app_manage">Lukitse sovelluksia</string>
   <string name="om_settings_memocy_occupy_too_large_summary">Ilmoita, kun välimuistin koko on liian suuri</string>
-  <string name="om_settings_memory_clean_lock_screen">Tyhjennä välimuisti, kun näyttö sammuu</string>
+  <string name="om_settings_memory_clean_lock_screen">Tyhjennä välimuisti, kun laite lukitaan</string>
   <string name="om_settings_memory_occupy_notify">Korkea välimuistin koko</string>
   <string name="om_settings_memory_occupy_notify_never">Ei koskaan</string>
   <string name="om_settings_notify_manage">Ilmoitukset</string>
@@ -1552,6 +1583,7 @@ Kalibroinnin aikana, MIUI lähettää tekstiviestin operaattorillesi saadakseen 
   <string name="save_energy_title">Optimoi akku</string>
   <string name="sc_allow_network_dialog_message">Tämä sovellus vaatii internet-yhteyden toimiakseen normaalisti.</string>
   <string name="sc_allow_network_dialog_tiltle">Tätä toimintoa ei voi käyttää</string>
+  <string name="sc_system_risk_fix_info_xspace">Riskiä ei voi korjata xspacessa, vaihda omistajan spaceen korjataksesi sen.</string>
   <string name="scan_installed_games">Tarkistetaan asennettuja pelejä…</string>
   <string name="scan_status_risk">Riskialtis</string>
   <string name="scan_status_safe">Turvallinen</string>
@@ -2116,5 +2148,6 @@ Lisää saldoa napauttamalla."</string>
   <string name="wlan_change_protection_detail">Älä yhdistä Wi-Fi-verkkoon automaattisesti, kun mobiilidataverkko on yhteydessä</string>
   <string name="wlan_change_protection_title">Estä verkkojen vaihto</string>
   <string name="xunyou_pay_webview">Xunyou palvelut</string>
+  <string name="xunyou_server_expired">Istunto vanhentui.</string>
   <string name="zhifubao_not_found">您的应用版本过低或者未安装</string>
 </resources>

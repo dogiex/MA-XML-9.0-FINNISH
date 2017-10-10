@@ -179,7 +179,7 @@
   <string name="alisdk_message_952_name">JS_BRIDGE_ANNOTATION_NOT_PRESENT</string>
   <string name="alisdk_message_952_type">E</string>
   <string name="allow_check_website_security">Ilmoita minulle verkkosivujen turvatarkastuksista</string>
-  <string name="app_description_content">Lukija tarjoaa QR-koodien skannauksia, skannauksien kääntämisiä, kysymyksien ratkomista skannaamisella, käyntikorttien tunnistamista. Varmista, että olet ymmärtänyt tämän sovelluksen toiminnan ja sen palvelun.</string>
+  <string name="app_description_content">Lukijalla voit skannata QR-koodeja, asiakirjoja, käyntikortteja ja muuta. Varmista, että et tarvitse näitä ominaisuuksia, ennen kuin poistat sovelluksen.</string>
   <string name="app_description_title">Tietoja Lukijasta</string>
   <string name="app_details">Sovellus:</string>
   <string name="app_name">Lukija</string>
@@ -229,8 +229,8 @@
   <string name="document_ocr_result_save">Tallenna Muistioon</string>
   <string name="document_ocr_result_title">Asiakirjan valokuva</string>
   <string name="document_ocr_tip_msg">Tunnistetaan…</string>
-  <string name="document_recognize_fail_tip">Asiakirjaa ei tunnistettu</string>
-  <string name="document_recognize_null_tip">Asiakirjan tulos on tyhjä</string>
+  <string name="document_recognize_fail_tip">Asiakirjaa ei voitu lukea</string>
+  <string name="document_recognize_null_tip">Asiakirjaa ei tunnistettu</string>
   <string name="document_rectify">Säädä</string>
   <string name="document_rectify_tip_msg">Säädetään…</string>
   <string name="document_save_succeed_tip">Asiakirja tallennettiin sijaintiin %1$s</string>
@@ -243,7 +243,7 @@
   <string name="error_cannot_connect_camera">Kameraan ei saada yhteyttä</string>
   <string name="error_day_limit">Liian monta yrityskertaa yhden päivän aikana</string>
   <string name="error_empty_result">Tuloksia ei löytynyt</string>
-  <string name="error_get_image">Virhe kuvan noutamisessa</string>
+  <string name="error_get_image">Kuvaa ei voitu hakea</string>
   <string name="error_hour_limit">Liian monta yrityskertaa yhden tunnin aikana</string>
   <string name="error_image_error">Tätä kuvaa ei tunnisteta</string>
   <string name="error_invalid_request">Tunnistusvirhe</string>

@@ -103,6 +103,8 @@
   <string name="quota_info">Mi Drive: %1$s käytettävissä, %2$s yhteensä</string>
   <string name="rename_alert">Jos muutat tämän tiedoston tiedostomuotoa, se ei saata enää aueta.</string>
   <string name="rename_failed">Saman niminen tiedosto on jo olemassa.</string>
+  <string name="request_permission_msg">Salli Mi Driven käyttää tilitietojasi, jotta se toimisi normaalisti.</string>
+  <string name="request_permission_title">Käyttöoikeuksia vaaditaan</string>
   <string name="sd_full">SD-korttisi on täynnä.</string>
   <string name="sd_invalid">SD-korttisi on korruptoitunut.</string>
   <string name="send_to_midrive_failed">Tämä tiedostomuoto ei ole tuettu.</string>
@@ -123,7 +125,9 @@
   <string name="wait_sdcard">Odotetaan SD-korttia…</string>
   <string name="wait_wifi">Odotetaan Wi-Fiä</string>
   <string name="waiting">Odotetaan</string>
-  <string name="wangpan_root_path">My drive</string>
+  <string name="wangpan_root_path">Oma drive</string>
+  <string name="xiaomi_drive_description_content">Mi Drive on verkossa toimiva tallennustilatyökalu, jonka avulla säilytät tiedostosi verkossa ja säästät laitteessasi olevaa tallennustilaa. Lopetetaanko Mi Driven käyttö?</string>
+  <string name="xiaomi_drive_description_title">Tietoja Mi Drivestä</string>
   <string name="year_month_day_format">d.M.yyyy</string>
   <string name="yesterday">Eilen</string>
 </resources>

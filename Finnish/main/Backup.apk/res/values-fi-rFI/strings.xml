@@ -163,7 +163,7 @@ http://www.miliao.com
   <string name="notif_trans_receiving_failed">Tietojen vastaanottaminen epäonnistui</string>
   <string name="notif_trans_sending_completed">Tiedot lähetettiin onnistuneesti</string>
   <string name="notif_trans_sending_failed">Tietojen lähettäminen epäonnistui</string>
-  <string name="notif_trans_wait_for_reconnecting">Etälaitteen yhteys on katkaistu. Ole hyvä ja yhdistä uudelleen.</string>
+  <string name="notif_trans_wait_for_reconnecting">Yhteys keskeytyi. Yhdistä uudelleen.</string>
   <string name="page_loading">Hetki pieni…</string>
   <string name="progress_backup_hint">Varmuuskopioidaan…</string>
   <string name="progress_restore_hint">Palautetaan…</string>
@@ -268,14 +268,41 @@ http://www.miliao.com
   <string name="trans_connect_failed_title">"Ei voitu yhdistää"</string>
   <string name="trans_connect_failed_toast">Ei voitu yhdistää</string>
   <string name="trans_connecting_toast">Yhdistetään…</string>
-  <string name="trans_connection_failed">Yhteys laitteeseen on katkennut</string>
+  <string name="trans_connection_failed">Yhteys keskeytyi</string>
   <string name="trans_detail_category_account">Tilit ja yhteystiedot</string>
   <string name="trans_detail_category_files">Tiedostot</string>
   <string name="trans_detail_category_sysdata">Järjestelmätiedot</string>
   <string name="trans_detail_category_userdata">Sovellukset</string>
-  <string name="trans_device_disconnected">Yhteys laitteeseen on katkaistu</string>
-  <string name="trans_device_wait_for_reconnecting">Laitteen yhteys katkaistu. Ole hyvä ja yhdistä uudelleen.</string>
+  <string name="trans_device_disconnected">Yhteys keskeytyi</string>
+  <string name="trans_device_wait_for_reconnecting">Yhteys keskeytyi. Yhdistä uudelleen jatkaaksesi.</string>
   <string name="trans_generate_qr_code_failed">QR-koodia ei voitu luoda</string>
+  <string name="trans_intro_desc_2">Peruuta siirto, poistu Mi Siirtäjästä ja aloita alusta. Tiedostojen kaksoiskappaleet korvataan uuden siirron aikana.</string>
+  <string name="trans_intro_desc_3">Mi Siirtäjä käyttää Wi-Fiä tiedostojen siirtämiseen. Sen takia et voi siirron aikana yhdistää kummallakaan laitteella internetiin käyttämällä Wi-Fiä. Voit silti käyttää mobiilidataa. Tästä huolimatta, jotkut uudemmat laitteet (kuten Mi 6) voivat silti yhdistää internetiin käyttämällä Wi-Fiä siirron aikana.</string>
+  <string name="trans_intro_desc_4">Tallennustilaa vanhoilla laitteilla käytetään siirtopakettien luomiseen. Varmista, että sinulla on vanhassa puhelimessasi vähintään 500 Mt - 1 Gt käytettävissä olevaa tallennustilaa, ennen kuin aloitat siirron.</string>
+  <string name="trans_intro_desc_5">On useita syitä, miksi se voi tapahtua: järjestelmä ja sovellusversion yhteensopivuusongelmat, verkko-ongelmat, yhteensopivuusongelmat tietyn laitteen kanssa jne.</string>
+  <string name="trans_intro_desc_6">Jotkut sovellusprofiilit (verkkopankki, talous jne.) on liitettynä tiettyyn laitteeseen tietoturvasyistä. Yritä uudella laitteella tyhjentää sovellustiedot tai asentaa sovellus uudelleen.</string>
+  <string name="trans_intro_desc_7">WeChat -sovellustiedot ja keskusteluhistoria ei välttämättä siirry kokonaan käyttämällä Mi Siirtäjää. Mene WeChatin asetuksiin ja kirjaudu ulos tililtäsi, jotta siirtäminen onnistuisi paremmalla mahdollisuudella.</string>
+  <string name="trans_intro_desc_account">Sinun täytyy kirjautua uudella laitteella tileillesi uudelleen (esim. Mi Tili, Exchange, Google jne.) tietoturvasyiden takia.</string>
+  <string name="trans_intro_desc_multiapp">Mi Siirtäjä ei siirrä sovellustietoja kloonatuista sovelluksista, välttääkseen tiedostojen ristiriidat.</string>
+  <string name="trans_intro_desc_multiuser">Mi Siirtäjä ei voi käyttää Toisen tilan kohteita. Siirrä kohteet Ensimmäiseen tilaan ja käynnistä Mi Siirtäjä siellä.</string>
+  <string name="trans_intro_desc_new">Napauta \"Olen vastaanottaja\". QR-koodi luodaan.</string>
+  <string name="trans_intro_desc_old">Napauta \"Olen lähettäjä\". Skannaa QR-koodi uudella puhelimella ja odota, kunnes Mi Siirtäjä tunnistaa, mitkä tiedostot lähetetään ja sen jälkeen napauta \"Lähetä"\.</string>
+  <string name="trans_intro_desc_private">Mi Siirätjä ei voi käyttää piilotetun albumin kuvia, koska ne ovat salattu. Voit palauttaa nämä kuvat Mi Pilvestä uudella laitteella.</string>
+  <string name="trans_intro_question_1">1. Kuinka käytän Mi Siirtäjää?</string>
+  <string name="trans_intro_question_2">2. Mitä minun pitää tehdä, jos Mi Siirtäjä jää jumiin tiettyyn vaiheeseen?</string>
+  <string name="trans_intro_question_3">3. Miksi en voi käyttää Wi-Fiä siirtojen aikana?</string>
+  <string name="trans_intro_question_4">4. Miksi Mi Siirtäjä kertoo minulle, ettei vanhassa laitteessani ole tarpeeksi tallennustilaa?</string>
+  <string name="trans_intro_question_5">5. Miksi jotkut sovellukset eivät siirry onnistuneesti?</string>
+  <string name="trans_intro_question_6">6. Miksi jotkut sovellukset eivät käynnisty uudella laitteella?</string>
+  <string name="trans_intro_question_7">7. Miksi WeChat hostoria ei siirry kokonaan?</string>
+  <string name="trans_intro_question_8">8. Mitä kohteita ei voi siirtää?</string>
+  <string name="trans_intro_title">FAQ</string>
+  <string name="trans_intro_title_account">Tilit ja salasanat:</string>
+  <string name="trans_intro_title_multiapp">Kloonattujen sovelluksien tiedot:</string>
+  <string name="trans_intro_title_multiuser">Toisen tilan tiedot:</string>
+  <string name="trans_intro_title_new">Uuden puhelimen:</string>
+  <string name="trans_intro_title_old">Vanhan puhelimen:</string>
+  <string name="trans_intro_title_private">Piilotettu albumi:</string>
   <string name="trans_main_tutor">Siirrä yhteystiedot, puheluhistoria, viestit, aloitusnäytön ulkoasu, sovellukset, asetukset, jne uuteen laitteeseen</string>
   <string name="trans_my_device">Laitteeni</string>
   <string name="trans_native_no_space">"Tällä laitteella ei ole tarpeeksi vapaata tilaa.
@@ -289,9 +316,9 @@ Luo QR-koodi napauttamalla [Olen vastaanottaja]"</string>
 2. Avaa sovellus ja paina Aloita
 3. Skannaa QR-koodi vanhalla laitteellasi"</string>
   <string name="trans_operate_old_phone_tips2">"Mene Asetukset, Lisäasetukset, Mi Siirtäjä, Napauta [Olen lähettäjä]"</string>
-  <string name="trans_operate_reconnect_new_tips">"Odota, kunnes uusi puhelin näyttää \"Laitteen yhteys katkaistu\".
+  <string name="trans_operate_reconnect_new_tips">"Odota, kunnes uusi puhelin näyttää \"Yhteys keskeytyi\".
 Sen jälkeen napauta [Yhdistä uudelleen] luodaksesi QR-koodin."</string>
-  <string name="trans_operate_reconnect_old_tips">"Odota, kunnes vanha puhelin näyttää \"Laitteen yhteys katkaistu\".
+  <string name="trans_operate_reconnect_old_tips">"Odota, kunnes vanha puhelin näyttää \"Yhteys keskeytyi\".
 Sen jälkeen napauta [Yhdistä uudelleen] skannataksesi QR-koodin."</string>
   <string name="trans_please_waiting">Odota hetki…</string>
   <string name="trans_progress_subdescript_br_receiver">Palautetaan %1$s, %2$s valmiina</string>

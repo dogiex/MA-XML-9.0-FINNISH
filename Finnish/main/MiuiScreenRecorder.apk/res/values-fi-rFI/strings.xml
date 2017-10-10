@@ -22,7 +22,7 @@
   <string name="error_open_file_failed_no_app_found">Sovellusta ei löytynyt tämän tiedoston avaamista varten</string>
   <string name="frames">Ruudunpäivitysnopeus</string>
   <string name="frames_summary">Korkeampi ruudunpäivitysnopeus vähentää liikkeen epäterävyyttä</string>
-  <string name="frequently_click_toast">Palvelua alustetaan, odota hetki</string>
+  <string name="frequently_click_toast">Odota hetki…</string>
   <string name="gleam_led_while_recording">Vilkuta LED-valoa nauhoittamisen aikana</string>
   <string name="hint_back">Takaisin</string>
   <string name="hint_home">Koti</string>
@@ -47,8 +47,8 @@
   <string name="operation_delete">Poista</string>
   <string name="operation_send">Lähetä</string>
   <string name="quit_recording">Poistu Näytön nauhoituksesta</string>
-  <string name="recording_failure">Edellinen nauhoitus epäonnistui, ole hyvä ja aloita näytön nauhoittaminen uudelleen</string>
-  <string name="recording_max_size">Nauhoitus lopetettiin ja tallennettiin automaattisesti videon maksimikoon takia. Voit aloittaa uuden nauhoituksen jos tahdot jatkaa nauhoittamista.</string>
+  <string name="recording_failure">Nauhoittaminen epäonnistui, aloita alusta</string>
+  <string name="recording_max_size">Nauhoittaminen lopetettiin ja tallennettiin, koska videotiedosto saavutti sen kokorajoituksen. Aloita nauhoittaminen siitä, mihin jäit, jos et ole vielä valmis.</string>
   <string name="resolution">Resoluutio</string>
   <string name="resolution_summary">Korkean resoluution videot näyttävät terävämmiltä</string>
   <string name="screen_orientation">Suunta</string>

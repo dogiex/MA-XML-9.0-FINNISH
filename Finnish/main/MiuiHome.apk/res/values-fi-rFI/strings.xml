@@ -96,7 +96,7 @@
   <string name="free_style_edit_bar_select_app">Valitse sovellus</string>
   <string name="free_style_edit_bottom_empty_tip">Muokkaa napauttamalla suorakulmiota</string>
   <string name="free_style_edit_drawer">Piirtäjä</string>
-  <string name="free_style_edit_move_tip">Siirrä kohdetta pitämällä sitä pohjassa</string>
+  <string name="free_style_edit_move_tip">Siirrä kohdetta painamalla sitä pohjassa</string>
   <string name="free_style_edit_tab_free_component">Objektit</string>
   <string name="free_style_edit_tab_shortcut">Pikakuvakkeet</string>
   <string name="free_style_edit_tab_widget">Widgetit</string>

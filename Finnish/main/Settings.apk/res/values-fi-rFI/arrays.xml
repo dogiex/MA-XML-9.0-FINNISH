@@ -174,14 +174,14 @@
         <item>Älä näytä operaattorin nimeä koskaan</item>
     </string-array>
     <string-array name="check_importance_entries">
-        <item>Suositeltu</item>
+        <item>Suositus</item>
         <item>Tärkeä</item>
-        <item>Ei-tärkeä</item>
+        <item>Ei tärkeä</item>
     </string-array>
     <string-array name="check_importance_summary">
-        <item>Älykäs ratkaisu, ei-tärkeät ilmoitukset näkyvät erillisessä kansiossa</item>
-        <item>Ilmoitukset näkyvät suoraan Ilmoitusalueella</item>
-        <item>Kaikki ilmoitukset näkyvät erillisessä kansiossa</item>
+        <item>MIUI päättää, mitkä ilmoitukset näkyvät suoraan</item>
+        <item>Ilmoitukset näkyvät Ilmoitusalueella</item>
+        <item>Ilmoitukset näkyvät erillisessä kansiossa</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>Amerikka</item>
@@ -881,10 +881,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Oikean käden tyyli</item>
     </string-array>
     <string-array name="edge_touch_volume_action">
-        <item>Säädä klikkaamalla - Tuplaklikkaus käynnistää</item>
-        <item>Säädä pyyhkäisemällä - Pyyhkäiseminen käynnistää</item>
-        <item>Säädä klikkaamalla - Klikkaus käynnistää</item>
-        <item>Säädä klikkaamalla - Pitkä klikkaus käynnistää</item>
+        <item>Säädä painamalla - Käynnistä tuplapainalluksella</item>
+        <item>"Säädä liu'uttamalla - Käynnistä liu'uttamalla"</item>
+        <item>Säädä painamalla - Käynnistä painamalla</item>
+        <item>Säädä painamalla - Käynnistä painamalla pohjassa</item>
     </string-array>
     <string-array name="city_name">
         <item>Abidjan</item>

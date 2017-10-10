@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_alarm">Lisää hälytys</string>
+  <string name="add_timezone_title">Lisää aikavyöhyke</string>
   <string name="alarm_alert_alert_silenced">Herätys hiljennetään %d minuutin jälkeen.</string>
   <string name="alarm_alert_snooze_set">Torkutetaan %d minuuttia.</string>
   <string name="alarm_ascending_mode_summary">Herätyksen äänenvoimakkuus nousee asteittain</string>
@@ -55,6 +56,7 @@
   <string name="force_touch_enter_stopwatch">Sekuntikello</string>
   <string name="force_touch_enter_timer">Ajastin</string>
   <string name="full_wday_month_day_no_year">"EEEE d. MMMM'ta'"</string>
+  <string name="go_back">Takaisin</string>
   <string name="hour">1 tunti</string>
   <string name="hour_unit">t +</string>
   <string name="hours">%d tuntia</string>
@@ -73,6 +75,7 @@
   <string name="legal_workday_message">" (hälytys on pois käytöstä pyhäpäivinä)"</string>
   <string name="life_post_setting">Aamuraportti</string>
   <string name="life_post_setting_FBE_remind">Järjestelmärajoituksen vuoksi aamuraportin säätiedot eivät ehkä näy oikein uudelleenkäynnistyksen jälkeen</string>
+  <string name="life_post_setting_close_title">Sulje aamuraportit</string>
   <string name="life_post_setting_open_subtitle">Vastaanota säätiedot hälytyksen sulkemisen jälkeen jos kello on välillä 04:00-09:30</string>
   <string name="life_post_setting_open_title">Vastaanota aamuraportteja</string>
   <string name="life_post_setting_wake_up_list_title">Heräämisen historia</string>
@@ -98,6 +101,7 @@
   <string name="menu_item_sort_by_name">Lajittele nimen mukaan</string>
   <string name="minute">yksi minuutti</string>
   <string name="minutes">%d minuuttia</string>
+  <string name="more_setting">Lisäasetukset</string>
   <string name="more_settings">Asetukset</string>
   <string name="never">Kerran</string>
   <string name="oneshot_alarm">Poista hälytyksen jälkeen</string>

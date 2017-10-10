@@ -3932,7 +3932,7 @@ Laitteeseesi asennettu luotettu varmenne tekee tämän mahdolliseksi."</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Sulje kosketuksen jälkeen</string>
   <string name="status_bar_settings_toggle_position">Nappuloiden sijainnit</string>
   <string name="status_bar_settings_user_fold">Ilmoituksien kansio</string>
-  <string name="status_bar_settings_user_fold_summary">Kaikki ei-tärkeät ilmoitukset ilmestyvät erilliseen kansioon</string>
+  <string name="status_bar_settings_user_fold_summary">Kaikki ei tärkeät ilmoitukset ilmestyvät erilliseen kansioon</string>
   <string name="status_bar_style_list">Yhdistetty</string>
   <string name="status_bar_style_page">Erikseen</string>
   <string name="status_bt_address">Bluetooth-osoite</string>
@@ -4315,7 +4315,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="turn_update_keyguard_password_wait_dialog">Muokataan salasanaa…</string>
   <string name="twohours">1 tunti</string>
   <string name="under_keyguard">Näyttö pois käytöstä</string>
-  <string name="unimportant">Ei-tärkeä</string>
+  <string name="unimportant">Ei tärkeä</string>
   <string name="uninstall_all_users_text">Poista kaikilta käyttäjiltä</string>
   <string name="uninstall_device_admin">Poista sovellus</string>
   <string name="uninstall_dlg_msg">Poistaminen poistaa kaikki sovellustiedot.</string>

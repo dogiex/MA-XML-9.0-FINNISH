@@ -3,7 +3,7 @@
   <string name="agree">Hyväksy</string>
   <string name="agree_terms">Olen lukenut ja hyväksyn Palveluehdot ja Tietosuojakäytännön.</string>
   <string name="app_name">Sopimusehto</string>
-  <string name="application_permissions">Sovelluksen Käyttöoikeudet</string>
+  <string name="application_permissions">Sovelluksen käyttöoikeudet</string>
   <string name="back">Takaisin</string>
   <string name="cm_terms_content">Parantaaksemme sinulle tarjoamia palveluita, sinun valitsema mobiiliverkko-operaattori voi lähettää henkilökohtaisia tietoja sinusta ja tästä laitteesta heidän palvelimille käyttäen Wi-Fi-verkkoja tai mobiilidata-yhteyttä. Näitä tietoja käytetään vain tilastollisiin tarkoituksiin parantaakseen palveluiden laatua ja tarjoamaan henkilökohtaisempaa sisältöä. Tätä tietoa ei käytetä henkilön tunnistamiseen, eikä niitä anneta kolmansille osapuolille.</string>
   <string name="cm_terms_title">Mobiiliverkko-operaattorin Sopimusehdot</string>
@@ -18,7 +18,7 @@
   <string name="enable_accessibility_dialog_message">Otit TalkBack-toiminnon käyttöön painamalla näyttöä kahdella sormella kauemmin, kuin 10 sekuntia. TalkBack tarjoaa äänipalautetta niille henkilöille, joilla on näköongelmia. Jos otit sen käyttöön vahingossa, napauta Peruuta-painiketta ja sen jälkeen tuplanapauta näyttöä.</string>
   <string name="enable_accessibility_dialog_negative_btn">Peruuta</string>
   <string name="enable_accessibility_dialog_positive_btn">OK</string>
-  <string name="fail_to_generate_qr_code">QR-koodin luominen epäonnistui, ole hyvä ja siirry uudelleen tälle sivulle.</string>
+  <string name="fail_to_generate_qr_code">QR-koodia ei voitu luoda. Avaa tämä sivu uudelleen.</string>
   <string name="ime_privacy_policy">Valitun näppäimistön Tietosuojakäytäntö</string>
   <string name="ime_privacy_policy_no_network">Sinulla ei ole internet-yhteyttä. Katso näppäimistön Tietosuojakäytäntö osoitteessa %s.</string>
   <string name="input_method_category">Valitse oletusnäppäimistö, jota käytät sähköpostien tai muistioiden kirjoittamiseen, ja lähes kaikkialla muualla. Muista, että voit asentaa kolmannen osapuolen näppäimistön myöhemmin.</string>
@@ -61,12 +61,12 @@ Näytä valitun näppäimistön Tietosuojakäytäntö."</string>
   <string name="skip_underline">Ohita tämä vaihe</string>
   <string name="summary_not_set">Ei asetettu</string>
   <string name="terms_of_use">Käyttöehdot</string>
-  <string name="terms_of_use_label">"Yksityisyytesi on todella tärkeää meille. Ole ystävällinen ja lue meidän Palveluehdot ja Tietosuojakäytäntö, jotta ymmärrät mitä tietoja keräämme, kuinka käytämme niitä, ja mitä vaihtoehtoja sinulla on.
+  <string name="terms_of_use_label">"Yksityisyytesi on todella tärkeää meille. Lue meidän Palveluehdot ja Tietosuojakäytäntö, jotta ymmärrät mitä tietoja keräämme, kuinka käytämme niitä, ja mitä vaihtoehtoja sinulla on.
 
-Sinun täytyy hyväksyä Palveluehtomme ja Tietosuojakäytäntömme, ennen kuin voit käyttää MIUI:ta. Aktivoinnin aikana, Mi palvelut, Mi SIM-kortin aktivointipalvelut, Mi Pilvi, Etsi laite, Aloitusnäytön moduulit, Peli Palvelu, MAB ja MSA järjestelmäkomponentit, Direct Service, Quick Card, statistiikka, MiSmartCards ja Mi Tilin komponentit ottavat yhteyden internetiin ja saavat sijaintisi."</string>
+Sinun täytyy hyväksyä Palveluehtomme ja Tietosuojakäytäntömme, ennen kuin voit käyttää MIUI:ta. Mi palvelut, Mi SIM-kortin aktivointipalvelut, Mi Pilvi, Etsi laite, Aloitusnäyttö, Pelikeskus, MAB ja MSA järjestelmäkomponentit, verkkosovellukset, pikakortit, statistiikat, älykortit, Mi Link ja Mi Tilin komponentit ottavat yhteyden internetiin ja saavat sijaintisi."</string>
   <string name="title_fingerprint">Aseta salasana</string>
-  <string name="two_dimensional_code_scan">QR-koodin skannaus</string>
+  <string name="two_dimensional_code_scan">Skannaa QR-koodi</string>
   <string name="user_agreement">Palveluehdot</string>
-  <string name="user_strayed_warning">Sivu on suunniteltu tehtaiden testaamiseen, napauta Takaisin-painiketta poistuaksesi.</string>
+  <string name="user_strayed_warning">Tämä sivu on suunniteltu tehtaiden testejä varten. Napauta \"Takaisin"\ poistuaksesi.</string>
   <string name="welcome">Tervetuloa</string>
 </resources>

@@ -184,4 +184,20 @@
         <item quantity="other">Löytyi %1$d uutta kuvaa</item>
         <item quantity="one">Löytyi uusi kuva</item>
     </plurals>
+    <plurals name="search_feedback_done_mark_false_positive">
+        <item quantity="other">Poistettiin %1$d kuvaa kohteesta \"%2$s\".</item>
+        <item quantity="one">Poistettiin %1$d kuva kohteesta \"%2$s\".</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_positive">
+        <item quantity="other">Poistettiin %1$d kuvaa kohteesta \"%2$s\" ja lisättiin tietokantaan.</item>
+        <item quantity="one">Poistettiin %1$d kuva kohteesta \"%2$s\" ja lisättiin tietokantaan.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_negative">
+        <item quantity="other">Lisättiin %1$d kuvaa kohteeseen \"%2$s\".</item>
+        <item quantity="one">Lisättiin %1$d kuva kohteeseen \"%2$s\".</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_negative">
+        <item quantity="other">Lisättiin %1$d kuvaa kohteeseen \"%2$s\" ja lisättiin tietokantaan.</item>
+        <item quantity="one">Lisättiin %1$d kuva kohteeseen \"%2$s\" ja lisättiin tietokantaan.</item>
+    </plurals>
 </resources>

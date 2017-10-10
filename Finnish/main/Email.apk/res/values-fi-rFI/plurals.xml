@@ -18,6 +18,7 @@
     </plurals>
     <plurals name="confirm_delete_draft">
         <item quantity="other">Poistetaanko %1$d luonnosta?</item>
+        <item quantity="one">Poistetaanko %1$d luonnos?</item>
     </plurals>
     <plurals name="contact_num_selected">
         <item quantity="other">Valittuna %d kohdetta</item>
@@ -36,8 +37,8 @@
         <item quantity="one">Vaihdettiin kansio.</item>
     </plurals>
     <plurals name="conversation_msg_header_count">
-        <item quantity="other">… %1$d henkilöä</item>
-        <item quantity="one">… %1$d henkilö</item>
+        <item quantity="other">+%1$d henkilöä</item>
+        <item quantity="one">+%1$d henkilö</item>
     </plurals>
     <plurals name="conversation_muted">
         <item quantity="other">%1$d keskustelua ei huomioida.</item>

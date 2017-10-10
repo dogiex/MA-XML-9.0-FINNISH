@@ -28,12 +28,12 @@
   <string name="face_data_manage_unlock_title">Avaa lukitus käyttämällä kasvojen tietoja</string>
   <string name="face_data_suggesstion_first">Avaamalla laitteen lukitus käyttämällä kasvojesi tietoja on vähemmän turvallinen, kuin käyttämällä Lukitusnäytön salasanaa. Henkilöt, jotka näyttävät sinulta voivat avata laitteen lukituksen.</string>
   <string name="face_data_suggesstion_second">Varmista, että kaikki kasvosi ei peity millään esineillä ja että ne ovat selvästi esillä. Kasvosi pitäisi olla myös hyvin valaistu.</string>
-  <string name="face_unlock_adjust_distance">Varmista, että kasvosi ja laitteesi etäisyys on ihanteellinen.</string>
+  <string name="face_unlock_adjust_distance">Varmista, että kasvosi ja näyttösi etäisyys on ihanteellinen.</string>
   <string name="face_unlock_be_on_the_screen">Pidä laitetta kasvojesi edessä</string>
   <string name="face_unlock_by_notification_screen_on_msg">Voit avata laitteen lukituksen käyttämällä kasvojesi tietoja aina, kun näyttö käynnistyy saapuvista ilmoituksista. Tämä voi kuluttaa akkua nopeammin.</string>
   <string name="face_unlock_by_notification_screen_on_title">Salli Kasvojentunnistuksella avaaminen, kun näyttö menee päälle</string>
   <string name="face_unlock_check_failed">Sinua ei voitu tunnistaa</string>
-  <string name="face_unlock_close_screen">Mene lähemmäksi näyttöä</string>
+  <string name="face_unlock_close_screen">Siirry lähemmäksi näyttöä</string>
   <string name="face_unlock_down">Nosta päätäsi</string>
   <string name="face_unlock_identify_error">Tapahtui tunnistusvirhe</string>
   <string name="face_unlock_not_found">Sinua ei voitu tunnistaa</string>
@@ -67,7 +67,7 @@
   <string name="input_password_after_boot_msg">Avaa laitteen lukitus syöttämällä salasana</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Puhelun aikana ei voi siirtyä Tilojen välillä</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">Sinun täytyy siirtyä Ensimmäiseen tilaan laitteen uudelleenkäynnistyksen jälkeen</string>
-  <string name="input_password_handle_sdcard_fs">Poista \"Emuloitu SD-kortin optimointi\" käytöstä, ennen kuin siirryt Toiseen tilaan.</string>
+  <string name="input_password_handle_sdcard_fs">Poista \"Vale SD-kortin optimointi\" käytöstä, ennen kuin siirryt Toiseen tilaan.</string>
   <string name="input_password_hint_text">Syötä salasana</string>
   <string name="input_pattern_hint_text">Piirrä lukituksenpoistokuviosi</string>
   <string name="input_pin_code">Syötä PIN-koodi</string>
