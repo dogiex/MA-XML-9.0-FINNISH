@@ -145,7 +145,7 @@ Näyttöön tai navigointipalkkiin lähentäminen ei ole mahdollista."</string>
   <string name="add_fingerprint_edge_instruction_title">Liikuta sormeasi hieman</string>
   <string name="add_fingerprint_failed_retry_text">Sormenjäljen lisääminen epäonnistui, yritä uudelleen</string>
   <string name="add_fingerprint_finished_button_text">Valmis</string>
-  <string name="add_fingerprint_instruction_msg">Avaa laitteen lukitus ja suorita maksut sormenjäljellä.</string>
+  <string name="add_fingerprint_instruction_msg">Sormenjälkitunnistin on sisäänrakennettu laitteesi Kotipainikkeeseen.</string>
   <string name="add_fingerprint_instruction_title">Lisää sormenjälkesi</string>
   <string name="add_fingerprint_name_suggest_text">Sormenjäljen nimi</string>
   <string name="add_fingerprint_put_finger_edge_msg">Liikuta sormeasi hieman ja aseta se takaisin tunnistimelle, jotta kaikki sormenjäljen eri kohdat lisätään.</string>
@@ -3686,7 +3686,6 @@ Huom. Sormenjälki ei välttämättä ole yhtä turvallinen kuin vahva kuvio tai
   <string name="settings_safetylegal_title">Suojaustiedot</string>
   <string name="settings_shortcut">Asetukset-pikakuvake</string>
   <string name="settings_toggle_position_divider_list">Tämän palkin yläpuolella olevat nappulat ovat aktiivisia</string>
-  <string name="setup_add_fingerprint_failed_retry_text">Sormenjälkeä ei voitu lisätä</string>
   <string name="setup_choose_unlock_fingerprint_msg">Aseta näytön lukitus, ennen kuin lisäät sormenjälkesi.</string>
   <string name="setup_choose_unlock_mixed_password">Salasana</string>
   <string name="setup_choose_unlock_mixpassword_title">Aseta salasana</string>

@@ -826,6 +826,7 @@
   <string name="install_sucess">Asennettiin %s onnistuneesti</string>
   <string name="install_title">Asenna USB:n kautta</string>
   <string name="installing">Asennetaan</string>
+  <string name="international_Ad">Mainos</string>
   <string name="international_roaming_setting">Ulkomaan roaming</string>
   <string name="intro_improve">Paranna pelikokemustasi järjestelmätasolla</string>
   <string name="intro_skip">Ohita</string>

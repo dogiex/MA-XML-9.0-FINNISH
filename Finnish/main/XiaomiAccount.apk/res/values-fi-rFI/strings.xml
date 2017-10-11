@@ -417,6 +417,7 @@ Aktivoi tilisi seuraamalla
   <string name="sina_weibo">Sina Weibo</string>
   <string name="sms_send_success">Lähetetty</string>
   <string name="sns_access_token_expired_warning">Tilin kirjautuminen on vanhentunut. Yhdistä tili uudelleen kirjautumalla sisään uudelleen.</string>
+  <string name="talkback_scan_barcode">Skannaa QR-koodi</string>
   <string name="trusted_browsers">Luotetut selaimet</string>
   <string name="trusted_browsers_prompt">Selain ei ole enää luotettu jos poista evästeet.</string>
   <string name="turn_off_find_device_failed_title">Laitteen etsintää ei voi sammuttaa</string>
