@@ -51,8 +51,8 @@
   <string name="mark_point_list_title">Merkkauslista</string>
   <string name="message_file_size_error">Nauhoitus on saavuttanut %s tuetun maksimipituuden</string>
   <string name="network_tip_dialog_cancel">Peruuta</string>
-  <string name="network_tip_dialog_content">Tämä sovellus tarvitsee internetyhteyden ja luvan lukea yhteystietojasi, jotta puheluiden aikana nauhoitetut nauhoitukset voidaan nimetä.</string>
-  <string name="network_tip_dialog_ok">Salli</string>
+  <string name="network_tip_dialog_content">Ääninauhuri tarvitsee internetyhteyden ja luvan lukea yhteystietojasi toimiakseen normaalisti. Hyväksytäänkö?</string>
+  <string name="network_tip_dialog_ok">Hyväksyn</string>
   <string name="network_tip_dialog_title">Internet-yhteys vaaditaan</string>
   <string name="new_record_name">Uusi nauhoitus</string>
   <string name="no_file">Tyhjä</string>
