@@ -80,6 +80,7 @@
   <string name="card_title_video_call_paused">Video pysäytetty</string>
   <string name="card_title_video_conf_call">Videokonferenssipuhelu</string>
   <string name="card_video_hold_swap">Vaihda</string>
+  <string name="change_to_voice_tips_when_background">Toinen osapuoli vaihtoi äänipuheluun</string>
   <string name="close_camera_failed">Kameraa ei voitu poistaa käytöstä…</string>
   <string name="close_camera_requesting">Poistetaan kamera käytöstä…</string>
   <string name="conference_call_description" formatted="false">%s,%s jne. yhteensä %s</string>
