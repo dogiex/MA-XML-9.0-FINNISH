@@ -547,7 +547,7 @@
   <string name="cpu_usage_app_uninstalled_toast">Tämä sovellus on poistettu</string>
   <string name="cpu_usage_process_run_time_little_time">Vähemmän, kuin 1 minuutti</string>
   <string name="cpu_usage_view_action_btn_text">Näytä napauttamalla</string>
-  <string name="create_shortcut">Luo Aloitusnäytölle pikakuvaketa Pelien Nopeuttajasta</string>
+  <string name="create_shortcut">Luo Aloitusnäytölle pikakuvaketa Pelien nopeuttajasta</string>
   <string name="cta_dialog_msg">Tietoturva-sovellus vaatii internet-yhteyden päivityksiä varten sekä pääsyn sijaintitietoihin toimiakseen normaalisti.</string>
   <string name="cta_dialog_title">Internet-yhteys</string>
   <string name="cta_settings">Salli internet-yhteys</string>
@@ -598,7 +598,7 @@
   <string name="dialog_remove_luckymoney">Voit käyttää uutta sisäänrakennettua punaisen kirjekuoren avustajaa, tai jatka asennetun version käyttämistä. Kumpaa sinä suosit?</string>
   <string name="dialog_roaming_message">Sallitaanko tämän sovelluksen käyttää mobiilidataa ulkomaan roaming-tilassa?</string>
   <string name="dialog_roaming_title">Ulkomaan roaming</string>
-  <string name="dialog_text">Luo Aloitusnäytölle pikakuvake Pelien Nopeuttajasta</string>
+  <string name="dialog_text">Luo Aloitusnäytölle pikakuvake Pelien nopeuttajasta</string>
   <string name="dialog_title_attention">Huomio</string>
   <string name="dialog_title_auto_start_declare">Tietoa käynnistyksestä</string>
   <string name="dialog_title_stop_virus_scan">Lopeta tietoturvatarkistus</string>
@@ -714,6 +714,7 @@
   <string name="float_window">桌面悬浮窗</string>
   <string name="float_window_summary">支持快速跳转至摇一摇与咻一咻页面</string>
   <string name="float_window_tips">小米手机就是快！</string>
+  <string name="forbid_autobright_title">Korjaa näytön kirkkaus</string>
   <string name="foreground_traffic">Etuala %s</string>
   <string name="forget_password_button_text">Unohdin salasanan</string>
   <string name="forget_password_button_text_normal">Unohdin salasanan</string>
@@ -732,7 +733,10 @@
   <string name="game_anti_disturb_msg">Peli Älä häiritse</string>
   <string name="game_booster">Pelien nopeuttaja</string>
   <string name="game_booster_intro">Tietoja Pelien nopeuttajasta</string>
+  <string name="game_booster_jump_webview">Odota hetki…</string>
+  <string name="game_booster_tab_top">Top</string>
   <string name="game_booster_title">Nopeuta</string>
+  <string name="game_bootser_tab_settings">Nopeuttajan asetukset</string>
   <string name="game_improve_text1">Tyhjennä taustalla oleva välimuisti vapauttaaksesi muistia pelaamista varten</string>
   <string name="game_improve_text2">Tyhjennä taustalla oleva välimuisti vapauttaaksesi muistia pelaamista varten ja parantaaksesi suorittimen suorituskykyä</string>
   <string name="game_improve_title">Optimoi suorituskyky</string>
@@ -741,8 +745,10 @@
   <string name="game_net_text2">Paranna pelien yhteyden nopeutta samaan aikaan, kun vähennetään verkon viivettä rajoittamalla taustalla tapahtuvaa latausnopeutta</string>
   <string name="game_net_title">Optimoi yhteyden nopeus</string>
   <string name="game_setting">Peliasetukset</string>
-  <string name="gamebooster_main_activity_back">Takaisin Pelien nopeuttajaan</string>
-  <string name="gamebooster_network_dialog_message">Sallitaanko Tietoturvan yhdistää verkkoon, jotta voidaan käyttää Pelien Nopeuttajan kaikkia ominaisuuksia?</string>
+  <string name="gamebooster_lowbattery_notification_summary">Lataa laitteesi, ennen kuin se sammuu.</string>
+  <string name="gamebooster_lowbattery_notification_title">Akun taso on vähemmän, kuin 5%%</string>
+  <string name="gamebooster_main_activity_back">Takaisin</string>
+  <string name="gamebooster_network_dialog_message">Sallitaanko Tietoturvan yhdistää verkkoon, jotta voidaan käyttää Pelien nopeuttajan kaikkia ominaisuuksia?</string>
   <string name="gamebooster_network_dialog_title">Jotkut ominaisuudet ei ole käytettävissä</string>
   <string name="gateway_exception_summary">Tarkista reitittimesi ja yritä uudelleen.</string>
   <string name="gateway_exception_summary2">Palvelimeen yhdistäminen epäonnistui</string>
@@ -759,8 +765,11 @@
   <string name="gs_app_back_self_start">Virransäästö</string>
   <string name="gs_auto_clean_memory">Tyhjennä välimuisti</string>
   <string name="gs_auto_clean_memory_detail">Optimoi pelaaminen tyhjentämällä välimuisti automaattisesti</string>
+  <string name="gs_call_handsfree">Vastaa puheluihin ilman käsiä</string>
+  <string name="gs_call_handsfree_mute">Äänetön tila</string>
   <string name="gs_dialog_confirm_close_msg">Pikakuvake poistetaan Aloitusnäytöltäsi. Mene Tietoturva &gt; Asetukset palauttaaksesi sen.</string>
   <string name="gs_dialog_confirm_close_title">Poista käytöstä</string>
+  <string name="gs_forbid_autosync">Rajoita taustalla tapahtuvaa synkronointia</string>
   <string name="gs_game_disturb_msg">Älä Häiritse</string>
   <string name="gs_game_duration">Aika</string>
   <string name="gs_game_net_priority">Yhteyden prioriteetti</string>
@@ -845,13 +854,14 @@
   <string name="keywords_auto_restart">Käynnistys;Käyttöoikeudet;Käynnistä automaattisesti;Automaattikäynnistys;Hallitse käynnistystä;MIUI käynnistys;Sovelluksen käynnistys;käynnistä sovellus automaattisesti;Ketjumainen käynnistys;Ketjuttainen käynnistys;käynnistä</string>
   <string name="keywords_buy_flow">data;mobiilidata;osta dataa;osta mobiilidataa;topup dataa;datapaketti</string>
   <string name="keywords_cleanmaster">Roska;Puhdista;Nopeuta;Tallennustila;Välimuisti;Tyhjennä tallennustila;tyhjennä roska;roska;lisää;lisää talennustilaa;lisää tilaa;puhdista;syväpuhdista;puhdistaja</string>
+  <string name="keywords_gamebooster">Peli;nopeuden parantaja;Suorituskykytila;Älä häiritse</string>
   <string name="keywords_networkassistant_1">Data;Liikenne</string>
   <string name="keywords_networkassistant_2">Data;Kalibroi</string>
   <string name="keywords_networkassistant_4">Yhteys;Internet;Testi</string>
   <string name="keywords_powercenter">Säästä akkua;Kuumenee;Ota käyttöön;Poista käytöstä;Akku;Tyhjentyy;Akku;Akkuongelmat;Virta;Vuotaa;Kuumenee;Virransäästö;Virransäästäjä;Virran säästö;Akun säästö</string>
   <string name="keywords_powercenter_powerrank">Akun käyttö</string>
   <string name="keywords_securitycenter">Tietoturva;Tarkista;Skannaa</string>
-  <string name="keywords_securitycenter_settings">Akun käyttö;Hallitse käynnistystä;Asenna käyttäen USB;Sovelluksen käyttöoikeudet;Osta mobiilidataa;Estolista;Datan käyttö;Kalibroi datapaketti;Testaa verkko;Säästä akkua;Kuumenee;Ota käyttöön;Poista käytöstä;Akku;Vuotaa;Akkuongelmat;Virta;Virransäästö;Virransäästäjä;Virran säästö;Akun säästö;Käynnistys;Käyttöoikeudet;Automaattinen käynnistys;MIUI automaattinen käynnistys;Sovelluksen automaattinen käynnistys;käynnistä sovellus automaattisesti;Ketjuttainen käynnistys;Ketjumainen käynnistys;Käynnistää;USB asennus;Asenna tietokoneelta;ADB asennus;Sijainti;Pääsy yhteystietoihin;data;mobiilidata;osta dataa;topup data;datapaketti;Estä;Musta lista;Älykäs estolista;Huijaus;Myyjä;Agentit;Puhelun estolista;Viestin estolista;Viestien estolista;Tekstiviestin estolista;mustalista;musta lista;estolista;esto lista;huijaus;estä yhteystieto;estä yhteystietoja;Liikenne;Kalibroi;Yhteys;Internet;Testaa;Akun käyttö</string>
+  <string name="keywords_securitycenter_settings">Akun käyttö;Hallitse käynnistystä;Asenna käyttäen USB;Sovelluksen käyttöoikeudet;Osta mobiilidataa;Estolista;Datan käyttö;Kalibroi datapaketti;Testaa verkko;Säästä akkua;Kuumenee;Ota käyttöön;Poista käytöstä;Akku;Vuotaa;Akkuongelmat;Virta;Virransäästö;Virransäästäjä;Virran säästö;Akun säästö;Käynnistys;Käyttöoikeudet;Automaattinen käynnistys;MIUI automaattinen käynnistys;Sovelluksen automaattinen käynnistys;käynnistä sovellus automaattisesti;Ketjuttainen käynnistys;Ketjumainen käynnistys;Käynnistää;USB asennus;Asenna tietokoneelta;ADB asennus;Sijainti;Pääsy yhteystietoihin;data;mobiilidata;osta dataa;topup data;datapaketti;Estä;Musta lista;Älykäs estolista;Huijaus;Myyjä;Agentit;Puhelun estolista;Viestin estolista;Viestien estolista;Tekstiviestin estolista;mustalista;musta lista;estolista;esto lista;huijaus;estä yhteystieto;estä yhteystietoja;Liikenne;Kalibroi;Yhteys;Internet;Testaa;Akun käyttö;Peli;nopeuden parantaja;Suorituskykytila;Älä häiritse</string>
   <string name="keywords_usb_install">USB asennus;asenna tietokoneelta;ADB asennus</string>
   <string name="kilobyteShort">Kt</string>
   <string name="kilobyte_per_second">Kt/s</string>
@@ -1083,6 +1093,7 @@ vastausta"</string>
   <string name="name">Nimi</string>
   <string name="net_booster">Verkon nopeuden parantaja</string>
   <string name="net_booster_expire_notification">Verkon nopeuden parantajan istunto on päättymässä</string>
+  <string name="net_booster_expire_notification_tip">%d pv jäljellä, ennen kuin Verkon nopeuden parantajan istunto päättyy. Uusi istunto välttääksesi verkon nopeuden ongelmat.</string>
   <string name="net_booster_overdue_notification">Verkon nopeuden parantajan istunto on päättymässä</string>
   <string name="net_booster_overdue_notification_tip">Verkon nopeuden parantajan istunto päättyy pian. Uusitaanko istunto?</string>
   <string name="net_booster_tip">Ota Verkon nopeuden parantaja käyttöön, jotta Wi-Fi-yhteys olisi vakaampi ja vähentääksesi verkon viivettä.</string>
@@ -1300,6 +1311,7 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="path_auto_restart">Järjestelmäsovellukset/Tietoturva/Käyttöoikeudet/Käynnistys</string>
   <string name="path_buy_flow">Järjestelmäsovellukset/Tietoturva/Data usage/Osta mobiilidataa</string>
   <string name="path_cleanmaster">Järjestelmäsovellukset/Tietoturva/Puhdistaja</string>
+  <string name="path_gamebooster">Järjestelmäsovellukset/Tietoturva/Pelien nopeuttaja</string>
   <string name="path_networkassistant_1">Järjestelmäsovellukset/Tietoturva/Datan käyttö</string>
   <string name="path_networkassistant_2">Järjestelmäsovellukset/Tietoturva/Datan käyttö</string>
   <string name="path_networkassistant_4">Järjestelmäsovellukset/Tietoturva/Datan käyttö/Testaa verkko</string>
@@ -1533,6 +1545,7 @@ Kalibroinnin aikana, MIUI lähettää tekstiviestin operaattorillesi saadakseen 
   <string name="resource_auto_restart">Hallitse käynnistystä</string>
   <string name="resource_buy_flow">Osta mobiilidataa</string>
   <string name="resource_cleanmaster">Puhdistaja</string>
+  <string name="resource_gamebooster">Pelien nopeuttaja</string>
   <string name="resource_networkassistant_1">Datan käyttö</string>
   <string name="resource_networkassistant_2">Kalibroi datapaketti</string>
   <string name="resource_networkassistant_4">Testaa verkko</string>
@@ -1936,6 +1949,8 @@ Tässä ohjeet:
   <string name="text_day"/>
   <string name="text_error">相关软件版本过低或未安装</string>
   <string name="text_lucky_alarm_before">红包活动即将开始</string>
+  <string name="thermal_tips_message">Pelaamalla pelejä Suorituskykytilan ollessa käytössä saattaa johtaa ylikuumenemisen ongelmiin.</string>
+  <string name="thermal_tips_title">Huomio</string>
   <string name="third_application">Asennetut sovellukset</string>
   <string name="three_percent_total_pkg">%s (3%% kuukausittaisesta datasta)</string>
   <string name="timeshow_h">%.1f t</string>
@@ -2123,8 +2138,8 @@ Lisää saldoa napauttamalla."</string>
   <string name="virus_ad_icon_text">Mainos</string>
   <string name="virus_auto_update_engine">Automaattinen päivitys: %s</string>
   <string name="virus_scan_process_pre">%</string>
-  <string name="virus_update_tips_title">Yhdistä Wi-Fi-verkkoon</string>
-  <string name="virus_wait_network_dialog_message">Päivitykset ovat suuria. Lataa ne yhdistämällä Wi-Fi-verkkoon.</string>
+  <string name="virus_update_tips_title">Varoitus</string>
+  <string name="virus_wait_network_dialog_message">Puhelimesi ei ole yhteydessä Wi-Fi-verkkoon. Se kuluttaa mobiilitiedonsiirtoa. Jatketaanko?</string>
   <string name="voltage_symbol">V</string>
   <string name="wakepath_confirm_start_activity">Sallitaanko %1$s avata %2$s?</string>
   <string name="warn_function_no_work">来红包时无法正常提醒？</string>

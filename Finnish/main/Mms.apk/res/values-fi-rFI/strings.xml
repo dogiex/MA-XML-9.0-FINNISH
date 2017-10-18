@@ -122,7 +122,7 @@
   <string name="delete_phrase">Poista vastaus</string>
   <string name="delete_unlocked">Poista lukitut viestit</string>
   <string name="delete_verification_code_sms_message">Poistetaanko kaikki kertakäyttösalasanat?</string>
-  <string name="delete_verification_code_sms_title">Tyhjennä kertakäyttösalasanat</string>
+  <string name="delete_verification_code_sms_title">Poista kertakäyttösalasanat</string>
   <string name="delete_wild_sims">Poista numeroita</string>
   <string name="delete_wild_sims_confirm">Kaikki valittujen numeroiden viestit poistetaan tästä puhelimesta. Voit palauttaa ne osoitteessa i.mi.com.</string>
   <string name="delete_wild_sims_title">Poista valitut numerot</string>
@@ -195,7 +195,7 @@
   <string name="group_message">Ryhmäviesti</string>
   <string name="group_resend_message">Lähetä uudelleen (%d)</string>
   <string name="group_verification_codes_summary">Ryhmitä kertakäyttösalasanat automaattisesti keskenään</string>
-  <string name="group_verification_codes_title">OTP viestien ryhmä</string>
+  <string name="group_verification_codes_title">Ryhmitä kertakäyttösalasanat</string>
   <string name="guild_add_attachments">Lisää hymiöitä ja muuta sisältöä napauttamalla</string>
   <string name="guild_add_recipients">Lisää vastaanottajia osoitekirjasta napauttamalla</string>
   <string name="guild_msim_switcher">Vaihda SIM-kortteja napauttamalla</string>
@@ -255,7 +255,7 @@
   <string name="message_number">Puhelinnumero:</string>
   <string name="message_pending">Lähetetään</string>
   <string name="message_queued">Viestiä ei voi lähettää juuri nyt. Viesti lähetetään, kun palvelu tulee saataville.</string>
-  <string name="message_queued_second_space">Viestiäsi ei voi lähettää juuri nyt. Ole hyvä ja avaa dataverkko.</string>
+  <string name="message_queued_second_space">Viestiä ei voitu lähettää. Lähetä ottamalla mobiilidata käyttöön.</string>
   <string name="message_readed">Luettu</string>
   <string name="message_received">Vastaanotettu</string>
   <string name="message_rejected">Hylätty</string>
@@ -305,9 +305,6 @@
   <string name="mx_activate_status_desc_query_activte_info">Tarkistetaan SIM-kortin tietoa…</string>
   <string name="mx_activate_status_desc_request_activation_sms_phone_error">Syöttämäsi puhelinnumero on virheellinen</string>
   <string name="mx_activate_status_desc_wait_for_sms_fail">Mi Viestin aktivointi epäonnistui</string>
-  <string name="mx_and_voip_enable">Mi Viesti &amp; Ääni</string>
-  <string name="mx_and_voip_enable_popup_msg">Lähetä viestejä ja soita puheluita toisiin MIUI laitteisiin ilman operaattorin lisäkustannuksia. VoIP palvelun tarjoaa Weihui. Katso weihuin Tietosuojakäytäntö.</string>
-  <string name="mx_and_voip_enable_popup_msg2">Tietosuojakäytäntö</string>
   <string name="mx_auto_resend_mms">Lähetä multimediaviestinä</string>
   <string name="mx_auto_resend_mms_summary">Lähetä multimediaviestit multimediaviesteinä (MMS) mobiilidatayhteydellä, kun et ole yhteydessä Wi-Fi-verkkoon. Operaattorisi veloittaa sinua normaalisti.</string>
   <string name="mx_auto_resend_sms">Lähetä tekstiviestinä</string>
@@ -319,7 +316,6 @@
   <string name="mx_dspt">Lähetä teksti- ja multimediaviestejä toisiin MIUI laitteisiin ilman lisäkustannuksia, kun olet yhteydessä Wi-Fi-verkkoon.</string>
   <string name="mx_dspt_listview">Lähetä viestejä toisiin MIUI laitteisiin ilman lisäkustannuksia</string>
   <string name="mx_dspt_provision">Mi Viestillä voit lähettää viestejä toisille MIUI käyttäjille ilman lisäkustannuksia. Lähtevä tekstiviesti saatetaan vaatia Mi Viestin uudelleenaktivoimista varten. Operaattorisi veloittaa sinua tästä viestistä. Lisäksi tämä palvelu tarvitsee pääsyn mobiilidataan toimiakseen normaalisti.</string>
-  <string name="mx_dspt_provision_ex">Lähetä viestejä ja soita puheluita toisille MIUI käyttäjille ilman operaattorin lisäkustannuksia. VoIP palvelun tarjoaa Weihui. Katso Weihuin Tietosuojakäytäntö.</string>
   <string name="mx_dspt_provision_ex2">Tietosuojakäytäntö</string>
   <string name="mx_enable">Mi Viesti</string>
   <string name="mx_enable_ex">Mi Viesti &amp; Ääni</string>
@@ -360,8 +356,8 @@
   <string name="notification_multiple">[%s]</string>
   <string name="notification_multiple_title">Uusia viestejä</string>
   <string name="number_add_hint">Syötä puhelinnumero</string>
-  <string name="open_audio_record_panel">Avaa ääninauhoituksen paneeli</string>
-  <string name="open_edit_sms_panel">Avaa tekstiviestin muokkauspaneeli</string>
+  <string name="open_audio_record_panel">Avaa äänen nauhoituspaneeli</string>
+  <string name="open_edit_sms_panel">Avaa viestin muokkauspaneeli</string>
   <string name="open_url_with_web">Avataanko tämä URL-osoite Selaimessa?</string>
   <string name="over_max_mms_size">Multimediaviesti on liian iso.</string>
   <string name="overwrite_edited_content">Muokkaamasi sisältö korvataan.</string>
@@ -406,7 +402,6 @@
   <string name="pref_summary_mms_read_reports">Näytä ilmoitus keskustelunäkymässä, kun vastaanottajat on ladannut multimediaviestin sisällön</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Lataa viesteissä olevat kuvat ja videot automaattisesti roaming-tilassa</string>
   <string name="pref_summary_notification_body_enabled">Näytä viestit lukitusnäytöllä ja ilmoitusalueella</string>
-  <string name="pref_summary_notification_body_enabled_when_secure">Et voi esikatsella viestejä Vierastilassa</string>
   <string name="pref_summary_off_system_mms_priority">Käytä kolmannen osapuolen sovelluksia multimediaviestien lähettämiseen ja vastaanottamiseen</string>
   <string name="pref_summary_on_system_mms_priority">Aseta MIUI:n viestisovellus oletussovellukseksi multimediaviestien lähettämiseen ja vastaanottamiseen</string>
   <string name="pref_summary_send_delivery_reports">Lähetä vastaanottovahvistus lähettäjälle, kun olet saanut multimediaviestin</string>
@@ -571,15 +566,15 @@
   <string name="sms_report_dialog_title">Yritä uudelleen</string>
   <string name="sms_report_failed">Ilmoituksen lähettäminen epäonnistui</string>
   <string name="sms_report_success">Ilmoitus lähetettiin onnistuneesti</string>
-  <string name="snippet_audio">[ääni]</string>
-  <string name="snippet_picture">[kuva]</string>
+  <string name="snippet_audio">[Ääni]</string>
+  <string name="snippet_picture">[Kuva]</string>
   <string name="sp_category_all">Kaikki palveluviestit</string>
   <string name="sp_category_bank">Pankin ilmoitusviestit</string>
   <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Ilmoitukset</string>
   <string name="sp_mark_as_read_menu_title">Merkitse luetuiksi</string>
-  <string name="sqlite_disk_full">Tietokanta tai Levy on täynnä</string>
-  <string name="sqlite_low_memory">Muisti vähissä</string>
+  <string name="sqlite_disk_full">Laitteesi tallennustila on täynnä.</string>
+  <string name="sqlite_low_memory">Tallennustilaa ei ole tarpeeksi</string>
   <string name="status_failed">Epäonnistui</string>
   <string name="status_label">"Tila: "</string>
   <string name="status_pending">Odottaa</string>
@@ -657,11 +652,8 @@ Yritys tehty: %s."</string>
   <string name="view">Näytä</string>
   <string name="view_bookmark">Näytä alkuperäinen viesti</string>
   <string name="view_message_details">Näytä tiedot</string>
-  <string name="voip_enable">Mi Viesti ja Ääni</string>
-  <string name="voip_enable_popup_msg">Soita puheluita toisiin MIUI laitteisiin ilman lisäkustannuksia. VoIP palvelun tarjoaa Weihui. Katso Weihuin Tietosuojakäytäntö.</string>
-  <string name="voip_enable_popup_msg2">Tietosuojakäytäntö</string>
   <string name="wap_push_title">"[WAP Push] "</string>
-  <string name="warning_show">Lähetä %d s ajan kuluttua</string>
+  <string name="warning_show">Lähetä %d s kuluttua</string>
   <string name="wild_msg_processing">Työskennellään…</string>
   <string name="wild_msg_title">Valitse synkronoitavat puhelinnumerot</string>
   <string name="yellowpage_recommend_msg">Katso MIUI:n Viestien toimintoja</string>

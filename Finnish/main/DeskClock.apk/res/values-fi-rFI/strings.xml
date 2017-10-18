@@ -163,7 +163,7 @@
   <string name="tomorrow">Huomenna</string>
   <string name="turn_off_a_repeat_alarm">Poista toistuva hälytys käytöstä</string>
   <string name="turn_off_this_repeat_alarm">Poista käytöstä kokonaan</string>
-  <string name="upcoming_alarm"> Tuleva hälytys</string>
+  <string name="upcoming_alarm">%s Tuleva hälytys</string>
   <string name="upcoming_alarm_hint">Voit sulkea tämän hälytyksen ennakkoon</string>
   <string name="vibrate_pref_summary">Värise, kun hälytys soi</string>
   <string name="vibrate_when_ringing">Värise, kun soi</string>

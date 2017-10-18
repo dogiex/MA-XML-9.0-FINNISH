@@ -1206,12 +1206,4 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Tiedostot</item>
         <item>Muistiot</item>
     </string-array>
-    <string-array name="standard_configuration_version_description_primary">
-        <item>Suoritin</item>
-        <item>Akun kapasiteetti</item>
-        <item>Takakamera</item>
-        <item>Näytön koko</item>
-        <item>Resoluutio</item>
-        <item>Android-versio</item>
-    </string-array>
 </resources>

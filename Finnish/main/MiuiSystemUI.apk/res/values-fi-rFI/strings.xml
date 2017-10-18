@@ -233,6 +233,8 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="demo_mode">Esittelytila</string>
   <string name="description_direction_left">"Liu'uta vasemmalle ja %s."</string>
   <string name="description_direction_up">"Liu'uta ylös ja %s."</string>
+  <string name="description_image_button_answer">Vastaa</string>
+  <string name="description_image_button_reject">Hylkää</string>
   <string name="description_target_search">Haku</string>
   <string name="dev_settings_warning_message">Nämä asetukset on tarkoitettu vain kehityskäyttöön. Ottamalla nämä ominaisuudet käyttöön saattaa laitteesi tai siinä olevat sovellukset käyttäytyä omituisesti tai aiheuttaa virheitä.</string>
   <string name="dev_settings_warning_title">Sallitaanko kehittäjäasetukset?</string>
