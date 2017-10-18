@@ -349,6 +349,7 @@
   <string name="filter_by_size_min">%d Kt</string>
   <string name="filter_by_size_prefix">"Piilota tiedostot, jotka pienempiä kuin "</string>
   <string name="filter_by_size_summary">Piilota pienet äänitiedostot</string>
+  <string name="filter_size_unit">%d Kt</string>
   <string name="find_music">Tutustu kappaleisiin</string>
   <string name="follow">Seuraa</string>
   <string name="followed">Seurataan</string>
@@ -576,6 +577,9 @@
   <string name="notification_recommend_title">Tärkeät ilmoitukset</string>
   <string name="notification_setting">Ilmoitusasetukset</string>
   <string name="notification_title_no_song">Katso mitä muut kuuntelee!</string>
+  <string name="nowplaying_circle_style">Nyt toistetaan Circle Style</string>
+  <string name="nowplaying_circle_style_rainbow">Sateenkaari</string>
+  <string name="nowplaying_circle_style_wave">Aalto</string>
   <string name="nowplaying_dialog_title_delete_tracks">Tyhjennetäänkö nykyinen soittolista?</string>
   <string name="nowplaying_menu_item_delete">Tyhjennä</string>
   <string name="ok">OK</string>

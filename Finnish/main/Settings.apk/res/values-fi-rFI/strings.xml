@@ -2567,6 +2567,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="nfc_se_route_title">Turvaelementin sijainti</string>
   <string name="nfc_se_wallet_title">Oletuslompakko</string>
   <string name="no">Ei</string>
+  <string name="no_account_found">Yhtään sovellusta ei ole, joka tukisi tilin lisäämistä</string>
   <string name="no_application">Ei mitään</string>
   <string name="no_applications">Ei sovelluksia.</string>
   <string name="no_battery_summary">Ei akun käyttöä täyteen lataamisen jälkeen</string>
@@ -5165,7 +5166,7 @@ Muodosta yhteys toiseen Wi-Fi-verkkoon valitsemalla "&lt;b&gt;Takaisin&lt;/b&gt;
   <string name="wrong_pin_code_pukked">Virheellinen SIM-kortin PIN-koodi. Sinun on nyt otettava yhteys operaattoriin laitteen lukituksen avaamiseksi.</string>
   <string name="xiaomi_account">Mi Tili</string>
   <string name="xiaomi_cloud_service">Mi Pilvi</string>
-  <string name="xiaomi_cloud_service_description">Mi Pilvi synkronoi yhteystietosi ja kuvasi, varmuuskopioi sovelluksesi ja asetuksesi, ja auttaa löytämään laitteesi käyttämällä Etsi laite -toimintoa.</string>
+  <string name="xiaomi_cloud_service_description">Mi Pilvi synkronoi yhteystiedot, kuvat ja muut kohteet laitteidesi välillä. "\Etsi laite\" vaatii myös Mi Pilven toimiakseen normaalisti.</string>
   <string name="xiaomi_cloud_service_disabled">Pois päältä</string>
   <string name="xiaomi_cloud_service_unknown">Tuntematon</string>
   <string name="xiaomi_money_service">Mi Krediitti</string>
