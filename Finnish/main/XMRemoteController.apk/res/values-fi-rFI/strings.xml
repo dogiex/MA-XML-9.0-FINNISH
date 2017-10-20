@@ -113,10 +113,10 @@
   <string name="backup_succeed">Varmuuskopiointi onnistui</string>
   <string name="backuping">Varmuuskopioidaan…</string>
   <string name="bedroom">Makuuhuone</string>
-  <string name="bind_stb">Jatka set-top box paritusta</string>
-  <string name="bind_stb_dlg">Parita set-top box vaihtamaan kanavia</string>
-  <string name="bind_stb_dlg_2">Lisää set-top-box ensin</string>
-  <string name="bind_stb_dlg_agree">Parita</string>
+  <string name="bind_stb">Jatka set-top box laiteparin muodostamista</string>
+  <string name="bind_stb_dlg">Muodosta laitepari set-top box laitteen kanssa vaihtaaksesi kanavia</string>
+  <string name="bind_stb_dlg_2">Lisää ensin set-top-box</string>
+  <string name="bind_stb_dlg_agree">Muodosta laitepari</string>
   <string name="brand_search_box_hint">Valitse valmistaja</string>
   <string name="brand_title_all">Kaikki</string>
   <string name="brand_title_hot">Suositut</string>
@@ -273,9 +273,9 @@ Kokeile seuraavaa korjataksesi ongelman:
   <string name="epg_booked">Ajastettu</string>
   <string name="epg_booked_program_time_left">Varattu (alkaa %1$s kuluttua)</string>
   <string name="epg_booked_str">Ajastettu</string>
-  <string name="epg_bottom_subtitle_textview_str">Parita set-top box nähdäksesi lisätietoja</string>
+  <string name="epg_bottom_subtitle_textview_str">Muodosta laitepari set-top box laitteen kanssa nähdäksesi lisätietoja</string>
   <string name="epg_bottom_subtitle_textview_str2">Näytä kaukosäädin napauttamalla</string>
-  <string name="epg_bottom_title_textview_str">Parita set-top box napauttamalla</string>
+  <string name="epg_bottom_title_textview_str">Muodosta laitepariyhteys laitteeseen set-top box napauttamalla</string>
   <string name="epg_cancel_book_program">%1$s [%2$s] 取消预约</string>
   <string name="epg_change_channel">Vaihda kanavia</string>
   <string name="epg_change_channel_casting">Vaihda kanavia (toistetaan nyt)</string>
@@ -347,12 +347,12 @@ Kokeile seuraavaa korjataksesi ongelman:
   <string name="extra_keys">Lisäpainikkeet</string>
   <string name="fail_add_controller_photo">Lisää kaukosäätimen kuva</string>
   <string name="fail_add_device_photo">Lisää laitteen kuva</string>
-  <string name="fail_content">"    Paritustietoa ei löytynyt. Voit lähettää palautteesi insinööreillemme."</string>
+  <string name="fail_content">"    Laiteparitietoa ei löytynyt. Voit lähettää palautteesi insinööreillemme."</string>
   <string name="fail_device_brand">Valmistaja</string>
   <string name="fail_device_model">Malli</string>
   <string name="fail_device_type">Tyyppi</string>
   <string name="fail_feedback">Palaute</string>
-  <string name="fail_title">Paritus epäonnistui</string>
+  <string name="fail_title">Laiteparin muodostaminen epäonnistui</string>
   <string name="fan_mode">Tuuletin tila</string>
   <string name="fan_speed">Nopeus</string>
   <string name="faq">UKK</string>
@@ -503,9 +503,9 @@ Kokeile seuraavaa korjataksesi ongelman:
   <string name="match_ac_name_power">Sammuta</string>
   <string name="match_ch_inc">Vaihtuuko se seuraavalle kanavalle?</string>
   <string name="match_chl_dec">Vaihtuuko se edelliselle kanavalle?</string>
-  <string name="match_count_frame">Parita %1$d/%2$d kaukosäädin</string>
+  <string name="match_count_frame">Muodosta laitepari %1$d/%2$d kaukosäädin</string>
   <string name="match_count_tip_frame">Kokeile painikkeita (%1$d/%2$d)</string>
-  <string name="match_data">Paritustiedot</string>
+  <string name="match_data">Laiteparitiedot</string>
   <string name="match_data_error_tips">"Tietoa ei saatu
 Jatka palaamalla takaisin"</string>
   <string name="match_direction_default">Toimiiko suuntapainikkeet?</string>
@@ -515,13 +515,13 @@ Jatka palaamalla takaisin"</string>
   <string name="match_dvd_name_pause">Pysäytä</string>
   <string name="match_dvd_name_play">Toista</string>
   <string name="match_dvd_name_stop">Lopeta</string>
-  <string name="match_fail_frame">%1$d kaukosäädintä ei voitu parittaa</string>
+  <string name="match_fail_frame">%1$d kaukosäätimen laitepariyhteyttä ei voitu muodostaa</string>
   <string name="match_fail_model_hint">Syötä kaukosäätimen mallinumero</string>
   <string name="match_failed">Ei enempää kohteita, mene takaisin tai yritä uudelleen</string>
   <string name="match_fan_intro_open">Vapauta, kun tuuletin käynnistyy</string>
   <string name="match_fan_name_open">Käynnistä</string>
   <string name="match_guide_main_frame">Osoita laitettasi %1$s kohti</string>
-  <string name="match_guide_sub_frame">Paritettiin %1$d painikkeet</string>
+  <string name="match_guide_sub_frame">Laitepari muodostettiin %1$d painikkeeseen</string>
   <string name="match_intro_power">Vapauta, kun laite käynnistyy</string>
   <string name="match_is_respond">Vastaako laite?</string>
   <string name="match_main_tip_frame">"Osoita kaukosäädintä %1$s kohti ja paina painiketta
@@ -569,7 +569,7 @@ odota hetki toiminnon jälkeen."</string>
   <string name="match_tv_name_ch_inc">Kanava +</string>
   <string name="match_tv_name_source">Lähde</string>
   <string name="match_tv_name_volume">Äänenvoimakkuus +</string>
-  <string name="match_type_selection_des">Valitse paritettava laite</string>
+  <string name="match_type_selection_des">Valitse laitepari</string>
   <string name="match_type_selection_title">Tyyppi</string>
   <string name="match_voh_intro_open">Vapauta, kun projektori käynnistyy</string>
   <string name="match_vol_dec">Väheneekö äänenvoimakkuus?</string>
@@ -913,7 +913,7 @@ Aktivoidaksesi tilisi, seuraa linkkiä,
   <string name="power_off">Pois päältä</string>
   <string name="power_on">Päällä</string>
   <string name="press_to_continue_match">Jatka napauttamalla</string>
-  <string name="press_to_match">Parita napauttamalla</string>
+  <string name="press_to_match">Muodosta laitepariyhteys napauttamalla</string>
   <string name="prev_remote">Edellinen kaukosäädin</string>
   <string name="privacy_content">Lue Xiaomi:n &lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;Tietosuojakäytäntö&lt;/a&gt; ja &lt;a href="http://www.miui.com/res/doc/eula/en.html"&gt;Käyttöehdot&lt;/a&gt; ennen Mi Kaukosäätimen käyttämistä. Pääsy internetiin ja sijaintipalveluihin vaaditaan, jotta sovellus toimii normaalisti.</string>
   <string name="privacy_nohit">Älä näytä uudelleen</string>
@@ -956,7 +956,7 @@ Aktivoidaksesi tilisi, seuraa linkkiä,
   <string name="refreshing_no_point">Päivitetään…</string>
   <string name="refreshing_retry">Epäonnistui, yritä uudelleen</string>
   <string name="release_to_refresh">Päivitä vapauttamalla</string>
-  <string name="rematch">Parita uudelleen</string>
+  <string name="rematch">Muodosta laitepariyhteys uudelleen</string>
   <string name="remote_controller_name">Mi Kaukosäädin</string>
   <string name="remove_fav_channel">取消收藏</string>
   <string name="rename">Nimeä uudelleen</string>
@@ -1030,7 +1030,7 @@ suoraan Lukitusnäytöltäsi"</string>
   <string name="select_dvb_carrier">Valitse palveluntarjoaja</string>
   <string name="select_screenshot_topic">选择话题</string>
   <string name="select_stb">Valitse set-top box</string>
-  <string name="select_stb_tips">Parita set-top box</string>
+  <string name="select_stb_tips">Muodosta laitepari laitteeseen set-top box</string>
   <string name="service_info">Palvelun Tiedot</string>
   <string name="set_label_all_albums">所有相册</string>
   <string name="set_label_local_albums">本地相册</string>
@@ -1120,7 +1120,7 @@ suoraan Lukitusnäytöltäsi"</string>
   <string name="splash_desc">Hallitse kaikkea vain napautuksella.</string>
   <string name="start_auto_tune">开始自动换台</string>
   <string name="start_diagnosis">Kokeile</string>
-  <string name="start_match">Parita</string>
+  <string name="start_match">Muodosta laitepari</string>
   <string name="stb">Set-top box</string>
   <string name="stb_power">STB päälle/pois</string>
   <string name="steps">Yritys #%d</string>
@@ -1175,7 +1175,7 @@ suoraan Lukitusnäytöltäsi"</string>
   <string name="udt_version_error">版本错误，请将小米电视或小米盒子升级至最新版本</string>
   <string name="unknown">Tuntematon</string>
   <string name="unkown_device_input_hint">Syötä laitteen malli</string>
-  <string name="unkown_device_main">Tätä laitetta ei voi parittaa.</string>
+  <string name="unkown_device_main">Tähän laitteeseen ei voi muodostaa laitepariyhteyttä.</string>
   <string name="unkown_device_sub">Lähetä meille tiedot tästä laitteesta, jotta voimme tukea sitä myöhemmin</string>
   <string name="unkown_device_title">Laitteen tietoja ei saatu</string>
   <string name="unset">Ei asetettu</string>

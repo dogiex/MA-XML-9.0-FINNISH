@@ -7,8 +7,8 @@
         <item>Tuuletin</item>
     </string-array>
     <string-array name="answer">
-        <item>Laitteesi voi parittaa vain Mi TV, Mi Box, ja kourallisen muiden Android-laitteiden kanssa käyttäen Wi-Fi-yhteyttä.</item>
-        <item>Varmista, että olet valinnut oikean A/C mallin paritusprosessissa. Seuraa laitteessasi olevia ilmoituksia, kunnes paritus on valmis.</item>
+        <item>Laitteesi voi muodostaa laiteparin vain Mi TV, Mi Box, ja kourallisen muiden Android-laitteiden kanssa käyttäen Wi-Fi-yhteyttä.</item>
+        <item>Varmista, että olet valinnut oikean A/C mallin laitepariyhteyden muodostamisessa. Seuraa laitteessasi olevia ilmoituksia, kunnes laitepariyhteys on valmis.</item>
         <item>Et. Tällä hetkellä voit käyttää Mi 4, Mi 4c, ja Redmi Note 2 laitteita infrapunakaukosäätimenä.</item>
     </string-array>
     <string-array name="epg_week_tab">

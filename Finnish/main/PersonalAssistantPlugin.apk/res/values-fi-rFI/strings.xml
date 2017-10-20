@@ -113,12 +113,12 @@
   <string name="empty_express_tip">Ei pikatoimitustietoja</string>
   <string name="empty_fav_card_btn">Kaikki suosikit</string>
   <string name="empty_fav_card_tip">Ei suosikkeja vielä</string>
-  <string name="empty_health_card_btn">Parita Mi Band</string>
+  <string name="empty_health_card_btn">Yhdistä Mi Band</string>
   <string name="empty_health_card_btn_get">Lataa Mi Fit</string>
   <string name="empty_health_card_btn_login">Kirjaudu sisään</string>
-  <string name="empty_health_card_login_tip">Kirjaudu sisään Mi Fit -sovellukseen ja parita Mi Band.</string>
+  <string name="empty_health_card_login_tip">Kirjaudu sisään Mi Fit -sovellukseen ja muodosta laitepariyhteys laitteen Mi Band kanssa.</string>
   <string name="empty_health_card_login_tip_vip">Kirjaudu sisään Mi Fit -sovellukseen ja ota askelmittari käyttöön.</string>
-  <string name="empty_health_card_tip">Asenna Mi Fit -sovellus ja parita Mi Band.</string>
+  <string name="empty_health_card_tip">Asenna Mi Fit -sovellus ja muodosta laitepariyhteys laitteen Mi Band kanssa.</string>
   <string name="empty_health_card_tip_vip">Asenna Mi Fit -sovellus ja ota askelmittari käyttöön.</string>
   <string name="empty_recharge_card_btn">Mene Asetuksiin</string>
   <string name="empty_recharge_card_tip">Näyttää siltä, ettet ole asentanut SIM-korttia tai et ole asettanut datapakettiasi</string>

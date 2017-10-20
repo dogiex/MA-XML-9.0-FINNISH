@@ -363,8 +363,8 @@ Yhteystietokortit on poistettu käytöstä"</string>
   <string name="device_other_title">Tuo toisesta puhelimesta</string>
   <string name="device_paired_dialog_message">Noudetaan yhteystietoja…</string>
   <string name="device_paired_dialog_title">Noudetaan yhteystietoja…</string>
-  <string name="device_pairing_dialog_message">Paritetaan…</string>
-  <string name="device_pairing_dialog_title">Parita laitteet</string>
+  <string name="device_pairing_dialog_message">Muodostetaan laitepariyhteyttä…</string>
+  <string name="device_pairing_dialog_title">Muodosta laitepariyhteys</string>
   <string name="device_transfer_by_bluetooth_message">"1. Ota toisessa laitteessa Bluetooth käyttöön.
         
 - Bluetooth löytyy verkkoasetuksista Android-laitteissa. 
@@ -829,7 +829,7 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="non_phone_add_to_contacts">Lisää yhteystietoihin</string>
   <string name="non_phone_caption">Puhelinnumero</string>
   <string name="non_phone_close">Sulje</string>
-  <string name="none_paired">Laitteita ei ole paritettu</string>
+  <string name="none_paired">Laitepariyhteyttä ei ole muodostettu</string>
   <string name="not_applied">Ei tueta</string>
   <string name="notification_action_voicemail_play">Toista</string>
   <string name="notification_new_voicemail_ticker">Uusi ääniviesti %1$s</string>
@@ -1167,7 +1167,7 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="take_photo">Ota valokuva</string>
   <string name="titleJoinContactDataWith">Yhdistä kontaktit</string>
   <string name="title_other_devices">Muut käytettävät laitteet</string>
-  <string name="title_paired_devices">Paritetut laitteet</string>
+  <string name="title_paired_devices">Yhdistetyt laiteparit</string>
   <string name="toast_call_detail_error">Halutun puhelun tietoja ei voida lukea</string>
   <string name="toast_copy_done">Valmis</string>
   <string name="toast_copying">Kopioidaan…</string>

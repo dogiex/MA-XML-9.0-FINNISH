@@ -423,7 +423,7 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="proxy_hostname_hint">proxy.example.com</string>
   <string name="proxy_port_hint">8080</string>
   <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
-  <string name="quick_settings_bluetooth_detail_empty_text">Ei paritettavia laitteita saatavilla</string>
+  <string name="quick_settings_bluetooth_detail_empty_text">Laitepareja ei ole käytettävissä</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
   <string name="quick_settings_connect_success">Yhdistetty</string>
   <string name="quick_settings_connecting">Yhdistetään</string>
