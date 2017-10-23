@@ -540,7 +540,7 @@ Pyyhkäise alas lukitaksesi"</string>
   <string name="status_bar_recent_guide_bottom">Pyyhkäise alas lukitaksesi</string>
   <string name="status_bar_recent_guide_top">Pyyhkäise ylös sulkeaksesi</string>
   <string name="status_bar_recent_inspect_item_title">Sovelluksen tiedot</string>
-  <string name="status_bar_recent_memory_info1">%1$s t / %2$s t käytettävissä</string>
+  <string name="status_bar_recent_memory_info1">%1$st / %2$st käytettävissä</string>
   <string name="status_bar_recent_memory_info2"/>
   <string name="status_bar_recent_remove_item_title">Poista listalta</string>
   <string name="status_bar_recording_back">Palaa takaisin Ääninauhuriin</string>
