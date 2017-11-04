@@ -36,8 +36,6 @@
   <string name="backup_hint">Pidä laitteesi päällä</string>
   <string name="backup_hint_onpad">Pidä laitteesi päällä</string>
   <string name="backup_is_running">Varmuuskopioidaan laitetta</string>
-  <string name="backup_items_app_tailer">" sovellusdatan tiedostoa "</string>
-  <string name="backup_items_sysdata_tailer">" järjestelmädatan tiedostoa "</string>
   <string name="backup_new">Uusi:</string>
   <string name="backup_progress">Varmuuskopioidaan…</string>
   <string name="backup_report">Näytä tiedot</string>
@@ -50,6 +48,7 @@
   <string name="button_cancel">Peruuta</string>
   <string name="button_continue">Jatka</string>
   <string name="button_finish">Valmis</string>
+  <string name="button_import">Tuo</string>
   <string name="button_next">Seuraava</string>
   <string name="button_ok">OK</string>
   <string name="button_return">Takaisin</string>
@@ -58,8 +57,20 @@
   <string name="camera_summary">Kameran asetukset (ei sisällä kuvia)</string>
   <string name="cancel">Peruuta</string>
   <string name="cancel_backup">Lopeta</string>
+  <string name="cancel_moving_dialog_message">Oletko varma, että haluat lopettaa tuonnin?</string>
+  <string name="cancel_moving_dialog_title">Lopeta tuonti</string>
   <string name="cancel_restore">Lopeta</string>
-  <string name="click_to_view">Näpäytä katsoaksesi</string>
+  <string name="click_to_view">Napauta katsoaksesi</string>
+  <string name="close_twice_auth_btn">Poista kaksivaiheinen todentaminen käytöstä</string>
+  <string name="close_twice_auth_note">"Huomio:
+Uuden turvakysymyksen luomisen ja syntymäpäiväsi vahvistamisen jälkeen Apple ID:si kaksivaiheinen todentaminen poistetaan käytöstä. Jos et näe valintaa kaksivaiheisen todentamisen poistamiselle Apple ID:n tilisivulla, et voi poistaa sitä käytöstä.</string>
+  <string name="close_twice_auth_operation">"URL-osoite:
+https://appleid.apple.com/#!&amp;page=signin poistaaksesi käytöstä"</string>
+  <string name="close_twice_auth_step_1">1. Avaa mikä tahansa selain millä tahansa tietokoneella ja mene osoitteeseen appleid.apple.com.</string>
+  <string name="close_twice_auth_step_2">2. Kirjaudu sisään Apple ID:llä, josta haluat poistaa kaksivaiheisen todentamisen käytöstä ja mene \"Tietoturva\" osioon tilisi asetuksissa ja valitse \"Muokkaa\"</string>
+  <string name="close_twice_auth_step_3">3. Paina \"Poista kaksivaiheinen todentaminen käytöstä\". Paina uudelleen vahvistaaksesi.</string>
+  <string name="close_twice_auth_steps">Seuraa näitä ohjeita poistaaksesi kaksivaiheisen todentamisen Apple ID:ltä:</string>
+  <string name="close_twice_auth_tutor">Poista Apple ID:n kaksivaiheinen todentaminen käytöstä</string>
   <string name="cloud_app_name">Mi Pilvi varmuuskopio</string>
   <string name="cloud_backup_hint">Päästääksesi varmuuskopioihisi, kirjaudu sisään nyt</string>
   <string name="cloud_backup_login">Kirjaudu Mi tilillesi</string>
@@ -72,8 +83,11 @@
   <string name="cloud_restore_title">Palauta varmuuskopion tiedot</string>
   <string name="cloud_restore_window_title">Mi Pilvi palautus</string>
   <string name="cloud_search">Etsitään…</string>
+  <string name="comma_seperator">", "</string>
   <string name="compute_backup_info">Noudetaan varmuuskopion tietoja…</string>
   <string name="compute_delete_contact_info">Noudetaan tietoja…</string>
+  <string name="connect_wifi">Yhdistä Wi-Fi</string>
+  <string name="connect_wifi_tip">Verkkoyhteys katkaistu. iCloudista tietojen tuonti vaatii Wi-Fin.</string>
   <string name="contact_title">Yhteystiedot</string>
   <string name="current_account">Hei %s</string>
   <string name="current_pad_location">Pad</string>
@@ -89,8 +103,10 @@
   <string name="delete_failed_backup_confirm">Tämä varmuuskopio sisältää virheitä.</string>
   <string name="deselect_all">Poista valinnat</string>
   <string name="dir_date_format">yyyyMMdd_HHmmss</string>
+  <string name="disable_encrypt_description">Älä salaa</string>
   <string name="disable_encrypt_title">Poista salaus käytöstä</string>
   <string name="enable_encrypt">Ota salaus käyttöön</string>
+  <string name="enable_encrypt_description">Salaa</string>
   <string name="enable_encrypt_fail">Salaaminen epäonnistui</string>
   <string name="enable_encrypt_indicator">Kosketa salaamiseksi</string>
   <string name="enable_encrypt_ok">OK</string>
@@ -121,12 +137,46 @@
   <string name="guarded_mode_dialog_backup_message">Varmuuskopioita ei sallita Vierastilassa.</string>
   <string name="guarded_mode_dialog_title">Olet Vierastilassa</string>
   <string name="guarded_mode_dialog_transfer_message">Mi Siirtäjää ei voi käyttää Vierastilassa.</string>
-  <string name="import_from_xiaomi_account_hint1">"1.Lataa Mi Talk -sovellus ja kirjaudu sisään.
+  <string name="hsa_code_null">Vahvistuskoodi ei voi olla tyhjä</string>
+  <string name="hsa_input_hint">Syötä vahvistuskoodi</string>
+  <string name="hsa_input_tip">iCloud ID:si ottaa käyttöön kaksivaiheisen todentamisen. Syötä vahvistuskoodi.</string>
+  <string name="hsa_send_again">Lähetä uudelleen</string>
+  <string name="hsa_send_again_countdown">Lähetä uudelleen(%ds)</string>
+  <string name="hsa_send_failed">Vahvistuskoodin lähettäminen epäonnistui. Yritä myöhemmin uudelleen.</string>
+  <string name="hsa_sending">Lähetetään…</string>
+  <string name="hsa_tip_message">"1. Vahvistuskoodiviesti lähetettiin iCloudiin liitettyyn puhelimeen
+2. Poista kaksivaiheinen todentaminen käytöstä jos vahvistus epäonnistuu."</string>
+  <string name="hsa_tip_message_shutdown_hsa">kuinka kaksivaiheinen todentaminen poistetaan käytöstä</string>
+  <string name="hsa_tip_message_with_device">"1. Vahvistuskoodiviesti lähetettiin iCloudiin liitettyyn puhelimeen %s
+2. Poista kaksivaiheinen todentaminen käytöstä jos vahvistus epäonnistuu."</string>
+  <string name="hsa_tip_title">Vinkit:</string>
+  <string name="hsa_title">Kaksivaiheinen todentaminen</string>
+  <string name="hsa_verify_failed">Kaksivaiheinen todentaminen epäonnistui</string>
+  <string name="hsa_verify_failed_message">Kaksivaiheinen todentaminen epäonnistui. Voit yrittää uudelleen tai poista kaksivaiheinen todentaminen käytöstä.</string>
+  <string name="hsa_verify_retry">Yritä uudelleen</string>
+  <string name="hsa_verify_shutdown">Poista käytöstä</string>
+  <string name="icloud_backup_tip">Kirjaudu iCloudiin vanhalla Apple laitteella</string>
+  <string name="icloud_how_to_backup_tip_steps">"1. Siirry Asetuksiin iOS -laitteellasi ja valitse sitten iCloud.
+2. Ota Yhteystiedot käyttöön.
+3. Valitse Kuvat ja ota iCloud Photo Library käyttöön."</string>
+  <string name="icloud_how_to_backup_tip_summary">Tuodaksesi tietoja iOS -laitteelta, sinun täytyy lähettää vanhalta laitteelta tiedot iCloudiin.</string>
+  <string name="icloud_how_to_backup_tip_title">Vinkit:</string>
+  <string name="icloud_login_title">Kirjaudu iCloudiin</string>
+  <string name="icloud_need_sync">"Tuodaksesi tietoja iOS -laitteelta
+sinun täytyy lähettää vanhalta laitteelta tiedot iCloudiin"</string>
+  <string name="icloud_need_wifi_message">Wi-Fi ei ole yhteydessä. Tuodaksesi tietoja iCloudista, Wi-Fi-yhteys vaaditaan kirjautuaksesi ja ladataksesi tiedot..</string>
+  <string name="icloud_need_wifi_title">Wi-Fi vaaditaan</string>
+  <string name="import_again">Tuo uudelleen</string>
+  <string name="import_data_from_icloud">Tuo tiedot iCloudista</string>
+  <string name="import_from_xiaomi_account_hint1">"1. Lataa Mi Talk -sovellus ja kirjaudu sisään.
 http://www.miliao.com
 
-2.Mene Mi Talk Asetuksiin ja valitse ”Varmuuskopioi yhteystiedot Mi Tilille”"</string>
+2. Mene Mi Talk Asetuksiin ja valitse ”Varmuuskopioi yhteystiedot Mi Tilille”"</string>
   <string name="import_from_xiaomi_account_hint2">Jos sinulla on jo varmuuskopio, paina Seuraava.</string>
   <string name="import_from_xiaomi_account_hint_title">Käytä Mi Talk -sovellusta varmuuskopioidaksesi yhteystiedot laitteistasi.</string>
+  <string name="import_tip_summary">Yhteensopivuuden takia, yhteystiedot ja valokuvat ovat vain tuettuna. Sinun täytyy lähettää tiedot vanhalta laitteelta iCloudiin ensin.</string>
+  <string name="import_tip_title">Vinkit:</string>
+  <string name="loading_data">Ladataan tietoja</string>
   <string name="local_app_name">Varmuuskopiointi</string>
   <string name="local_backup_window_title">Paikallisen varmuuskopion tiedot</string>
   <string name="local_home_title">Varmuuskopioi paikallisesti</string>
@@ -140,6 +190,9 @@ http://www.miliao.com
   <string name="local_select_sysdata">Järjestelmä</string>
   <string name="local_select_userapp">Sovellukset</string>
   <string name="local_select_video">Videot</string>
+  <string name="login">Kirjaudu</string>
+  <string name="login_failed">Kirjautuminen epäonnistui. Yritä uudelleen.</string>
+  <string name="logining">Kirjaudutaan sisään…</string>
   <string name="miliao_account_guide">Käytä Mi Tiliäsi kirjautuaksesi sisään Mi Pilveen, MIUI Teema Kauppaan, ja muihin Mi palveluihin mistä tahansa.</string>
   <string name="miliao_account_login">Kirjaudu sisään Mi jutteluun</string>
   <string name="mms_title">Multimediaviestit</string>
@@ -147,6 +200,7 @@ http://www.miliao.com
   <string name="multi_user_mode_backup_message">Varmuuskopiointia ei voi käyttää Moni-käyttäjä tilassa. Jatka poistamalla Moni-käyttäjä tila käytöstä.</string>
   <string name="multi_user_mode_dialog_message">Mi siirtäjää ei voida käyttää Moni-käyttäjä tilassa. Poista Moni-käyttäjä tila käytöstä jatkaaksesi.</string>
   <string name="multi_user_mode_dialog_title">Olet Moni-käyttäjä tilassa</string>
+  <string name="name_password_not_consistent">Käyttäjänimi tai salasana on väärin</string>
   <string name="never">Ei koskaan</string>
   <string name="new_backup">Varmuuskopioi</string>
   <string name="no_encrypt_password">Ei salasanaa</string>
@@ -156,15 +210,32 @@ http://www.miliao.com
   <string name="notif_backup_complete_title">Varmuuskopioitu onnistuneesti</string>
   <string name="notif_backup_content">Varmuuskopioidaan käyttäjän tietoja</string>
   <string name="notif_backup_title">Varmuuskopioi tiedot</string>
+  <string name="notif_icloud_canceled_summary">Peruutettu</string>
+  <string name="notif_icloud_canceling_summary">Peruutetaan…</string>
+  <string name="notif_icloud_import_title">Tuo tiedot iCloudista</string>
+  <string name="notif_icloud_loaded_summary">Odotetaan tietojen lataamista</string>
+  <string name="notif_icloud_loading_summary">Ladataan tietoja…</string>
+  <string name="notif_icloud_logining">Kirjaudutaan sisään iCloudiin vanhalla Apple laitteella…</string>
+  <string name="notif_icloud_need_wifi_summary">Odotetaan Wi-Fiä</string>
+  <string name="notif_icloud_saved_summary">Tuonti valmistui</string>
+  <string name="notif_icloud_saving_summary">Palautetaan tietoja…</string>
   <string name="notif_restore_complete_title">Palautettu onnistuneesti</string>
   <string name="notif_restore_content">Palautetaan käyttäjän tiedot</string>
   <string name="notif_restore_title">Palauta tiedot</string>
+  <string name="notif_trans_auto_reconnecting_content">Voit peruuttaa nykyisen tehtävän jos se on tarpeen.</string>
+  <string name="notif_trans_auto_reconnecting_title">Yhteys keskeytettiin. Yhdistetään uudelleen automaattisesti…</string>
   <string name="notif_trans_receiving_completed">Tiedot vastaanotettiin onnistuneesti</string>
   <string name="notif_trans_receiving_failed">Tietojen vastaanottaminen epäonnistui</string>
   <string name="notif_trans_sending_completed">Tiedot lähetettiin onnistuneesti</string>
   <string name="notif_trans_sending_failed">Tietojen lähettäminen epäonnistui</string>
   <string name="notif_trans_wait_for_reconnecting">Yhteys keskeytyi. Yhdistä uudelleen.</string>
   <string name="page_loading">Hetki pieni…</string>
+  <string name="password">salasana</string>
+  <string name="password_null">Salasana ei voi olla tyhjä</string>
+  <string name="pause">Pysäytä</string>
+  <string name="platform_chooser_item_android">Tuo Androidista</string>
+  <string name="platform_chooser_item_ios">Tuo Apple -laitteesta</string>
+  <string name="platform_chooser_title">Valitse vanha laite</string>
   <string name="progress_backup_hint">Varmuuskopioidaan…</string>
   <string name="progress_restore_hint">Palautetaan…</string>
   <string name="prompt_reading">Luetaan…</string>
@@ -191,6 +262,13 @@ http://www.miliao.com
   <string name="retry">Yritä uudelleen</string>
   <string name="reverse_all">Tyhjennä kaikki</string>
   <string name="router_backup_hint">Pidä laite käynnissä</string>
+  <string name="save_finish_with_failing_items">"Tuonti keskeytettiin. Joitakin tietoja tuotiin
+Jäljellä olevat tiedot täytyy tuoda uudelleen"</string>
+  <string name="saving_data">"Tuo tiedot iCloudista
+Älä sammuta Wi-Fiä tai vaihda Wi-Fi-verkkoa"</string>
+  <string name="saving_data_no_time">Palautetaan tietoja</string>
+  <string name="saving_data_space_low">"Tallennustilaa ei ole tarpeeksi
+Vapauta vähintään %s"</string>
   <string name="sc_bad_request">Virheellinen pyyntö</string>
   <string name="sc_internal_server_error">Sisäinen palvelinvirhe</string>
   <string name="sc_network_unavailable">Tarkista yhteytesi ja yritä uudelleen.</string>
@@ -206,7 +284,13 @@ http://www.miliao.com
   <string name="sdcard_unmounted">Aseta SD-kortti nyt</string>
   <string name="see_backup_files_on_router">Katso Mi Reitittimellä %s olevia varmuuskopioita</string>
   <string name="select_all">Valitse kaikki</string>
-  <string name="select_backup_item">Valitse asiat</string>
+  <string name="select_backup_item">Valitse kohteet</string>
+  <string name="select_empty">Valitse tuotavat kohteet</string>
+  <string name="select_item_contacts">Yhteystiedot</string>
+  <string name="select_item_empty_summary">Ei sisältöä</string>
+  <string name="select_item_photos">Kuvat</string>
+  <string name="select_item_summary_loading">Ladataan tietoja…</string>
+  <string name="select_item_summary_wait">Odota tietojen lataamista</string>
   <string name="select_storage_location">Valitse varmuuskopion sijainti</string>
   <string name="service_stoped">Palvelu pysäytetty</string>
   <string name="settings_summary">Puhelu ja viestiasetukset</string>
@@ -258,6 +342,7 @@ http://www.miliao.com
   <string name="total_size">, %s</string>
   <string name="trans_backingup">Varmuuskopioidaan …</string>
   <string name="trans_backingup_no_items">Synkronoidaan…</string>
+  <string name="trans_button_cancel">Peruuta</string>
   <string name="trans_calculating">Lasketaan…</string>
   <string name="trans_calculating_app_sd_size">Lasketaan kokoa: %s</string>
   <string name="trans_calculating_base_size">Lasketaan tietojen kokoa</string>
@@ -273,29 +358,34 @@ http://www.miliao.com
   <string name="trans_detail_category_files">Tiedostot</string>
   <string name="trans_detail_category_sysdata">Järjestelmätiedot</string>
   <string name="trans_detail_category_userdata">Sovellukset</string>
+  <string name="trans_device_auto_reconnecting">Laitteen yhteys katkaistu. Yhdistetään uudelleen automaattisesti…</string>
   <string name="trans_device_disconnected">Yhteys keskeytyi</string>
   <string name="trans_device_wait_for_reconnecting">Yhteys keskeytyi. Yhdistä uudelleen jatkaaksesi.</string>
+  <string name="trans_disconnected_tips_message">Etälaitteen yhteys katkaistiin. Yhdistä uudelleen manuaalisesti. Voit peruuttaa nykyisen tehtävän jos se on tarpeellista.</string>
+  <string name="trans_disconnected_tips_title">Etälaitteen yhteys katkaistiin</string>
   <string name="trans_generate_qr_code_failed">QR-koodia ei voitu luoda</string>
-  <string name="trans_intro_desc_2">Peruuta siirto, poistu Mi Siirtäjästä ja aloita alusta. Tiedostojen kaksoiskappaleet korvataan uuden siirron aikana.</string>
-  <string name="trans_intro_desc_3">Mi Siirtäjä käyttää Wi-Fiä tiedostojen siirtämiseen. Sen takia et voi siirron aikana yhdistää kummallakaan laitteella internetiin käyttämällä Wi-Fiä. Voit silti käyttää mobiilidataa. Tästä huolimatta, jotkut uudemmat laitteet (kuten Mi 6) voivat silti yhdistää internetiin käyttämällä Wi-Fiä siirron aikana.</string>
-  <string name="trans_intro_desc_4">Tallennustilaa vanhoilla laitteilla käytetään siirtopakettien luomiseen. Varmista, että sinulla on vanhassa puhelimessasi vähintään 500 Mt - 1 Gt käytettävissä olevaa tallennustilaa, ennen kuin aloitat siirron.</string>
-  <string name="trans_intro_desc_5">On useita syitä, miksi se voi tapahtua: järjestelmä ja sovellusversion yhteensopivuusongelmat, verkko-ongelmat, yhteensopivuusongelmat tietyn laitteen kanssa jne.</string>
-  <string name="trans_intro_desc_6">Jotkut sovellusprofiilit (verkkopankki, talous jne.) on liitettynä tiettyyn laitteeseen tietoturvasyistä. Yritä uudella laitteella tyhjentää sovellustiedot tai asentaa sovellus uudelleen.</string>
-  <string name="trans_intro_desc_7">WeChat -sovellustiedot ja keskusteluhistoria ei välttämättä siirry kokonaan käyttämällä Mi Siirtäjää. Mene WeChatin asetuksiin ja kirjaudu ulos tililtäsi, jotta siirtäminen onnistuisi paremmalla mahdollisuudella.</string>
+  <string name="trans_intro_desc_1">Xiaomin laitteella, yhdistä Wi-Fiin. Napauta \"Olen vastaanottaja\" ja valitse sen jälkeen \"Apple -laite\". Kirjaudu iCloudiin ja tuo tiedot.</string>
+  <string name="trans_intro_desc_3">Peruuta siirto, poistu Mi Siirtäjästä ja aloita alusta. Tiedostojen kaksoiskappaleet korvataan uuden siirron aikana.</string>
+  <string name="trans_intro_desc_4">Mi Siirtäjä käyttää Wi-Fiä tiedostojen siirtämiseen. Sen takia et voi siirron aikana yhdistää kummallakaan laitteella internetiin käyttämällä Wi-Fiä. Voit silti käyttää mobiilidataa. Tästä huolimatta, jotkut uudemmat laitteet (kuten Mi 6) voivat silti yhdistää internetiin käyttämällä Wi-Fiä siirron aikana.</string>
+  <string name="trans_intro_desc_5">Tallennustilaa vanhoilla laitteilla käytetään siirtopakettien luomiseen. Varmista, että sinulla on vanhassa puhelimessasi vähintään 500 Mt - 1 Gt käytettävissä olevaa tallennustilaa, ennen kuin aloitat siirron.</string>
+  <string name="trans_intro_desc_6">On useita syitä, miksi se voi tapahtua: järjestelmä ja sovellusversion yhteensopivuusongelmat, verkko-ongelmat, yhteensopivuusongelmat tietyn laitteen kanssa jne.</string>
+  <string name="trans_intro_desc_7">Jotkut sovellusprofiilit (verkkopankki, talous jne.) on liitettynä tiettyyn laitteeseen tietoturvasyistä. Yritä uudella laitteella tyhjentää sovellustiedot tai asentaa sovellus uudelleen.</string>
+  <string name="trans_intro_desc_8">WeChat -sovellustiedot ja keskusteluhistoria ei välttämättä siirry kokonaan käyttämällä Mi Siirtäjää. Mene WeChatin asetuksiin ja kirjaudu ulos tililtäsi, jotta siirtäminen onnistuisi paremmalla mahdollisuudella.</string>
   <string name="trans_intro_desc_account">Sinun täytyy kirjautua uudella laitteella tileillesi uudelleen (esim. Mi Tili, Exchange, Google jne.) tietoturvasyiden takia.</string>
   <string name="trans_intro_desc_multiapp">Mi Siirtäjä ei siirrä sovellustietoja kloonatuista sovelluksista, välttääkseen tiedostojen ristiriidat.</string>
   <string name="trans_intro_desc_multiuser">Mi Siirtäjä ei voi käyttää Toisen tilan kohteita. Siirrä kohteet Ensimmäiseen tilaan ja käynnistä Mi Siirtäjä siellä.</string>
   <string name="trans_intro_desc_new">Napauta \"Olen vastaanottaja\". QR-koodi luodaan.</string>
   <string name="trans_intro_desc_old">Napauta \"Olen lähettäjä\". Skannaa QR-koodi uudella puhelimella ja odota, kunnes Mi Siirtäjä tunnistaa, mitkä tiedostot lähetetään ja sen jälkeen napauta \"Lähetä"\.</string>
   <string name="trans_intro_desc_private">Mi Siirätjä ei voi käyttää piilotetun albumin kuvia, koska ne ovat salattu. Voit palauttaa nämä kuvat Mi Pilvestä uudella laitteella.</string>
-  <string name="trans_intro_question_1">1. Kuinka käytän Mi Siirtäjää?</string>
-  <string name="trans_intro_question_2">2. Mitä minun pitää tehdä, jos Mi Siirtäjä jää jumiin tiettyyn vaiheeseen?</string>
-  <string name="trans_intro_question_3">3. Miksi en voi käyttää Wi-Fiä siirtojen aikana?</string>
-  <string name="trans_intro_question_4">4. Miksi Mi Siirtäjä kertoo minulle, ettei vanhassa laitteessani ole tarpeeksi tallennustilaa?</string>
-  <string name="trans_intro_question_5">5. Miksi jotkut sovellukset eivät siirry onnistuneesti?</string>
-  <string name="trans_intro_question_6">6. Miksi jotkut sovellukset eivät käynnisty uudella laitteella?</string>
-  <string name="trans_intro_question_7">7. Miksi WeChat hostoria ei siirry kokonaan?</string>
-  <string name="trans_intro_question_8">8. Mitä kohteita ei voi siirtää?</string>
+  <string name="trans_intro_question_1">1. Kuinka käytän Mi Siirtäjää tietojen siirtämiseen Applen laitteilta?</string>
+  <string name="trans_intro_question_2">2. Kuinka käytön Mi Siirtäjää tietojen siirtämiseen Android laitteilta?</string>
+  <string name="trans_intro_question_3">3. Mitä minun pitäisi tehdä, jos Mi Siirtäjä jää jumiin tiettyyn vaiheeseen?</string>
+  <string name="trans_intro_question_4">4. Miksi en voi käyttää Wi-Fiä siirtojen aikana?</string>
+  <string name="trans_intro_question_5">5. Miksi Mi Siirtäjä kertoo minulle, ettei vanhassa laitteessani ole tarpeeksi tallennustilaa?</string>
+  <string name="trans_intro_question_6">6. Miksi jotkut sovellukset eivät siirry onnistuneesti?</string>
+  <string name="trans_intro_question_7">7. Miksi jotkut sovellukset eivät käynnisty uudella laitteella?</string>
+  <string name="trans_intro_question_8">8. Miksi WeChat historia ei siirry kokonaan?</string>
+  <string name="trans_intro_question_9">9. Mitä kohteita ei voi siirtää?</string>
   <string name="trans_intro_title">UKK</string>
   <string name="trans_intro_title_account">Tilit ja salasanat:</string>
   <string name="trans_intro_title_multiapp">Kloonattujen sovelluksien tiedot:</string>
@@ -372,9 +462,12 @@ Odotetaan lähetystä…"</string>
   <string name="trans_waiting_ensurance">"Varmista, että vanha laite on käynnissä
 ja Mi Siirtäjä on käytössä"</string>
   <string name="trans_waiting_for_sender">Odotetaan vanhan laitteen yhdistämistä…</string>
+  <string name="trans_wlan_tips_message">Älä sammuta tai vaihda Wi-Fiä tiedonsiirron aikana tai siirto saattaa epäonnistua.</string>
+  <string name="trans_wlan_tips_title">Älä sammuta tai vaihda Wi-Fiä</string>
   <string name="unit_byte">t</string>
-  <string name="unit_piece">" tiedostoa"</string>
   <string name="unknown_hint">Tuntematon</string>
+  <string name="user_name">Apple ID tai sähköpostiosoite</string>
+  <string name="user_name_null">Käyttäjänimi ei voi olla tyhjä</string>
   <string name="user_notice_declaration_ignore">"Älä näytä uudestaan"</string>
   <string name="user_notice_message">Jotkut toiminnot tarvitsevat internet yhteyden toimiakseen normaalisti.</string>
   <string name="user_notice_title">Huomio</string>
