@@ -656,9 +656,6 @@
   <string name="delete_album_msg_format">Poistetaanko \"%2$s\" albumi %1$s %3$s?</string>
   <string name="delete_album_success">Albumi poistettu</string>
   <string name="delete_finish_format">%d poistettu</string>
-  <string name="delete_from_album">\"%s\" albumista ja Mi Pilvestä</string>
-  <string name="delete_from_album_no_account">\"%s\" albumista</string>
-  <string name="delete_from_all_devices">kaikista laitteista</string>
   <string name="delete_from_all_devices_and_cloud">kaikista laitteista ja Mi Pilvestä</string>
   <string name="delete_from_cloud">Poista kohteet Mi Pilvestä</string>
   <string name="delete_from_devices">Kaikista synkronoiduista laitteista</string>
@@ -821,7 +818,6 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="filter_food_softdrink">Limu</string>
   <string name="filter_food_wholemeal">Jyvä</string>
   <string name="filter_original">Ei mitään</string>
-  <string name="filter_people_blackwhite">M&amp;V</string>
   <string name="filter_people_fairytale">Lapset</string>
   <string name="filter_people_heart">Tunteet</string>
   <string name="filter_people_japanese">Tuore</string>

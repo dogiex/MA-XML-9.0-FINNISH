@@ -55,8 +55,6 @@
         <item>Sovelluksen nimi</item>
         <item>Käyttötiheys</item>
         <item>Käytetty tallennustila</item>
-        <item>Datan käyttö</item>
-        <item>Akun käyttö</item>
         <item>Asennusaika</item>
     </string-array>
     <string-array name="sort_title">
@@ -64,8 +62,6 @@
         <item>Lajittele sovelluksen nimen mukaan</item>
         <item>Lajittele käyttötiheyden mukaan</item>
         <item>Lajittele käytetyn tallennustilan mukaan</item>
-        <item>Lajittele datan käytön mukaan</item>
-        <item>Lajittele akun käytön mukaan</item>
         <item>Lajittele asennusajan mukaan</item>
     </string-array>
     <string-array name="title_app_info">

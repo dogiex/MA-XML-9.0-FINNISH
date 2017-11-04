@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="action_add_to_workspace">Lisää työtilaan</string>
   <string name="activity_not_found">Sovellusta ei ole asennettu laitteellesi</string>
   <string name="add_screen">Lisää näyttö</string>
   <string name="app_already_exist">Sovellus on jo olemassa</string>

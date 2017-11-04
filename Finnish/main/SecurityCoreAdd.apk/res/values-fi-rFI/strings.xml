@@ -67,6 +67,7 @@ jotta voit katsoa niitä milloin tahansa"</string>
   <string name="delete_phone_fingerprint">Poista Toisen tilan sormenjälki</string>
   <string name="delete_src_file">Poista tiedostot</string>
   <string name="delete_src_photo">Poista kuvat</string>
+  <string name="dialog_title">Huomio</string>
   <string name="dir_switch_out_all_photos">Toisen tilan Galleria</string>
   <string name="disable">Poista käytöstä</string>
   <string name="do_not_ask">Älä kysy uudelleen</string>
@@ -159,6 +160,7 @@ Voit myös ladata ne erikseen."</string>
   <string name="openPasswordGuard">Aseta Toisen tilan salasana</string>
   <string name="openSuccess">Otettu käyttöön</string>
   <string name="opened">Päällä</string>
+  <string name="optimize_now">Optimoi</string>
   <string name="other">Muut</string>
   <string name="otherSettings">Muut asetukset</string>
   <string name="passWordGuardSummary">Siirry Toiseen tilaan Lukitusnäytöltä käyttämällä salasanaa</string>
@@ -195,7 +197,7 @@ siirtyäksesi Toiseen tilaan Lukitusnäytöltä"</string>
   <string name="scanner_fingerprint_tips_desc">Valitse olemassa oleva sormenjälki siirtyäksesi Toiseen tilaan. Et voi käyttää sitä Ensimmäisessä tilassa.</string>
   <string name="scanner_fingerprint_tips_title">Siirry Toiseen tilaan käyttämällä olemassa olevaa sormenjälkeä</string>
   <string name="scanner_second_space_fingerprint">Skannaa Toisen tilan sormenjälki</string>
-  <string name="sdcardfs_dialog_message">Poista \"Vale SD-kortin optimointi\" käytöstä asetuksista Asetukset &gt; Lisäasetukset &gt; Kehittäjäasetukset, ennen kuin siirryt Toiseen tilaan.</string>
+  <string name="sdcardfs_dialog_message">Vanhat tiedot voivat olla yhteensopimattomia uuden tiedostojärjestelmän kanssa. Optimoi tiedot ennen siirtymistä Toiseen tilaan ja käynnistä laitteesi uudelleen.</string>
   <string name="search_input_txt_na">%s</string>
   <string name="search_result_text">Yhtään sovellusta ei löytynyt</string>
   <string name="secondSpace">Toinen tila</string>

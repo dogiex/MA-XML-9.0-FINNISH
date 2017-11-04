@@ -206,6 +206,10 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="other">"Odota %d sekuntia ja yritä uudelleen. "</item>
         <item quantity="one">"Odota %d sekunti ja yritä uudelleen. "</item>
     </plurals>
+    <plurals name="number_masked">
+        <item quantity="other">%d sovellusta</item>
+        <item quantity="one">%d sovellus</item>
+    </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d sovellusta lukittu</item>
         <item quantity="one">%d sovellus lukittu</item>
@@ -213,6 +217,14 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
     <plurals name="number_to_lock">
         <item quantity="other">%d sovellusta ei ole lukittu</item>
         <item quantity="one">%d sovellus ei ole lukittu</item>
+    </plurals>
+    <plurals name="number_masked_text">
+        <item quantity="other">%d ilmoitusta piilotettiin</item>
+        <item quantity="one">%d ilmoitus piilotettiin</item>
+    </plurals>
+    <plurals name="number_to_mask_text">
+        <item quantity="other">%d ilmoitusta on näkyvillä</item>
+        <item quantity="one">%d ilmoitus on näkyvillä</item>
     </plurals>
     <plurals name="find_applications">
         <item quantity="other">Etsi %d sovelluksesta</item>
