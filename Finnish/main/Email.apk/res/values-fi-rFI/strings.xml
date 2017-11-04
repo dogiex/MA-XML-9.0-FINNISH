@@ -71,6 +71,7 @@
   <string name="account_setup_basics_email_label">Syötä tilin ID</string>
   <string name="account_setup_basics_login_gmail_without_proxy">Kirjaudu sisään käyttäen nykyistä verkkoa</string>
   <string name="account_setup_basics_manual_setup_action">Manuaalinen määritys</string>
+  <string name="account_setup_basics_mi_mail_login_help">Mi Mail kirjautuminen onnistui, tarkista tekstiviesti, aktivoi linkki lähettääksesi ja vastaanottaaksesi sähköposteja!</string>
   <string name="account_setup_basics_password_label">Syötä salasana</string>
   <string name="account_setup_basics_title">Tilin asetukset</string>
   <string name="account_setup_check_settings_check_incoming_msg">Vahvistetaan palvelimen asetuksia...</string>
@@ -614,6 +615,7 @@
         Milloin:
 %s (toistuva)
     "</string>
+  <string name="meeting_responded_failed">Vastausvirhe</string>
   <string name="meeting_tentative">"
         Alustava:
 %s "</string>
