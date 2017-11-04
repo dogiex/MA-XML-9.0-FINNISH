@@ -1119,8 +1119,8 @@ Laitteesi lukitaan automaattisesti jos yrityksesi menee vielä väärin"</string
   <string name="power_remaining_duration_only_short">%1$s jäljellä</string>
   <string name="preference_auto_ip_summary_disable">Pois päältä</string>
   <string name="preference_category_ringtone">Soittoääni ja värinä</string>
-  <string name="preference_data_usage_summary">Hallitse mobiilidatan käyttöä asettamalla datan raja</string>
-  <string name="preference_data_usage_title">Aseta datan raja</string>
+  <string name="preference_data_usage_summary">Hallitse mobiilidatan käyttöä asettamalla tiedonsiirtoraja</string>
+  <string name="preference_data_usage_title">Aseta tiedonsiirtoraja</string>
   <string name="preference_dial_pad_touch_tone_default">Oletus</string>
   <string name="preference_dial_pad_touch_tone_off">Pois päältä</string>
   <string name="preference_dial_pad_touch_tone_piano">Pianon ääni</string>

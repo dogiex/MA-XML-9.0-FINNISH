@@ -2518,7 +2518,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="my_device">Laitteeni</string>
   <string name="my_device_disclaimer">Huomio: Laitteiston tiedot, sisältää CPU:n, akun kapasiteetin, näytön koon ja resoluution, ja kameran tarjoaa Xiaomi labs, suunnittelijat ja toimittajat.</string>
   <string name="n_cacrts">%d CA-varmennetta</string>
-  <string name="nearby_wifi">Verkkoja saatavilla</string>
+  <string name="nearby_wifi">Käytettävissä olevat verkot</string>
   <string name="need_reboot_now">Asenna päivitys käynnistämällä uudelleen.</string>
   <string name="netcheck_title">Verkkodiagnostiikat</string>
   <string name="network_assistant">Datan käyttö</string>
