@@ -2407,6 +2407,7 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="miui_lab_taplus_desc">Pidä pohjassa kohteita käynnistääksesi toimintoja</string>
   <string name="miui_lab_taplus_title">Taplus</string>
   <string name="miui_screen_config_title">Aloitusnäytön asetukset</string>
+  <string name="miui_updater">Päivittäjä</string>
   <string name="mms_breathing_light_color_title">Viestien valon väri</string>
   <string name="mms_breathing_light_freq_title">Viestien valon vilkkumistiheys</string>
   <string name="mms_privacy_password_role_instruction">Yksityiset keskustelusi yhteystietojen kanssa säilytetään täällä.</string>

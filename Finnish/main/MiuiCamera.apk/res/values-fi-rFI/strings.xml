@@ -120,6 +120,7 @@ ja luo otoksen, jossa kaikki ovat parhaimmillaan."</string>
   <string name="hibernate_hint">Herätä Kamera koskettamalla näyttöä</string>
   <string name="hine_hht">"Vähäisellä valoisuudella kamera ottaa usean kuvan
 ja luo otoksen, jossa kuvassa on vähiten kohinaa."</string>
+<string name="hint_device_water_mark">Laitteen vesileima lisätään automaattisesti.</string>
   <string name="hint_fast_motion">Video, jonka otat toistetaan nopeammin.</string>
   <string name="hint_groupshot">"Kamera ottaa useita kuvia
 ja luo otoksen, jossa kaikki ovat parhaimmillaan."</string>
@@ -136,6 +137,7 @@ ja luo otoksen, jossa kaikki ovat parhaimmillaan."</string>
   <string name="module_name_portrait">Muotokuva</string>
   <string name="module_name_square">Neliö</string>
   <string name="module_name_video">Video</string>
+  <string name="multi_window_mode_not_supported">Kamera ei toimi jaetulla näytöllä</string>
   <string name="no_storage">Kameran tallennustila ei ole käytettävissä järjestelmävirheen vuoksi.</string>
   <string name="not_enough_space">Sisäinen tallennustila on täynnä</string>
   <string name="object_track_enable_toast">Valitaksesi objektin, napauta yhtäaikaa kaksi diagonaalista pistettä sen reunoille.</string>
@@ -219,6 +221,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_delay_capture_entry_5s">5s viive</string>
   <string name="pref_camera_delay_capture_entry_audio">Ääni</string>
   <string name="pref_camera_delay_capture_title">Ajastin</string>
+  <string name="pref_camera_device_watermark_title">Laitteen vesileima</string>
   <string name="pref_camera_exposuretime_entry_auto">Automaattinen</string>
   <string name="pref_camera_face_info_watermark_title">Lisää ikäleima kuvaan</string>
   <string name="pref_camera_facedetection_title">Kasvojentunnistus</string>

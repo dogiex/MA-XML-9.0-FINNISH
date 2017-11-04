@@ -60,6 +60,15 @@
   <string name="button_text_add_to_white_list">Poikkeus</string>
   <string name="button_text_backup_uninstall">Varmuuskopioi ensin</string>
   <string name="button_text_cancel">Peruuta</string>
+  <string name="cd_back">takaisin</string>
+  <string name="cd_check_box_checked">valittuna</string>
+  <string name="cd_check_box_middle">osittainen valinta</string>
+  <string name="cd_check_box_unchecked">ei valittuna</string>
+  <string name="cd_list_item_collapse">pienennetty</string>
+  <string name="cd_list_item_expanded">laajennettu</string>
+  <string name="cd_percent">prosentti</string>
+  <string name="cd_settings">asetukset</string>
+  <string name="cd_sort_type">lajittelutyyppi</string>
   <string name="button_text_cleanup">Puhdista</string>
   <string name="button_text_delete_from_white_list">Poista</string>
   <string name="button_text_delete_pic">Poista</string>

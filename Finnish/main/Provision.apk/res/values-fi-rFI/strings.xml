@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accessibility_enabled">Esteettömyys käytössä.</string>
   <string name="agree">Hyväksy</string>
   <string name="agree_terms">Olen lukenut ja hyväksyn Palveluehdot ja Tietosuojakäytännön.</string>
   <string name="app_name">Sopimusehto</string>
@@ -12,9 +13,11 @@
   <string name="content_description_complete">Valmis</string>
   <string name="content_description_miui_version">MIUI 9</string>
   <string name="content_description_start">Aloita</string>
+  <string name="continue_to_enable_accessibility">Jatka kahdella sormella painamista ottaaksesi esteettömyyden käyttöön.</string>
   <string name="desc_fingerprint">Käytä sormenjälkeäsi laitteesi lukituksen poistamiseen, Mi Maksun kaupan vahvistamiseen, tai palveluiden ja sovelluksien kirjautumiseen.</string>
   <string name="desc_international_fingerprint">Käytä sormenjälkeäsi laitteesi lukituksen poistamiseen, tai palveluiden ja sovelluksien kirjautumiseen.</string>
   <string name="disagree">Peruuta</string>
+  <string name="enable_accessibility_canceled">Esteettömyys peruutettiin.</string>
   <string name="enable_accessibility_dialog_message">Otit TalkBack-toiminnon käyttöön painamalla näyttöä kahdella sormella kauemmin, kuin 10 sekuntia. TalkBack tarjoaa äänipalautetta niille henkilöille, joilla on näköongelmia. Jos otit sen käyttöön vahingossa, napauta Peruuta-painiketta ja sen jälkeen tuplanapauta näyttöä.</string>
   <string name="enable_accessibility_dialog_negative_btn">Peruuta</string>
   <string name="enable_accessibility_dialog_positive_btn">OK</string>
