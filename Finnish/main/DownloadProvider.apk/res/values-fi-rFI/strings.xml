@@ -34,11 +34,6 @@
   <string name="download_running">Kesken</string>
   <string name="download_running_percent">Käynnissä, %d%%</string>
   <string name="download_unknown_title">Nimetön</string>
-  <string name="enter_garbage_clean">Puhdista sisäinen tallennustila.</string>
-  <string name="insufficient_space">Laitteen sisäisellä muistilla ei ole tarpeekti tilaa</string>
-  <string name="mobile_recommended_title">Mobiilidatan käyttö</string>
-  <string name="notif_text_engine_off">Xunlei kiihdyttäjä ei käytössä.</string>
-  <string name="notif_text_engine_on">Kiihdytetään…</string>
   <string name="notif_title_file_size">%1$d yhteensä</string>
   <string name="notif_title_multiple_downloading">Ladataan %1$d tiedostoa</string>
   <string name="notif_title_single_downloading">Ladataan %1$s</string>
