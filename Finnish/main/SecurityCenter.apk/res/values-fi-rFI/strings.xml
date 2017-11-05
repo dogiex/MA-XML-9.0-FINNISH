@@ -78,6 +78,7 @@
   <string name="alarm_lockscreen_btn">开始抢红包</string>
   <string name="alarm_setting_title">红包闹钟设置</string>
   <string name="all_address_choose_hint">Kaikki numerot tästä maakunnasta</string>
+  <string name="already_close_gamebooster">Pelien nopeuttaja on pois päältä</string>
   <string name="anim_gamebooster_text">Odota hetki…</string>
   <string name="anti_disturb_msg_detail">Poista käytöstä kaikki ilmoitukset paitsi saapuville puheluille</string>
   <string name="anti_disturb_msg_title">Älä häiritse</string>
@@ -410,6 +411,7 @@
   <string name="block_message_number">Viestit: %d</string>
   <string name="block_phone_number">Puhelut: %d</string>
   <string name="boost_done">Nopeutettiin onnistuneesti</string>
+  <string name="boost_stop">Poista nopeuden parantaja käytöstä</string>
   <string name="booster_immediately">Nopeuta</string>
   <string name="booster_suc">Nopeutettiin onnistuneesti</string>
   <string name="boostering">Parannetaan nopeutta…</string>
@@ -580,7 +582,9 @@
   <string name="data_usage_no_total_package_title">Aseta tiedonsiirtoraja</string>
   <string name="data_usage_warning_body">Näytä datan käytön tiedot napauttamalla.</string>
   <string name="data_usage_warning_body_notify">Näytä tiedot napauttamalla</string>
-  <string name="data_usage_warning_title_notify">Menit datan rajasi yli</string>
+  <string name="data_usage_warning_title_notify">Menit tiedonsiirtorajasi yli</string>
+  <string name="databooster_tips_message">Ota käyttöön rajoittaaksesi kaikkia SIM-kortteja paitsi datakorttia. Poista tämä ominaisuus käytöstä jos valitsemissasi peleissä tapahtuu virheitä.</string>
+  <string name="databooster_tips_title">Huomio</string>
   <string name="declaration_dialog_msg">Tämä toiminto auttaa seuraamaan käyttöäsi, mutta ei takaa, että estäisi ylimääräisiltä maksuilta. Parhaan tuloksen saamiseksi, aseta varovainen raja.</string>
   <string name="deep_clean_disconnect_data_title">Poista mobiilidata käytöstä, kun laite lukitaan</string>
   <string name="deep_clean_memory_clean_title">Tyhjennä välimuisti, kun laite lukitaan</string>
@@ -721,6 +725,7 @@
   <string name="float_window">桌面悬浮窗</string>
   <string name="float_window_summary">支持快速跳转至摇一摇与咻一咻页面</string>
   <string name="float_window_tips">小米手机就是快！</string>
+  <string name="forbid_autobright_summary">Näytön kirkkaus pysyy samana, kun pelaat pelejä</string>
   <string name="forbid_autobright_title">Korjaa näytön kirkkaus</string>
   <string name="foreground_traffic">Etuala %s</string>
   <string name="forget_password_button_text">Unohdin salasanan</string>
@@ -740,8 +745,9 @@
   <string name="fw_blocked_count">"Estetty "</string>
   <string name="fw_blocked_join">" ja "</string>
   <string name="game_ad_recommendation">Kaikki pelaavat</string>
-  <string name="game_anti_disturb_msg">Peli Älä häiritse</string>
+  <string name="game_anti_disturb_msg">Älä häiritse pelaamisen aikana</string>
   <string name="game_booster">Pelien nopeuttaja</string>
+  <string name="game_booster_close">Pelien nopeuttaja on pois päältä</string>
   <string name="game_booster_intro">Tietoja Pelien nopeuttajasta</string>
   <string name="game_booster_jump_webview">Odota hetki…</string>
   <string name="game_booster_tab_top">Top</string>
@@ -2191,6 +2197,8 @@ Lisää saldoa napauttamalla."</string>
   <string name="wlan_booster">Wi-Fi optimointi</string>
   <string name="wlan_change_protection_detail">Älä yhdistä Wi-Fi-verkkoon automaattisesti, kun mobiilidataverkko on yhteydessä</string>
   <string name="wlan_change_protection_title">Estä verkkojen vaihto</string>
+  <string name="xunyou_net_booster">Verkon nopeuden parantaja</string>
+  <string name="xunyou_net_booster_detail">Käytä Xunyou:n nopeuden parantaja -palveluita pelaamiseen</string>
   <string name="xunyou_pay_webview">Xunyou palvelut</string>
   <string name="xunyou_server_expired">Istunto vanhentui.</string>
   <string name="zhifubao_not_found">您的应用版本过低或者未安装</string>

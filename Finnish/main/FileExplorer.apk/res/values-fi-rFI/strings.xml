@@ -13,6 +13,7 @@
   <string name="album_name">Päivittäinen valinta: %s</string>
   <string name="all_topic">Kaikki otsikot</string>
   <string name="already_liked">Olet jo lisännyt tämän kohteen suosikkeihin</string>
+  <string name="apk_installing">正在安装...</string>
   <string name="app_name">Tiedostoselain</string>
   <string name="app_name_bluetooth">Bluetooth</string>
   <string name="app_name_camera">Kamera</string>
@@ -25,7 +26,7 @@
   <string name="app_name_miuiringtone">Soittoääni</string>
   <string name="app_name_miuiwallpaper">Taustakuvat</string>
   <string name="app_name_screenshot">Kuvakaappaukset</string>
-  <string name="auto_play">Soita automaattisesti, kun yhteydessä Wi-Fi-verkkoon</string>
+  <string name="auto_play">Toista automaattisesti, kun yhteydessä Wi-Fi-verkkoon</string>
   <string name="auto_play_later">Myöhemmin</string>
   <string name="auto_play_now">Ota käytöön</string>
   <string name="auto_play_recommend">Toista automaattisesti</string>
@@ -57,6 +58,7 @@
   <string name="cancel_error">Poistaminen epäonnistui, yritä uudelleen</string>
   <string name="cancel_operation">Peruuta toiminto</string>
   <string name="cancel_success">Poistaminen onnistui, kaikki tiedostot siirrettiin kansioon %s</string>
+  <string name="cancel_text">取消</string>
   <string name="cancelled_by_user">Toiminto peruutettiin</string>
   <string name="cannot_send">Tiedostoja ei voi lähettää ulkoiselta tallennustilalta</string>
   <string name="category">Kategoriat</string>
@@ -123,7 +125,7 @@
   <string name="data_consumption_cancel">Exit</string>
   <string name="data_consumption_checkbox_hint">Älä näytä uudelleen</string>
   <string name="data_consumption_confirm">OK</string>
-  <string name="data_consumption_message">Tämä sovellus tarvitsee internetyhteyden Wi-Fin kautta toimiakseen normaalisti.</string>
+  <string name="data_consumption_message">Tämä sovellus tarvitsee internetyhteyden käyttäen Wi-Fiä toimiakseen normaalisti.</string>
   <string name="data_consumption_message1">Tiedostoselain tarvitsee internetyhteyden, jotta suositut videot ja tarrat tulevat käytettäviksi.</string>
   <string name="data_consumption_title">Internetyhteys</string>
   <string name="decompress_cancel">Peruuta</string>
@@ -170,6 +172,7 @@
   <string name="dislike_video">En ole kiinnostunut</string>
   <string name="download">Lataa</string>
   <string name="download_fail">Lataaminen epäonnistui</string>
+  <string name="download_notification_title_text">正在下载想看视频</string>
   <string name="downloaded_sticker_str">Ladattu</string>
   <string name="downloading">Ladataan</string>
   <string name="editor_commend">Muokkaa</string>
@@ -192,6 +195,13 @@
   <string name="error_invalid_path">Virheellinen polku</string>
   <string name="error_not_support">Ei tuettu</string>
   <string name="error_open_file_failed_no_app_found">Tälle toiminnolle ei löytynyt toimivaa sovellusta.</string>
+  <string name="exo_controls_fastforward_description">Kelaa eteenpäin</string>
+  <string name="exo_controls_next_description">Seuraava kappale</string>
+  <string name="exo_controls_pause_description">Pysäytä</string>
+  <string name="exo_controls_play_description">Toista</string>
+  <string name="exo_controls_previous_description">Edellinen kappale</string>
+  <string name="exo_controls_rewind_description">Kelaa taaksepäin</string>
+  <string name="exo_controls_stop_description">Lopeta</string>
   <string name="extended_storage_file_can_not_open">Tiedostoa ei voi avata. Ole hyvä ja kopioi tiedosto sisäiselle tallennustilalle.</string>
   <string name="extract">Pura</string>
   <string name="fail_to_create_folder_unknown">Kansiota ei voi luoda</string>
@@ -256,7 +266,17 @@
   <string name="if_cancel">Peruutetaanko tämä operaatio?</string>
   <string name="image_loading_error">Kuvaa ei voitu ladata</string>
   <string name="input_memo_hint">Syötä lisää syitä (valinnainen)</string>
+  <string name="install_btn_download_install_text">打开想看视频查看更多</string>
+  <string name="install_btn_download_not_install_text">安装想看视频查看更多</string>
+  <string name="install_btn_not_download_not_install_text">安装想看视频查看更多</string>
+  <string name="install_btn_not_downloading_text">正在安装想看视频</string>
   <string name="install_fail">Asentaminen epäonnistui</string>
+  <string name="install_text">立即安装</string>
+  <string name="install_xk_app">安装想看视频</string>
+  <string name="install_xk_data_check_message">你当前正在使用数据网络，安装想看视频需要消耗7M的流量，是否立即安装？</string>
+  <string name="install_xk_look_more_title">安装想看视频即可查看更多</string>
+  <string name="install_xk_now_message">想看视频覆盖全网海量短视频！快把海量有趣的短视频装进你的手机里，还等什么？立即安装</string>
+  <string name="install_xk_now_title">立即安装想看视频</string>
   <string name="installing">Asennetaan…</string>
   <string name="instruction">Syötä seuraava osoite FTP ohjelmaan: </string>
   <string name="instruction_pre_pad">Käynnistä FTP-palvelin koskettamalla</string>
@@ -321,6 +341,7 @@
   <string name="mobile_network_dialog_tip">Käytetäänkö mobiilidatayhteyttä tämän sivun katsomiseen? Operaattorisi veloittaa sinua normaalisti mobiilidatan käytöstä.</string>
   <string name="mobile_network_dialog_title">Mobiilidatan varoitus</string>
   <string name="month_day_format">d.M.</string>
+  <string name="more_hot_text">更多热门</string>
   <string name="move_failed">Ei voi siirtää</string>
   <string name="move_icon_to_desktop_hint">Lisää Tiedostoselaimesta Aloitusnäytölle pikakuvake tiedostojen helpompaan hallintaa varten.</string>
   <string name="move_icon_to_desktop_success">Pikakuvake lisätty Aloitusnäytölle.</string>
@@ -334,6 +355,7 @@
   <string name="name_empty">Sinun täytyy syöttää nimi.</string>
   <string name="need_login">Kirjaudu ensin sisään</string>
   <string name="need_read_storage_permission">Tiedostoselain tarvitsee toimiakseen käyttöoikeuden käyttää laitteesi sisäistä tallennustilaa.</string>
+  <string name="net_error_text">网络错误</string>
   <string name="network_dialog_checkbox_tip">Älä näytä uudelleen</string>
   <string name="network_not_available">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="network_spent_reminding">Käytetäänkö mobiilidatayhteyttä tämän sivun katsomiseen? Operaattorisi veloittaa sinua normaalisti mobiilidatan käytöstä.</string>
@@ -375,6 +397,7 @@
   <string name="open_chest">Saa lahja avaamalla</string>
   <string name="open_chest_failed">Avaaminen epäonnistui, tarkasta verkkoasetuksesi ja yritä uudelleen</string>
   <string name="open_private_folder">Näytä piilotetut kansiot vapauttamalla</string>
+  <string name="open_xk_app">打开想看视频</string>
   <string name="operation_add_fav">Lisätään suosikkeihin…</string>
   <string name="operation_cancel">Peruuta</string>
   <string name="operation_compress">Pakkaa</string>
@@ -760,12 +783,17 @@
   <string name="video_parse_success">Jäsennetty onnistuneesti</string>
   <string name="video_parse_timeout">Tapahtui virhe, yritä uudelleen</string>
   <string name="video_parsing_btn">Jäsennetään</string>
+  <string name="video_play_btn">立即播放</string>
+  <string name="video_play_count">%s次播放</string>
+  <string name="video_play_count_more">%s万次播放</string>
   <string name="video_play_failed">Tuntematon virhe</string>
   <string name="video_publish_hint">Hyvä kuvaus auttaa ihmisiä löytämään videosi</string>
   <string name="video_publish_hint2">Kuvaus</string>
   <string name="video_publish_origin_tag">Alkuperäinen tägi</string>
   <string name="video_publish_watchable_limit">Voit tehdä tämän kaksi kertaa joka päivä</string>
   <string name="video_publish_watchable_tag">Katso tämä video seuraamalla minua</string>
+  <string name="video_replay_btn">重播</string>
+  <string name="video_retry_btn">点击重试</string>
   <string name="video_status_reject">Hylätty</string>
   <string name="video_status_review">Tarkistuksessa</string>
   <string name="video_tag">\# %s #</string>

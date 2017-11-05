@@ -155,7 +155,7 @@ Näyttöön tai navigointipalkkiin lähentäminen ei ole mahdollista."</string>
   <string name="add_fingerprint_success_msg">Lisätty onnistuneesti</string>
   <string name="add_fingerprint_text">Lisää sormenjälki</string>
   <string name="add_fingerprint_toast_text">Aseta sormesi tunnistimelle</string>
-  <string name="add_front_fingerprint_instruction_msg">Sormenjälkitunnistin on laitteesi takana.</string>
+  <string name="add_front_fingerprint_instruction_msg">Sormenjälkitunnistin on laitteesi Kotipainikkeessa.</string>
   <string name="add_new">Lisää</string>
   <string name="add_rule">Lisää sääntöjä</string>
   <string name="add_virtual_keyboard">Lisää virtuaalinen näppäimistö</string>
@@ -1465,7 +1465,6 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="edge_mode_photo_summary">Kamera sovelluksen ollessa auki, napauta näytön reunaa aktivoidaksesi kameran sulkijan ja napauta uudelleen ottaaksesi kuvan</string>
   <string name="edge_mode_screenshot">Kuvakaappaus</string>
   <string name="edge_mode_screenshot_summary">Tuplanapauta molempia reunoja ottaaksesi kuvakaappauksen</string>
-  <string name="edge_touch_volume">Säädä äänenvoimakkuutta reunoilla</string>
   <string name="edit_rule">Muokkaa sääntöjä</string>
   <string name="edit_rules">Muokkaa</string>
   <string name="eighthours">8 tuntia</string>
@@ -2407,7 +2406,7 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="miui_lab_taplus_desc">Pidä pohjassa kohteita käynnistääksesi toimintoja</string>
   <string name="miui_lab_taplus_title">Taplus</string>
   <string name="miui_screen_config_title">Aloitusnäytön asetukset</string>
-  <string name="miui_updater">Päivittäjä</string>
+  <string name="miui_updater">Järjestelmän päivitys</string>
   <string name="mms_breathing_light_color_title">Viestien valon väri</string>
   <string name="mms_breathing_light_freq_title">Viestien valon vilkkumistiheys</string>
   <string name="mms_privacy_password_role_instruction">Yksityiset keskustelusi yhteystietojen kanssa säilytetään täällä.</string>
@@ -2763,7 +2762,6 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="page_layout_page2_small_title">Tosi pieni</string>
   <string name="page_layout_page2_title">Esikatselu</string>
   <string name="page_layout_small_title">XS</string>
-  <string name="palm_enabled">Poista käytöstä peittämällä näyttö</string>
   <string name="paper_mode_auto_twilight_summary">Vaihda Lukutilaan automaattisesti auringonlaskun aikaan</string>
   <string name="paper_mode_auto_twilight_title">Iltahämärä-tila</string>
   <string name="paper_mode_customize_time_summary">Ota Lukutila käyttöön mukautetulle ajalle</string>
@@ -4118,7 +4116,6 @@ Nopeampi ^1 voi toimia tehokkaammin."</string>
   <string name="supl_not_set">Ei asetettu</string>
   <string name="supplicant_state_label">Supplicant state:</string>
   <string name="sure_sync_now">Synkronoidaanko kohteet nyt?</string>
-  <string name="suspend_gesture_enabled">Sammuta näyttö kääntämällä puhelin ympäri</string>
   <string name="suw_back_button_label">Takaisin</string>
   <string name="suw_more_button_label">Lisää</string>
   <string name="suw_next_button_label">Seuraava</string>

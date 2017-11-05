@@ -29,19 +29,19 @@
         <item quantity="one">kohde</item>
     </plurals>
     <plurals name="save_item_saving_summary">
-        <item quantity="other">%d kohdetta palautetaan</item>
-        <item quantity="one">%d kohde palautetaan</item>
+        <item quantity="other">Palautettiin %d kohdetta</item>
+        <item quantity="one">Palautettiin %d kohde</item>
     </plurals>
     <plurals name="save_item_saved_summary">
-        <item quantity="other">%d kohdetta tuodaan ja palautetaan</item>
-        <item quantity="one">%d kohde tuodaan ja palautetaan</item>
+        <item quantity="other">Tuotiin ja palautettiin %d kohdetta</item>
+        <item quantity="one">Tuotiin ja palautettiin %d kohde</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg1">
-        <item quantity="other">"%d kohdetta tuotu, "</item>
-        <item quantity="one">"%d kohde tuotu, "</item>
+        <item quantity="other">Tuotiin %d kohdetta.</item>
+        <item quantity="one">Tuotiin %d kohde.</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg2">
-        <item quantity="other">%d kohdetta täytyy tuoda uudelleen</item>
-        <item quantity="one">%d kohde täytyy tuoda uudelleen</item>
+        <item quantity="other">Tuotiin %d kohdetta uudelleen.</item>
+        <item quantity="one">Tuotiin %d kohde uudelleen.</item>
     </plurals>
 </resources>
