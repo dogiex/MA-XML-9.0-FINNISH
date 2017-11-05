@@ -697,12 +697,8 @@ Tarkista seurantanumerosi."</string>
   <string name="feedback_cancel">取消</string>
   <string name="feedback_ok">反馈</string>
   <string name="feedback_tip_msg">亲，您是否遇到了支付问题？您可以选择告诉我们。</string>
-  <string name="feedback_cancel">取消</string>
-  <string name="feedback_ok">反馈</string>
-  <string name="feedback_tip_msg">亲，您是否遇到了支付问题？您可以选择告诉我们。</string>
   <string name="flow_open">Näytä mobiilidatan kortti</string>
   <string name="flow_setting_brief">Tarkastele mobiilitiedonsiirtoasi (Lisää datapakettisi paikassa Tietoturva &gt; Datan käyttö).</string>
-
   <string name="flybird_auto_switch_channel">系统推荐</string>
   <string name="flybird_baoxian_close_text">开启账户安全险，享100万保险</string>
   <string name="flybird_baoxian_open_text">账户安全险保障中</string>
