@@ -293,7 +293,8 @@
   <string name="cleanup_memory">Tyhjennä välimuisti</string>
   <string name="cleanup_power">Syväpuhdista</string>
   <string name="clear">Tyhjennä</string>
-  <string name="closed">Pois käytöstä</string>
+  <string name="closed">Pois päältä</string>
+  <string name="common_google_play_services_unknown_issue">%1$s on ongelmia Google Play -palveluiden kanssa. Jos ongelma jatkuu, saat apua ottamalla yhteyttä kehittäjiin.</string>
   <string name="commute">Karttaehdotukset</string>
   <string name="commute_open">Näytä karttaehdotuksien kortti</string>
   <string name="commute_setting_brief">Saa reitti- ja liikenne-ehdotuksia, ennen kuin lähdet.</string>
