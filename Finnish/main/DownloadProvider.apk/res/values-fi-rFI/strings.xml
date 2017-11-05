@@ -77,9 +77,9 @@
   <string name="warning_tip_content">Et ole enää yhteydessä Wi-Fi-verkkoon. Mobiilidatayhteyden käyttäminen tiedoston lataamiseen lisää datankäyttöä. Jos menet datakaton yli, operaattorisi voi veloittaa siitä lisähintaa.</string>
   <string name="warning_tip_ok">Pysäytä</string>
   <string name="warning_tip_title">Tiedonsiirtovaroitus</string>
-  <string name="wifi_recommended_body" formatted="false">"Jos aloitat tämän %s :n latauksen nyt, akun virtaa voi kulua tav. enemmän ja/tai operaattori voi veloittaa ylim. mobiilitiedons.
+  <string name="wifi_recommended_body" formatted="false">"Aloittamalla tämän %s lataamisen nyt saattaa aiheuttaa mobiilidatayhteydellesi liiallista käyttöä, joka voi johtaa matkapuhelinoperaattorisi lisäkustannuksiin riippuen datapaketistasi.
 
-Aloita lataus seuraavan kerran, kun yhdistät Wi-Fi-verkkoon, koskettamalla %s."</string>
+Kosketa %s aloittaaksesi tämän lataamisen seuraavalla kerralla, kun olet yhteydessä Wi-Fi-verkkoon."</string>
   <string name="wifi_recommended_title">Asetetaanko myöhemmin ladattavaksi?</string>
   <string name="wifi_required_body" formatted="false">"Tämä %s :n lataus täytyy suorittaa Wi-Fi-yhteyden ollessa käytössä. 
 
