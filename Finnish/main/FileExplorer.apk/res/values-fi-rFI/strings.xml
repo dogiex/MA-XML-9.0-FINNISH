@@ -165,7 +165,6 @@
   <string name="dialog_type_image">Kuvat</string>
   <string name="dialog_type_text">Asiakirjat</string>
   <string name="dialog_type_video">Videot</string>
-  <string name="directory_info_divider">"  |  "</string>
   <string name="disk_available">Käytettävissä: </string>
   <string name="disk_total">Yhteensä: </string>
   <string name="dislike_toast">Tämän tyylisiä videoita ei suositella sinulle.</string>
@@ -327,11 +326,9 @@
   <string name="message_comment_prefix">"Kommentti: "</string>
   <string name="message_my_received_notification">Uusi viesti</string>
   <string name="message_my_received_praise">Tykkäykseni</string>
-  <string name="message_my_received_praise_count">+%1$s</string>
   <string name="message_praise_comment">" tykkäsi tästä kommentista"</string>
   <string name="message_praise_video">" tykkäsi tästä videosta"</string>
   <string name="message_reply_prefix">Vastaa</string>
-  <string name="message_reply_suffix">": "</string>
   <string name="mi_router_label">Reititin</string>
   <string name="midrop_msg_1">Ota Mi Drop toisessa laitteessa käyttöön</string>
   <string name="midrop_msg_2">Kun Mi Drop on käytössä, voit etsiä lähellä olevia laitteita ja lähettää tiedostoja</string>

@@ -492,7 +492,6 @@
   <string name="express_company_phone_prefix">"Ota yhteyttä: "</string>
   <string name="express_company_pricing_details">Hinnoittelun tiedot</string>
   <string name="express_complete">Hyväksytty</string>
-  <string name="express_complete_flag">3</string>
   <string name="express_contact_address">Syötä osoite</string>
   <string name="express_contact_address_finding">Paikannetaan…</string>
   <string name="express_contact_label">Tietoja noutopalvelusta</string>
@@ -503,7 +502,6 @@
   <string name="express_copy_number">Kopioi</string>
   <string name="express_delete_order">Poista</string>
   <string name="express_delivery">Toimitetaan</string>
-  <string name="express_delivery_flag">5</string>
   <string name="express_dest_city_label">Määränpää</string>
   <string name="express_detailed_address">Osoite</string>
   <string name="express_field_empty">Tyhjä</string>
@@ -823,7 +821,6 @@ Tarkista seurantanumerosi."</string>
   <string name="hour24_format_en">HH:mm</string>
   <string name="http_stock_error">Tietoa ei voitu ladata</string>
   <string name="immediate_recommendation">Suositukset</string>
-  <string name="info_divider">|</string>
   <string name="item_type_custom">Mukautettu</string>
   <string name="item_type_suggestion">Ehdotukset</string>
   <string name="just_now">Juuri nyt</string>
@@ -1022,7 +1019,6 @@ Tarkista seurantanumerosi."</string>
   <string name="msp_mini_card_type_text">卡类型</string>
   <string name="msp_mini_choose_identitify">选择证件类别</string>
   <string name="msp_mini_read_protocal_title">选择阅读协议</string>
-  <string name="msp_mini_root">mini_root</string>
   <string name="msp_mini_safty_code_info">安全码是打印在信用卡背面签名区的一组数字，一般是后3位数字</string>
   <string name="msp_mini_safty_code_title">安全码说明</string>
   <string name="msp_phone_num_info">"银行预留的手机号是办理该银行卡时所填写的手机号码。
@@ -1425,7 +1421,6 @@ Tarkista seurantanumerosi."</string>
   <string name="system_favorite_dialog_negative">Peruuta</string>
   <string name="system_favorite_dialog_positive">Salli</string>
   <string name="system_favorite_dialog_title_confirm">Suosikit</string>
-  <string name="tag_view_nav">tag_view_nav</string>
   <string name="take_off">Lähde matkaan</string>
   <string name="taobao_auth_login">淘宝用户快速登录</string>
   <string name="taobao_protocol">淘宝服务协议</string>

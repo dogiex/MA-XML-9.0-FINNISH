@@ -844,7 +844,6 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="gif_tip">GIF</string>
   <string name="gigabyteShort">Gt</string>
   <string name="grant_permission_go_and_set">Aseta</string>
-  <string name="grant_permission_item">\"%s\"</string>
   <string name="grant_permission_text">"Galleria tarvitsee pääsyn 
 %s
  toimiakseen normaalisti, mene Käyttöoikeuksiin napauttamalla \"Aseta\"."</string>
@@ -1177,7 +1176,6 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="search_feedback_likely_check_title">Tarkista</string>
   <string name="search_feedback_likely_title">Näyttää siltä, että näillä kuvilla saattaa olla \"%s\"</string>
   <string name="search_feedback_task_finish_title">Vastaanota palkinto napauttamalla!</string>
-  <string name="search_feedback_task_progress">%1$d/%2$d</string>
   <string name="search_feedback_task_request_award_failed">Palkintoa ei voitu vastaanottaa. Yritä myöhemmin uudelleen.</string>
   <string name="search_feedback_task_requesting_award">Vastaanotetaan palkintoa…</string>
   <string name="search_hint">Hae kuvia</string>

@@ -117,7 +117,6 @@ Pituus: %s
   <string name="search_null_text">Ole hyvä ja syötä hakusana</string>
   <string name="select_all">Valitse Kaikki</string>
   <string name="send">Lähetä</string>
-  <string name="send_video_type">video/*</string>
   <string name="settings">Asetukset</string>
   <string name="show_all_files_tips">Näytä kaikki tiedostot</string>
   <string name="show_all_folder_tips">Näytä kaikki kansiot</string>

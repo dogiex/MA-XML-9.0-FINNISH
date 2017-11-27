@@ -27,7 +27,6 @@ Ota yhteyttä myyjääsi lisätietoja varten."</string>
   <string name="find_device_error_unknown">Tuntematon virhe (%s).</string>
   <string name="find_device_noise_title">Etsi laite hälytys</string>
   <string name="find_device_notice_p1">Mene</string>
-  <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">"paikantaaksesi, lukitaksesi tai palauttaaksesi laite tehdasasetuksille.
   Jos vaihdat SIM-kortteja, uusi tekstiviesti lähetetään automaattisesti tämän toiminnon uudelleenaktivoimiseksi."</string>
   <string name="find_device_stop_noise">Hiljentääksesi napauta OK</string>

@@ -310,15 +310,10 @@ Kaikki aikaisemmat käyttäjätiedot tallennetaan."</string>
   <string name="picture_color_mode_desc">Ota sRGB käyttöön</string>
   <string name="pointer_location">Osoittimen sijainti</string>
   <string name="pointer_location_summary">Näytön peittokuva näyttää nykyiset kosketustiedot</string>
-  <string name="power_charging">%1$s – %2$s</string>
   <string name="power_charging_duration">%1$s – %2$s kunnes täynnä</string>
   <string name="power_charging_duration_ac">%1$s – %2$s kunnes täynnä (laturilataus)</string>
-  <string name="power_charging_duration_ac_short">%1$s – %2$s</string>
-  <string name="power_charging_duration_short">%1$s – %2$s</string>
   <string name="power_charging_duration_usb">%1$s – %2$s kunnes täynnä (USB-lataus)</string>
-  <string name="power_charging_duration_usb_short">%1$s – %2$s</string>
   <string name="power_charging_duration_wireless">%1$s – %2$s kunnes täynnä (WiFi-lataus)</string>
-  <string name="power_charging_duration_wireless_short">%1$s – %2$s</string>
   <string name="power_discharging_duration">%1$s – noin %2$s jäljellä</string>
   <string name="power_discharging_duration_short">%1$s – %2$s jäljellä</string>
   <string name="power_remaining_duration_only">Noin %1$s jäljellä</string>

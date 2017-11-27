@@ -89,8 +89,6 @@ Edellinen varmuuskopiointi: %2$s"</string>
   <string name="find_device_disabling">Poistetaan käytöstä…</string>
   <string name="find_device_dspt">Paikanna, lukitse tai palauta tehdasasetukset laitteellesi etänä</string>
   <string name="find_device_dspt_provision">Jos hävität laitteesi, voit mennä %s paikantamaan, lukitsemaan tai palauttamaan tehdasasetukset siihen. Voit ottaa tämän ominaisuuden käyttöön tai poistaa käytöstä milloin tahansa Asetuksista.</string>
-  <string name="find_device_dspt_provision_2">i.mi.com</string>
-  <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
   <string name="find_device_dspt_provision_3">. Voit ottaa tämän toiminnon käyttöön tai poistaa käytöstä milloin tahansa Asetuksista.</string>
   <string name="find_device_dspt_provision_4">Jos vaihdat SIM-kortteja, tekstiviesti lähetetään automaattisesti tämän toiminnon uudelleenaktivoimiseksi.</string>
   <string name="find_device_enabling">Otetaan käyttöön…</string>
@@ -99,7 +97,6 @@ Edellinen varmuuskopiointi: %2$s"</string>
   <string name="find_device_error_server">Palvelinvirhe</string>
   <string name="find_device_error_unknown">Tuntematon virhe.</string>
   <string name="find_device_notice_p1">Mene</string>
-  <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">"paikantaaksesi, lukitaksesi, tai palauttaaksesi puhelin tehdasasetuksille.
 Jos vaihdat SIM-kortteja, toinen tekstiviesti lähetetään automaattisesti tämän toiminnon uudelleenaktivoimiseksi."</string>
 <string name="find_device_operation_failure_rpc">RPC virheen vuoksi toimintoa ei voitu suorittaa.</string>
@@ -248,8 +245,6 @@ Jos vaihdat SIM-kortteja, toinen tekstiviesti lähetetään automaattisesti täm
   <string name="micloud_find_device_open_fail">Laitteen etsinnän ottaminen käyttöön epäonnistui</string>
   <string name="micloud_find_device_opened">Laitteen etsintä on käytössä</string>
   <string name="micloud_find_device_opened_content">Löydä laitteesi täältä %s</string>
-  <string name="micloud_find_device_opened_content_url">i.mi.com</string>
-  <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
   <string name="micloud_find_device_verify_button">Aktivoi Etsi laite uudelleen</string>
   <string name="micloud_find_device_verify_close">Poista Etsi laite käytöstä</string>
   <string name="micloud_find_device_verify_fail">Etsi laite -ominaisuutta ei voitu aktivoida uudelleen</string>
@@ -506,8 +501,6 @@ Tämä toiminto salaa ja lähettää laitteesi ID-tunnuksen Mi:n palvelimille."<
   <string name="sync_dspt_entrance_provision_network">Tämä sovellus tarvitsee internetyhteyden toimiakseen normaalisti. Tietojen synkronointi voi vaatia mobiilidatayhteyden ja Wi-Fin ottamisen käyttöön.</string>
   <string name="sync_dspt_entrance_provision_skip">Ohita tämä vaihe</string>
   <string name="sync_dspt_provision">"Synkronoi kuvasi, yhteystietosi, puheluhistoriasi ja viestit laitteiden välillä tai katsele niitä osoitteessa "</string>
-  <string name="sync_dspt_provision2">i.mi.com</string>
-  <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
   <string name="sync_dspt_provision3">". Voit ottaa tämän ominaisuuden käyttöön tai poistaa käytöstä milloin tahansa Asetuksissa.
 "</string>
   <string name="sync_dspt_provision_header">Synkronointi</string>
