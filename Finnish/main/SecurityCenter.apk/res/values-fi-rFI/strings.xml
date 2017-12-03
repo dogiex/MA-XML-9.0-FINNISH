@@ -94,7 +94,7 @@
   <string name="antivirus_choose_engine_title">Virustunnisteet</string>
   <string name="antivirus_longtime_no_update">Näyttää siltä, että virustunnisteesi on vanhentuneet. Säännölliset päivitykset auttavat saamaan parempia skannaustuloksia. Sallitaanko Tietoturvan yhdistää internetiin ja päivittää virustunnisteet?</string>
   <string name="antivirus_longtime_no_update1">Näyttää siltä, että virustunnisteesi on vanhentuneet. Säännölliset päivitykset auttavat saamaan parempia skannaustuloksia. Päivitä tunnisteet ja yritä uudelleen.</string>
-  <string name="antivirus_main_activity_back">Takaisin tietoturvatarkistuksesta</string>
+  <string name="antivirus_main_activity_back">Takaisin</string>
   <string name="antivirus_monitor_btn_text_clean_risk">Poista vaaralliset sovellukset</string>
   <string name="antivirus_monitor_btn_text_clean_virus">Poista virukset</string>
   <string name="antivirus_monitor_clean_tips">Poistettiin %s kohdetta</string>
@@ -127,6 +127,8 @@
   <string name="app_install_tips_go_to">Avaa</string>
   <string name="app_install_tips_install_success">%1$s asennettiin onnistuneesti</string>
   <string name="app_maanger_app_uninstalled_toast">Tämä sovellus on poistettu</string>
+  <string name="app_manager_advanced_setting">Lisäasetukset</string>
+  <string name="app_manager_allow">Kyllä</string>
   <string name="app_manager_app_ifno_version">Sovellusversio</string>
   <string name="app_manager_app_info_label">Sovelluksen tiedot</string>
   <string name="app_manager_app_info_name">Sovelluksen nimi</string>
@@ -149,9 +151,8 @@
   <string name="app_manager_clear_failed_dlg_message">Sovelluksen datan poistaminen epäonnistui.</string>
   <string name="app_manager_clear_failed_dlg_title">Poista data</string>
   <string name="app_manager_copy_pkg_to_clip">Kopioitu leikepöydälle</string>
-  <string name="app_manager_default_cleared">tyhjennetty</string>
+  <string name="app_manager_default_cleared">Tyhjennetty</string>
   <string name="app_manager_default_close_summary">Oletuksia ei asetettu.</string>
-  <string name="app_manager_default_open">Avaa oletuksena</string>
   <string name="app_manager_default_open_summary">Olet valinnut tämän sovelluksen käynnistymään oletuksena joillekin toiminnoille.</string>
   <string name="app_manager_default_open_title">Poista oletukset</string>
   <string name="app_manager_defaults_setting">Oletukset</string>
@@ -159,10 +160,11 @@
   <string name="app_manager_details_storage_title">Tallennustila</string>
   <string name="app_manager_details_traffic_title">Datan käyttö</string>
   <string name="app_manager_disable">Älä salli</string>
-  <string name="app_manager_disable_dlg_text">Jos poistat tämän sovelluksen käytöstä, muut sovellukset ei välttämättä toimi oikein.</string>
-  <string name="app_manager_disable_dlg_title">Poistetaanko sisäänrakennettu sovellus käytöstä?</string>
+  <string name="app_manager_disable_dlg_text">Jos poistat tämän sovelluksen käytöstä, muut sovellukset ei välttämättä toimi normaalisti.</string>
+  <string name="app_manager_disable_dlg_title">Poistetaanko järjestelmäsovellus käytöstä?</string>
   <string name="app_manager_disable_text">Poista käytöstä</string>
   <string name="app_manager_disabled">Pois käytöstä</string>
+  <string name="app_manager_disabled_by_admin">Järjestelmänvalvoja poistanut käytöstä</string>
   <string name="app_manager_dlg_cancel">Peruuta</string>
   <string name="app_manager_dlg_ok">OK</string>
   <string name="app_manager_enable_text">Ota käyttöön</string>
@@ -178,6 +180,7 @@
   <string name="app_manager_has_not_data">Ei tietoja</string>
   <string name="app_manager_have_not_consume">Ei mitään</string>
   <string name="app_manager_hide_system_server">Piilota järjestelmäpalvelut</string>
+  <string name="app_manager_install_other_app">Asenna sovelluksia tuntemattomista lähteistä</string>
   <string name="app_manager_instruction">Ohje</string>
   <string name="app_manager_loading_data">Ladataan tietoa…</string>
   <string name="app_manager_manage_space">Hallitse tilaa</string>
@@ -186,6 +189,7 @@
   <string name="app_manager_net_control_title">Rajoita datan käyttöä</string>
   <string name="app_manager_net_mobile">Data</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
+  <string name="app_manager_not_allow">Ei</string>
   <string name="app_manager_not_record">Sovelluksia ei löytynyt, jotka tarvitsevat käyttöoikeuksia</string>
   <string name="app_manager_notify_bar">Merkit</string>
   <string name="app_manager_notify_floating">Kelluvat ilmoitukset</string>
@@ -213,7 +217,7 @@
 
  "&lt;li&gt;Käytöstä poistetut sovellukset&lt;/li&gt;"
  "&lt;li&gt;Käytöstä poistetut sovellusilmoitukset&lt;/li&gt;"
- "&lt;li&gt;Oletussovellukset toiminnoille&lt;/li&gt;"
+ "&lt;li&gt;Oletussovellukset&lt;/li&gt;"
  "&lt;li&gt;Sovellusten taustalla tapahtuvat datarajoitukset&lt;/li&gt;"
 
  Et menetä mitään sovellustietoja."</string>
@@ -603,7 +607,8 @@
   <string name="dialog_app_roaming_message">%1$s ei voi käyttää mobiilidataa roaming-tilassa. Kun olet ulkomailla roaming-tilassa, vain poikkeuslistalle lisäämäsi sovellukset voi käyttää mobiilidataa.</string>
   <string name="dialog_app_roaming_title">Ulkomaan roaming-tila ei ole käytössä sovellukselle %1$s</string>
   <string name="dialog_msg_auto_start_declare">Jotkut sovellukset saattaa ilmoittaa väärin, että MIUI on estänyt sitä käynnistymästä. Tarkista sovelluksille myönnetyt käyttöoikeudet asetuksista Asetukset, Käyttöoikeudet.</string>
-  <string name="dialog_msg_stop_virus_scan">Lopetetaanko tietoturvatarkistus ennen, kuin se on valmis?</string>
+  <string name="dialog_msg_stop_virus_scan">Lopetetaanko käynnissä oleva tietoturvatarkistus?</string>
+  <string name="dialog_no_longer_alert">Älä näytä uudelleen</string>
   <string name="dialog_remobe_luckymoney_cancle">Vanha</string>
   <string name="dialog_remobe_luckymoney_ok">Uusi</string>
   <string name="dialog_remove_luckymoney">Voit käyttää uutta sisäänrakennettua punaisen kirjekuoren avustajaa, tai jatka asennetun version käyttämistä. Kumpaa sinä suosit?</string>
@@ -1615,12 +1620,12 @@ Kalibroinnin aikana, MIUI lähettää tekstiviestin operaattorillesi saadakseen 
   <string name="safe_result_item_info_system_scan">Maksujen seuranta on käytössä</string>
   <string name="safe_result_item_info_system_version">MIUI on ajan tasalla</string>
   <string name="safepay_alert_dialog_button_continue">Jatka</string>
-  <string name="safepay_alert_dialog_button_risk">Korjaa</string>
+  <string name="safepay_alert_dialog_button_fix">Korjaa</string>
   <string name="save_energy_text">Rajoita automaattista käynnistystä ja taustalla olevien sovelluksien synkronointia saadaksesi laitteesi akusta kaiken irti</string>
   <string name="save_energy_title">Optimoi akku</string>
   <string name="sc_allow_network_dialog_message">Tämä sovellus vaatii internet-yhteyden toimiakseen normaalisti.</string>
   <string name="sc_allow_network_dialog_tiltle">Tätä toimintoa ei voi käyttää</string>
-  <string name="sc_system_risk_fix_info_xspace">Riskiä ei voi korjata xspacessa, vaihda omistajan spaceen korjataksesi sen.</string>
+  <string name="sc_system_risk_fix_info_xspace">Tätä ei voi ratkaista Toisessa tilassa. Yritä uudelleen Ensimmäisessä tilassa.</string>
   <string name="scan_installed_games">Tarkistetaan asennettuja pelejä…</string>
   <string name="scan_status_risk">Riskialtis</string>
   <string name="scan_status_safe">Turvallinen</string>
@@ -1688,8 +1693,10 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="sms_smart_engine_update">Päivitä tekstiviestisuodatin automaattisesti</string>
   <string name="sms_stranger_block">Estä tekstiviestit muukalaisilta</string>
   <string name="sorted_dialog_title">Lajittele</string>
-  <string name="sp_background_risk_dialog_summary">, tarkasta ja korjaa maksuongelmat</string>
+  <string name="sp_background_risk_dialog_summary">, tarkista ja korjaa maksuongelmat.</string>
+  <string name="sp_background_risk_dialog_summary_wifi_approve">Olet yhdistettynä julkiseen Wi-Fi-verkkoon, joka saattaa olla suojaamaton. Varmista, että maksusi on suojattu, ennen kuin suoritat sen loppuun.</string>
   <string name="sp_background_risk_dialog_title">Huomio</string>
+  <string name="sp_background_risk_dialog_title_wifi_approve">Julkisen Wi-Fi-verkon hälytys</string>
   <string name="sp_background_risk_type_messaging">Järjestelmän viestisovellus on korvattu</string>
   <string name="sp_background_risk_type_root">Järjestelmä on rootattu</string>
   <string name="sp_background_risk_type_sign">Epävirallinen sovellus on käynnissä</string>
@@ -2171,7 +2178,7 @@ Lisää saldoa napauttamalla."</string>
   <string name="virus_auto_update_engine">Automaattinen päivitys: %s</string>
   <string name="virus_scan_process_pre">%</string>
   <string name="virus_update_tips_title">Varoitus</string>
-  <string name="virus_wait_network_dialog_message">Puhelimesi ei ole yhteydessä Wi-Fi-verkkoon. Se kuluttaa mobiilitiedonsiirtoa. Jatketaanko?</string>
+  <string name="virus_wait_network_dialog_message">Puhelimesi ei ole nyt yhteydessä Wi-Fi-verkkoon. Käytetäänkö mobiilitiedonsiirtoa?</string>
   <string name="voltage_symbol">V</string>
   <string name="vpn_disabled_by_user">Nimetty datayhteys on pois päältä</string>
   <string name="vpn_unbale_get_phonenum">Puhelinnumeroita ei voi hakea, jotka käyttää nimettyä datapakettia</string>

@@ -40,7 +40,7 @@
   <string name="backup_success_message">Varmuuskopioitiin kohteeseen %1$s</string>
   <string name="backup_success_title">Varmuuskopioitu</string>
   <string name="backup_title">Varmuuskopioidaanko keskustelun videot?</string>
-  <string name="big5_summary">Traditional Chinese Windows default encoding</string>
+  <string name="big5_summary">Perinteinen kiinalainen Windows-oletuskoodaus</string>
   <string name="big5_title">BIG5</string>
   <string name="bind">Lisää</string>
   <string name="bind_failed_tip">Lisääminen epäonnistui</string>
@@ -184,7 +184,7 @@
   <string name="encrypt_success">Piilotettu onnistuneesti</string>
   <string name="encrypt_success_first_five">Tiedosto salattiin ja piilotettiin. Näet piilotetut tiedostot vetämällä Tiedostoselaimen aloitussivua alaspäin.</string>
   <string name="encrypting">Salataan…</string>
-  <string name="error_contains_sharer_path">/MIUI/Gallery/cloud/sharer kansiossa olevia tiedostoja ei voi salata. Siirrä tiedostot toiseen kansioon ja yritä uudelleen</string>
+  <string name="error_contains_sharer_path">Tiedostoja ei voi salata kansiossa /MIUI/Gallery/cloud/sharer. Siirrä tiedosto toiseen kansioon ja yritä uudelleen</string>
   <string name="error_create_dir">Kansiota ei voitu luoda</string>
   <string name="error_create_file">Tiedostoa ei voitu luoda</string>
   <string name="error_delete_failed">Tiedostoa ei voitu poistaa</string>
@@ -201,7 +201,7 @@
   <string name="exo_controls_previous_description">Edellinen kappale</string>
   <string name="exo_controls_rewind_description">Kelaa taaksepäin</string>
   <string name="exo_controls_stop_description">Lopeta</string>
-  <string name="extended_storage_file_can_not_open">Tiedostoa ei voi avata. Ole hyvä ja kopioi tiedosto sisäiselle tallennustilalle.</string>
+  <string name="extended_storage_file_can_not_open">Tiedostoa ei voi avata. Kopioi tiedosto sisäiselle tallennustilalle.</string>
   <string name="extract">Pura</string>
   <string name="fail_to_create_folder_unknown">Kansiota ei voi luoda</string>
   <string name="favorite_photo">Kuvat</string>
@@ -302,7 +302,7 @@
   <string name="login_account_bind_wb">Weibo tili</string>
   <string name="login_account_bind_wx">Use WeChat</string>
   <string name="login_account_bind_xm">Käytä Mi Tiliä</string>
-  <string name="login_expired">Istunto päättyi, yritä kirjautua sisään uudelleen.</string>
+  <string name="login_expired">Istunto aikakatkaistiin. Kirjaudu sisään uudelleen.</string>
   <string name="login_failed_tip">Kirjautuminen epäonnistui, yritä myöhemmin uudelleen</string>
   <string name="login_success_tip">Kirjauduttiin sisään onnistuneesti</string>
   <string name="make_private">Piilota</string>
@@ -349,7 +349,7 @@
   <string name="mtp_device">Medialaite (MTP)</string>
   <string name="mtp_label">MTP</string>
   <string name="my_follows">Feedini</string>
-  <string name="name_empty">Sinun täytyy syöttää nimi.</string>
+  <string name="name_empty">Syötä nimi</string>
   <string name="need_login">Kirjaudu ensin sisään</string>
   <string name="need_read_storage_permission">Tiedostoselain tarvitsee toimiakseen käyttöoikeuden käyttää laitteesi sisäistä tallennustilaa.</string>
   <string name="net_error_text">网络错误</string>

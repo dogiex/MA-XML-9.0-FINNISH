@@ -1036,7 +1036,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="photo_editor_crop_reset">Nollaa</string>
   <string name="photo_editor_crop_rotation_format">%d°</string>
   <string name="photo_editor_doodle">Piirrä</string>
-  <string name="photo_editor_filter">Suodatin</string>
+  <string name="photo_editor_filter">Suodattimet</string>
   <string name="photo_editor_label">Muokkaa</string>
   <string name="photo_editor_long_crop">Rajaa</string>
   <string name="photo_editor_miui_beauty">Kaunista</string>
@@ -1066,7 +1066,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="photo_editor_remover">Poista</string>
   <string name="photo_editor_rotate">Kierrä</string>
   <string name="photo_editor_saving">Tallennetaan…</string>
-  <string name="photo_editor_sticker">Tarra</string>
+  <string name="photo_editor_sticker">Tarrat</string>
   <string name="photo_editor_text">Teksti</string>
   <string name="photo_editor_transition_image_view">photo_view</string>
   <string name="photo_editor_transition_menu_view">menu_view</string>

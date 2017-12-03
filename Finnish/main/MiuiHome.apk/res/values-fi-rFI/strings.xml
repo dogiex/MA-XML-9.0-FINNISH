@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="action_add_to_workspace">Lisää työtilaan</string>
+  <string name="action_add_to_workspace">Lisää Työtilaan</string>
   <string name="activity_not_found">Sovellusta ei ole asennettu laitteellesi</string>
   <string name="add_screen">Lisää näyttö</string>
   <string name="app_already_exist">Sovellus on jo olemassa</string>
@@ -26,7 +26,7 @@
   <string name="application_name">Järjestelmän käynnistin</string>
   <string name="apply">Aseta</string>
   <string name="apply_action">Aseta</string>
-  <string name="apply_as_lock_screen">Aseta lukitusnäytöksi</string>
+  <string name="apply_as_lock_screen">Aseta Lukitusnäytöksi</string>
   <string name="apply_as_wallpaper">Aseta Aloitusnäytöksi</string>
   <string name="apply_both">Aseta molemmat</string>
   <string name="aqi_quality_index_dangerous">Vaarallinen</string>
@@ -51,7 +51,7 @@
   <string name="confirm_btn_label">OK</string>
   <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Kloonattujen sovelluksien asennukset poistetaan näiden kanssa.</string>
   <string name="confirm_uninstall_dialog_has_xspace_app_msg">Kloonatun sovelluksen asennus poistetaan tämän kanssa.</string>
-  <string name="confirm_uninstall_dialog_title">Vastaavat kloonatut sovellukset poistetaan.</string>
+  <string name="confirm_uninstall_dialog_title">Kloonatut sovellukset poistetaan</string>
   <string name="current_preview">Esikatselu</string>
   <string name="current_wallpaper">Nykyinen</string>
   <string name="custom_wallpaper_picker">Selaa</string>
@@ -156,7 +156,7 @@
   <string name="local_wallpaper">Ladattu</string>
   <string name="lock_screen">Lukitusnäyttö</string>
   <string name="lock_screen_failed_message">Lukitusnäytön taustakuvaa ei voi asettaa</string>
-  <string name="lock_screen_success_message">Lisätty lukitusnäytölle</string>
+  <string name="lock_screen_success_message">Asetettiin Lukitusnäytölle</string>
   <string name="lock_screen_wallpaper">Lukitusnäytön taustakuva</string>
   <string name="menu_add">Lisää</string>
   <string name="menu_auto_fill">Täytä tyhjät ruudukot</string>
@@ -165,7 +165,7 @@
   <string name="menu_customize">Asetukset</string>
   <string name="menu_default_screen_preview">Aseta oletusnäyttö</string>
   <string name="menu_edit">Muokkaa Aloitusnäyttöä</string>
-  <string name="menu_exit_scene">Poistu Mi Space</string>
+  <string name="menu_exit_scene">Poistu Mi Spacesta</string>
   <string name="menu_item_add_item">Aseta Aloitusnäytölle</string>
   <string name="menu_launcher_setting">Käynnistimen asetukset</string>
   <string name="menu_lock">Lukitse Aloitusnäytön ulkoasu</string>

@@ -2096,7 +2096,8 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="lock_screen_notifications_summary_show">Näytä kaikki ilmoitukset ja niiden sisällöt</string>
   <string name="lock_screen_notifications_summary_show_profile">Näytä kaikki työilmoitussisältö</string>
   <string name="lock_screen_notifications_title">Lukitusnäytöllä</string>
-  <string name="lock_screen_secure_after_timeout_immediately_summary">Salasana vaaditaan heti</string>
+  <string name="lock_screen_secure_after_timeout_immediately_never">Älä vaadi salasanaa ikinä.</string>
+  <string name="lock_screen_secure_after_timeout_immediately_summary">Salasana vaaditaan heti.</string>
   <string name="lock_screen_secure_after_timeout_summary">Salasana vaaditaan, kun aikaa on kulunut: %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Vaadi salasana</string>
   <string name="lock_screen_signature_summary">Tämä viesti näytetään Lukitusnäytöllä</string>
@@ -2686,10 +2687,10 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="open_miui_optimization_title">Ota MIUI optimointi käyttöön</string>
   <string name="open_miui_optimization_warning_message">Laitteesi käynnistyy uudelleen, jotta muutokset tulevat voimaan.</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Peruuta</string>
-  <string name="open_personal_assistant_dialog_btn_confirm">Sulje</string>
-  <string name="open_personal_assistant_dialog_desc">Et voi käyttää QuickCard ja saada sen päivityksiä. Poistetaanko käytöstä nyt?</string>
-  <string name="open_personal_assistant_dialog_title">Poista QuickCard käytöstä</string>
-  <string name="open_personal_assistant_title">Ota QuickCard käyttöön</string>
+  <string name="open_personal_assistant_dialog_btn_confirm">Poista käytöstä</string>
+  <string name="open_personal_assistant_dialog_desc">Et voi käyttää Sovellusholvia ja saada sen päivityksiä. Poistetaanko käytöstä nyt?</string>
+  <string name="open_personal_assistant_dialog_title">Poista Sovellusholvi käytöstä</string>
+  <string name="open_personal_assistant_title">Ota Sovellusholvi käyttöön</string>
   <string name="open_sdcard_optimization_title">Ota vale SD-kortin optimointi käyttöön</string>
   <string name="open_sdcard_optimization_warning_message">Laitteesi käynnistyy uudelleen, jotta tämä muutos tulee voimaan.</string>
   <string name="open_wifi_connect_summary">Katso tiedot napauttamalla.</string>
@@ -2802,6 +2803,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="phone_info_label">Puhelimen tiedot</string>
   <string name="phone_language">Kielet</string>
   <string name="physical_keyboard_title">Fyysinen näppäimistö</string>
+  <string name="pick_up_gesture_wakeup_title">Nostoeleellä herättäminen</string>
   <string name="picture_color_mode">Kuvien värit</string>
   <string name="picture_color_mode_desc">Ota sRGB käyttöön</string>
   <string name="pin_failed">SIM-kortin PIN-toiminto epäonnistui!</string>

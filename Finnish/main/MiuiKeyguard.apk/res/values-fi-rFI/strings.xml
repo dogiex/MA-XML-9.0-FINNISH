@@ -96,7 +96,7 @@
   <string name="keyguard_charging_info_tip_text6">Viilennä laite sammuttamalla näyttö ja laittamalla laite pois käsistä.</string>
   <string name="keyguard_quick_charging_info_click_to_detail">Pikalataus. Näytä tiedot napauttamalla.</string>
   <string name="keyguard_quickly_charging_info_charging_text">Pikalataus…</string>
-  <string name="keyguard_torch_cover_text">Pidä taskulamppu päällä pitämällä Virta-painiketta pohjassa</string>
+  <string name="keyguard_torch_cover_text">Pidä taskulamppu päällä pitämällä Virtapainiketta pohjassa</string>
   <string name="lock_screen_date">"EEEE d. MMMM'ta'"</string>
   <string name="lock_screen_date_12">"EEEE d. MMMM'ta'"</string>
   <string name="lock_wallpaper_enter">Avaa</string>
@@ -133,5 +133,6 @@
   <string name="unlockscreen_low_battery">Yhdistä laturi nyt</string>
   <string name="unlockscreen_recharge_completed">Akku ladattu</string>
   <string name="unlockscreen_recharging_message">Ladataan %d%%</string>
-  <string name="wrong_password">Väärä salasana</string>
+  <string name="wallpaper_global_des_drop_down_notify_text">Vapauta nähdäksesi tiedot</string>
+  <string name="wrong_password">Virheellinen salasana</string>
 </resources>
