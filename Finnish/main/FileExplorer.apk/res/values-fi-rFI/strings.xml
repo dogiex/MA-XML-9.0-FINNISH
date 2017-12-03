@@ -545,7 +545,8 @@
   <string name="search_file_type_music">Musiikki</string>
   <string name="search_file_type_picture">Kuva</string>
   <string name="search_file_type_video">Video</string>
-  <string name="search_hint">Etsi</string>
+  <string name="search_guid_hint">Hae tiedostoa</string>
+  <string name="search_hint">Haku</string>
   <string name="search_history">Hakuhistoria</string>
   <string name="search_hot_sticker">Tarrat;Lataa tarroja</string>
   <string name="search_hot_video">Suositut videot;Lähetä videoita;Lähetä video;Lyhyt video;Lyhyitä videoita;Pieni video;Pieniä videoita</string>

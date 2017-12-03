@@ -820,7 +820,7 @@ Muodostetaanko pari tämän laitteen kanssa?"</string>
   <string name="button_text_next_step">Seuraava</string>
   <string name="button_text_next_step_timer">Seuraava askel (%d)</string>
   <string name="button_text_ok">OK</string>
-  <string name="button_text_ok_timer">OK(%d)</string>
+  <string name="button_text_ok_timer">OK (%d)</string>
   <string name="button_text_reboot_now">Käynnistä uudelleen</string>
   <string name="button_text_reject">Hylkää</string>
   <string name="cache_header_label">Välimuisti</string>
@@ -1276,7 +1276,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="device_admin_status">Tämä järjestelmänvalvoja on aktiivinen. %1$s saa:</string>
   <string name="device_admin_title">Laitteen järjestelmänvalvonta</string>
   <string name="device_admin_warning">Jos tämä järjestelmänvalvoja otetaan käyttöön, sovellus %1$s voi suorittaa seuraavat toiminnot:</string>
-  <string name="device_available_memory">Muistia käytettävissä</string>
+  <string name="device_available_memory">Käytettävissä oleva tallennustila</string>
   <string name="device_battery">Akku</string>
   <string name="device_build_id">Versionumero</string>
   <string name="device_complete_parameters">Kaikki tiedot</string>
@@ -1293,7 +1293,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="device_info_label">Laitteen tiedot</string>
   <string name="device_info_not_available">Ei käytettävissä</string>
   <string name="device_info_settings">Puhelimen tila</string>
-  <string name="device_internal_memory">Sisäinen muisti</string>
+  <string name="device_internal_memory">Sisäinen tallennustila</string>
   <string name="device_memory">RAM</string>
   <string name="device_miui_more">Näytä lisää</string>
   <string name="device_miui_version">MIUI versio</string>
@@ -1313,7 +1313,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="device_status">Tila</string>
   <string name="device_status_activity_title">Tila</string>
   <string name="device_status_summary">Puhelinnumero, signaali jne.</string>
-  <string name="device_total_memory">Muistia yhteensä</string>
+  <string name="device_total_memory">Tallennustila yhteensä</string>
   <string name="dial_application_title">Soita</string>
   <string name="dial_pad_tones_title">Näppäimistön näppäinäänet</string>
   <string name="dialog_content_login">Päivitetäänkö kirjautumalla Mi Tilillesi?</string>
@@ -1842,7 +1842,7 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="install_applications_title">Salli kaikki lähteet</string>
   <string name="install_no_market_app_summary">Salli tuntemattomista lähteistä tulevien sovelluksien asentaminen.</string>
   <string name="install_no_market_app_title">Tuntemattomat lähteet</string>
-  <string name="install_preinstall_app">Ladataan sovelluksia…</string>
+  <string name="install_preinstall_app">Vaihdetaan aluetta…</string>
   <string name="install_text">Asenna</string>
   <string name="install_unknown_applications">Salli sovellusten asentaminen muualta kuin Play Kaupasta</string>
   <string name="install_unknown_applications_title">Sallii sovellusten asentamisen muualta kuin Google Playsta</string>
@@ -2096,8 +2096,8 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="lock_screen_notifications_summary_show">Näytä kaikki ilmoitukset ja niiden sisällöt</string>
   <string name="lock_screen_notifications_summary_show_profile">Näytä kaikki työilmoitussisältö</string>
   <string name="lock_screen_notifications_title">Lukitusnäytöllä</string>
-  <string name="lock_screen_secure_after_timeout_immediately_never">Älä vaadi salasanaa ikinä.</string>
-  <string name="lock_screen_secure_after_timeout_immediately_summary">Salasana vaaditaan heti.</string>
+  <string name="lock_screen_secure_after_timeout_immediately_never">Älä vaadi salasanaa ikinä</string>
+  <string name="lock_screen_secure_after_timeout_immediately_summary">Salasana vaaditaan heti</string>
   <string name="lock_screen_secure_after_timeout_summary">Salasana vaaditaan, kun aikaa on kulunut: %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Vaadi salasana</string>
   <string name="lock_screen_signature_summary">Tämä viesti näytetään Lukitusnäytöllä</string>
@@ -2568,7 +2568,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="nfc_se_route_title">Turvaelementin sijainti</string>
   <string name="nfc_se_wallet_title">Oletuslompakko</string>
   <string name="no">Ei</string>
-  <string name="no_account_found">Yhtään sovellusta ei ole, joka tukisi tilin lisäämistä</string>
+  <string name="no_account_found">Sovelluksia ei löytynyt, joilla voi lisätä tilejä</string>
   <string name="no_application">Ei mitään</string>
   <string name="no_applications">Ei sovelluksia.</string>
   <string name="no_battery_summary">Ei akun käyttöä täyteen lataamisen jälkeen</string>
@@ -2803,7 +2803,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="phone_info_label">Puhelimen tiedot</string>
   <string name="phone_language">Kielet</string>
   <string name="physical_keyboard_title">Fyysinen näppäimistö</string>
-  <string name="pick_up_gesture_wakeup_title">Nostoeleellä herättäminen</string>
+  <string name="pick_up_gesture_wakeup_title">Herätä nostamalla laite</string>
   <string name="picture_color_mode">Kuvien värit</string>
   <string name="picture_color_mode_desc">Ota sRGB käyttöön</string>
   <string name="pin_failed">SIM-kortin PIN-toiminto epäonnistui!</string>
@@ -2854,7 +2854,8 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="pre_installed_application">Esiasennetut sovellukset</string>
   <string name="pref_button_light">Painikkeiden valot</string>
-  <string name="pref_button_light_summary">Valaise Valikko-, Koti- ja Takaisin-painikkeet</string>
+  <string name="pref_button_light_summary">Valaise Valikko-, %1$s ja Takaisin-painikkeet</string>
+  <string name="pref_button_light_summary_sub">Koti,</string>
   <string name="pref_edge_handgrip">Reunan säätimet</string>
   <string name="pref_operational_key">Navigointipainikkeet</string>
   <string name="pref_title_lang_selection">Kieliasetukset</string>
@@ -3377,7 +3378,7 @@ Näytön kiinnittäminen:
   <string name="se_wallet_ese">Mi Wallet sallii sinun käyttää Mi Pay -palvelua ja NFC matkustuskorttia.</string>
   <string name="se_wallet_hce">Käytä HCE lompakkoa</string>
   <string name="se_wallet_uicc">Käytä SIM%1$s Lompakkoa</string>
-  <string name="search_about_settings">Tietoa laitteesta;Tietoja laitteesta;Mallin numero;Android versio;MIUI versio;CPU;RAM;Sisäinen muisti;Baseband versio;Kernel versio;Ohjelmistoversion numero</string>
+  <string name="search_about_settings">Tietoa laitteesta;Tietoja laitteesta;Mallin numero;Android versio;MIUI versio;CPU;RAM;Sisäinen muisti;Muisti;Tallennustila;Sisäinen tallennustila;Baseband versio;Kernel versio;Ohjelmistoversion numero</string>
   <string name="search_accelerometer_title">Näytön automaattinen kierto;Kierrä näyttöä;Suunta;Pysty;Vaaka</string>
   <string name="search_access_control">Yksityisyysasetukset;Yksityisyyden turvallisuus;Vieras;Vierastila</string>
   <string name="search_accessibility_captioning_title">Tekstitykset</string>
@@ -3668,7 +3669,7 @@ Huom. Sormenjälki ei välttämättä ole yhtä turvallinen kuin vahva kuvio tai
   <string name="settings_backup">Varmuuskopioi asetukset</string>
   <string name="settings_backup_summary">Varmuuskopioi asetukseni</string>
   <string name="settings_button">Asetukset</string>
-  <string name="settings_forbidden_message">Tämä asetus ei ole käytössä</string>
+  <string name="settings_forbidden_message">Tämä asetus on rajoitettu</string>
   <string name="settings_label">Asetukset</string>
   <string name="settings_label_launcher">Asetukset</string>
   <string name="settings_license_activity_loading">Ladataan…</string>

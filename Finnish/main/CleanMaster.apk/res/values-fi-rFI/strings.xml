@@ -161,9 +161,9 @@
   <string name="dialog_msg_add_white_list_error">Tiedosto ei tue poikkeuksiin lisäämistä</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Varmuuskopioidaanko ja poistetaanko valittujen sovelluksien asennus?</string>
   <string name="dialog_msg_check_all">Varmista, että valitsit %1$s, joka sisältää %2$d asiaa</string>
-  <string name="dialog_msg_esc_cleanmaster">Lopetetaanko puhdistuksen skannaus?</string>
+  <string name="dialog_msg_esc_cleanmaster">Lopetetaanko skannaaminen ja poistutaanko Puhdistajasta?</string>
   <string name="dialog_msg_load_cleanup_engine_error">Puhdistajan moottori on korruptoitunut.</string>
-  <string name="dialog_msg_stop_scan">Lopetetaanko puhdistuksen skannaus?</string>
+  <string name="dialog_msg_stop_scan">Lopetetaanko skannaaminen nyt?</string>
   <string name="dialog_msg_uninstall_apps">Poistetaanko nämä sovellukset?</string>
   <string name="dialog_msg_uninstall_apps_xspace">Poistetaanko nämä sovellukset mukaan lukien kloonatut sovellukset?</string>
   <string name="dialog_ok_add_white_list_error">Selvä</string>
@@ -191,7 +191,7 @@
   <string name="empty_title_residual">Jälkiä ei löytynyt</string>
   <string name="empty_title_video">Ei poistettavia videoita​</string>
   <string name="engine_cm">Clean Master</string>
-  <string name="engine_init">Alustetaan...</string>
+  <string name="engine_init">Alustetaan…</string>
   <string name="engine_tm">Tencent</string>
   <string name="file">Tiedostot</string>
   <string name="file_not_found">Tiedostoa ei löytynyt</string>

@@ -1340,7 +1340,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="too_many_recipients">Voit lisätä enintään %2$s vastaanottajaa (Tällä hetkellä lisätyt %1$s).</string>
   <string name="trash_bin">Roskakori</string>
   <string name="trash_bin_summary">Selaa varmuuskopioituja kuvia, jotka poistettiin äskettäin</string>
-  <string name="try_again_later">yritä myöhemmin uudelleen.</string>
+  <string name="try_again_later">Yritä myöhemmin uudelleen.</string>
   <string name="try_to_send">Lähetä</string>
   <string name="turn_off_and_move">Poista käytöstä ja siirrä</string>
   <string name="turn_on_and_remove">Ota käyttöön ja siirrä</string>

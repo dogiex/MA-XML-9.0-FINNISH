@@ -23,14 +23,14 @@
   <string name="action_menu_account_not_login_hint">Kirjaudu sisään, jotta voit synkronoida Mi Pilveen</string>
   <string name="action_menu_bookshelf">Kirjahylly</string>
   <string name="action_menu_current_version">Nykyinen versio</string>
-  <string name="action_menu_request_desktop_site">Pyydä sivuston työpöytäversiota</string>
-  <string name="action_menu_request_desktop_site_off">Pyydä sivuston työpöytäversiota/pois päältä</string>
-  <string name="action_menu_request_desktop_site_on">Pyydä sivuston työpöytäversiota/päällä</string>
+  <string name="action_menu_request_desktop_site">Verkkosivustojen käyttöoikeus</string>
+  <string name="action_menu_request_desktop_site_off">Verkkosivustojen käyttöoikeus pois käytöstä</string>
+  <string name="action_menu_request_desktop_site_on">Verkkosivustojen käyttöoikeus käytössä</string>
   <string name="action_menu_text_add_bookmark">Lisää kirjanmerkki</string>
   <string name="action_menu_text_bandwidth">Tiedon säästäjä</string>
   <string name="action_menu_text_bandwidth_off">Tiedon säästäjä</string>
   <string name="action_menu_text_bandwidth_on">Tiedon säästäjä</string>
-  <string name="action_menu_text_bookmark_add_off">Verkkosivustoa ei voi lisätä.</string>
+  <string name="action_menu_text_bookmark_add_off">Verkkosivustoa ei voitu lisätä</string>
   <string name="action_menu_text_bookmark_added">Kirjanmerkki lisätty</string>
   <string name="action_menu_text_copy_url">Kopioi URL</string>
   <string name="action_menu_text_create_qr_code">QR koodi</string>
@@ -65,7 +65,7 @@
   <string name="add_favorites_to">Lisää suosikkeihin</string>
   <string name="add_new_bookmark">Lisää kirjanmerkki</string>
   <string name="add_new_quicklink">Lisää aloitussivulle</string>
-  <string name="add_pwa_to_homescreen">Lisätäänkö tämä verkko-osoite aloitusnäytölle?</string>
+  <string name="add_pwa_to_homescreen">Lisätäänkö Aloitusnäytön pikakuvake?</string>
   <string name="add_ql_bm_title">Tallenna</string>
   <string name="add_quicklink_to_popular">Lisää aloitussivulle</string>
   <string name="add_quicklinks">Lisää aloitussivulle</string>
@@ -79,7 +79,7 @@
   <string name="added_to_bookmarks">Lisätty kirjanmerkkeihin</string>
   <string name="adjust_text_zoom_toast">Jos vaihdat tekstin zoomausta, jotkut sivustot saattavat näyttää sisällön väärin</string>
   <string name="agree">Hyväksyn</string>
-  <string name="agree_permissions_request">Hyväksyn</string>
+  <string name="agree_permissions_request">Salli</string>
   <string name="alert_tips">Tämä sivusto saattaa olla turvallisuusriski</string>
   <string name="allow">Salli</string>
   <string name="app_new_version">Uusin versio tästä sovelluksesta on jo asennettuna</string>
@@ -156,7 +156,7 @@
   <string name="close_cloud_tab_tip">Sulje pilvi välilehdet %s?</string>
   <string name="cloud_loading_tips">Vedä alas synkronoidaksesi</string>
   <string name="cloud_no_new_data_toast">Kaikki on ajan tasalla</string>
-  <string name="cloud_sync_closed_toast">Ei voitu päivittää, koska synkronointi on pois käytöstä</string>
+  <string name="cloud_sync_closed_toast">Ota synkronointi käyttöön päivittääksesi</string>
   <string name="cloud_sync_failed_toast">Ei voitu päivittää</string>
   <string name="cloud_tab">Pilvi välilehdet</string>
   <string name="cloud_time_tips">Viimeisin synkronointi</string>
@@ -295,7 +295,7 @@
   <string name="empty_bookmark">Tyhjä</string>
   <string name="empty_cloud_tab_login_hint">Ei pilvivälilehtiä</string>
   <string name="empty_cloud_tab_logout_hint">"Kirjaudu Mi Tilillesi
- muissa laitteissa avatut välilehdet näytetään täällä"</string>
+katsoaksesi avoimia välilehtiä muilta laitteilta."</string>
   <string name="empty_history_hint">Historia on tyhjä</string>
   <string name="empty_snapshot_hint">Tyhjä</string>
   <string name="enable_geolocation_confirm_message">Poistamalla sijaintipalvelut käytöstä vaikuttaa saamiisi suosituksiin.</string>
@@ -323,7 +323,7 @@
   <string name="find_on_page_next">Seuraava</string>
   <string name="find_on_page_prev">Edellinen</string>
   <string name="find_previous">Etsi edellinen</string>
-  <string name="finish_sync_cloud_tabs">Synkronointi valmistui</string>
+  <string name="finish_sync_cloud_tabs">Synkronoitiin onnistuneesti</string>
   <string name="firstUsingSearchEngineTips">Vaihdetaanko hakukonetta?</string>
   <string name="fling_on_border_gesture_hint">Voit valita tälle eleelle toiminnon Asetuksista</string>
   <string name="force_quick_search_title">Hae</string>
@@ -335,7 +335,7 @@
   <string name="geolocation_permissions_prompt_remember">Muista valinta</string>
   <string name="geolocation_permissions_prompt_share">Jaa sijaintitiedot</string>
   <string name="geolocation_permissions_prompt_toast_allowed">Tämä sivusto voi käyttää sijaintitietoasi. Voit vaihtaa tämän Asetuksissa.</string>
-  <string name="geolocation_permissions_prompt_toast_disallowed">Tämä sivusto ei voi käyttää sijaintitietoasi.</string>
+  <string name="geolocation_permissions_prompt_toast_disallowed">Tämä sivusto ei voi käyttää sijaintiasi</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Peruuta</string>
   <string name="geolocation_settings_page_dialog_message">Poistetaanko sijaintitietojen käyttöoikeus tältä sivustolta?</string>
   <string name="geolocation_settings_page_dialog_ok_button">OK</string>
@@ -568,12 +568,12 @@ Poistutaanko tältä sivulta?"</string>
   <string name="pay_failed_toast">Maksu epäonnistui</string>
   <string name="pay_success_toast">Maksu onnistui</string>
   <string name="permission_alert_window">Salli ponnahdusikkunat käyttääksesi tätä toimintoa</string>
-  <string name="permission_notification">lähettää sinulle ilmoituksia</string>
+  <string name="permission_notification">lähettää ilmoituksia.</string>
   <string name="permission_unknown">Tuntematon toiminto</string>
-  <string name="permissions_prompt_message">"%s haluaa "</string>
+  <string name="permissions_prompt_message">%s haluaa</string>
   <string name="popup_window_attempt">Sallitaanko tämän sivuston avata ponnahdusikkuna?</string>
   <string name="positive_confirm_message">Poista käytöstä siitä huolimatta</string>
-  <string name="pref_accept_quicklink_push">Aloitussivun työntäminen</string>
+  <string name="pref_accept_quicklink_push">Uutissyöte</string>
   <string name="pref_accessibility">Esteettömyys</string>
   <string name="pref_accessibility_title">Esteettömyys</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Yleiset kirjainyhdistelmät voidaan syöttää yhdellä napautuksella osoitepalkissa</string>
@@ -684,14 +684,14 @@ Poistutaanko tältä sivulta?"</string>
   <string name="progress_dialog_setting_wallpaper">Asetetaan taustakuvaa…</string>
   <string name="pull_to_refresh_pull_label">Vedä päivittääksesi</string>
   <string name="pull_to_refresh_release_label">Vapauta suositellaksesi ja päivittääksesi</string>
-  <string name="pwa_app_name">Verkkosovellus</string>
+  <string name="pwa_app_name">Verkkosovellukset</string>
   <string name="qr_code_title">QR Koodi</string>
   <string name="qr_description">Skannaa QR-koodi</string>
   <string name="quicklink_bookmark_save">Tallenna kohteeseen</string>
   <string name="quicklink_cannot_save_url">Tätä URL-osoitetta ei voi lisätä.</string>
   <string name="quicklink_folder_text">Top sovellukset</string>
   <string name="quicklink_not_saved">Aloitussivulle lisääminen epäonnistui</string>
-  <string name="quicklink_push_confirm_message">Poistamalla tämä ominaisuus käytöstä, vaikuttaa aloitussivun työntöön.</string>
+  <string name="quicklink_push_confirm_message">Syötteesi ei saa päivityksiä sen jälkeen, kun poistat tämän ominaisuuden käytöstä. Poistetaanko käytöstä nyt?</string>
   <string name="quicklink_saved">Tallennettiin aloitussivulle</string>
   <string name="quicklink_saved_before">Tämä sivu on jo lisätty</string>
   <string name="quicklink_user_define_webpage_title">Nimi</string>
@@ -714,7 +714,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="readmode_recommend_message">Olet lukenut tämän kirjan jo. :)</string>
   <string name="readmode_refresh">Päivitä</string>
   <string name="readmodelist_bookmarks_to_show">Lukulista</string>
-  <string name="refuse_permissions_request">Kieltäydy</string>
+  <string name="refuse_permissions_request">Rajoita</string>
   <string name="remember_passwords_confirm_message">Tämän toiminnon poistaminen käytöstä voi vaikuttaa käyttökokemukseen.</string>
   <string name="remove_bookmark">Poista kirjanmerkki</string>
   <string name="remove_bookmark_group">Poista ryhmä</string>
@@ -800,7 +800,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="skip_current_version">Ohita tämä versio</string>
   <string name="snapshot">Paikallinen</string>
   <string name="snapshot_failed">Sivua ei voitu tallentaa.</string>
-  <string name="snapshot_successed">Avaa Kirjanmerkit/Historia-%gt;PAIKALLINEN nähdäksesi sivun</string>
+  <string name="snapshot_successed">Avaa Kirjanmerkit &amp; Historia -%gt; PAIKALLINEN nähdäksesi sivun</string>
   <string name="ssl_bad_clock_date_settings">Aseta päivämäärä</string>
   <string name="ssl_bad_clock_warning" formatted="false">Yksityistä yhteyttä kohteeseen %s1 ei voi muodostaa, koska laitteesi päivämäärä ja aika (%s2) ovat väärin.</string>
   <string name="ssl_certificate">Turvallisuusvarmenne</string>
@@ -896,7 +896,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="version_check_button_no_network">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="version_check_button_resume_download">Jatka latausta</string>
   <string name="version_check_button_update">Päivitä</string>
-  <string name="version_check_failed">Päivityksen tarkistaminen epäonnistui</string>
+  <string name="version_check_failed">Päivityksiä ei voitu tarkistaa</string>
   <string name="version_dialog_buttion_ok">OK</string>
   <string name="version_dialog_buttion_update">Päivitä</string>
   <string name="version_update_file_download_toast">Ladataan</string>

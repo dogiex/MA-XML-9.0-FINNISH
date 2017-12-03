@@ -24,7 +24,7 @@
   <string name="delete_dialog_message">Poistetaanko nauhoitus?</string>
   <string name="deleting_message">Poistetaan…</string>
   <string name="details">Tiedot</string>
-  <string name="dialog_content_storage_full">Nauhoitus pysäytettiin, koska laitteen sisäistä tallennustilaa ei ole riittävästi.</string>
+  <string name="dialog_content_storage_full">Nauhoitus pysäytettiin, koska laitteellasi ei ole riittävästi tallennustilaa.</string>
   <string name="dialog_title_storage_full">Tallennustilaa ei ole riittävästi</string>
   <string name="duration_format_hour">%s t</string>
   <string name="duration_format_minute">%s m</string>
