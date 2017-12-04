@@ -1191,6 +1191,8 @@ Tarkista seurantanumerosi."</string>
   <string name="payment_method_credit">Luottokortti</string>
   <string name="payment_method_other">Muu</string>
   <string name="payment_method_wechat">WeChat</string>
+  <string name="payment_month_next">Seuraava kuukausi</string>
+  <string name="payment_month_prev">Edellinen kuukausi</string>
   <string name="payment_pref_basic_category_title">Yleiset asetukset</string>
   <string name="payment_pref_clear_records_title">Tyhjennä maksuhistoria</string>
   <string name="payment_pref_enabled_summary">Tallenna kaikki maksut automaattisesti</string>
@@ -1199,8 +1201,8 @@ Tarkista seurantanumerosi."</string>
   <string name="payment_pref_privacy_category_title">Yksityisyys</string>
   <string name="payment_pref_privacy_security_summary">Käytä MIUI:n Yksityisyydensuojan salasanaa piilottaaksesi tilitietosi</string>
   <string name="payment_pref_privacy_security_title">Salasana</string>
-  <string name="payment_pref_report_category_title">上报失败信息</string>
-  <string name="payment_pref_report_failed_record_title">上报记账失败的页面</string>
+  <string name="payment_pref_report_category_title">Ilmoita</string>
+  <string name="payment_pref_report_failed_record_title">Ilmoita käsittelemättömät laskut</string>
   <string name="payment_pref_source_alipay_summary">Hanki maksutiedot Alipayltä</string>
   <string name="payment_pref_source_alipay_title">Alipay</string>
   <string name="payment_pref_source_category_title">Maksutietojen lähde</string>
@@ -1220,10 +1222,10 @@ Tarkista seurantanumerosi."</string>
   <string name="payment_record_new_lable">Lisää historiatietue</string>
   <string name="payment_record_recent_title">Viimeaikaiset maksut</string>
   <string name="payment_record_show_more">Näytä lisää</string>
-  <string name="payment_report_failed_record_dialog_cancel">取消</string>
-  <string name="payment_report_failed_record_dialog_message">"为帮助我们提升记账的成功率，您可以将失败页面的信息主动上报给我们。
-"&lt;b&gt;&amp;#19978;&amp;#25253;&amp;#30340;&amp;#20449;&amp;#24687;&amp;#20165;&amp;#29992;&amp;#20110;&amp;#35299;&amp;#20915;&amp;#35760;&amp;#36134;&amp;#22833;&amp;#36133;&amp;#38382;&amp;#39064;&amp;#12290;&lt;/b&gt;</string>
-  <string name="payment_report_failed_record_dialog_ok">上报</string>
+  <string name="payment_report_failed_record_dialog_cancel">Peruuta</string>
+  <string name="payment_report_failed_record_dialog_message">"Ilmoita käsittelemättömät laskut auttaaksesi meitä tekemään maksujen laskemisen tarkemmaksi.
+"&lt;b&gt;Jakamiasi kohteita käytetään vain parantaaksemme Sovellusholvia.&lt;/b&gt;</string>
+  <string name="payment_report_failed_record_dialog_ok">Ilmoita</string>
   <string name="payment_upload_data_fail">Tietojen lähetys epäonnistui</string>
   <string name="payment_upload_data_no_data">Ei lähetettävää tietoa</string>
   <string name="payment_upload_data_success">Lähetettiin tiedot onnistuneesti</string>

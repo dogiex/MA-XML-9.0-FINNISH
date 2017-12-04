@@ -88,6 +88,8 @@ Virransäästö kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="normal">Oletustila</string>
   <string name="operation_create_group">Nimi</string>
   <string name="operation_create_group_message">Syötä uuden ryhmän nimi</string>
+  <string name="performance_category">Suorituskyky</string>
+  <string name="power_center">Virta</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s käy epätavallisesti</string>
   <string name="power_checker_background_cpu_title">%1$s käy epätavallisesti</string>
   <string name="power_checker_background_gps_multi_apps_title">%1$s hakee sijaintitietoa usein</string>
@@ -164,8 +166,9 @@ Virransäästö kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="power_event_view_event_title">Käynnistimet</string>
   <string name="power_hide_mode_app_list_summary">Säästetään virtaa taustalla</string>
   <string name="power_hide_mode_summary">Säästä virtaa rajoittamalla yksittäisten sovelluksien taustaprosesseja, Wi-Fi- ja mobiilidata-yhteyksiä, sekä GPS:ää</string>
-  <string name="power_hide_mode_title">Hallitse sovelluksien akun käyttöä</string>
+  <string name="power_hide_mode_title">Akku &amp; suorituskyky</string>
   <string name="power_keeper">Virransäästö</string>
+  <string name="power_mode">Virta-asetukset</string>
   <string name="power_mode_cpu_state_high">Suorituskyky</string>
   <string name="power_mode_cpu_state_high_desc">Suosi suorituskykyä akunkeston sijaan</string>
   <string name="power_mode_cpu_state_low">Akun säästö</string>
@@ -176,6 +179,7 @@ Virransäästö kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="power_mode_view_event_title">Tapahtumat</string>
   <string name="power_mode_view_user_define_title">Uusi tapahtuma</string>
   <string name="power_optimize_activity_profile_file_error">Virransäästö virhe</string>
+  <string name="power_usage">Virrankäyttö</string>
   <string name="ragment_sys_listempty">Ei järjestelmäsovelluksia</string>
   <string name="reading">Lukutila</string>
   <string name="scenario_policies_summary">Aseta erilaisia virransäästöjä eri skeneille.</string>

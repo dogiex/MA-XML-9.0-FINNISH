@@ -135,12 +135,12 @@
   <string name="find_device_request_prepare_error">Tilan saanti epäonnistui, yritä myöhemmin uudelleen</string>
   <string name="find_device_unknown_error">Laitteen tilan saanti epäonnistui, odota minuutti tai kaksi ja yritä uudelleen</string>
   <string name="first_login_time">Ensimmäinen kirjautumisyritys: %s</string>
-  <string name="get_back_pwd">Hanki salasana takaisin</string>
+  <string name="get_back_pwd">Salasanan palauttaminen</string>
   <string name="get_device_list_failed">Laitteita ei voitu hakea</string>
   <string name="get_phone_bind_exceed_limit">Voit liittää puhelinnumeroita enintään kolmelle Mi Tilille. Tilejä ei voi lisätä.</string>
   <string name="get_phone_verifycode_exceed_limit">Liian monta vahvistuskoodia on lähetetty tälle numerolle. Odota 24 tuntia ja yritä uudelleen.</string>
   <string name="guest_account_label">Mi Vierastili</string>
-  <string name="identity">Henkilöllisyys</string>
+  <string name="identity">Tunnistaminen</string>
   <string name="input_email_address_notice">Käytämme tätä sähköpostia tilisi vahvistamiseen</string>
   <string name="io_error_title">Vahvista verkkosi</string>
   <string name="just_a_second">Odota hetki…</string>
@@ -170,7 +170,7 @@
   <string name="my_device_title">Nykyinen laite</string>
   <string name="no_network_btn">Päivitä</string>
   <string name="no_network_title">Verkkoyhteyttä ei voi muodostaa.</string>
-  <string name="no_phone">Ei puhelinta</string>
+  <string name="no_phone">Ei puhelinnumeroa</string>
   <string name="no_response_retry">Ei vastausta, yritä uudelleen.</string>
   <string name="no_sim_card_or_unactivated">SIM-kortti ei ole asennettu tai aktivoitu</string>
   <string name="nobind">Ei yhdistettynä</string>
@@ -417,8 +417,8 @@ Aktivoi tilisi seuraamalla
   <string name="select_location_title">Valitse sijaintisi</string>
   <string name="send_email_activate_message">Vahvistussähköposti lähetetty</string>
   <string name="service_error">Palveluvirhe</string>
-  <string name="set_success">Onnistui</string>
-  <string name="sign_in">Kirjaudu sisään</string>
+  <string name="set_success">Muutettiin onnistuneesti</string>
+  <string name="sign_in">Kirjaudutaan sisään</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="sms_send_success">Lähetetty</string>
   <string name="sns_access_token_expired_warning">Tilin kirjautuminen on vanhentunut. Yhdistä tili uudelleen kirjautumalla sisään uudelleen.</string>

@@ -35,7 +35,8 @@
   <string name="action_menu_text_copy_url">Kopioi URL</string>
   <string name="action_menu_text_create_qr_code">QR koodi</string>
   <string name="action_menu_text_download">Hallitse latauksia</string>
-  <string name="action_menu_text_exit">Sulje</string>
+  <string name="action_menu_text_drop">Poistu valikosta</string>
+  <string name="action_menu_text_exit">Poistu</string>
   <string name="action_menu_text_find_in_page">Etsi sivulta</string>
   <string name="action_menu_text_fullscreen">Koko näyttö</string>
   <string name="action_menu_text_history">Kirjanmerkit &amp; Historia</string>
@@ -115,6 +116,7 @@
   <string name="bookmark_cannot_save_url">Tätä URL-osoitetta ei voi lisätä kirjanmerkkeihin.</string>
   <string name="bookmark_folder_needs_title">Syötä ryhmän nimi</string>
   <string name="bookmark_group_lable">Ryhmä</string>
+  <string name="bookmark_move_to">Siirrä kohteeseen</string>
   <string name="bookmark_needs_title">Kirjanmerkillä on oltava nimi</string>
   <string name="bookmark_needs_url">Kirjanmerkin on sisällettävä URL-osoite</string>
   <string name="bookmark_not_saved">Kirjanmerkkiä ei voitu tallentaa</string>
@@ -141,6 +143,8 @@
   <string name="cancel">Peruuta</string>
   <string name="cancle_sync_cloud_tabs">Peruuta synkronointi</string>
   <string name="cannot_download">Vain http- tai https- URL-osoitteita voi ladata</string>
+  <string name="check_security_tip_privacy_policy">Tietosuojakäytäntö</string>
+  <string name="check_security_tip_user_agreement">Käyttöehdot</string>
   <string name="choosertitle_sharevia">Jaa sovelluksessa</string>
   <string name="clear_history">Tyhjennä historia</string>
   <string name="clear_most_visited">Viimeaikainen historia</string>
@@ -211,7 +215,6 @@
   <string name="current_version_pc">Pöytäkone</string>
   <string name="current_version_phone">Puhelin</string>
   <string name="custom_head_card_text">Usko aina, että jotain hienoa tulee tapahtumaan</string>
-  <string name="custom_head_card_text_incognito">Olet muuttunut näkymättömäksi! Sivut, joita katselet ei näy historiassa.</string>
   <string name="data_traffic_prompt_change">Videoiden katsominen mobiilidatalla lisää datan käyttöä. Jos operaattorikohtainen tiedonsiirtoraja ylittyy, operaattori voi veloittaa sinulta lisäkustannuksia.</string>
   <string name="data_traffic_prompt_message">Videoiden selaaminen mobiilidatalla lisää datan käyttöä. Jos operaattorikohtainen tiedonsiirtoraja ylittyy, operaattori voi veloittaa sinulta lisäkustannuksia.</string>
   <string name="data_traffic_prompt_message_short">Videoiden striimaaminen mobiilidatalla voi johtaa liittymäsi datan käyttörajan ylittämiseen.</string>
@@ -223,6 +226,7 @@
   <string name="date_time_picker_dialog_title">Aseta päivä ja aika</string>
   <string name="delete">Poista</string>
   <string name="delete_bookmark">Poista</string>
+  <string name="delete_bookmark_action_warning">Poistetaanko kirjanmerkit?</string>
   <string name="delete_bookmark_group_warning">Poistetaanko ryhmä %s? Kaikki kirjanmerkit, jotka ovat tässä ryhmässä poistetaan.</string>
   <string name="delete_bookmark_warning">Poistetaanko kirjanmerkki %s?</string>
   <string name="delete_download">Poista</string>
@@ -342,8 +346,9 @@ katsoaksesi avoimia välilehtiä muilta laitteilta."</string>
   <string name="geolocation_settings_page_summary_allowed">Tämä sivusto voi käyttää sijaintitietojasi tällä hetkellä</string>
   <string name="geolocation_settings_page_summary_not_allowed">Tämä sivusto ei voi käyttää sijaintitietojasi tällä hetkellä</string>
   <string name="geolocation_settings_page_title">Poista sijaintitietojen käyttöoikeus</string>
+  <string name="go_back_descirption">Siirry takaisin</string>
   <string name="go_supermarket_button">Siirry</string>
-  <string name="go_supermarket_title">More apps, faster speed, and less data usage in App Store</string>
+  <string name="go_supermarket_title">Enemmän sovelluksia, nopeampi ja vähemmän datan käyttöä App Storessa</string>
   <string name="gold_medals">Kultamitalit</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Lisätty Aloitusnäytölle</string>
@@ -359,7 +364,6 @@ katsoaksesi avoimia välilehtiä muilta laitteilta."</string>
   <string name="homepage_search_hint">Etsi</string>
   <string name="homepage_top_card_menu">Ylös</string>
   <string name="ignore_add_pwa_dialog_today">Älä näytä tänään</string>
-  <string name="in_incognito">Olet muuttunut näkymättömäksi! Sivut, joita katselet tällä välilehdellä ei näy historiassa.</string>
   <string name="in_secureaccess">Selain siirtyi Vikatilaan</string>
   <string name="isReplacePage">Tiedosto on jo olemassa, korvataanko?</string>
   <string name="is_first_history_item">Tämä on Selaimen historian ensimmäinen sivu</string>
@@ -530,9 +534,14 @@ Poistutaanko tältä sivulta?"</string>
   <string name="more_option">Lisää vaihtoehtoja</string>
   <string name="nav_bottom_bar_back">Takaisin</string>
   <string name="nav_bottom_bar_close_all">Sulje kaikki</string>
+  <string name="nav_bottom_bar_close_description">Sulje</string>
   <string name="nav_bottom_bar_new_tab">Uusi välilehti</string>
   <string name="nav_screen_container_tab_incognito">Incognito välilehti</string>
   <string name="nav_screen_container_tab_normal">Välilehti</string>
+  <string name="nav_screen_incognito_message">"Selaus- ja hakuhistoriasi ei tallennu Incognito-tilassa.
+Muista, että lataamasi tiedostot ja lisäämäsi kirjanmerkin silti tallennetaan."</string>
+  <string name="nav_screen_incognito_time">%s sekunnin jälkeen luodaan uusi sivu automaattisesti</string>
+  <string name="nav_screen_incognito_title">Incognito-tila</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">Peruuta</string>
   <string name="navigationbar_rightbutton_actiontext_go">Siirry</string>
   <string name="navigationbar_rightbutton_actiontext_search">Etsi</string>
@@ -788,19 +797,26 @@ Poistutaanko tältä sivulta?"</string>
   <string name="send_comment_title">Kommentoi</string>
   <string name="senddesktop">Aloitusnäyttö</string>
   <string name="sendstartpage">Aloitussivu</string>
+  <string name="sequence_bookmark_description">Muuta kirjanmerkin järjestystä</string>
   <string name="share_by_yidianzixun">【一点资讯】</string>
   <string name="share_image_text">Katso mitä jaoin! @MIUI</string>
   <string name="share_page_text">Katso mitä jaoin: %1$s @MIUI | %2$s</string>
-  <string name="show_check_security_url_check_tip_dialog_description">Selain tarvitsee internetyhteyden toimiakseen normaalisti. Parantaaksesi tietoturvaa ja vastaanottaaksesi suosituksia, salli Selaimelle pääsy vierailemiesi verkkosivustojen URL-osoitteisiin ja sijaintitietoosi.</string>
-  <string name="show_check_security_url_check_tip_dialog_description_international">Selain tarvitsee internetyhteyden toimiakseen normaalisti. Vastaanottaaksesi suosituksia, salli Selaimelle pääsy vierailemiesi verkkosivustojen URL-osoitteisiin ja sijaintitietoosi.</string>
-  <string name="show_security_tip_dialog_title">Palveluehdot</string>
-  <string name="show_weather_location_getter_tip_dialog_description">Selain tarvitsee internetyhteyden toimiakseen normaalisti. Parantaaksesi tietoturvaa, vastaanottaaksesi suosituksia ja säätietoja, salli Selaimelle pääsy vierailemiesi verkkosivustojen URL-osoitteisiin ja sijaintitietoosi.</string>
+  <string name="show_check_security_url_check_tip_dialog_description">"Keräämme ja käytämme henkilökohtaisia tietojasi jos valitset käyttää palveluitamme.
+Tässä on tiedot, joita keräämme:
+1. Turvalliset URL-osoitteet: Keräämme vierailemiesi verkkosivujen URL-osoitteet käyttäessäsi palveluitamme.
+2. Sijaintitiedot: Käytämme sijaintitietojasi.
+Näin käytämme keräämiämme tietoja:
+1. Tietoturva: Käytämme tietojasi, kun suojaamme laitettasi huijauksilta ja viruksilta mukaanlukien tallennustilan ja varmuuskopioiden takia.
+2. Sisältö: Tietosi auttaa meitä tarjoamaan asiaankuuluvaa alueellista uutissisältöä.
+Selaimen täytyy yhdistää internetiin toimiakseen normaalisti. Sinun täytyy hyväksyä meidän %2$s ja %1$s, jotta voit käyttää Selainta.​"</string>
+  <string name="show_security_tip_dialog_title">Tietosuojakäytäntö</string>
   <string name="sign_in_to" formatted="false">Kirjaudu sisään osoitteeseen %s1 \"%s2\"</string>
   <string name="skip_button_label">Ohita</string>
   <string name="skip_current_version">Ohita tämä versio</string>
   <string name="snapshot">Paikallinen</string>
   <string name="snapshot_failed">Sivua ei voitu tallentaa.</string>
   <string name="snapshot_successed">Avaa Kirjanmerkit &amp; Historia -%gt; PAIKALLINEN nähdäksesi sivun</string>
+  <string name="soft_toast_see_view">Näytä</string>
   <string name="ssl_bad_clock_date_settings">Aseta päivämäärä</string>
   <string name="ssl_bad_clock_warning" formatted="false">Yksityistä yhteyttä kohteeseen %s1 ei voi muodostaa, koska laitteesi päivämäärä ja aika (%s2) ovat väärin.</string>
   <string name="ssl_certificate">Turvallisuusvarmenne</string>
@@ -830,14 +846,14 @@ Poistutaanko tältä sivulta?"</string>
   <string name="suggest_access_item_app_mark">SOVELLUS</string>
   <string name="suggest_access_item_app_size">%.2f Mt</string>
   <string name="suggest_access_item_app_update">Päivitä: %s</string>
-  <string name="suggest_access_item_book_mark">KIRJANMERKKI</string>
-  <string name="suggest_access_item_mina_mark">SUORAPALVELU</string>
+  <string name="suggest_access_item_book_mark">KIRJAT</string>
+  <string name="suggest_access_item_mina_mark">PIKASOVELLUKSET</string>
   <string name="suggest_access_item_music_mark">MUSIIKKI</string>
   <string name="suggest_access_item_singer_albums">%d albumeja</string>
   <string name="suggest_access_item_singer_pop">%d suosittua kappaletta</string>
   <string name="suggest_access_item_site_mark">SIVUSTOT</string>
-  <string name="suggest_access_item_video_mark">VIDEO</string>
-  <string name="suggest_access_item_website_mark">VERKKOSIVU</string>
+  <string name="suggest_access_item_video_mark">VIDEOT</string>
+  <string name="suggest_access_item_yellow_mark">HAKEMISTOT</string>
   <string name="suggest_access_music">Mi Musiikki</string>
   <string name="suggest_item_delete_text">Poista</string>
   <string name="suggest_open_app_failed">Tätä sovellusta ei voitu avata</string>
@@ -862,6 +878,8 @@ Poistutaanko tältä sivulta?"</string>
   <string name="title_bar_loading">Ladataan…</string>
   <string name="too_many_windows_dialog_message">Selain ei voi avata uutta välilehteä ennen kuin suljet jonkun välilehden.</string>
   <string name="too_many_windows_dialog_title">Välilehtiä ei voi avata lisää</string>
+  <string name="transfer_prompt_0">Toista video</string>
+  <string name="transfer_restart">Käynnistä uudelleen</string>
   <string name="unSwitchText">EI</string>
   <string name="undo">Kumoa</string>
   <string name="unknown_title">Tuntematon</string>
@@ -906,7 +924,8 @@ Poistutaanko tältä sivulta?"</string>
   <string name="video_buffering_percent_string">"Puskuroidaan "</string>
   <string name="video_collect_cancel">Poista suosikeista</string>
   <string name="video_collect_success">Lisättiin suosikkeihin</string>
-  <string name="video_download_complete">Lataus valmis.</string>
+  <string name="video_doenload_complete">Ladattiin video onnistuneesti</string>
+  <string name="video_download_complete">Ladattiin onnistuneesti</string>
   <string name="video_download_empty">Ei videoita</string>
   <string name="video_download_error">Virhe</string>
   <string name="video_download_error_http_gone">Tiedostoa ei löydy</string>
@@ -916,8 +935,8 @@ Poistutaanko tältä sivulta?"</string>
   <string name="video_download_finding_address">Haetaan latauksen URL-osoite</string>
   <string name="video_download_pause">Pysäytetty</string>
   <string name="video_download_start">Ladataan…</string>
-  <string name="video_download_success">Valmis</string>
-  <string name="video_download_unknown_name">Tuntematon Nimi</string>
+  <string name="video_download_success">Ladattiin onnistuneesti</string>
+  <string name="video_download_unknown_name">Tuntematon nimi</string>
   <string name="video_download_unknown_size">Tuntematon koko</string>
   <string name="video_download_unsupport">Ei ole tuettu</string>
   <string name="video_download_wait_for_wifi">Odotetaan Wi-Fiä</string>
@@ -942,6 +961,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="video_push_multi_message">%1$d päivityksiä saatavilla.</string>
   <string name="video_push_multi_title">Päivitys saatavilla</string>
   <string name="video_push_single_message">Napauta päivittääksesi %1$d.</string>
+  <string name="video_service_notification_title">Toistetaan ponnahdusvideo</string>
   <string name="video_subtitle_last_message1">Alle yksi minuutti jäljellä</string>
   <string name="video_subtitle_prefix1">Katsottu</string>
   <string name="video_subtitle_prefix_message">"Katsottu: "</string>

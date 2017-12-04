@@ -16,6 +16,10 @@
         <item quantity="other">%1$d / %2$d</item>
         <item quantity="one">1 osuma</item>
     </plurals>
+    <plurals name="transfer_prompt">
+        <item quantity="other">Toista video %1$d sekunnin kuluttua</item>
+        <item quantity="one">Toista video %1$d sekunnin kuluttua</item>
+    </plurals>
     <plurals name="v5_edit_mode_title">
         <item quantity="other">%1$d valittu</item>
         <item quantity="one">%1$d valittu</item>

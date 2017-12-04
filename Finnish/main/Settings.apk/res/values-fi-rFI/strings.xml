@@ -1440,19 +1440,6 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="doze_title">Ambient-näyttö</string>
   <string name="draw_overlay">Piirrä muihin sovelluksiin</string>
   <string name="draw_overlay_title">Muiden sovelluksien päälle piirtävät sov.</string>
-  <string name="drive_mode">Auto-tila</string>
-  <string name="drive_mode_auto_reply">Nopea vastaus</string>
-  <string name="drive_mode_auto_sms_reply_content">Olen ajamassa... Soitan sinulle myöhemmin</string>
-  <string name="drive_mode_auto_sms_reply_content_title">Nopea vastaus</string>
-  <string name="drive_mode_calling_auto_sms_reply">Vastaa puheluihin viestillä</string>
-  <string name="drive_mode_invert_stop_report">Mykistä puhelin kääntämällä se ympäri</string>
-  <string name="drive_mode_only_contact_reply">Vastaa vain Yhteystiedoille</string>
-  <string name="drive_mode_phone_report">Saapuvan puhelun tiedot</string>
-  <string name="drive_mode_settings">Auto-tilan asetukset</string>
-  <string name="drive_mode_sms_auto_sms_reply">Vastaa tekstiviestiin</string>
-  <string name="drive_mode_sms_report">Viestit</string>
-  <string name="drive_mode_title">Auto-tila</string>
-  <string name="drive_mode_voice_report">Teksti-puheeksi ulostulo</string>
   <string name="dtmf_tone_enable_title">Valintanäppäimien näppäinäänet</string>
   <string name="edge_mode_back">Palaa takaisin</string>
   <string name="edge_mode_back_summary">Palataksesi takaisin, tuplanapauta puhelimen reunaa</string>
@@ -1479,7 +1466,6 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="enable_adb">USB-vianetsintä</string>
   <string name="enable_adb_summary">Vianetsintätila USB-liitännän ollessa käytössä</string>
   <string name="enable_compatibility">Muuta sovelluksen kokoa</string>
-  <string name="enable_drive_mode">Auto-tila</string>
   <string name="enable_freeform_support">Ota käyttöön vapaamuotoiset ikkunat</string>
   <string name="enable_freeform_support_summary">Ota kokeellisten vapaamuotoisten ikkunoiden tuki käyttöön.</string>
   <string name="enable_mobile_data_when_opening_hotspot">Otetaanko mobiilidata myös käyttöön?</string>
@@ -4176,7 +4162,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="tether_and_hotspot_title">Jaettu yhteys ja hotspot</string>
   <string name="tether_devices_management_title">Hallitse laitteita</string>
   <string name="tether_devices_max_number">Yhdistettyjen laitteiden raja</string>
-  <string name="tether_settings_disabled">Hotspot ei ole käytössä</string>
+  <string name="tether_settings_disabled">Kannettava hotspot pois käytöstä</string>
   <string name="tether_settings_disabled_on_data_saver">Data Saver -toiminnon ollessa päällä, et voi jakaa yhteyttä tai käyttää kannettavaa yhteyspistettä</string>
   <string name="tether_settings_launch_title">Mobile HotSpot</string>
   <string name="tether_settings_title_all">Jaettu yhteys ja kannettava yhteyspiste</string>
@@ -5075,7 +5061,7 @@ Muodosta yhteys toiseen Wi-Fi-verkkoon valitsemalla "&lt;b&gt;Takaisin&lt;/b&gt;
   <string name="wifi_tether_failed_subtext">Kannettavan Wi-Fi-hotspotin virhe</string>
   <string name="wifi_tether_first_use_message">Määritä kannettava Wi-Fi-hotspot ensimmäisellä käyttökerralla</string>
   <string name="wifi_tether_setting_title">Asetukset</string>
-  <string name="wifi_tether_settings_title">Wi-Fi Hotspot</string>
+  <string name="wifi_tether_settings_title">Kannettava hotspot</string>
   <string name="wifi_tether_starting">Otetaan yhteyspiste käyttöön...</string>
   <string name="wifi_tether_stopping">Poistetaan yhteyspiste käytöstä...</string>
   <string name="wifi_type_approval_dialog_title">NTC NO.</string>

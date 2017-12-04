@@ -290,6 +290,7 @@
   <string name="toast_feedbackservice_in_submit">Käsitellään edellistä palautetta…</string>
   <string name="toast_fill_brackets">Raportistasi puuttuu joitain tietoja</string>
   <string name="toast_log_not_exists">Vaadittu lokitiedosto on poistettu tai sitä ei ole olemassa</string>
+  <string name="toast_log_too_large">Ei voi lähettää. Tiedosto on liian suuri.</string>
   <string name="toast_module_required">Valitse kohde</string>
   <string name="toast_network_unavailable">Lähetys epäonnistui. Verkkoyhteyttä ei voi muodostaa.</string>
   <string name="toast_pending_log_collection">Kerätään vieläkin lokeja…</string>
