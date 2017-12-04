@@ -184,7 +184,7 @@
   <string name="encrypt_success">Piilotettu onnistuneesti</string>
   <string name="encrypt_success_first_five">Tiedosto salattiin ja piilotettiin. Näet piilotetut tiedostot vetämällä Tiedostoselaimen aloitussivua alaspäin.</string>
   <string name="encrypting">Salataan…</string>
-  <string name="error_contains_sharer_path">Tiedostoja ei voi salata kansiossa /MIUI/Gallery/cloud/sharer. Siirrä tiedosto toiseen kansioon ja yritä uudelleen</string>
+  <string name="error_contains_sharer_path">Tiedostoja ei voi salata kansiossa /MIUI/Gallery/cloud/sharer. Siirrä tiedosto toiseen kansioon ja yritä uudelleen.</string>
   <string name="error_create_dir">Kansiota ei voitu luoda</string>
   <string name="error_create_file">Tiedostoa ei voitu luoda</string>
   <string name="error_delete_failed">Tiedostoa ei voitu poistaa</string>
@@ -545,7 +545,7 @@
   <string name="search_file_type_music">Musiikki</string>
   <string name="search_file_type_picture">Kuva</string>
   <string name="search_file_type_video">Video</string>
-  <string name="search_guid_hint">Hae tiedostoa</string>
+  <string name="search_guid_hint">Hae tiedostoja</string>
   <string name="search_hint">Haku</string>
   <string name="search_history">Hakuhistoria</string>
   <string name="search_hot_sticker">Tarrat;Lataa tarroja</string>

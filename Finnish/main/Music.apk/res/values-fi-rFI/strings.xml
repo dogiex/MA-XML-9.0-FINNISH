@@ -573,7 +573,7 @@
   <string name="notification_recommend_title">Tärkeät ilmoitukset</string>
   <string name="notification_setting">Ilmoitusasetukset</string>
   <string name="notification_title_no_song">Katso mitä muut kuuntelee!</string>
-  <string name="nowplaying_circle_style">Nyt toistetaan Circle Style</string>
+  <string name="nowplaying_circle_style">Toista ympyrän tyylisesti</string>
   <string name="nowplaying_circle_style_rainbow">Sateenkaari</string>
   <string name="nowplaying_circle_style_wave">Aalto</string>
   <string name="nowplaying_dialog_title_delete_tracks">Tyhjennetäänkö nykyinen soittolista?</string>

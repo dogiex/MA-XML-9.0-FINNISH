@@ -373,9 +373,6 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_skin_beautify_intelligent_title">Älykäs</string>
   <string name="pref_skin_beautify_slim_title">Hoikka</string>
   <string name="pref_skin_beautify_smooth_title">Sileä</string>
-  <string name="pref_video_focusmode_entry_auto">Napauta</string>
-  <string name="pref_video_focusmode_entry_continuous">Jatkuva automaattinen tarkennus (CAF)</string>
-  <string name="pref_video_focusmode_title">Tarkennustila</string>
   <string name="pref_video_quality_title">Videon kuvanlaatu</string>
   <string name="pref_video_speed_entry_fast">Nopea</string>
   <string name="pref_video_speed_entry_normal">Normaali</string>

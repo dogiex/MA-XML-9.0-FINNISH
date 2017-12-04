@@ -483,7 +483,7 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="screenshot_saving_ticker">Tallennetaan kuvakaappausta…</string>
   <string name="screenshot_saving_title">Tallennetaan kuvakaappausta…</string>
   <string name="screenshot_send">Lähetä</string>
-  <string name="search_hint">Hae verkkosivuja, sovelluksia, yhteystietoja, videoita...</string>
+  <string name="search_hint">Hae verkkosivuja, sovelluksia, yhteystietoja ja videoita</string>
   <string name="select_application">Valitse sovellus</string>
   <string name="select_logd_size_dialog_title">Valitse puskurikohtaiset lokikoot</string>
   <string name="select_logd_size_title">Lokipuskurien koot</string>

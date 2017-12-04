@@ -3,6 +3,4 @@
   <string name="app_name">Whetstone</string>
   <string name="permstep_description">Sallii sovelluksen lukea puhelimesi askeltietoja</string>
   <string name="permstep_label">Lue askeleita</string>
-  <string name="whetstone_accessibility_desc">Whetstone avustaja toiminto</string>
-  <string name="whetstone_accessibility_label">Whetstone Avustajapalvelu</string>
 </resources>

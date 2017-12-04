@@ -216,7 +216,7 @@ Aktivoi tilisi seuraamalla
   <string name="passport_copy_message_text_success">Kopioitu onnistuneesti</string>
   <string name="passport_copy_message_vcode">Kopioi koodi</string>
   <string name="passport_delete_account">Kirjaudu ulos</string>
-  <string name="passport_downlink_reg">Luo tili käyttämällä puhelinnumeroa</string>
+  <string name="passport_downlink_reg">Puhelinnumero</string>
   <string name="passport_email">Sähköpostiosoite</string>
   <string name="passport_email_or_id_hint_text">Sähköpostiosoite tai Mi Tilin ID</string>
   <string name="passport_email_reg_success_summary">%1$s on liitetty tiliisi. Voit käyttää sitä sisäänkirjautumiseen tai salasanasi palauttamiseen.</string>

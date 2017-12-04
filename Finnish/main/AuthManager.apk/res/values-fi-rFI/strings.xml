@@ -69,7 +69,7 @@
   <string name="HIPS_Perm_process_nfc">NFC</string>
   <string name="HIPS_Perm_process_nfc_Desc">Pääsy NFC-tiedonsiirto laitteeseen</string>
   <string name="HIPS_Perm_process_outgoing_calls">Pääsy Puhelin-sovellukseen</string>
-  <string name="HIPS_Perm_process_outgoing_calls_Desc">Seuraa ja lopeta puheluita</string>
+  <string name="HIPS_Perm_process_outgoing_calls_Desc">vastaa, monitoroi ja lopeta puheluita</string>
   <string name="HIPS_Perm_read_notification_sms">Palvelutekstiviestit</string>
   <string name="HIPS_Perm_read_notification_sms_Desc">lukea palvelutekstiviestejä</string>
   <string name="HIPS_Perm_service_foreground">service_foreground</string>
@@ -85,12 +85,12 @@
   <string name="Su_Package_Forbidden2">ei ole root-oikeutta.</string>
   <string name="app_name">Käyttölupien hallinta</string>
   <string name="current_permission_template">%1$s/%2$s</string>
-  <string name="default_permission_description">suorita tuntematon toiminto</string>
+  <string name="default_permission_description">suorita tuntemattomia toimintoja</string>
   <string name="grant_dialog_button_allow">Salli</string>
   <string name="grant_dialog_button_deny">Kiellä</string>
-  <string name="location_settings">Sijainnin Asetukset</string>
+  <string name="location_settings">Sijaintiasetukset</string>
   <string name="location_warning">%1$s on sijaintipalveluiden tarjoaja tälle laitteelle. Sijainnin pääsyä voi muokata sijainnin asetuksista.</string>
-  <string name="never_ask_again">Älä kysy ikinä</string>
+  <string name="never_ask_again">Älä kysy uudelleen</string>
   <string name="ok">OK</string>
   <string name="permission_group_title_charges_related">Maksut</string>
   <string name="permission_group_title_media_related">Multimedia</string>
@@ -100,6 +100,6 @@
   <string name="permission_warning_template_ask">Sallitaanko %1$s seuraavat käyttöoikeudet?</string>
   <string name="permisson_reject_notice_toast_text2">ei ole käyttöoikeutta %1$s.</string>
   <string name="screen_overlay_button">Avaa asetukset</string>
-  <string name="screen_overlay_message">Vaihtaaksesi tämän käyttöluvan, poista ensin näytön peittokuva käytöstä asetuksista Asetukset &gt; Sovellukset</string>
+  <string name="screen_overlay_message">Vaihtaaksesi tämän käyttöoikeuden, poista näytön peittokuva käytöstä Asetukset &gt; Sovellukset.</string>
   <string name="screen_overlay_title">Näytön peittokuva tunnistettu</string>
 </resources>

@@ -883,7 +883,7 @@
   <string name="keywords_auto_restart">Käynnistys;Käyttöoikeudet;Käynnistä automaattisesti;Automaattikäynnistys;Hallitse käynnistystä;MIUI käynnistys;Sovelluksen käynnistys;käynnistä sovellus automaattisesti;Ketjumainen käynnistys;Ketjuttainen käynnistys;käynnistä</string>
   <string name="keywords_buy_flow">data;mobiilidata;osta dataa;osta mobiilidataa;topup dataa;datapaketti</string>
   <string name="keywords_cleanmaster">Roska;Puhdista;Nopeuta;Tallennustila;Välimuisti;Tyhjennä tallennustila;tyhjennä roska;roska;lisää;lisää talennustilaa;lisää tilaa;puhdista;syväpuhdista;puhdistaja</string>
-  <string name="keywords_gamebooster">Peli;nopeuden parantaja;Suorituskykytila;Älä häiritse</string>
+  <string name="keywords_gamebooster">Peli;nopeuden parantaja;Suorituskykytila;Älä häiritse;Pelit;Pelaaminen;Pelin nopeus;paranna</string>
   <string name="keywords_networkassistant_1">Data;Liikenne</string>
   <string name="keywords_networkassistant_2">Data;Kalibroi</string>
   <string name="keywords_networkassistant_4">Yhteys;Internet;Testi</string>
@@ -1867,7 +1867,7 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="summary_cleaner_cloudscan">Lähetä ja vertaa kansioiden nimiä verkkotunnisteisiin</string>
   <string name="summary_cloud_account">Ota kaikki irti Mi laitteestasi</string>
   <string name="summary_cloud_service">Synkronoi kuvasi, yhteystietosi ja muuta kaikkien laitteidesi kesken</string>
-  <string name="summary_cloud_space_almost_full">Hanki lisää tallennustilaa</string>
+  <string name="summary_cloud_space_almost_full">Hanki tallennustilaa</string>
   <string name="summary_cloud_space_full">Hanki lisää tallennustilaa ja pääse käsiksi lisätoimintoihin</string>
   <string name="summary_cmcc_app_check">Joitakin sovelluksia ei voitu vahvistaa</string>
   <string name="summary_consume_power">Lämpenemisen ongelmia löytyi, ne voivat vaikuttaa akun elinikään</string>
