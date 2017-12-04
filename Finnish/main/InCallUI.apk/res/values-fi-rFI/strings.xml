@@ -203,7 +203,7 @@
   <string name="onscreen_add_call_text">Lisää puhelu</string>
   <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
   <string name="onscreen_audio_mode_conference">Konferenssi</string>
-  <string name="onscreen_audio_mode_handset">Hands-free</string>
+  <string name="onscreen_audio_mode_handset">Korvakuuloke</string>
   <string name="onscreen_audio_mode_headset">Kuulokkeet</string>
   <string name="onscreen_audio_mode_speaker">Kaiutin</string>
   <string name="onscreen_audio_switch_mode">Vaihda ääntä</string>

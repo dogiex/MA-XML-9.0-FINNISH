@@ -20,6 +20,7 @@
   <string name="auto_start_warning_allow">Salli</string>
   <string name="auto_start_warning_deny">Kiellä</string>
   <string name="auto_start_warning_title">Sallitaanko %s käynnistyä automaattisesti?</string>
+  <string name="autofill">Automaattinen täyttö</string>
   <string name="button_text_cancel">Peruuta</string>
   <string name="button_text_delete">Poista asennus</string>
   <string name="button_text_delete_timer">Poista asennus (%d)</string>

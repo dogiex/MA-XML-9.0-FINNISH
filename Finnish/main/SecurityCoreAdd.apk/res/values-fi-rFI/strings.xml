@@ -176,7 +176,9 @@ Tai et välttämättä voi siirtyä Toiseen tilaan Lukitusnäytöltä."</string>
   <string name="private_space_setting">Hallitse</string>
   <string name="public_app">Molemmat tilat</string>
   <string name="removeSuccess">Poistettiin onnistuneesti</string>
-  <string name="remove_second_space_msg">Kaikki Toisen tilan sovellusdata menetetään Toisen tilan poistamisen jälkeen. Poistetaanko Toinen tila nyt?</string>
+  <string name="remove_second_space_msg">Kaikki Toisen tilan sovellustiedot menetetään Toisen tilan poistamisen jälkeen. Poistetaanko Toinen tila nyt?</string>
+  <string name="remove_user_click_message">*Jos sinulla ei ole mitään tärkeitä kohteita Toisessa tilassa, %s</string>
+  <string name="remove_user_click_message_action">voit poistaa Toisen tilan ja käynnistää laitteesi uudelleen nyt.</string>
   <string name="removingSpace">Poistetaan…</string>
   <string name="repeat_scanner_fingerprint">Lisää uudelleen</string>
   <string name="reset_passwd_success">Salasana palautettiin onnistuneesti</string>
@@ -197,7 +199,14 @@ siirtyäksesi Toiseen tilaan Lukitusnäytöltä"</string>
   <string name="scanner_fingerprint_tips_desc">Valitse olemassa oleva sormenjälki siirtyäksesi Toiseen tilaan. Et voi käyttää sitä Ensimmäisessä tilassa.</string>
   <string name="scanner_fingerprint_tips_title">Siirry Toiseen tilaan käyttämällä olemassa olevaa sormenjälkeä</string>
   <string name="scanner_second_space_fingerprint">Skannaa Toisen tilan sormenjälki</string>
-  <string name="sdcardfs_dialog_message">Vanhat tiedot voivat olla yhteensopimattomia uuden tiedostojärjestelmän kanssa. Optimoi tiedot ennen siirtymistä Toiseen tilaan ja käynnistä laitteesi uudelleen.</string>
+  <string name="sdcardfs_dialog_message">MIUI 9:ssä on uusi tiedostojärjestelmä. Vanhat tiedot saattaa olla yhteensopimattomia sen kanssa. Ratkaistaksesi tämän ongelman, seuraa seuraavia askeleita asentaaksesi päivityksen. Laitteesi käynnistyy uudelleen kaksi kertaa tämän päivityksen aikana.</string>
+  <string name="sdcardfs_dialog_title">Tärkeä päivitys</string>
+  <string name="sdcradfs_dialog_in_owner_message">"MIUI 9:ssä on uusi tiedostojärjestelmä. Vanhat tiedot saattaa olla yhteensopimattomia sen kanssa. Päivittääksesi, siirrä kohteet Toisesta tilasta pois, käynnistä laitteesi uudelleen ja luo Toinen tila uudelleen.
+Jos et suorita päivitystä, kloonatut sovellukset ei välttämättä myöskään toimi oikein."</string>
+  <string name="sdcradfs_dialog_in_owner_title">Toinen tila</string>
+  <string name="sdcradfs_dialog_in_sec_message">"Päivittääksesi, sinun pitäisi poistaa Toinen tila ja sen jälkeen luoda se uudelleen. Siirrä tiedot Toisesta tilasta Ensimmäiseen tilaan, käynnistä laitteesi uudelleen suorittaaksesi päivityksen loppuun.
+Jos et suorita päivitystä, kloonatut sovellukset ei välttämättä myöskään toimi oikein."</string>
+  <string name="sdcradfs_dialog_in_sec_title">Tärkeä päivitys</string>
   <string name="search_input_txt_na">%s</string>
   <string name="search_result_text">Yhtään sovellusta ei löytynyt</string>
   <string name="secondSpace">Toinen tila</string>
@@ -242,6 +251,7 @@ siirtyäksesi Toiseen tilaan Lukitusnäytöltä"</string>
   <string name="show_private_msg_summary">Näytä yksityiset viestit Toisessa tilassa</string>
   <string name="skip">Ohita</string>
   <string name="spaceSetting">Asetukset</string>
+  <string name="space_created_success">Luotiin Toinen tila onnistuneesti</string>
   <string name="space_deleted">Tämä tila poistettiin</string>
   <string name="space_des_default">Eristetty tila tietojen salauksella</string>
   <string name="space_finger_sub_text">Aseta Toisen tilan sormenjälki vaihtaaksesi tilaan nopeammin</string>

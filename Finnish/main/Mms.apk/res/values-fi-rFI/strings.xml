@@ -381,7 +381,7 @@
   <string name="pref_hide_verification_code_summary">Piilota viesti-ilmoitukset lukitusnäytöltä, jotka sisältää kertakäyttösalasanoja</string>
   <string name="pref_messages_to_save">Aseta tallennettavien viestien määrä</string>
   <string name="pref_mms_settings_title">Multimediaviestit (MMS)</string>
-  <string name="pref_msg_trash_bin_title">Tekstiviestien roskakori</string>
+  <string name="pref_msg_trash_bin_title">Poistetut viestit</string>
   <string name="pref_notification_settings_title">Ilmoitukset</string>
   <string name="pref_other_title">Lisäasetukset</string>
   <string name="pref_show_blocked_messages_summary">Näytä estetyt tekstiviestit keskustelulistalla</string>
