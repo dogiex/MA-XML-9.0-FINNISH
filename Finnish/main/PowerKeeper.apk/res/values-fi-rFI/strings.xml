@@ -16,7 +16,7 @@
   <string name="alter_message_switch_mode_message">Kun vaihdat tiloja, edelliset asetukset eivät enää ole voimassa tälle sovellukselle.</string>
   <string name="app_invisible_title">Näkymättömät sovellukset</string>
   <string name="app_list_title">Valitse sovellukset</string>
-  <string name="app_name">Virransäästö</string>
+  <string name="app_name">Akku ja Suorituskyky</string>
   <string name="background">Sovellus on käynnissä taustalla</string>
   <string name="base_info">Perustiedot</string>
   <string name="cloud_addr_info">Pilven tiedot</string>
