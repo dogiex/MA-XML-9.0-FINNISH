@@ -900,7 +900,7 @@
   <string name="last_check_canceled">Edellinen skannaus peruutettiin</string>
   <string name="later">稍后处理</string>
   <string name="left_precent">60%</string>
-  <string name="legal_workday">Juhlapyhä</string>
+  <string name="legal_workday">Lailliset työpäivät</string>
   <string name="legal_workday_invalidate">Ma-Pe (juhlapyhän tiedot vanhentunut)</string>
   <string name="legal_workday_invalidate_message">Päivitä julkisten juhlapyhien tiedot napauttamalla.</string>
   <string name="legal_workday_message">(Ohita juhlapyhät)</string>

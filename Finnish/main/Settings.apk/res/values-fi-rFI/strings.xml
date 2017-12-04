@@ -1618,6 +1618,7 @@ Tämä auttaa suojaamaan kadotettujen tai varastettujen laitteiden tietoja."</st
   <string name="fingerprint_manage_tittle">Sormenjälki</string>
   <string name="fingerprint_not_identified_msg">Sormenjäljen luku epäonnistui. Syötä salasana.</string>
   <string name="fingerprint_not_recognized">Ei tunnistettu</string>
+  <string name="fingerprint_payment">Sormenjälki maksut</string>
   <string name="fingerprint_removal_failed">Sormenjälkeä ei voitu poistaa, yritä myöhemmin uudelleen</string>
   <string name="fingerprint_unlock_set_unlock_password">Sormenjälki ja salasana</string>
   <string name="fingerprint_unlock_set_unlock_pattern">Sormenjälki ja kuvio</string>

@@ -848,6 +848,7 @@ Ota ystävistäsi lisää kuvia!"</string>
 %s
  toimiakseen normaalisti, mene Käyttöoikeuksiin napauttamalla \"Aseta\"."</string>
   <string name="grant_permission_title">Salli pääsy</string>
+  <string name="grant_permission_unlock_and_set">Avaa ja aseta</string>
   <string name="has_invalid_recipient">Virheelliset vastaanottajat: %1$s</string>
   <string name="have_known">Selvä</string>
   <string name="hidden_album_display_name">Piilotettu albumi</string>
@@ -1175,9 +1176,12 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="search_feedback_false_positive_title">Näyttää siltä, että nämä ovat \"%s\"</string>
   <string name="search_feedback_likely_check_title">Tarkista</string>
   <string name="search_feedback_likely_title">Näyttää siltä, että näillä kuvilla saattaa olla \"%s\"</string>
-  <string name="search_feedback_task_finish_title">Vastaanota palkinto napauttamalla!</string>
+  <string name="search_feedback_task_complete">Kaikki tehtävät ovat suoritettu</string>
+  <string name="search_feedback_task_progress">Tehtävät %1$d/%2$d</string>
   <string name="search_feedback_task_request_award_failed">Palkintoa ei voitu vastaanottaa. Yritä myöhemmin uudelleen.</string>
   <string name="search_feedback_task_requesting_award">Vastaanotetaan palkintoa…</string>
+  <string name="search_feedback_user_notice">Olen lukenut ja hyväksyn %s.</string>
+  <string name="search_feedback_user_policy">MIUI Gallerian AI-algoritmiohjelman Tietosuojakäytäntö</string>
   <string name="search_hint">Hae kuvia</string>
   <string name="search_image_result_title">Hakutulokset</string>
   <string name="search_login_now">Kirjaudu sisään</string>
@@ -1330,6 +1334,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="tip_not_download">Ei laitteessa. Se ladataan Mi Pilvestä toiston aikana.</string>
   <string name="tip_screenshot_package_info">Sovelluksen nimi:</string>
   <string name="title_set_name">Syötä nimi</string>
+  <string name="title_tip">Vihje</string>
   <string name="title_warn">Varoitus</string>
   <string name="to_count">%d yhteensä</string>
   <string name="to_enable_gallery_sync_dialog_message">Ota Gallerian synkronointi ensin käyttöön</string>

@@ -18,6 +18,6 @@
     <string-array name="choose_ask_type">
         <item>Kysy aina</item>
         <item>Oletussovellus</item>
-        <item>Toissijainen sovellus</item>
+        <item>Kloonattu sovellus</item>
     </string-array>
 </resources>
