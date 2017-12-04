@@ -1177,7 +1177,6 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="search_feedback_likely_check_title">Tarkista</string>
   <string name="search_feedback_likely_title">Näyttää siltä, että näillä kuvilla saattaa olla \"%s\"</string>
   <string name="search_feedback_task_complete">Kaikki tehtävät ovat suoritettu</string>
-  <string name="search_feedback_task_progress">Tehtävät %1$d/%2$d</string>
   <string name="search_feedback_task_request_award_failed">Palkintoa ei voitu vastaanottaa. Yritä myöhemmin uudelleen.</string>
   <string name="search_feedback_task_requesting_award">Vastaanotetaan palkintoa…</string>
   <string name="search_feedback_user_notice">Olen lukenut ja hyväksyn %s.</string>
