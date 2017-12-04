@@ -83,7 +83,9 @@
   <string name="daily_forcast_no_wind">0</string>
   <string name="daily_forcast_no_wind_miles">&lt;19.3mph</string>
   <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
-  <string name="daily_forcast_weather_transfer">%1$s. %2$s later.</string>
+  <string name="daily_forcast_temperature_transfer_C">%1$s / %2$s℃</string>
+  <string name="daily_forcast_temperature_transfer_F">%1$s / %2$s℉</string>
+  <string name="daily_forcast_weather_transfer">%1$s. %2$s myöhemmin.</string>
   <string name="daily_forcast_whirl_wind">Pyörremyrsky</string>
   <string name="daily_forcast_wind_connect">%2$s %1$s</string>
   <string name="daily_forecast_detail">Ennusteen tiedot</string>
@@ -185,9 +187,13 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="precipitation_degree_three">Kohtalainen</string>
   <string name="precipitation_degree_two">Kevyt</string>
   <string name="pressure_connect">%1$s mb</string>
+  <string name="pull_fresh_updated">Päivitettiin onnistuneesti</string>
+  <string name="pull_fresh_updating">Päivitetään</string>
   <string name="radar_cloud_image_title">Tutkakartta</string>
   <string name="rainfall_settings_summary">Sademäärän hälytykset</string>
   <string name="rainfall_settings_title">Sademäärä</string>
+  <string name="real_time_sunrise">Auringonnousu %1$s</string>
+  <string name="real_time_sunset">Auringonlasku %1$s</string>
   <string name="realtime_aqi_title">Ilmanlaatuindeksi</string>
   <string name="realtime_humidity_title">Suhteellinen kosteus</string>
   <string name="realtime_temperature_no_data">N/A</string>
@@ -215,7 +221,8 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="some_where_on_earth">Jossain maapallolla</string>
   <string name="sunrise">Auringonnousu</string>
   <string name="sunset">Auringonlasku</string>
-  <string name="temperature_unit">%1$s°</string>
+  <string name="temperature_unit_C">%1$s℃</string>
+  <string name="temperature_unit_F">%1$s℉</string>
   <string name="title_share_link">Jaa URL-osoite</string>
   <string name="top_pollution_co">CO</string>
   <string name="top_pollution_no2">NO2</string>
@@ -233,6 +240,8 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="update_night_setting_summary_text">Päivitä säätiedot klo 23.00 ja 07.00 välisenä aikana</string>
   <string name="update_night_setting_title_text">Päivitä yöllä automaattisesti</string>
   <string name="update_setting_title_text">Päivitä säätiedot</string>
+  <string name="updated_a_moment_ago">Päivitetty hetki sitten</string>
+  <string name="updating">Päivitetään..</string>
   <string name="view_forecast_item_yesterday">Eilen</string>
   <string name="view_indexes_item_today">Tänään</string>
   <string name="view_indexes_item_tommorrow">Huomenna</string>

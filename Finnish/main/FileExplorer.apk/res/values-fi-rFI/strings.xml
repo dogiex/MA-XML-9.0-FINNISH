@@ -550,7 +550,7 @@
   <string name="search_history">Hakuhistoria</string>
   <string name="search_hot_sticker">Tarrat;Lataa tarroja</string>
   <string name="search_hot_video">Suositut videot;Lähetä videoita;Lähetä video;Lyhyt video;Lyhyitä videoita;Pieni video;Pieniä videoita</string>
-  <string name="search_keyword">Tägit</string>
+  <string name="search_keyword">Tunnisteet</string>
   <string name="search_kuai_chuan">Mi Drop;Siirrä</string>
   <string name="search_popup_tip">Voit etsiä henkilöitä tai otsikoita</string>
   <string name="search_recent_file">Tiedostoselain;Resurssienhallinta;Tiedosto;Tiedostot;Hallitse tiedostoja;Tiedostojen hallinta</string>
@@ -787,7 +787,7 @@
   <string name="video_play_failed">Tuntematon virhe</string>
   <string name="video_publish_hint">Hyvä kuvaus auttaa ihmisiä löytämään videosi</string>
   <string name="video_publish_hint2">Kuvaus</string>
-  <string name="video_publish_origin_tag">Alkuperäinen tägi</string>
+  <string name="video_publish_origin_tag">Alkuperäinen tunniste</string>
   <string name="video_publish_watchable_limit">Voit tehdä tämän kaksi kertaa joka päivä</string>
   <string name="video_publish_watchable_tag">Katso tämä video seuraamalla minua</string>
   <string name="video_replay_btn">重播</string>

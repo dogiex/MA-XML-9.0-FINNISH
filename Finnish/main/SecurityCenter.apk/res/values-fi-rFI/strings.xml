@@ -356,6 +356,7 @@
   <string name="auto_task_operation_vibration">Värinä</string>
   <string name="auto_task_operation_wifi">Wi-Fi</string>
   <string name="back_app_name">Siirry takaisin Sovelluslukkoon</string>
+  <string name="back_description_securitycenter">Takaisin</string>
   <string name="back_modifypassword">Siirry takaisin salasanan vaihtoon</string>
   <string name="background_restrict_app_dialog_message">Rajoittamalla tämän sovelluksen verkon käyttöä taustalla saattaa vaikuttaa sen toimintaan toimia normaalisti, vastaanottaa viestejä, ladata sisältöä jne. Rajoitetaanko siitä huolimatta?</string>
   <string name="background_traffic">Tausta %s</string>

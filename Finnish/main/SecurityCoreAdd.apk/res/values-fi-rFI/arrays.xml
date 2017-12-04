@@ -15,4 +15,9 @@
         <item>Sovellusdata menetetään, kun sovelluksia siirretään nykyiseen tilaan.</item>
         <item>Sovelluksia käytetään molemmissa tiloissa.</item>
     </string-array>
+    <string-array name="choose_ask_type">
+        <item>Kysy aina</item>
+        <item>Oletussovellus</item>
+        <item>Toissijainen sovellus</item>
+    </string-array>
 </resources>

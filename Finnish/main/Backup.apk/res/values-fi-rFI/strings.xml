@@ -123,6 +123,7 @@ https://appleid.apple.com/#!&amp;page=signin poistaaksesi käytöstä"</string>
   <string name="err_unknown">Tuntematon virhe</string>
   <string name="err_version_too_old">Varmuuskopion tiedosto on liian vanha.</string>
   <string name="err_version_unsupported">Varmuuskopion versio ei ole tuettu.</string>
+  <string name="error_permissions">Kalenterin luku- ja kirjoitusoikeus puuttuu, tarkista käyttöoikeudet Asetuksissa</string>
   <string name="every_day">Joka päivä</string>
   <string name="exchange_account">Vaihda tilejä</string>
   <string name="fail">Epäonnistui</string>
@@ -157,7 +158,7 @@ https://appleid.apple.com/#!&amp;page=signin poistaaksesi käytöstä"</string>
   <string name="hsa_verify_shutdown">Poista käytöstä</string>
   <string name="icloud_backup_tip">Kirjaudu vanhan iOS laitteesi iCloud -tiliin</string>
   <string name="icloud_how_to_backup_tip_steps">"1. Avaa Asetukset vanhalla iOS laitteellasi ja valitse iCloud.
-2. Laita Yhteystietojen valintakytkin päälle.
+2. Laita Yhteystietojen yms. valintakytkin päälle.
 3. Valitse Kuvat ja laita iCloud Photo Library valintakytkin päälle."</string>
   <string name="icloud_how_to_backup_tip_summary">Tuodaksesi tietoja iOS -laitteelta, sinun täytyy luoda iCloud -varmuuskopio.</string>
   <string name="icloud_how_to_backup_tip_title">Vinkit:</string>
@@ -174,7 +175,7 @@ http://www.miliao.com
 2. Mene Mi Talk Asetuksiin ja valitse ”Varmuuskopioi yhteystiedot Mi Tilille”"</string>
   <string name="import_from_xiaomi_account_hint2">Jos sinulla on jo varmuuskopio, paina Seuraava.</string>
   <string name="import_from_xiaomi_account_hint_title">Käytä Mi Talk -sovellusta varmuuskopioidaksesi yhteystiedot laitteistasi.</string>
-  <string name="import_tip_summary">Yhteensopivuusongelmien takia, voit siirtää vain yhteystiedot ja valokuvat iOS -laitteilta. Varmista, että olet luonut iCloud -varmuuskopion ennen siirron aloittamista.</string>
+  <string name="import_tip_summary">Yhteensopivuusongelmien takia, voit siirtää vain osittaisia tietoja iOS -laitteilta. Varmista, että olet luonut iCloud -varmuuskopion ennen siirron aloittamista.</string>
   <string name="import_tip_title">Vinkit:</string>
   <string name="loading_data">Ladataan tietoja</string>
   <string name="local_app_name">Varmuuskopiointi</string>
@@ -286,8 +287,10 @@ Vapauta vähintään %s."</string>
   <string name="select_all">Valitse kaikki</string>
   <string name="select_backup_item">Valitse kohteet</string>
   <string name="select_empty">Valitse tuotavat kohteet</string>
+  <string name="select_item_calendar">Kalenteri</string>
   <string name="select_item_contacts">Yhteystiedot</string>
-  <string name="select_item_empty_summary">Ei kohteita</string>
+  <string name="select_item_empty_summary">Ei sisältöä</string>
+  <string name="select_item_notes">Muistiot</string>
   <string name="select_item_photos">Kuvat</string>
   <string name="select_item_summary_loading">Ladataan tietoja…</string>
   <string name="select_item_summary_wait">Odotetaan…</string>
