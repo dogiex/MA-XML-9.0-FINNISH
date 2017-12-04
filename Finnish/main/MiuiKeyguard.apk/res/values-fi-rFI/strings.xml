@@ -94,6 +94,10 @@
   <string name="keyguard_charging_info_tip_text4">Älä käytä laitettasi aktiivisesti lataamisen aikana, jotta vältät ylikuumentumisen.</string>
   <string name="keyguard_charging_info_tip_text5">Akut latautuvat kauemmin, kun ne kuumenevat normaalia enemmän.</string>
   <string name="keyguard_charging_info_tip_text6">Viilennä laite sammuttamalla näyttö ja laittamalla laite pois käsistä.</string>
+  <string name="keyguard_left_bankcard">Laskin</string>
+  <string name="keyguard_left_buscard">Muistiot</string>
+  <string name="keyguard_left_remotecentral">Kalenteri</string>
+  <string name="keyguard_left_smarthome">Yhteystiedot</string>
   <string name="keyguard_quick_charging_info_click_to_detail">Pikalataus. Näytä tiedot napauttamalla.</string>
   <string name="keyguard_quickly_charging_info_charging_text">Pikalataus…</string>
   <string name="keyguard_torch_cover_text">Pidä taskulamppu päällä pitämällä Virtapainiketta pohjassa</string>

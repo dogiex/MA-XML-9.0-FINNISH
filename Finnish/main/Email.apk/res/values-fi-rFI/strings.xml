@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="SMTP_independent_verification_text">SMTP independent verification</string>
+  <string name="SMTP_independent_verification_text">SMTP-riippumaton vahvistus</string>
   <string name="SMTP_password_text">Salasana</string>
   <string name="SMTP_username_text">Käyttäjänimi</string>
   <string name="accessibility_guide_first">Seuraavalla näytöllä valitse \"Palvelut\" välilehti aktivoidaksesi 139 Postilaatikon Automaattinen Määritys</string>
@@ -37,7 +37,7 @@
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">%s kirjautuminen epäonnistui. Palvelin ilmoittaa virheestä: %s</string>
   <string name="account_settings_login_dialog_title">Kirjautuminen ei onnistu</string>
   <string name="account_settings_mail_check_frequency_dialog_title">Sinun täytyy päivittää Sähköposti manuaalisesti synkronoidaksesi sähköpostisi</string>
-  <string name="account_settings_mail_check_frequency_dialog_title_eas">Kun vaihdat manuaaliseen, sinun täytyy manuaalisesti päivittää synkronoidaksesi viestit ja kalenterin</string>
+  <string name="account_settings_mail_check_frequency_dialog_title_eas">Sinun täytyy synkronoida Sähköposti manuaalisesti synkronoidaksesi viestit ja kalenteritapahtumat.</string>
   <string name="account_settings_mail_check_frequency_label">Synkronoinnin tiheys</string>
   <string name="account_settings_mibill_resolve_label">Hallitse laskut automaattisesti</string>
   <string name="account_settings_name_label">Oma nimi</string>
@@ -77,8 +77,8 @@
   <string name="account_setup_basics_mi_mail_login_help">Sinun on ehkä vahvistettava tilisi tekstiviestillä vastaanottaaksesi sähköposteja</string>
   <string name="account_setup_basics_password_label">Syötä salasana</string>
   <string name="account_setup_basics_title">Tilin asetukset</string>
-  <string name="account_setup_check_settings_check_incoming_msg">Vahvistetaan palvelimen asetuksia...</string>
-  <string name="account_setup_check_settings_check_outgoing_msg">Vahvistetaan SMTP-asetuksia...</string>
+  <string name="account_setup_check_settings_check_incoming_msg">Vahvistetaan palvelimen asetuksia…</string>
+  <string name="account_setup_check_settings_check_outgoing_msg">Vahvistetaan SMTP-asetuksia…</string>
   <string name="account_setup_check_settings_retr_info_msg">Noudetaan tilin tietoja…</string>
   <string name="account_setup_correct_address_tips">Syötä sähköpostiosoite</string>
   <string name="account_setup_creating_account_msg">"    Luodaan tiliä…"</string>
@@ -227,7 +227,7 @@
   <string name="auto_remind_unbind">Lopeta</string>
   <string name="auto_sync_off">Automaattinen synkronointi ei ole käytössä.</string>
   <string name="automatic_remind_text">Muistuta automaattisesti</string>
-  <string name="back">takaisin</string>
+  <string name="back">Takaisin</string>
   <string name="bank_card_detail">Luottokortin tiedot</string>
   <string name="battery_saver">Virransäästö</string>
   <string name="battery_saver_keywords">Virransäästö;sähköposti akku</string>
@@ -417,7 +417,7 @@
   <string name="email_setting">Sähköpostiasetukset</string>
   <string name="email_setting_keywords">Tilit;Lisää tili;sähköposti tilit;lisää sähköposti tili;vahvista ennen poistamista;poista vahvista;vahvista ennen lähettämistä;lähetä vahvista;poista viesti ketju;poista uudelleenohjaa;keskustelu näkymä;sähköposti keskustelu;Virransäästö;sähköposti akku;lähetä palaute;lähetä lokit</string>
   <string name="email_sina">Sina Sähköposti</string>
-  <string name="eml_parse_message">Ratkaistaan eml-tiedostoja hitaasti, odota hetki…</string>
+  <string name="eml_parse_message">Avataan EML-tiedostoa…</string>
   <string name="empty_account_tip">Tiliä ei löytynyt</string>
   <string name="empty_email_tip">Tyhjää viesti ei voi lähettää</string>
   <string name="empty_spam">Tyhjennä roskaposti</string>
@@ -437,7 +437,7 @@
   <string name="expand_recipient_details">Laajenna saajan tiedot</string>
   <string name="fail_get_email_message">Viestin haku epäonnistui.</string>
   <string name="failed">Kuvan lataus epäonnistui</string>
-  <string name="failed_parse_eml_file">Sähköpostiasetus epäonnistui, yritä uudelleen</string>
+  <string name="failed_parse_eml_file">EML-tiedostoa ei voitu avata, yritä uudelleen.</string>
   <string name="failed_read_phone_state_permission">Salli pääsy laitteen tilaan</string>
   <string name="failed_read_write_calendar_permission">Salli pääsy Kalenteriin</string>
   <string name="failed_read_write_contacts_permission">Salli pääsy Yhteystietoihin</string>
@@ -532,7 +532,7 @@
   <string name="help_config">Määritä itse</string>
   <string name="hide_atts_remaining">Piilota %1$d liitetiedostoa</string>
   <string name="hide_elided">▼ Piilota lainattu teksti</string>
-  <string name="hide_password">piilota salasana</string>
+  <string name="hide_password">Piilota salasana</string>
   <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
   <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
   <string name="hierarchical_folder_top">%1$s∕</string>
@@ -678,7 +678,7 @@
   <string name="move_to_selection_dialog_title">Siirrä kohteeseen</string>
   <string name="multiple_new_message_notification_item"><b>%1$s</b> %2$s</string>
   <string name="mute">Ohita</string>
-  <string name="navigation_menu">navigointivalikko</string>
+  <string name="navigation_menu">Navigointivalikko</string>
   <string name="network_error">Ei yhteyttä</string>
   <string name="network_invaild">Verkkoon ei voi yhdistää</string>
   <string name="network_not_available">Verkkoyhteyttä ei voi muodostaa</string>
@@ -976,7 +976,8 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="security_notification_content_update_title">Suojauspäivitys tarvitaan</string>
   <string name="security_unsupported_ticker_fmt">Tiliä %s ei voi synkronoida suojausvaatimusten vuoksi.</string>
   <string name="select_attachment_type">Valitse liitetiedoston tyyppi</string>
-  <string name="select_no_file">Ei liitetiedostoja valittuna</string>
+  <string name="select_no_file">Liitetiedostoja ei ole valittu</string>
+  <string name="select_path">Valitse polku</string>
   <string name="send">Lähetä</string>
   <string name="send_failed">Viestiä ei lähetetty.</string>
   <string name="send_feed_back">Lähetä palaute</string>
@@ -989,8 +990,8 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="sending_message">Lähetetään viestiä…</string>
   <string name="sending_quick_reply">Lähetetään \"%s\"</string>
   <string name="sent_folder_selection_title">Valitse lähet. kansio tilille %s</string>
-  <string name="ser_resp_err_map_certificate_validator_err">"Couldn't validate server certificate
-\u0009 (Make sure'Auto sync time' is turned on in Settings)"</string>
+  <string name="ser_resp_err_map_certificate_validator_err">"Palvelinvarmennetta ei voitu vahvistaa
+\u0009 (Varmista, että 'Ajan automaattinen synkronointi' on otettu käyttöön Asetuksista)"</string>
   <string name="ser_resp_err_map_landing_more_failure">Liian monta virheellistä kirjautumisyritystä</string>
   <string name="ser_resp_err_map_landing_too_frequently">Liian monta kirjautusmisyritystä</string>
   <string name="ser_resp_err_map_mailbox_locked">Sähköpostitili on suojattu salasanalla</string>
@@ -1010,7 +1011,7 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="shortcut_name_title">Nimeä kansion pikakuvake</string>
   <string name="show_elided">Näytä lainattu teksti</string>
   <string name="show_images">Lataa ja näytä kuvat</string>
-  <string name="show_password">näytä salasana</string>
+  <string name="show_password">Näytä salasana</string>
   <string name="signature">"
 
 
@@ -1133,7 +1134,7 @@ Kosketa "&lt;b&gt;Synkronoi nyt&lt;/b&gt; synkronoidaksesi sähköpostin kerran,
   <string name="wipe_account_fail_title">Henkilökohtaista tietoa ei voitu poistaa</string>
   <string name="wrong_password">Salasana, jonka syötit on väärin</string>
   <string name="yes">Kyllä</string>
-  <string name="you_are_in_mobile_network">Lähetetäänkö lokitiedosto käyttäen mobiilidatayhteyttä? Jos ylität datankäyttörajan, operaattorisi saattaa veloittaa siitä lisämaksua.</string>
+  <string name="you_are_in_mobile_network">Käytetäänkö mobiilidataa lokitietojen lähettämiseen?</string>
   <string name="youfuli">Tarjous</string>
   <string name="zip_viewer_no_file">Ei tiedostoja.</string>
 </resources>
