@@ -412,8 +412,8 @@
   <string name="cell_bc_sms_enable">Cell Broadcast -tekstiviestit käytössä</string>
   <string name="cell_broadcast_settings">Hätätilalähetykset</string>
   <string name="cell_broadcast_sms">Cell Broadcast -tekstiviesti</string>
-  <string name="cf_setting_mobile_data_alert">Please turn on mobile data and make sure that WLAN is off</string>
-  <string name="cf_setting_mobile_data_roaming_alert">Please turn on data roaming</string>
+  <string name="cf_setting_mobile_data_alert">Ota mobiilidata käyttöön ja varmista, että Wi-Fi on pois käytöstä</string>
+  <string name="cf_setting_mobile_data_roaming_alert">Ota datan verkkovierailu käyttöön</string>
   <string name="cfb_title">Siirrä kun varattuna</string>
   <string name="cfnrc_title">Siirrä kun ei saatavilla</string>
   <string name="cfnrc_title_cta">Siirrä kun ei saatavilla</string>
@@ -607,7 +607,7 @@
   <string name="duration_enable_summary">Keston näyttäminen on käytössä</string>
   <string name="ecm_exit_dialog">EcmExitDialog</string>
   <string name="edit_fdn_contact">Muokkaa sallittua numeroa</string>
-  <string name="emergencyDialerIconLabel">Hätäpuhelut</string>
+  <string name="emergencyDialerIconLabel">Hätäpuhelu</string>
   <string name="emergency_action_launch_hint">Avaa koskettamalla uudelleen.</string>
   <string name="emergency_broadcast_disable">Hätäpuheluiden lähettäminen pois käytöstä</string>
   <string name="emergency_broadcast_enable">Hätäpuheluiden lähettäminen käytössä</string>
@@ -667,7 +667,7 @@
   <string name="enhanced_4g_lte_mode_on_failed">VoLTEa ei voitu ottaa käyttöön.</string>
   <string name="enhanced_4g_lte_mode_summary">Käytä LTE-palveluita puheviestinnän ja muiden viestintätapojen parantamiseen (suositeltu)</string>
   <string name="enhanced_4g_lte_mode_title">Enhanced 4G LTE -tila</string>
-  <string name="enhanced_4g_lte_mode_title_variant">Puhelujen lisävaihtoehdot</string>
+  <string name="enhanced_4g_lte_mode_title_variant">Puheluiden lisävaihtoehdot</string>
   <string name="enter_callbarring_password">Syötä puheluneston salasana (4 numeroa)</string>
   <string name="enter_input" formatted="false">USSD-viestin pituuden täytyy olla %d–%d merkkiä. Yritä uudelleen.</string>
   <string name="enter_pin2_text">PIN2</string>
@@ -715,7 +715,7 @@ Ota yhteyttä operaattoriin, jos ongelma jatkuu."</string>
 Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="general_news_settings">Yleiset uutiset</string>
   <string name="general_setting">Asetukset</string>
-  <string name="get_pin2">Anna PIN2-koodi</string>
+  <string name="get_pin2">Syötä PIN2-koodi</string>
   <string name="get_smsc_address_error">Verkkoyhteyttä ei voi muodostaa.</string>
   <string name="get_smsc_address_timeout">Yhteys aikakatkaistiin</string>
   <string name="goPrivate">muuta yksityiseksi</string>
@@ -767,9 +767,9 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="international_enable">Kansainväliset uutiset käytössä</string>
   <string name="international_roaming_setting">Data roaming</string>
   <string name="internet_phone">Internet puhelu</string>
-  <string name="invalidPin">Anna 4–8-numeroinen PIN-koodi.</string>
-  <string name="invalidPin2">Anna PIN2-koodi, joka on 4–8 numeroa.</string>
-  <string name="invalidPuk2">Anna PUK2-koodi, joka on 8 numeroa.</string>
+  <string name="invalidPin">Syötä 4–8-numeroinen PIN-koodi.</string>
+  <string name="invalidPin2">Syötä PIN2-koodi, joka on 4–8 numeroa.</string>
+  <string name="invalidPuk2">Syötä PUK2-koodi, joka on 8 numeroa.</string>
   <string name="invalid_password">Syötä salasana, jossa on 4 numeroa</string>
   <string name="invalid_pin">Syötä 4-8 numeroinen PIN-koodi.</string>
   <string name="invalid_pin2">Syötä 4-8 numeroinen PIN2-koodi.</string>
@@ -795,7 +795,7 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="labelCFB">Kun olen varattu</string>
   <string name="labelCFNRc">Kun en ole tavoitettavissa</string>
   <string name="labelCFNRy">Kun en vastaa</string>
-  <string name="labelCFType">Call Forward Setting</string>
+  <string name="labelCFType">Soitonsiirtoasetukset</string>
   <string name="labelCFU">Siirrä aina</string>
   <string name="labelCFVideo">Video</string>
   <string name="labelCFVoice">Ääni</string>
@@ -855,7 +855,7 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="mhh_enable">Lääkäri, terveys ja sairaala käytössä</string>
   <string name="mi_sim_settings_summary">Käytä mobiilidataa ilman SIM-korttia</string>
   <string name="mi_sim_settings_title">Mi SIM</string>
-  <string name="mismatchPin">Antamasi PIN-koodit eivät täsmää. Yritä uudelleen.</string>
+  <string name="mismatchPin">Syöttämäsi PIN-koodit eivät täsmää. Yritä uudelleen.</string>
   <string name="mismatchPin2">PIN2-koodit eivät täsmää. Yritä uudelleen.</string>
   <string name="mismatch_password">Syöttämäsi salasanat eivät täsmää</string>
   <string name="mismatch_pin">PIN-koodit eivät täsmää.</string>
@@ -872,7 +872,7 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="mmiStarted">MMI-koodi aloitettu</string>
   <string name="mobile_data_always_on">Mobiilidata on aina käytössä</string>
   <string name="mobile_data_always_on_summary">Pidä mobiilidata aina käytössä, vaikka Wi-Fi olisi aktiivinen. Tämä mahdollistaa nopeamman vaihtelun verkkojen välillä.</string>
-  <string name="mobile_network_settings_not_available">Tämä käyttäjä ei saa muuttaa matkapuhelinverkon asetuksia</string>
+  <string name="mobile_network_settings_not_available">Matkapuhelinverkon asetukset ei ole käytettävissä tällä käyttäjällä</string>
   <string name="mobile_networks">Matkapuhelinverkon asetukset</string>
   <string name="mock_location_app">Valitse valesijaintisovellus</string>
   <string name="mock_location_app_not_set">Valesijaintisovellusta ei ole valittu</string>
@@ -1064,7 +1064,7 @@ Yritä uudelleen tai pyydä lisäohjeita asiakaspalvelusta."</string>
 "</string>
   <string name="pause_prompt_yes">Kyllä</string>
   <string name="payphone">Maksupuhelin</string>
-  <string name="phoneAppLabel">Puhelinpalvelut</string>
+  <string name="phoneAppLabel">Puhelin</string>
   <string name="phoneIconLabel">Puhelin</string>
   <string name="phone_accounts">Puhelutilit</string>
   <string name="phone_accounts_add_sip_account">Lisää SIP-tili</string>
@@ -1078,7 +1078,7 @@ Yritä uudelleen tai pyydä lisäohjeita asiakaspalvelusta."</string>
   <string name="phone_accounts_make_sip_calls_with">SIP-puheluiden soittaminen:</string>
   <string name="phone_accounts_selection_header">Puhelintilit</string>
   <string name="phone_accounts_settings_header">Asetukset</string>
-  <string name="phone_entered_ecm_text">Käytössä hätäpuhelujen takaisinsoittotila</string>
+  <string name="phone_entered_ecm_text">Siirryttiin hätäpuhelujen takaisinsoittotilaan</string>
   <string name="phone_in_ecm_call_notification_text">Verkkoyhteys pois käytöstä</string>
   <string name="phone_in_ecm_notification_title">Hätäpuhelujen takaisinsoittotila</string>
   <string name="picture_color_mode">Kuvien värit</string>
@@ -1087,7 +1087,7 @@ Yritä uudelleen tai pyydä lisäohjeita asiakaspalvelusta."</string>
 %d yritystä jäljellä."</string>
   <string name="pin2_changed">PIN2-koodi päivitetty</string>
   <string name="pin2_error_exception">Verkko- tai SIM-korttivirhe</string>
-  <string name="pin2_invalid">Sallittuja numeroita ei päivitetty, koska annoit väärän PIN-koodin.</string>
+  <string name="pin2_invalid">Sallittuja numeroita ei päivitetty, koska syötit väärän PIN-koodin.</string>
   <string name="pin2_invalid_or_name_is_too_long">Syöttämäsi PIN-koodi on virheellinen tai syöttämäsi nimi on liian pitkä.</string>
   <string name="pin2_lock_warning">"
 PIN2-koodin aiheiset toiminnot lukitaan yhden väärän yrityksen jälkeen.."</string>
@@ -1114,7 +1114,7 @@ Laitteesi lukitaan automaattisesti jos yrityksesi menee vielä väärin"</string
   <string name="power_remaining_duration_only">Noin %1$s jäljellä</string>
   <string name="power_remaining_duration_only_short">%1$s jäljellä</string>
   <string name="preference_auto_ip_summary_disable">Pois päältä</string>
-  <string name="preference_category_ringtone">Soittoääni ja värinä</string>
+  <string name="preference_category_ringtone">Soittoääni &amp; värinä</string>
   <string name="preference_data_usage_summary">Hallitse mobiilidatan käyttöä asettamalla tiedonsiirtoraja</string>
   <string name="preference_data_usage_title">Aseta tiedonsiirtoraja</string>
   <string name="preference_dial_pad_touch_tone_default">Oletus</string>
@@ -1198,22 +1198,22 @@ Laitteesi lukitaan automaattisesti jos yrityksesi menee vielä väärin"</string
   <string name="private_num">Salainen numero</string>
   <string name="process_kernel_label">Android-käyttöjärjestelmä</string>
   <string name="progress_dialog_exiting_ecm">Poistutaan hätäpuhelujen takaisinsoittotilasta</string>
-  <string name="proximity_mode_title">Turn on proximity sensor</string>
-  <string name="proximity_off_summary">When you answer a call, the screen will be turned on always.</string>
-  <string name="proximity_on_summary">When you answer a call, the screen will be turned off to save power.</string>
+  <string name="proximity_mode_title">Ota läheisyysanturi käyttöön</string>
+  <string name="proximity_off_summary">Kun vastaat puheluun, näyttö pidetään aina päällä.</string>
+  <string name="proximity_on_summary">Kun vastaat puheluun, näyttö sammutetaan virran säästämiseksi.</string>
   <string name="proxy_address">ProxyAddress</string>
   <string name="proxy_address_title">Lähettävän välityspalvelimen osoite</string>
   <string name="pstn_connection_service_label">Sisäiset SIM-kortit</string>
   <string name="pstn_phone">Matkapuhelin puhelu</string>
   <string name="puk2_blocked">PUK2-koodi on pysyvästi estetty.</string>
   <string name="puk2_label">Syötä PUK2-koodi</string>
-  <string name="puk2_requested">Virheellinen salasana. SIM-kortti on lukittu. Anna PUK2-koodi.</string>
+  <string name="puk2_requested">Salasana on virheellinen. SIM-kortti on lukittu. Syötä PUK2-koodi.</string>
   <string name="puk_label">Syötä PUK-koodi</string>
   <string name="puk_lock_warning">"
 SIM-korttisi lukitaan seuraavan epäonnistuneen yrityksen jälkeen."</string>
   <string name="puk_requested">Virheellinen salasana. PIN-koodi on estetty. PUK-koodi on pyydetty.</string>
   <string name="puk_unlocked">SIM-korttisi esto on purettu. Puhelimen lukitusta poistetaan...</string>
-  <string name="radio_off_during_emergency_call">Lentokonetilaa ei voi ottaa käyttöön hätäpuhelun aikana.</string>
+  <string name="radio_off_during_emergency_call">Lentokonetilaan ei voi siirtyä hätäpuhelun aikana.</string>
   <string name="radio_off_error">Käynnistä radio ennen näiden asetuksien tarkastelua.</string>
   <string name="reading_settings">Luetaan asetuksia…</string>
   <string name="regional_disable">Alueuutiset pois käytöstä</string>
@@ -1354,11 +1354,11 @@ SIM-korttisi lukitaan seuraavan epäonnistuneen yrityksen jälkeen."</string>
   <string name="sip_save_register_error">Uutta SIP-profiilia ei voitu luoda ja tallentaa</string>
   <string name="sip_settings">SIP-asetukset</string>
   <string name="sip_system_decide">Automaattinen</string>
-  <string name="smart_divert_summary">CFNRc Settings</string>
+  <string name="smart_divert_summary">CFNRc asetukset</string>
   <string name="smart_divert_title">Smart-Divert</string>
   <string name="sports_news_settings">Urheilu-uutiset</string>
-  <string name="srvcc_message">4G voice call has been downgraded to 2G/3G voice call, because the 4G network is not available.</string>
-  <string name="srvcc_video_message">Video call has been downgraded to 2G/3G voice call, because the 4G network is not available.</string>
+  <string name="srvcc_message">4G-äänipuhelu alennettiin 2G/3G-äänipuheluksi, koska 4G-verkko ei ole käytettävissä.</string>
+  <string name="srvcc_video_message">Videopuhelu alennettiin 2G/3G-äänipuheluksi, koska 4G-verkko ei ole käytettävissä.</string>
   <string name="status_hint_label_incoming_wifi_call">Wi-Fi-puhelu henkilöltä</string>
   <string name="status_hint_label_wifi_call">Wi-Fi-puhelu</string>
   <string name="stk_cc_ss_to_dial_error">SS-pyyntö muutettiin DIAL-pyynnöksi.</string>
@@ -1526,10 +1526,10 @@ Ota yhteyttä operaattoriin, jos ongelma jatkuu."</string>
   <string name="vm_change_pin_error_too_weak">Uusi PIN-koodi on liian heikko. Vahvassa salasanassa ei saa olla peräkkäisiä tai toistuvia numeroita.</string>
   <string name="vm_change_pin_new_pin">Uusi PIN-koodi</string>
   <string name="vm_change_pin_old_pin">Vanha PIN-koodi</string>
-  <string name="vm_change_pin_progress_message">Odota.</string>
+  <string name="vm_change_pin_progress_message">Odota hetki…</string>
   <string name="vm_changed">Puhelinvastaajan numero muutettiin.</string>
-  <string name="voice_number_setting_primary_user_only">Voicei mail for Call settings can only be changed by the primary user.</string>
-  <string name="voice_privacy">Voicen tietosuoja</string>
+  <string name="voice_number_setting_primary_user_only">Vastaajaa voi muuttaa vain ensisijainen käyttäjä.</string>
+  <string name="voice_privacy">Äänen tietosuoja</string>
   <string name="voice_privacy_summary">Ota parannettu tietosuojatila käyttöön</string>
   <string name="voice_report_incoming_call">Soitetaan</string>
   <string name="voice_report_unknown_num">Tuntematon numero</string>

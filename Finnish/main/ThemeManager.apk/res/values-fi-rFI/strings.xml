@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_info">Minä</string>
+  <string name="account_info">Tilini</string>
   <string name="account_name_not_login">Kirjaudu sisään</string>
   <string name="account_unactivated">Tili ei ole aktivoitu</string>
   <string name="ad_app_download_start">Aloitetaan latausta…</string>
@@ -39,7 +39,7 @@
   <string name="component_title_wallpaper">Taustakuva</string>
   <string name="current_using_desktop_wallpaper_text">Aloitusnäyttö</string>
   <string name="current_using_lockscreen_wallpaper_text">Lukitusnäyttö</string>
-  <string name="current_version_incompatible">Yhteensopimaton versio</string>
+  <string name="current_version_incompatible">Tämä teema ei ole yhteensopiva</string>
   <string name="deleting">Poistetaan…</string>
   <string name="description_author">Tekijä</string>
   <string name="description_designer">Suunnittelija</string>
@@ -92,8 +92,8 @@
   <string name="gift_use_confirmation_dlg_title">Lähetetäänkö tämä lahja?</string>
   <string name="gift_use_fail_dlg_title">Jotain meni pieleen</string>
   <string name="gift_used">Lähetetty</string>
-  <string name="hide_free">"Piilota ilmaiset "</string>
-  <string name="hide_incompatible">"Piilota yhteensopimattomat "</string>
+  <string name="hide_free">Piilota ilmaiset teemat</string>
+  <string name="hide_incompatible">Piilota yhteensopimattomat teemat</string>
   <string name="home_apply_failured">Aloitusnäytön taustakuvaa ei voi asettaa</string>
   <string name="home_apply_success">Aloitusnäytön taustakuva asetettu</string>
   <string name="in_the_end">Ei enempää näytettäviä kohteita</string>
@@ -150,7 +150,7 @@
   <string name="online_precust_tiny">Pikkuruinen</string>
   <string name="online_search_hint">Etsi verkkolähteitä</string>
   <string name="present_local_themes">Teemani</string>
-  <string name="present_official_themes">Virallinen valikoima</string>
+  <string name="present_official_themes">Meidän valinnat</string>
   <string name="present_online_themes">Hae lisää teemoja verkosta</string>
   <string name="provision_default_theme_title">Oletus</string>
   <string name="provision_loading_tips">Odota hetki…</string>
@@ -160,7 +160,7 @@
   <string name="purchased_list_current">Optimoidut teemat</string>
   <string name="purchased_list_legacy">Legacy teemat</string>
   <string name="recently_used">Äskettäin käytetty</string>
-  <string name="region_not_support">Pahoittelut, Teemat ei ole tuettu sinun alueellasi.</string>
+  <string name="region_not_support">Teemat ei ole tuettu sinun alueellasi.</string>
   <string name="reload">Yritä uudelleen</string>
   <string name="resource_account_abnormal_state">Tilivirhe. Odota minuutti tai kaksi ja yritä uudelleen.</string>
   <string name="resource_account_fail_to_add">Tilin lisääminen epäonnistui</string>
