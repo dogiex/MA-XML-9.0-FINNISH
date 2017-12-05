@@ -60,12 +60,12 @@
         <item quantity="one">%1$d mykistetty.</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">%1$d viestiä poistettu 'tärkeät' kansiosta</item>
-        <item quantity="one">%1$d poistettu 'tärkeät' kansiosta</item>
+        <item quantity="other">"%1$d viestiä poistettu 'tärkeät' kansiosta"</item>
+        <item quantity="one">"%1$d poistettu 'tärkeät' kansiosta"</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">%1$d poistettu 'roskaposti' kansiosta</item>
-        <item quantity="one">%1$d poistettu 'roskaposti' kansiosta</item>
+        <item quantity="other">"%1$d poistettu 'roskaposti' kansiosta"</item>
+        <item quantity="one">"%1$d poistettu 'roskaposti' kansiosta"</item>
     </plurals>
     <plurals name="conversation_phished">
         <item quantity="other">%1$d viestiä ilmoitettu roskapostiksi</item>
