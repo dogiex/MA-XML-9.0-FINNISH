@@ -58,9 +58,9 @@
         <item quantity="other">%1$d pv sitten</item>
     </plurals>
     <plurals name="steps">
-        <item quantity="other">%d askelta</item>
-        <item quantity="zero">%d askel</item>
-        <item quantity="one">%d askel</item>
+        <item quantity="other">%d|askelta</item>
+        <item quantity="zero">%d|askel</item>
+        <item quantity="one">%d|askel</item>
     </plurals>
     <plurals name="assistant_day">
         <item quantity="other">%d päivän kuluttua</item>
