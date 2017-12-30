@@ -8,6 +8,7 @@
   <string name="ble_device_rename">Nimeä uudelleen</string>
   <string name="bluetooth_connected">Yhdistetty</string>
   <string name="bluetooth_connecting">Yhdistetään…</string>
+  <string name="bluetooth_device_context_unpair">Poista laitepariyhteys</string>
   <string name="bluetooth_disconnected">Yhteys katkaistu</string>
   <string name="bluetooth_disconnecting">Katkaistaan yhteyttä…</string>
   <string name="bluetooth_preference_connected_devices">Yhdistetyt laitteet</string>

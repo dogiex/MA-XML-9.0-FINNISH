@@ -762,6 +762,7 @@ Muodostetaanko pari tämän laitteen kanssa?"</string>
   <string name="bluetooth_unlock_turned_on">Päällä</string>
   <string name="bluetooth_untether_blank">Jaettu internetyhteys katkaistaan laitteesta %1$s.</string>
   <string name="bluetooth_visibility_timeout">Näkyvyyden aikakatkaisu</string>
+  <string name="bluetooth_wake">Herätä Bluetooth-äänellä</string>
   <string name="bootloader">Fastboot-tila</string>
   <string name="bootloader_apply_step_1">Otetaanko Fastboot-tila käyttöön?</string>
   <string name="bootloader_apply_step_2">Kun laitteesi on Fastboot-tilassa ja yhdistettynä tietokoneeseen,</string>
@@ -3669,6 +3670,8 @@ Huom. Sormenjälki ei välttämättä ole yhtä turvallinen kuin vahva kuvio tai
   <string name="settings_license_activity_unavailable">Käyttölupien lataamisessa esiintyi ongelma.</string>
   <string name="settings_manual_activity_title">Käyttöopas</string>
   <string name="settings_manual_activity_unavailable">Ongelma ladattaessa käyttöopasta.</string>
+  <string name="settings_notify_need_backup">Varmuuskopioi asetuksesi Mi Pilveen käyttääksesi niitä, kun vaihdat puhelimia.</string>
+  <string name="settings_notify_phone_recycled">Puhelinnumerosi on kierrätetty. Napauta lisätäksesi toinen puhelinnumero.</string>
   <string name="settings_package">com.android.settings</string>
   <string name="settings_safetylegal_activity_loading">Ladataan…</string>
   <string name="settings_safetylegal_activity_title">Suojaustiedot</string>
@@ -3860,6 +3863,7 @@ PIN-koodi on mahdollisesti virheellinen."</string>
   <string name="spellchecker_security_warning">Tämä oikoluku voi ehkä kerätä kaiken kirjoittamasi tekstin, mukaan lukien henkilötiedot, kuten salasanat ja luottokorttien numerot. Se on lähtöisin sovelluksesta %1$s. Käytetäänkö tätä oikolukua?</string>
   <string name="spellchecker_switch_title">Ota oikeinkirjoituksen tarkistus käyttöön</string>
   <string name="spellcheckers_settings_title">Oikeinkirjoituksen tarkistus</string>
+  <string name="split_screen">Siirry jaettuun näyttöön</string>
   <string name="ssid_label">SSID:</string>
   <string name="ssl_ca_cert_warning">Verkkoa saatetaan valvoa</string>
   <string name="ssl_ca_cert_warning_message">"Kolmas osapuoli pystyy seuraamaan toimiasi verkossa, esimerkiksi sähköpostiviestien, sovellusten ja turvallisten verkkosivustojen käyttöä.
@@ -4097,6 +4101,7 @@ Nopeampi ^1 voi toimia tehokkaammin."</string>
   <string name="suggested_lock_settings_title">Näytön lukitus</string>
   <string name="suggestion_additional_fingerprints">Lisää uusi sormenjälki</string>
   <string name="suggestion_additional_fingerprints_summary">Avaa toisella sormenjäljellä</string>
+  <string name="suggestion_for_phone_recycled">Lisää toinen puhelinnumero</string>
   <string name="suggestion_remove">Poista</string>
   <string name="suggestions_title">Ehdotukset (%1$d)</string>
   <string name="sum_carrier_select">Valitse verkko-operaattori</string>
@@ -4149,6 +4154,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="system_backup_section_title">Varmuuskopiointi</string>
   <string name="system_default_app">(Järjestelmän oletusarvo)</string>
   <string name="system_package">Järjestelmäpäivityksiä ei voi asentaa ulkoiseen mediaan.</string>
+  <string name="system_shortcut_wake">Herätä painikkeiden pikavalinnoilla</string>
   <string name="system_storage">Järjestelmän tallennusmedia</string>
   <string name="system_ui_settings">Näytä SystemUI-viritin</string>
   <string name="system_update_settings_list_item_summary"/>
@@ -4608,6 +4614,7 @@ Napauta plussaa lisätäksesi sanoja."</string>
   <string name="vision_settings_description">Voit muokata laitteen ominaisuuksia tarpeidesi mukaan. Käytettävyysvalintoja voi muuttaa myöhemmin asetuksissa.</string>
   <string name="vision_settings_title">Näköasetukset</string>
   <string name="voice_category">Puhe</string>
+  <string name="voice_helper_title">Ääniavustaja</string>
   <string name="voice_input_output_settings">Äänisyöte ja -tulo</string>
   <string name="voice_input_output_settings_title">Äänisyöte- ja -tulo-asetukset</string>
   <string name="voice_input_settings">Äänisyöteasetukset</string>

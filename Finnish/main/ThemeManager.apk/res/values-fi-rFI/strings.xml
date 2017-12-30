@@ -92,8 +92,8 @@
   <string name="gift_use_confirmation_dlg_title">Lähetetäänkö tämä lahja?</string>
   <string name="gift_use_fail_dlg_title">Jotain meni pieleen</string>
   <string name="gift_used">Lähetetty</string>
-  <string name="hide_free">Piilota ilmaiset teemat</string>
-  <string name="hide_incompatible">Piilota yhteensopimattomat teemat</string>
+  <string name="hide_free">Piilota ilmainen %1$s</string>
+  <string name="hide_incompatible">Piilota yhteensopimattomat %1$s</string>
   <string name="home_apply_failured">Aloitusnäytön taustakuvaa ei voi asettaa</string>
   <string name="home_apply_success">Aloitusnäytön taustakuva asetettu</string>
   <string name="in_the_end">Ei enempää näytettäviä kohteita</string>

@@ -868,6 +868,7 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="missed_call_notify_times_summary">muistutukset erotetaan 5 minuutin välein</string>
   <string name="missed_call_notify_times_title">Vastaamatta jääneiden puheluiden muistutus</string>
   <string name="missed_call_notify_twice">2 kertaa</string>
+  <string name="miui_notification_network_selection_text" formatted="false">SIM-kortti %s Valittu verkko (%s) ei käytettävissä</string>
   <string name="mmiCancelled">MMI-koodi peruutettu</string>
   <string name="mmiStarted">MMI-koodi aloitettu</string>
   <string name="mobile_data_always_on">Mobiilidata on aina käytössä</string>

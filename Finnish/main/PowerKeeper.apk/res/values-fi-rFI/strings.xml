@@ -194,7 +194,8 @@ Virransäästö kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="set_lcd_mode">Näyttö-tila</string>
   <string name="settings_safetylegal_activity_loading">Odota hetki…</string>
   <string name="show_system_app">Näytä järjestelmäsovellukset</string>
-  <string name="sleep_config_enhance_description">Aina kun MIUI tunnistaa, että nukut, se sulkee taustalla olevat sovellukset, rajoittaa NFC:tä, Bluetoothia, GPS:ää, mobiilidatan ja Wi-Fin käyttöä ja se ei herätä näyttöä ilmoituksista.</string>
+  <string name="sleep_config_enhance_description">Aina kun MIUI tunnistaa että nukut, se sulkee taustalla olevat sovellukset, rajoittaa NFC:tä, Bluetoothia, GPS:ää, mobiilidatan ja Wi-Fin käyttöä ja se ei herätä näyttöä ilmoituksista.</string>
+  <string name="sleep_config_enhance_description_non_nfc">Aina kun MIUI tunnistaa että nukut, se sulkee taustalla olevat sovellukset, rajoittaa Bluetoothia, GPS:ää, mobiilidatan ja Wi-Fin käyttöä ja se ei herätä näyttöä ilmoituksista.</string>
   <string name="sleep_config_enhance_title">Lepotila</string>
   <string name="still">Kuva</string>
   <string name="sucess">Valmis</string>
