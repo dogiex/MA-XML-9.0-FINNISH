@@ -1017,6 +1017,7 @@ Paina Aktivoi ja aktivoi puhelimesi kuulemiesi ohjeiden avulla."</string>
 Suosittelemme siirtymään alueelle, jolla signaali on vahvempi (ikkunan lähelle tai ulos).
 
 Yritä uudelleen tai pyydä lisäohjeita asiakaspalvelusta."</string>
+  <string name="other_available_phone_accounts">Muut käytettävissä olevat tilit</string>
   <string name="other_settings">Muut puheluasetukset</string>
   <string name="other_settings_category">Muu</string>
   <string name="overlay_display_devices_title">Simuloi toissijaiset näytöt</string>
@@ -1066,6 +1067,7 @@ Yritä uudelleen tai pyydä lisäohjeita asiakaspalvelusta."</string>
   <string name="payphone">Maksupuhelin</string>
   <string name="phoneAppLabel">Puhelin</string>
   <string name="phoneIconLabel">Puhelin</string>
+  <string name="phone_account_settings">Puhelutilit</string>
   <string name="phone_accounts">Puhelutilit</string>
   <string name="phone_accounts_add_sip_account">Lisää SIP-tili</string>
   <string name="phone_accounts_all_calling_accounts">Kaikki puhelutilit</string>
@@ -1195,6 +1197,7 @@ Laitteesi lukitaan automaattisesti jos yrityksesi menee vielä väärin"</string
   <string name="preferred_network_type_pref_entries_only_3g">Vain 3G</string>
   <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title">Ensisijaisen verkon tyyppi</string>
+  <string name="preferred_phone_account">Ensisijainen puhelutili</string>
   <string name="private_num">Salainen numero</string>
   <string name="process_kernel_label">Android-käyttöjärjestelmä</string>
   <string name="progress_dialog_exiting_ecm">Poistutaan hätäpuhelujen takaisinsoittotilasta</string>
@@ -1233,7 +1236,7 @@ SIM-korttisi lukitaan seuraavan epäonnistuneen yrityksen jälkeen."</string>
   <string name="registration_status_server_unreachable">Tilin rekisteröinti epäonnistui: tarkista palvelimen nimi.</string>
   <string name="registration_status_still_trying">Yritetään edelleen…</string>
   <string name="reject_via_sms">Pikavastaukset</string>
-  <string name="reject_via_sms_summary">Muokkaa pikavastauksia</string>
+  <string name="reject_via_sms_summary">Näytä painikkeet puhelun lopettamiselle ja tekstiviestin lähettämiselle</string>
   <string name="reject_via_sms_title">Pikavastaukset</string>
   <string name="remaining_length_format">%1$s jäljellä</string>
   <string name="remove">Poista</string>
@@ -1318,8 +1321,9 @@ SIM-korttisi lukitaan seuraavan epäonnistuneen yrityksen jälkeen."</string>
   <string name="simContacts_empty">SIM-kortilla ei ole yhteystietoja.</string>
   <string name="simContacts_emptyLoading">Luetaan SIM-korttia…</string>
   <string name="simContacts_title">Valitse yhteystiedot</string>
-  <string name="simFdnContacts_empty">No fixed dialing contacts.</string>
-  <string name="sim_card_num">SIM %s</string>
+  <string name="simFdnContacts_empty">Ei yhteystietoja kiinteissä numeroissa.</string>
+  <string name="sim_accounts">SIM-kortin tilit</string>
+  <string name="sim_card_num">SIM-kortti %s</string>
   <string name="sim_contact_name">Nimi</string>
   <string name="sim_contact_number">Numero</string>
   <string name="sim_description_default">SIM-kortti, paikka: %s</string>
@@ -1553,8 +1557,9 @@ Ota yhteyttä operaattoriin, jos ongelma jatkuu."</string>
   <string name="voip_setting">VoIP asetukset</string>
   <string name="volte_provision_notification_activate">Aktivoi</string>
   <string name="volte_provision_text">VoLTE puhelut tarjoaa paremman äänenlaadun verrattuna normaaliin puheluun. Lähetetäänkö tekstiviesti aktivointia varten?</string>
-  <string name="volte_provision_title">Aktivoi VoLTE puhelut</string>
-  <string name="volte_switch_not_support_summary">VoLTE puhelut ei ole tuettu mobiilidata SIM-kortilla.</string>
+  <string name="volte_provision_title">Aktivoi VoLTE-puhelut</string>
+  <string name="volte_switch_not_support_summary">VoLTE-puhelut ei ole tuettu mobiilidata SIM-kortilla.</string>
+  <string name="volte_switch_not_support_summary2">VoLTE-puhelut ei ole tuettu operaattorillasi.</string>
   <string name="volte_switch_summary">Käytä VoLTEa parantamaan ääni- ja videopuhelun laatua</string>
   <string name="volte_switch_title">VoLTE käytössä</string>
   <string name="vpn_settings_not_available">Tämä käyttäjä ei voi käyttää VPN-asetuksia</string>

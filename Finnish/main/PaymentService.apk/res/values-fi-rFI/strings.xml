@@ -1,15 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="mibi_app_name">Mi Krediitti</string>
+  <string name="mibi_applock_config">Sovelluslukkoa ei voi asettaa, kun Jaettu näyttö on käytössä.</string>
   <string name="mibi_applock_dialog_cancel">Ei nyt</string>
   <string name="mibi_applock_dialog_content">Järjestelmäpäivityksen takia, nykyinen kuviolukituksesi on vanhentunut. Aseta uusi kuviolukitus.</string>
   <string name="mibi_applock_dialog_ok">Aseta</string>
   <string name="mibi_applock_dialog_title">Aseta uusi kuviolukitus</string>
   <string name="mibi_balance_payment_title">Mi Krediitti</string>
-  <string name="mibi_balance_title">Saldo</string>
+  <string name="mibi_balance_title">Käytettävissä olevat Mi Krediitit</string>
   <string name="mibi_bill_delete_dialog_title">Poista %1$s</string>
   <string name="mibi_bill_delete_message">Poistetaanko “%1$s”?</string>
   <string name="mibi_bill_menu_delete_item">Poista</string>
+  <string name="mibi_bill_record">Tapahtumat</string>
   <string name="mibi_bill_record_empty">Ei tuloksia.</string>
   <string name="mibi_btn_agree">Hyväksy</string>
   <string name="mibi_btn_back">Takaisin</string>
@@ -24,9 +26,9 @@
   <string name="mibi_btn_recharge_large">Top-up</string>
   <string name="mibi_btn_recharge_other">Top-up</string>
   <string name="mibi_btn_recharge_success_quick">Top-up valmis</string>
+  <string name="mibi_business_title">Muut palvelut</string>
   <string name="mibi_button_bind_phone">Linkitä nyt</string>
   <string name="mibi_button_call">Soita</string>
-  <string name="mibi_button_call_frozen_service">24-tuntinen online-tuki</string>
   <string name="mibi_button_cancel">Peruuta</string>
   <string name="mibi_button_confirm">Vahvista</string>
   <string name="mibi_button_count_down_finish">OK (%1$s)</string>
@@ -38,6 +40,7 @@
   <string name="mibi_button_retry">Yritä uudelleen</string>
   <string name="mibi_cancel">Peruuta</string>
   <string name="mibi_change_security_lock">Lisää näytön lukituksia</string>
+  <string name="mibi_check_giftcard">Näytä kupongit</string>
   <string name="mibi_click_retry">%1$s, yritä uudelleen napauttamalla</string>
   <string name="mibi_colon">": "</string>
   <string name="mibi_deduct_goods_name">Tuote</string>
@@ -84,14 +87,12 @@ Tarkista paikallinen päivämäärä ja yritä uudelleen."</string>
   <string name="mibi_error_deduct">Automaattista Maksuprotokollaa ei voitu aktivoida</string>
   <string name="mibi_error_expired_summary">Tilauksesi on vanhentunut</string>
   <string name="mibi_error_frozen_service_num">400-100-3399</string>
-  <string name="mibi_error_frozen_service_time">Maanantaista Sunnuntaihin</string>
-  <string name="mibi_error_frozen_summary">"Tilisi on jäädytetty.
-Ota yhteyttä Xiaomin asiakaspalveluun."</string>
   <string name="mibi_error_has_bought_summary">Olet jo ostanut tämän tuotteen.</string>
   <string name="mibi_error_illegal_order_summary">Tilausvirhe. Yritä myöhemmin uudelleen</string>
   <string name="mibi_error_invalid_device">Virheellinen laite.</string>
   <string name="mibi_error_mili_summary">Rahat eivät riitä.</string>
   <string name="mibi_error_network_summary">Verkkoyhteyttä ei voi muodostaa.</string>
+  <string name="mibi_error_no_available_channels">Pahoittelut, saatavilla olevia kanavia ei ole tällä hetkellä.</string>
   <string name="mibi_error_pay_result_uncertain">Maksun tulos epäselvä.</string>
   <string name="mibi_error_recharge_process_fail">Latausprosessi epäonnistui.</string>
   <string name="mibi_error_recharge_result_fail">Lataamisen tulos epäonnistui.</string>
@@ -108,6 +109,8 @@ Ota yhteyttä Xiaomin asiakaspalveluun."</string>
   <string name="mibi_frozen">Jäädytetty</string>
   <string name="mibi_frozen_prim">Tili jäädytetty</string>
   <string name="mibi_frozen_sub">Epänormaalia toimintaa havaittu</string>
+  <string name="mibi_frozen_text">Tilisi on jäädytetty. Ota yhteyttä asiakaspalveluumme.</string>
+  <string name="mibi_frozen_text_pad">Tilisi on jäädytetty. Ota yhteyttä 400–100–3399.</string>
   <string name="mibi_get_phone_format_error">Vahvista puhelinnumero</string>
   <string name="mibi_get_phone_num_prefix">+358</string>
   <string name="mibi_get_phone_num_summary">Syötä maksamiseen käytettävä puhelinnumero</string>
@@ -118,6 +121,8 @@ Ota yhteyttä Xiaomin asiakaspalveluun."</string>
   <string name="mibi_giftcard_denom">Mi Krediitti</string>
   <string name="mibi_giftcard_denom_available">Mi Krediittiä käytettävissä</string>
   <string name="mibi_giftcard_denom_frozen">Mi Krediittiä jäädytetty</string>
+  <string name="mibi_giftcard_discount">Kupongit</string>
+  <string name="mibi_giftcard_discount_detail">Kuponki (käytetty %1$s Mi Krediittiä)</string>
   <string name="mibi_giftcard_empty">Ei lahjakortteja.</string>
   <string name="mibi_giftcard_has_expired">Vanhentunut %1$s</string>
   <string name="mibi_giftcard_hint">Lahjakortin lisäämät Mi Krediitit käytetään ensin automaattisesti.</string>
@@ -141,6 +146,7 @@ Ota yhteyttä Xiaomin asiakaspalveluun."</string>
   <string name="mibi_list_item_bottom_hint">Olet saavuttanut luettelon lopun</string>
   <string name="mibi_login">Kirjaudu</string>
   <string name="mibi_memu_refresh">Päivitä</string>
+  <string name="mibi_menu_feedback">Palaute</string>
   <string name="mibi_menu_lock">Lisää Sovelluslukko</string>
   <string name="mibi_menu_qa">UKK</string>
   <string name="mibi_menu_shotcut">Aseta Aloitusnäytölle</string>
@@ -178,6 +184,9 @@ Ota yhteyttä Xiaomin asiakaspalveluun."</string>
   <string name="mibi_order_pay_back">Vahvista</string>
   <string name="mibi_order_pay_type">Maksutapa</string>
   <string name="mibi_order_pay_type_title">Valitse maksutapa</string>
+  <string name="mibi_order_pay_uncertain_button">Selvä</string>
+  <string name="mibi_order_pay_uncertain_detail">Jos maksaminen epäonnistuu, soita %1$s</string>
+  <string name="mibi_order_pay_uncertain_summary">Vahvistetaan maksua</string>
   <string name="mibi_order_title">Maksaminen</string>
   <string name="mibi_other_denomiantion">Valitse summa</string>
   <string name="mibi_partner_giftcard_payment_with_append">Käytä %1$s</string>
@@ -190,6 +199,7 @@ Ota yhteyttä Xiaomin asiakaspalveluun."</string>
   <string name="mibi_payment_success_title">Maksu vastaanotettu</string>
   <string name="mibi_payment_with_login_title">Vahvista Mi Tili</string>
   <string name="mibi_paytool_alipay">Alipay</string>
+  <string name="mibi_paytool_app_not_installed">Et ole asentanut %1$s. Ladataanko ja asennetaanko se nyt?</string>
   <string name="mibi_paytool_error_install">%1$s mobiilitietoturvalisäosan asennus epäonnistui</string>
   <string name="mibi_paytool_error_msp">%1$s epäonnistui</string>
   <string name="mibi_paytool_mipay">Mipay</string>
@@ -257,6 +267,7 @@ Asiakaspalvelu: 400-100-3399"</string>
   <string name="mibi_recharge_grid_item_more">Lisää</string>
   <string name="mibi_recharge_grid_mibi_picker_hint">Valitse summa</string>
   <string name="mibi_recharge_grid_money_picker_hint">Valitse summa</string>
+  <string name="mibi_recharge_label">Top-up</string>
   <string name="mibi_recharge_mibi_title">Mi Krediitti</string>
   <string name="mibi_recharge_novalid_method">Ei kelvollista top-up tapaa.</string>
   <string name="mibi_recharge_other">Näytä muut tavat</string>
@@ -277,7 +288,6 @@ Asiakaspalvelu: 400-100-3399"</string>
   <string name="mibi_summary_custom_service_phone">Puh:</string>
   <string name="mibi_summary_sms_code">Syötä vahvistuskoodi, joka lähetettiin numeroon %1$s, sen jälkeen suorita maksu</string>
   <string name="mibi_tianyi_create_order">China Unicom tekstiviesti</string>
-  <string name="mibi_title_bill_record">Maksuhistoria</string>
   <string name="mibi_title_bind_phone">Matkapuhelinnumeron liittäminen.</string>
   <string name="mibi_title_custom_service_phone">Ota yhteyttä tukeen</string>
   <string name="mibi_title_discounts">Alennukset</string>

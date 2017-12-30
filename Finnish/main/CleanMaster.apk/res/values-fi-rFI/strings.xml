@@ -377,8 +377,8 @@
   <string name="no_network">Verkkoyhteyttä ei voi muodostaa, yritä myöhemmin uudelleen</string>
   <string name="no_network_btn">Yritä uudelleen</string>
   <string name="notification_summary_after_auto_cleanup">Puhdistettu %s.</string>
-  <string name="notification_summary_of_garbage_cleanup">Roskasi vievät yli %s.</string>
-  <string name="notification_title_of_garbage_cleanup">Roskien koko</string>
+  <string name="notification_summary_of_garbage_cleanup">Napauta vapauttaaksesi tilaa.</string>
+  <string name="notification_title_of_garbage_cleanup">%s edestä roskatiedostoja</string>
   <string name="notify_when">Saa ilmoitus, kun roskien koko yltää 100Mt</string>
   <string name="ok">OK</string>
   <string name="open">Ota käyttöön</string>
@@ -529,7 +529,7 @@
   <string name="total_clean">Puhdistettu yhteensä: %s</string>
   <string name="total_clean_text">Tyhjennä</string>
   <string name="update_date_format">d.M.yyyy</string>
-  <string name="virus_scan">Virustarkistus</string>
+  <string name="virus_scan">Tietoturvatarkistus</string>
   <string name="vungle_ad_name">Vungle广告</string>
   <string name="wechat_cache_files">WeChat välimuisti</string>
   <string name="wechat_chat_clean_done">Kaikki näyttää hyvältä</string>

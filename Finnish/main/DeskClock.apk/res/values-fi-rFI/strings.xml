@@ -62,6 +62,7 @@
   <string name="hours">%d tuntia</string>
   <string name="install_weather_app_error">Sovelluksen lataaminen epäonnistui.</string>
   <string name="install_weather_app_loading">Odota hetki…</string>
+  <string name="invalid_time">Virheellinen aika: %3$s %1$d: %2$d</string>
   <string name="keep_screen_on">Pidä näyttö päällä</string>
   <string name="label">Aseta nimike</string>
   <string name="label_pref_summary">Nimeä tämä hälytys</string>

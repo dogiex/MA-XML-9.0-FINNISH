@@ -27,6 +27,10 @@
   <string name="downloading">Ladataan</string>
   <string name="downloading_in_3g">Ladataan 3G:llä…</string>
   <string name="downloading_in_wifi">Ladataan…</string>
+  <string name="drive_low_memory_description_content">Matkapuhelimen tallennustila on vähissä, siirrytäänkö puhelimen puhdistustyökaluun vapauttaakseen lisää tallennustilaa?</string>
+  <string name="drive_low_memory_description_title">Alhaisen muistin varoitus</string>
+  <string name="drive_low_memory_description_toast">Matkapuhelimen tallennustila on vähissä, puhdista MiDriven käytön jälkeen</string>
+  <string name="drive_low_memory_positive_content">Puhdista</string>
   <string name="empty_file_download">Tyhjiä tiedostoja ei tueta.</string>
   <string name="empty_file_upload">Tyhjiä tiedostoja ei tueta.</string>
   <string name="file_already_downlaoded">Tiedosto tallennettiin kansioon \"%1$s\"</string>
@@ -109,6 +113,7 @@
   <string name="sd_invalid">SD-korttisi on korruptoitunut.</string>
   <string name="send_to_midrive_failed">Tämä tiedostomuoto ei ole tuettu.</string>
   <string name="slashes">/</string>
+  <string name="source_file_missing">Tiedosto puuttuu.</string>
   <string name="space_full">Pilven tallennustilaa ei ole tarpeeksi.</string>
   <string name="start_use_xiaomi_account">Aloita Mi Driven käyttäminen</string>
   <string name="system_alert">Internet-yhteys</string>

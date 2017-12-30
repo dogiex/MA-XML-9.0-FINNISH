@@ -7,7 +7,8 @@
   <string name="accessibility_effect_mode_button">Tehosteen painike</string>
   <string name="accessibility_flash_mode_button">Salaman painike</string>
   <string name="accessibility_hdr">HDR vaihtopainike</string>
-  <string name="accessibility_mode_dismiss_button">Sulje Tilan Valinta painike</string>
+  <string name="accessibility_intent_done_apply">Valmis</string>
+  <string name="accessibility_mode_dismiss_button">Sulje Tilan Valintapainike</string>
   <string name="accessibility_peak">Focus peak button</string>
   <string name="accessibility_portrait_button">Muotokuvatila</string>
   <string name="accessibility_review_thumbnail">Viimeaikaisin kuva</string>

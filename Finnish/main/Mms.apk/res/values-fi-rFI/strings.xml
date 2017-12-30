@@ -572,6 +572,7 @@
   <string name="sms_report_success">Ilmoitus lähetettiin onnistuneesti</string>
   <string name="snippet_audio">[Ääni]</string>
   <string name="snippet_picture">[Kuva]</string>
+  <string name="snippet_timed">[Ajastettu]</string>
   <string name="sp_category_all">Kaikki palveluviestit</string>
   <string name="sp_category_bank">Pankin ilmoitusviestit</string>
   <string name="sp_category_title_prefix">%s</string>

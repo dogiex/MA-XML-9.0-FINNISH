@@ -1136,8 +1136,8 @@ Tarkista seurantanumerosi."</string>
   <string name="not_install_c3">Lataa</string>
   <string name="not_install_c4">Ei kiitos</string>
   <string name="not_installed">Ei asennettu</string>
-  <string name="note_name">Luo muistio</string>
-  <string name="note_parent">Lyhyt muistio</string>
+  <string name="note_name">Luo</string>
+  <string name="note_parent">Muistiot</string>
   <string name="notification_content_fail_not_support">Maksutietoja ei voitu hakea, lisää tietue manuaalisesti.</string>
   <string name="notification_content_fail_stay_longer">Pysy maksusivulla vähintään yhden sekunnin ajan</string>
   <string name="notification_content_success">%2$s CNY maksu %1$s kuluttua</string>

@@ -15,6 +15,7 @@
   <string name="account_error_longer_user_name">Nimi ei saa ylittää 20 merkkiä</string>
   <string name="account_error_shorter_user_name">Nimen pitää olla pidempi, kuin 2 merkkiä</string>
   <string name="account_error_user_birthday">Syntymäpäivä, jonka syötit on väärin</string>
+  <string name="account_global_region">Ulkomailla</string>
   <string name="account_has_been_set">Vaihda</string>
   <string name="account_limit_update_birthday">Syntymäpäivää ei voi juuri nyt päivittää</string>
   <string name="account_mibi_center">Mi Krediitit</string>
@@ -306,7 +307,7 @@ Aktivoi tilisi seuraamalla
   <string name="passport_reg_recycle_account_yes">Kyllä</string>
   <string name="passport_reg_success">Tili luotu</string>
   <string name="passport_reg_success_summary">%1$s on liitetty tiliisi. Voit käyttää sitä kirjautimiseen tai salasanasi palauttamiseen.</string>
-  <string name="passport_reg_type_email">Käytä sähköpostiosoitetta</string>
+  <string name="passport_reg_type_email">Sähköpostiosoite</string>
   <string name="passport_reg_using_other_phone">Käytä vaihtoehtoista puhelinnumeroa</string>
   <string name="passport_reg_using_other_phone_number_prompt">"Luo uusi tili käyttäen "</string>
   <string name="passport_reg_using_phone_number_prompt">Luo tili käyttäen puhelinnumeroa</string>

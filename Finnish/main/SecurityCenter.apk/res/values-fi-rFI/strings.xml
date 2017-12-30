@@ -472,6 +472,7 @@
   <string name="call_contact_block">Estä puhelut yhteystiedoilta</string>
   <string name="call_delete_hint">Poistetaanko kaikki estetyt puhelut tältä numerolta?</string>
   <string name="call_delete_title">Poista puheluhistoria</string>
+  <string name="call_oversea_block">Estä puhelut ulkomailta</string>
   <string name="call_prefix">Etuliitteen estolista</string>
   <string name="call_private">Estä puhelut piilotetuilta numeroilta</string>
   <string name="call_stranger_block">Estä puhelut muukalaisilta</string>
@@ -758,6 +759,8 @@
   <string name="fw_blocked">Estolista</string>
   <string name="fw_blocked_count">"Estetty "</string>
   <string name="fw_blocked_join">" ja "</string>
+  <string name="fw_oversea">Estä puhelut ulkomailta</string>
+  <string name="fw_oversea_content">Estä saapuvat puhelut ulkomaisista puhelinnumeroista</string>
   <string name="game_ad_recommendation">Kaikki pelaavat</string>
   <string name="game_anti_disturb_msg">Älä häiritse pelaamisen aikana</string>
   <string name="game_booster">Pelien nopeuttaja</string>
@@ -1778,6 +1781,7 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="st_call_backsound_group">Estolistan ääni</string>
   <string name="st_call_intercept_contacts">Estä puhelut yhteystiedoilta</string>
   <string name="st_call_intercept_forwarding">Estä siirretyt puhelut</string>
+  <string name="st_call_intercept_oversea">Estä puhelut ulkomailta</string>
   <string name="st_call_intercept_reported">Estä puhelut ilmoitetuista numeroista</string>
   <string name="st_call_intercept_stranger">Estä puhelut muukalaisilta</string>
   <string name="st_call_intercept_unknown">Estä puhelut piilotetuista numeroista</string>
@@ -1786,6 +1790,7 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="st_call_stranger_group">Estä puhelut muukalaisilta</string>
   <string name="st_confirm_dialog_btn_open">Avaa</string>
   <string name="st_confirm_dialog_summary_contact_call">Kaikki puhelut yhteystiedoilta estetään.</string>
+  <string name="st_confirm_dialog_summary_oversea_call">Ota käyttöön estääksesi kaikki saapuvat puhelut ulkomaisista puhelinnumeroista.</string>
   <string name="st_confirm_dialog_summary_stranger_call">Kaikki puhelut muukalaisilta estetään.</string>
   <string name="st_filter_keywords_setting_summary1">Viestit tuntemattomilta numeroilta, jotka sisältävät tässä listassa olevia sanoja estetään.</string>
   <string name="st_filter_keywords_setting_summary2">"

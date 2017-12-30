@@ -43,6 +43,7 @@
   <string name="audio_chat">Äänikeskustelu</string>
   <string name="auto_nickname">Auto</string>
   <string name="auto_set_nickname">Auto</string>
+  <string name="back_description">Takaisin</string>
   <string name="back_view_description">Siirry takaisin</string>
   <string name="batch_delete">Yhteystietojen poisto</string>
   <string name="blacklist">Estä</string>
@@ -89,11 +90,10 @@
   <string name="call_radio">Soita radiopuhelimeen</string>
   <string name="call_record_setting_miui">Nauhoitusasetukset</string>
   <string name="call_settings">Asetukset</string>
-  <string name="call_settings_primary_user_only">Puheluasetuksia voi muuttaa vain ensisijainen käyttäjä.</string>
-  <string name="call_sim1_description">SIM 1</string>
-  <string name="call_sim1_menu_title">Soita SIM 1:llä</string>
-  <string name="call_sim2_description">SIM 2</string>
-  <string name="call_sim2_menu_title">Soita SIM 2:lla</string>
+  <string name="call_sim1_description">SIM-kortti 1</string>
+  <string name="call_sim1_menu_title">Soita SIM-kortilla 1</string>
+  <string name="call_sim2_description">SIM-kortti 2</string>
+  <string name="call_sim2_menu_title">Soita SIM-kortilla 2</string>
   <string name="call_sim_menu_title_suffix">(Ensisijainen)</string>
   <string name="call_telex">Soita teleksinumeroon</string>
   <string name="call_tty_tdd">Soita tekstipuhelimeen</string>
@@ -101,6 +101,8 @@
   <string name="call_work">Soita työnumeroon</string>
   <string name="call_work_mobile">Soita matkapuhelimeen (työ)</string>
   <string name="call_work_pager">Soita hakulaitteeseen (työ)</string>
+  <string name="calllog_call_note_menu">Puhelun muistiot</string>
+  <string name="calllog_call_record_menu">Nauhoitetut puhelut</string>
   <string name="calllog_menu_blacklist">Estä</string>
   <string name="calllog_menu_edit_before_call">Muokkaa ennen soittoa</string>
   <string name="calllog_menu_send_sms">Lähetä viesti</string>
@@ -207,7 +209,7 @@
   <string name="contactSavedErrorToast">Ei voitu tallentaa yhteystietojen muutoksia.</string>
   <string name="contactSavedToast">Yhteystieto tallennettu</string>
   <string name="contact_clear_search_history">Tyhjennä historia</string>
-  <string name="contact_delete_toast">Yhteystieto poistettu</string>
+  <string name="contact_delete_toast">Poistettiin yhteystieto onnistuneesti</string>
   <string name="contact_detail_action_item_calllog">Puheluloki</string>
   <string name="contact_detail_action_item_nocalllog">Ei Puhelulokia</string>
   <string name="contact_detail_calllog_call_note_tips">Muistiinpano</string>
@@ -247,6 +249,9 @@ Yhteystietokortit on poistettu käytöstä"</string>
   <string name="contact_editor_prompt_multiple_accounts">Valitse uusien yhteystietojen oletustili:</string>
   <string name="contact_editor_prompt_one_account">Uudet yhteystiedot tallennetaan tilille %1$s.</string>
   <string name="contact_editor_prompt_zero_accounts">Uutta kontaktiasi ei varmuuskopioida. Lisätäänkö tili, joka varmuuskopioi uudet kontaktit verkossa?</string>
+  <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
+  <string name="contact_import_methods_dialog_mi_mover">Mi Siirtäjä</string>
+  <string name="contact_import_methods_dialog_title">Valitse tuontitapa</string>
   <string name="contact_is_readOnly">Vain-luku muodossa olevia yhteystietoja ei voida muokata</string>
   <string name="contact_list_loading">Ladataan…</string>
   <string name="contact_pick_photo">Kuva</string>
@@ -265,6 +270,8 @@ Yhteystietokortit on poistettu käytöstä"</string>
   <string name="contacts_unavailable_add_account">Lisää tili</string>
   <string name="contacts_unavailable_create_contact">Luo uusi yhteystieto</string>
   <string name="contacts_unavailable_import_contacts">Tuo yhteystietoja</string>
+  <string name="contacts_unavailable_import_from_old_device">Tuo vanhemmasta laitteesta</string>
+  <string name="contacts_unavailable_import_sim_contacts">Tuo SIM-kortin yhteystietoja</string>
   <string name="convenient_service">Palvelut</string>
   <string name="copy_number">Kopioi</string>
   <string name="copy_text">Kopioi leikepöydälle</string>
@@ -444,13 +451,13 @@ Välttääksemme useita pyyntöjä, päivitämme saldon tiedot kerran päiväss�
   <string name="expandOpenViewDescription">Laajenna</string>
   <string name="export_sim_contact_finish">SIM-kortin yhteystiedot viety</string>
   <string name="export_sim_contact_finish_msg">%1$d siirretty | %2$d monistettu | %3$d jäljellä</string>
-  <string name="export_to_sdcard">Vie muistikortille</string>
+  <string name="export_to_sdcard">Vie tallennustilaan</string>
   <string name="export_to_sim">Vie SIM-kortille</string>
-  <string name="export_to_sim1">Vie SIM-1-kortille</string>
-  <string name="export_to_sim2">Vie SIM-2-kortille</string>
+  <string name="export_to_sim1">Vie SIM-kortille 1</string>
+  <string name="export_to_sim2">Vie SIM-kortille 2</string>
   <string name="export_to_sim_prepare_title">Valmistellaan…</string>
   <string name="export_to_sim_title">Viedään…</string>
-  <string name="export_vcard_description">Viedään vCard puhelimen sisäiseen muistiin</string>
+  <string name="export_vcard_description">Vie vCard puhelimen tallennustilaan</string>
   <string name="exporting_contact_failed_message">"Yhteystietoja ei viety.
 Syy: %s"</string>
   <string name="exporting_contact_failed_title">Vieminen epäonnistui</string>
@@ -532,15 +539,16 @@ Syy: %s"</string>
   <string name="import_failure_no_vcard_file">Tallennustilasta ei löydy vCard-tiedostoja.</string>
   <string name="import_from_onekey_migrate">Tuo käyttämällä Mi Siirtäjää</string>
   <string name="import_from_other_phone">Tuo toisesta puhelimesta</string>
-  <string name="import_from_sdcard">Tuo muistista</string>
+  <string name="import_from_sdcard">Tuo tallennustilalta</string>
   <string name="import_from_sim">Tuo SIM-kortilta</string>
-  <string name="import_from_sim1">Tuo SIM-1-kortilta</string>
-  <string name="import_from_sim2">Tuo SIM-2-kortilta</string>
+  <string name="import_from_sim1">Tuo SIM-kortilta 1</string>
+  <string name="import_from_sim2">Tuo SIM-kortilta 2</string>
   <string name="import_multiple_vcard_string">Tuo useita vCard-tiedostoja</string>
   <string name="import_name">Nimi</string>
   <string name="import_one_vcard_string">Tuo vCard-tiedosto</string>
   <string name="import_percent">0%</string>
   <string name="import_selected_sim_entries_miui">Tuo valitut yhteystiedot</string>
+  <string name="import_sim_contacts_hint_title">Tuo SIM-kortin yhteytietoja</string>
   <string name="import_sim_entries_finish">SIM-kortin yhteystietojen tuonti onnistui</string>
   <string name="import_sim_entry_miui">Tuo</string>
   <string name="import_to_xiaomi_account_confirm">Tuo Mi Tilille</string>
@@ -548,17 +556,8 @@ Syy: %s"</string>
   <string name="import_to_xiaomi_account_progress_message">Tuodaan…</string>
   <string name="import_to_xiaomi_account_progress_title">Tuo yhteystiedot Mi Tilille</string>
   <string name="import_to_xiaomi_account_title">Tuo Mi Tilille</string>
-  <string name="import_vcard_description">Tuo yhteystiedot puhelimen sisäisestä muistista</string>
+  <string name="import_vcard_description">Tuo yhteystiedot puhelimesi tallennustilasta</string>
   <string name="import_vcard_dialog_message">Tuo vCard?</string>
-  <string name="import_weibo_dialog_title">Tuo Weibo -yhteystiedot</string>
-  <string name="import_weibo_error_no_matched_contacts">Ei samanlaisia yhteystietoja</string>
-  <string name="import_weibo_error_no_network">Verkkoyhteyttä ei voi muodostaa. Tarkista verkkoyhteytesi ja yritä uudelleen.</string>
-  <string name="import_weibo_error_no_xiaomi_phone">Puhelinnumeroita ei ole tallennettu Mi Tilille.</string>
-  <string name="import_weibo_error_unknown">Tuntematon virhe</string>
-  <string name="import_weibo_error_user_cancel">Tuonti peruutettu</string>
-  <string name="import_weibo_fetch_followers">Noudetaan yhteystietoja…</string>
-  <string name="import_weibo_notification_title_done">Päivitetty %s yhteystietoja</string>
-  <string name="import_weibo_progress_name">Verrataan \"%1$s\"…</string>
   <string name="importing_sim_contacts_miui">Tuodaan yhteystiedot SIM-kortilta…</string>
   <string name="importing_sim_contacts_miui_prepare">Valmistellaan yhteystietoja…</string>
   <string name="importing_vcard_canceled_title">Kohteen %s tuonti peruutettiin</string>
@@ -756,52 +755,6 @@ Odota…"</string>
   <string name="noContactHelpTextAccountsInfo"/>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Palauta yhteystiedot Mi Tililtä</string>
   <string name="noContacts">Ei kontakteja</string>
-  <string name="noContactsHelpText">"Sinulla ei ole yhtään näytettävää yhteystietoa.
-
-Lisätäksesi yhteystietoja, kosketa Valikko, sitten kosketa:
- 
-Tilit, lisätäksesi tai luodaksesi uuden tilin yhteystiedoille, jotka voit synkronoida puhelimeen
- 
-Uusi yhteystieto luodaksesi uuden yhteystiedon tyhjästä
- 
-Tuo/Vie tuodaksesi yhteystietoja SIM-kortiltasi tai SD-kortiltasi
-"</string>
-  <string name="noContactsHelpTextForCreateShortcut">Sinulla ei ole yhtään näytettävää yhteystietoa.</string>
-  <string name="noContactsHelpTextWithSync">"Sinulla ei ole yhtään näytettävää yhteystietoa. (Jos lisäsit tilin äskettäin, anna synkronoinnille muutama minuutti aikaa.)
-
-Lisätäksesi yhteystietoja, kosketa Valikko, sitten kosketa:
- 
-Tilit, lisätäksesi tai luodaksesi uuden tilin yhteystiedoille, jotka voit synkronoida puhelimeen
- 
-Näytä vaihtoehdot vaihtaaksesi, mitkä yhteystiedot näytetään
- 
-Uusi yhteystieto luodaksesi uuden yhteystiedon alusta
- 
-Tuo/Vie tuodaksesi yhteystietoja SIM-kortiltasi tai SD-kortiltasi
-"</string>
-  <string name="noContactsHelpTextWithSyncForCreateShortcut">"Sinulla ei ole yhtään näytettävää yhteystietoa. (Jos lisäsit tilin äskettäin, anna synkronoinnille muutama minuutti aikaa.)"</string>
-  <string name="noContactsNoSimHelpText">"Sinulla ei ole yhtään näytettävää yhteystietoa.
-
-Lisätäksesi yhteystietoja, kosketa Valikko, sitten kosketa:
- 
-Tilit, lisätäksesi tai luodaksesi uuden tilin yhteystiedoille, jotka voit synkronoida puhelimeen
- 
-Uusi yhteystieto luodaksesi uuden yhteystiedon alusta
- 
-Tuo/Vie tuodaksesi yhteystietoja SIM-kortiltasi tai SD-kortiltasi
-"</string>
-  <string name="noContactsNoSimHelpTextWithSync">"Sinulla ei ole yhtään näytettävää yhteystietoa. (Jos lisäsit tilin äskettäin, anna synkronoinnille muutama minuutti aikaa.)
-
-Lisätäksesi yhteystietoja, kosketa Valikko, sitten kosketa:
- 
-Tilit, lisätäksesi tai luodaksesi uuden tilin yhteystiedoille, jotka voit synkronoida puhelimeen
- 
-Näytä vaihtoehdot vaihtaaksesi, mitkä yhteystiedot näytetään
- 
-Uusi yhteystieto luodaksesi uuden yhteystiedon alusta
- 
-Tuo/Vie tuodaksesi yhteystietoja SIM-kortiltasi tai SD-kortiltasi
-"</string>
   <string name="noContactsWithPhoneNumbers">Ei yhteystietoja puhelinnumerolla</string>
   <string name="noFavoritesHelpText">"Sinulla ei ole yhtään suosikkeja.
 
@@ -1052,7 +1005,7 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="search_simple_mode">Näyttäminen;info;kuvat;Yhteystiedot</string>
   <string name="search_smart_group_title">Yhteystiedot;Näyttäminen</string>
   <string name="search_wipe_data">Järjestä;Yhteystiedot</string>
-  <string name="searching_vcard_message">Etsitään vCardin tietoja muistista…</string>
+  <string name="searching_vcard_message">Etsitään vCardin tietoja SD-kortilta…</string>
   <string name="select_all">Valitse kaikki</string>
   <string name="select_all_exceed">Voit valita enintään %1$d, kaikkia ei voi valita</string>
   <string name="select_exceed">Voit valita enintään %1$d</string>

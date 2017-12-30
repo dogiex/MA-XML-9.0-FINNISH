@@ -56,6 +56,7 @@
   <string name="feedback_bug_status_change_notification_desc">%1$s ongelma \"%2$s\"</string>
   <string name="feedback_choose_module">Valitse kohde</string>
   <string name="feedback_choose_module_hint">Vaadittu</string>
+  <string name="feedback_choose_reproductivity">Toistuvuus</string>
   <string name="feedback_choose_third_app_name">Valitse sovelluksen nimi</string>
   <string name="feedback_collect_log_failed">Lokitietoja ei saatu</string>
   <string name="feedback_contact_info_hint">Puhelinnumero/Sähköposti</string>
@@ -113,6 +114,7 @@
   <string name="feedback_third_packagename_hint">Mikä kolmannen osapuolen sovellus aiheuttaa ongelmia?</string>
   <string name="feedback_title">Otsikko</string>
   <string name="feedback_title_hint">Kuvaile ongelma lyhyesti</string>
+  <string name="feedback_title_reproductivity">Valitse toistuvuus</string>
   <string name="feedback_tracking">Seuraa ongelmia</string>
   <string name="feedback_version_label">Versio</string>
   <string name="feesback_list">Raportit</string>

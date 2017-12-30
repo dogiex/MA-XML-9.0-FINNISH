@@ -409,8 +409,8 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="oem_preferred_feedback_reporter"/>
   <string name="oem_unlock_enable">OEM:n lukituksen avaus</string>
   <string name="oem_unlock_enable_summary">Salli käynnistysohjelman lukituksen avaaminen</string>
-  <string name="oldman_airplane_mode_text">lentokone</string>
-  <string name="oldman_incall_text">puhelussa</string>
+  <string name="oldman_airplane_mode_text">Lentokone</string>
+  <string name="oldman_incall_text">Takaisin puheluun</string>
   <string name="oldman_status_bar_time_format_12">h:mm</string>
   <string name="oldman_status_bar_time_format_24">HH:mm</string>
   <string name="overlay_display_devices_title">Simuloi toissijaiset näytöt</string>

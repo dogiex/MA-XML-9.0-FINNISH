@@ -1812,6 +1812,9 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="incoming_call_breathing_light_color_title">Puheluiden ilmoitusvalon väri</string>
   <string name="incoming_call_breathing_light_freq_title">Puheluiden ilmoitusvalon vilkkumistiheys</string>
   <string name="incoming_call_volume_title">Soittoääni</string>
+  <string name="infinity_display_settings">Kokonäytön ruutu</string>
+  <string name="infinity_display_slogan">Jatkuvaa kasvua tutkimattomasta teknologiasta</string>
+  <string name="infinity_display_title">Kokonäytön ruutu</string>
   <string name="information_dialog_button_text">Selvä</string>
   <string name="input_method">Näppäimistö</string>
   <string name="input_method_selector">Syöttötavan valinta</string>
@@ -2407,8 +2410,9 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="mock_location_app">Valitse valesijaintisovellus</string>
   <string name="mock_location_app_not_set">Valesijaintisovellusta ei ole valittu</string>
   <string name="mock_location_app_set">Valesijaintisovellus: %1$s</string>
-  <string name="mode_disable">Pois päältä</string>
-  <string name="mode_enable">Päällä</string>
+  <string name="mode_disable">Pois käytöstä</string>
+  <string name="mode_enable">Käytössä</string>
+  <string name="model_name">Mallin nimi</string>
   <string name="model_number">Mallinumero</string>
   <string name="modify_instruction_password_settings">Aseta salasana</string>
   <string name="modify_privacy_password">Vaihda salasana</string>
@@ -2471,6 +2475,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="music_dirac_mode_piston_color">Color Edition</string>
   <string name="music_dirac_mode_piston_standard">Standard Edition</string>
   <string name="music_dirac_mode_piston_youth">Youth Edition</string>
+  <string name="music_dirac_mode_reduction_noise">Reduce Noise TypeC</string>
   <string name="music_dolby_mode_movie">Video</string>
   <string name="music_dolby_mode_music">Musiikki</string>
   <string name="music_dolby_mode_off">Pois päältä</string>
@@ -3875,7 +3880,6 @@ Laitteeseesi asennettu luotettu varmenne tekee tämän mahdolliseksi."</string>
   <string name="status_bar_app_enable_message">Merkit</string>
   <string name="status_bar_key_position_custom">Muokattu painikkeen sijainti</string>
   <string name="status_bar_screen_button_force_immersive_desc">Pyyhkäise ylös näytön alareunasta näyttääksesi näyttöpainikkeet</string>
-  <string name="status_bar_screen_button_key">Näyttöpainikkeet</string>
   <string name="status_bar_screen_button_key_force_immersive">Piilota näyttöpainikkeet</string>
   <string name="status_bar_screen_key_back">Takaisin-painike</string>
   <string name="status_bar_screen_key_home">Koti-painike</string>

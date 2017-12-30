@@ -44,4 +44,8 @@
         <item quantity="other">%d minuuttia jäljellä</item>
         <item quantity="one">%d minuutti jäljellä</item>
     </plurals>
+    <plurals name="nav_screen_incognito_time">
+        <item quantity="other">%d sekunnin kuluttua uusi sivu luodaan automaattisesti</item>
+        <item quantity="one">%d sekunnin kuluttua uusi sivu luodaan automaattisesti</item>
+    </plurals>
 </resources>
