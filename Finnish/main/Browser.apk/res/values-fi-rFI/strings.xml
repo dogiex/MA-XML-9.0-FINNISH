@@ -518,6 +518,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="miuishare_account_need_activate">Weibo tili pitää linkittää sinun Mi Tilin kanssa. Kirjaudutaanko sisään Mi Tilillesi?</string>
   <string name="miuishare_account_need_login">Weibo tili pitää linkittää nykyisen Mi Tilin kanssa. Kirjaudutaanko sisään nyt?</string>
   <string name="miuishare_app_name">MiuiShare</string>
+  <string name="miuishare_dialog_cancel">Peruuta</string>
   <string name="miuishare_no_network">Verkkoon yhdistäminen epäonnistui</string>
   <string name="miuishare_publish">Lähetä</string>
   <string name="miuishare_share_done">Jaettu</string>
