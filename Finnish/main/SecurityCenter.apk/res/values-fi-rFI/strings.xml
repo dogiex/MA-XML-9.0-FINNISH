@@ -143,7 +143,7 @@
   <string name="app_manager_as_dlg_msg">Sovellusten salliminen käynnistyä automaattisesta saattaa vaatia ylimääräistä RAM-muistia ja akun resursseja. Sallitaanko siitä huolimatta?</string>
   <string name="app_manager_as_dlg_title">Huomio</string>
   <string name="app_manager_back">Takaisin</string>
-  <string name="app_manager_bipartition">Kloonatut sovellukset</string>
+  <string name="app_manager_bipartition">Kaksoissovellukset</string>
   <string name="app_manager_cache_size">Välimuisti</string>
   <string name="app_manager_card_permission_title">Käyttöoikeudet</string>
   <string name="app_manager_clear_all_data">Tyhjennä kaikki tiedot</string>
@@ -232,7 +232,7 @@
   <string name="app_manager_start_count_over">100000+ kertaa</string>
   <string name="app_manager_stop_wakepath_dialog_summary">Rajoitetaanko ketjukäynnistys poistamalla %s?</string>
   <string name="app_manager_stop_wakepath_dialog_title">Rajoita ketjukäynnistys</string>
-  <string name="app_manager_stop_wakepath_dlg_msg_with_xspace_app">Tämän sovelluksen poistaminen rajoittaa ketjukäynnistystä. Tähän liittyvät Kloonatut sovellukset poistetaan myös. Poistetaanko %s?</string>
+  <string name="app_manager_stop_wakepath_dlg_msg_with_xspace_app">Tämän sovelluksen poistaminen rajoittaa ketjukäynnistystä. Tähän liittyvät Kaksoissovellukset poistetaan myös. Poistetaanko %s?</string>
   <string name="app_manager_stop_wakepath_success">Rajoitettiin onnistuneesti</string>
   <string name="app_manager_stop_wp_dialog_cancel">Peruuta</string>
   <string name="app_manager_stop_wp_dialog_uninstall">Poista</string>
@@ -242,9 +242,9 @@
   <string name="app_manager_total_size">Yhteensä</string>
   <string name="app_manager_uninstall_protected_dlg_msg">Järjestelmäsovelluksien poistaminen saattaa estää joitakin MIUI komponentteja toimimasta normaalisti. Poistetaanko siitä huolimatta?</string>
   <string name="app_manager_uninstall_protected_dlg_title">Järjestelmäsovelluksien poistaminen</string>
-  <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Vastaavat kloonatut sovellukset poistetaan sovellusdatan kanssa.</string>
-  <string name="app_manager_uninstall_xspace_app_dlg_msg">Kloonatun sovelluksen poistaminen poistaa kaikki sovellusdatat.</string>
-  <string name="app_manager_uninstall_xspace_app_dlg_title">Poistetaanko kloonattu sovellus?</string>
+  <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Vastaavat kaksoissovellukset poistetaan sovellustietojen kanssa.</string>
+  <string name="app_manager_uninstall_xspace_app_dlg_msg">Kaksoissovelluksen poistaminen poistaa kaikki sovellustiedot.</string>
+  <string name="app_manager_uninstall_xspace_app_dlg_title">Poistetaanko kaksoissovellus?</string>
   <string name="app_manager_unstall_application">Poista</string>
   <string name="app_manager_wake_path_card_title">Ketjukäynnistyshistoria (2 päivää)</string>
   <string name="app_manager_wakepath_dialog_buttontext">Selvä</string>
@@ -513,7 +513,7 @@
   <string name="card_main_sectool_title">Työkalut</string>
   <string name="card_main_xspace_action">Luo</string>
   <string name="card_main_xspace_summary">Käytä kahta tiliä millä tahansa sovelluksella</string>
-  <string name="card_main_xspace_title">Kloonatut sovellukset</string>
+  <string name="card_main_xspace_title">Kaksoissovellukset</string>
   <string name="card_sms_report">Ilmoita käyttämällä tekstiviestiä</string>
   <string name="card_tc_failed">Kalibrointi epäonnistui</string>
   <string name="card_tc_failed_content">"Mahdolliset syyt:

@@ -377,7 +377,7 @@ Vapauta vähintään %s."</string>
   <string name="trans_intro_desc_7">Jotkut sovellusprofiilit (verkkopankki, talous jne.) on liitettynä tiettyyn laitteeseen tietoturvasyistä. Yritä uudella laitteella tyhjentää sovellustiedot tai asentaa sovellus uudelleen.</string>
   <string name="trans_intro_desc_8">WeChat -sovellustiedot ja keskusteluhistoria ei välttämättä siirry kokonaan käyttämällä Mi Siirtäjää. Mene WeChatin asetuksiin ja kirjaudu ulos tililtäsi, jotta siirtäminen onnistuisi paremmalla mahdollisuudella.</string>
   <string name="trans_intro_desc_account">Sinun täytyy kirjautua uudella laitteella tileillesi uudelleen (esim. Mi Tili, Exchange, Google jne.) tietoturvasyiden takia.</string>
-  <string name="trans_intro_desc_multiapp">Mi Siirtäjä ei siirrä sovellustietoja kloonatuista sovelluksista, välttääkseen tiedostojen ristiriidat.</string>
+  <string name="trans_intro_desc_multiapp">Mi Siirtäjä ei siirrä sovellustietoja kaksoissovelluksista, välttääkseen tiedostojen ristiriidat.</string>
   <string name="trans_intro_desc_multiuser">Mi Siirtäjä ei voi käyttää Toisen tilan kohteita. Siirrä kohteet Ensimmäiseen tilaan ja käynnistä Mi Siirtäjä siellä.</string>
   <string name="trans_intro_desc_new">Napauta \"Olen vastaanottaja\". QR-koodi luodaan.</string>
   <string name="trans_intro_desc_old">Napauta \"Olen lähettäjä\". Skannaa QR-koodi uudella puhelimella ja odota, kunnes Mi Siirtäjä tunnistaa, mitkä tiedostot lähetetään ja sen jälkeen napauta \"Lähetä"\.</string>
@@ -393,7 +393,7 @@ Vapauta vähintään %s."</string>
   <string name="trans_intro_question_9">%d. Mitä kohteita ei voi siirtää?</string>
   <string name="trans_intro_title">UKK</string>
   <string name="trans_intro_title_account">Tilit ja salasanat:</string>
-  <string name="trans_intro_title_multiapp">Kloonattujen sovelluksien tiedot:</string>
+  <string name="trans_intro_title_multiapp">Kaksoissovelluksien tiedot:</string>
   <string name="trans_intro_title_multiuser">Toisen tilan tiedot:</string>
   <string name="trans_intro_title_new">Uuden puhelimen:</string>
   <string name="trans_intro_title_old">Vanhan puhelimen:</string>

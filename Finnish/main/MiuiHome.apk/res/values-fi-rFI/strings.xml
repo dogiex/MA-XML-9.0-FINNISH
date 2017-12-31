@@ -49,9 +49,9 @@
   <string name="cloud_app_restore_title">Vireillä</string>
   <string name="configure_wallpaper">Asetukset</string>
   <string name="confirm_btn_label">OK</string>
-  <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Kloonattujen sovelluksien asennukset poistetaan näiden kanssa.</string>
-  <string name="confirm_uninstall_dialog_has_xspace_app_msg">Kloonatun sovelluksen asennus poistetaan tämän kanssa.</string>
-  <string name="confirm_uninstall_dialog_title">Kloonatut sovellukset poistetaan</string>
+  <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Kaksoissovelluksien asennukset poistetaan näiden kanssa.</string>
+  <string name="confirm_uninstall_dialog_has_xspace_app_msg">Kaksoissovelluksen asennus poistetaan tämän kanssa.</string>
+  <string name="confirm_uninstall_dialog_title">Kaksoissovellukset poistetaan</string>
   <string name="current_preview">Esikatselu</string>
   <string name="current_wallpaper">Nykyinen</string>
   <string name="custom_wallpaper_picker">Selaa</string>
@@ -262,9 +262,9 @@
   <string name="uninstall_dialog_title_format">Poistetaanko %s?</string>
   <string name="uninstall_result_failed">%s poistaminen epäonnistui</string>
   <string name="uninstall_result_succeeded">Sovellus poistettu</string>
-  <string name="uninstall_with_xspace_dialog_message">Sovellusdatan mukana poistuu myös vastaavat kloonatut sovellukset.</string>
-  <string name="uninstall_xspace_dialog_message">Kloonatun sovelluksen poistaminen poistaa myös sovellusdatan.</string>
-  <string name="uninstall_xspace_dialog_title_format">Poista kloonattu \"%s\"</string>
+  <string name="uninstall_with_xspace_dialog_message">Sovellustietojen mukana poistuu myös vastaavat kaksoissovellukset.</string>
+  <string name="uninstall_xspace_dialog_message">Kaksoissovelluksen poistaminen poistaa myös sovellustiedot.</string>
+  <string name="uninstall_xspace_dialog_title_format">Poistetaanko kaksois \"%s\"?</string>
   <string name="unknown_artist_name">Tuntematon artisti</string>
   <string name="unnamed_folder_name">Kansio</string>
   <string name="wallpaper">Taustakuva</string>

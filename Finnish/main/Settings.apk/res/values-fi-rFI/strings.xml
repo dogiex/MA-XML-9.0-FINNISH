@@ -3557,7 +3557,7 @@ Näytön kiinnittäminen:
   <string name="search_wifi_wapi_cert_uninstall">Poista WAPI varmenne;WAPI varmenteet;WAPI</string>
   <string name="search_wps_connect_title">WPS painike;Yhdistä WPS;WPS</string>
   <string name="search_xiaomi_account">Mi Tili;Mi Tilin ID;Tili;Tilin ID</string>
-  <string name="search_xspace">Kloonattu sovellus;Kloonatut sovellukset;Kaksoissovellus;Kaksoissovellukset;Kloonaa sovellus;Kloonaa sovelluksia;Sovelluksen klooni;Sovelluksen kloonit;Kaksi tiliä;2 tiliä</string>
+  <string name="search_xspace">Kaksoissovellus;Kaksoissovellukset;Kaksi sovellusta;Kloonaa sovellus;Kloonaa sovelluksia;Sovelluksen klooni;Sovelluksen kloonit;Kaksi tiliä;2 tiliä</string>
   <string name="second_space">Toinen tila</string>
   <string name="secure_keyguard_business_title">Aseta näytön lukitus</string>
   <string name="secure_lock_encryption_warning">Laite ei käytä näytön lukitusta tiedon salauksen parantamiseen, koska otit käytettävyyspalvelun käyttöön.</string>
@@ -4314,9 +4314,9 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="uninstall_protected_dlg_msg">Järjestelmäsovelluksien poistaminen saattaa estää joitakin MIUI:n osia toimimasta oikein. Poistetaanko siitä huolimatta?</string>
   <string name="uninstall_protected_dlg_title">Järjestelmäsovelluksien poistaminen</string>
   <string name="uninstall_text">Poista</string>
-  <string name="uninstall_with_xspace_app_dlg_msg">Vastaavat kloonatut sovellukset poistetaan sovellustietojen mukana.</string>
-  <string name="uninstall_xspace_app_dlg_msg">Kloonatun sovelluksen poistaminen poistaa myös kaikki sovellustiedot.</string>
-  <string name="uninstall_xspace_app_dlg_title">Poistetaanko kloonattu sovellus?</string>
+  <string name="uninstall_with_xspace_app_dlg_msg">Vastaavat kaksoissovellukset poistetaan sovellustietojen mukana.</string>
+  <string name="uninstall_xspace_app_dlg_msg">Kaksoissovelluksen poistaminen poistaa myös kaikki sovellustiedot.</string>
+  <string name="uninstall_xspace_app_dlg_title">Poistetaanko kaksoissovellus?</string>
   <string name="unknown">Tuntematon</string>
   <string name="unknown_app">Tuntematon sovellus</string>
   <string name="unlock_change_lock_password_title">Vaihda lukituksen poiston salasana</string>
@@ -5168,7 +5168,7 @@ Muodosta yhteys toiseen Wi-Fi-verkkoon valitsemalla "&lt;b&gt;Takaisin&lt;/b&gt;
   <string name="xiaomi_router_available_notif_title">Mi Reititin saatavilla</string>
   <string name="xiaomi_router_notif_summary">Ilmoita minulle, kun Mi Reititin on saatavilla</string>
   <string name="xiaomi_router_notif_title">Mi Reititin ilmoitukset</string>
-  <string name="xspace">Kloonatut sovellukset</string>
+  <string name="xspace">Kaksoissovellukset</string>
   <string name="yes">Kyllä</string>
   <string name="zen_access_disabled_package_warning">Tämän täytyy olla käytössä, sillä ilmoitusten käyttöoikeus on myönnetty.</string>
   <string name="zen_access_empty_text">Yksikään asennettu sovellus ei ole pyytänyt Älä häiritse -tilan käyttöoikeutta.</string>

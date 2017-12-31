@@ -766,8 +766,8 @@ Tarkista seurantanumerosi."</string>
   <string name="function_not_support">Tämä ominaisuus ei ole tuettuna tällä laitteella.</string>
   <string name="function_open_error_content">Tämä pikakuvake ei toimi, koska sovellus poistettiin. Valitse toinen pikakuvake tai asenna sovellus uudelleen.</string>
   <string name="function_open_error_content_app">Tämä sovellus poistettiin. Valitse toinen pikakuvake tai asenna sovellus uudelleen.</string>
-  <string name="function_open_error_content_app_xspace">Tämä pikakuvake ei toimi, koska kloonattu sovellus poistettiin. Valitse toinen pikakuvake tai luo uusi kloonattu sovellus.</string>
-  <string name="function_open_error_content_xspace">Tämä pikakuvake ei toimi, koska sovellus poistettiin. Valitse toinen pikakuvake tai luo uusi kloonattu sovellus.</string>
+  <string name="function_open_error_content_app_xspace">Tämä pikakuvake ei toimi, koska kaksoissovellus poistettiin. Valitse toinen pikakuvake tai luo uusi kaksoissovellus.</string>
+  <string name="function_open_error_content_xspace">Tämä pikakuvake ei toimi, koska sovellus poistettiin. Valitse toinen pikakuvake tai luo uusi kaksoissovellus.</string>
   <string name="function_open_error_title">Sovellusta \"%s\" ei voi avata</string>
   <string name="function_qq_new_shuoshuo">Lähetä</string>
   <string name="function_qq_recent">Kaverit</string>
@@ -835,7 +835,7 @@ Tarkista seurantanumerosi."</string>
   <string name="launch_enable">Näytä pikakäytön kortit</string>
   <string name="launch_function">Valitse ominaisuudet</string>
   <string name="launch_label">Pikakäyttö</string>
-  <string name="launch_no_dapp_dialog_reset">Kloonattujen sovelluksien asetukset</string>
+  <string name="launch_no_dapp_dialog_reset">Kaksoissovelluksien asetukset</string>
   <string name="launch_noapp_dialog_cancel">Peruuta</string>
   <string name="launch_noapp_dialog_redownload">Lataa uudelleen</string>
   <string name="launch_noapp_dialog_replace">Korvaa</string>

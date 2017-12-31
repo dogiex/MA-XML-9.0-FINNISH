@@ -625,7 +625,7 @@
   <string name="stay_awake_title">Pidä näyttö hereillä</string>
   <string name="sticker_btn_str_explore_tab">Tutki tuhansittain hauskoja juttuja!</string>
   <string name="stop_server">Lopeta palvelin</string>
-  <string name="storage_cloned_app">Kloonattujen sovelluksien tallennustila</string>
+  <string name="storage_cloned_app">Kaksoissovelluksien tallennustila</string>
   <string name="storage_info_detail">Käytettävissä: %1$s Yhteensä: %2$s</string>
   <string name="storage_internal">Sisäinen tallennustila</string>
   <string name="storage_sd_card">SD-kortti</string>
