@@ -1,18 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="__leak_canary_analysis_failed">Vuotoanalyysi epäonnistui</string>
-  <string name="__leak_canary_class_has_leaked">%s on vuotanut</string>
-  <string name="__leak_canary_delete">Poista</string>
-  <string name="__leak_canary_delete_all">Poista kaikki</string>
-  <string name="__leak_canary_display_activity_label">Vuodot</string>
-  <string name="__leak_canary_failure_report">"Ilmoita tämä virhe osoitteeseen http://github.com/square/leakcanary
-"</string>
-  <string name="__leak_canary_leak_list_title">Vuotoja kohteessa %s</string>
-  <string name="__leak_canary_notification_message">Lisätietoja klikkaamalla</string>
-  <string name="__leak_canary_share_heap_dump">Share heap dump</string>
-  <string name="__leak_canary_share_leak">Jaa tiedot</string>
-  <string name="__leak_canary_share_with">Jaa sovelluksessa…</string>
-  <string name="__leak_canary_toast_heap_dump">Dumpataan muisti, sovellus jäädytetään. Brrrr.</string>
   <string name="accept">Hyväksy</string>
   <string name="accept_or_deny">%1$s jakoi albumin %2$s kanssasi.</string>
   <string name="add_automatically_alert_msg">Lisätäänkö kuvat kohteesta \"%1$s\" tähän albumiin automaattisesti?</string>
@@ -93,8 +80,10 @@
   <string name="app_name_view_picture">Katso kuvia</string>
   <string name="app_name_view_video">Katso videoita</string>
   <string name="apply">Aseta</string>
+  <string name="assistant_page_label">Avustaja</string>
   <string name="associate_face_album">Valitse albumi</string>
   <string name="auto_backup_introduce">Varmuuskopioi kuvat ja videot automaattisesti (Mi Tili vaaditaan)</string>
+  <string name="auto_download_media_title">Lataa kuvat Mi Pilvestä automaattisesti</string>
   <string name="auto_update_face">Lisää kuvat automaattisesti</string>
   <string name="auto_update_face_summary">Sovita ja lisää kuvat automaattisesti Vauva albumiin</string>
   <string name="auto_update_off">Pois päältä</string>
@@ -186,6 +175,7 @@
   <string name="camera_needs_auto_backup_tip">Kamera albumi täytyy varmuuskopioida</string>
   <string name="cancel">Peruuta</string>
   <string name="cancel_baby_lock_wallpaper_confirm_msg">Vaihdetaanko Lukitusnäytön taustakuva oletukseksi?</string>
+  <string name="cancel_download_btn_text">Lopeta</string>
   <string name="cancel_hint">Toiminto peruutettu</string>
   <string name="cannot_remove_creator">Luojaa ei voi poistaa</string>
   <string name="cannot_send_message">Viestiä ei voi lähettää</string>
@@ -682,13 +672,23 @@
   <string name="double_tap_to_higher_definition">Tuplanapauta uudelleen HD esikatselua varten</string>
   <string name="download_canceled">Lataaminen peruutettu</string>
   <string name="download_error_format">%s lataaminen epäonnistui</string>
+  <string name="download_error_tip">. Lataukset keskeytyi.</string>
+  <string name="download_origin_dialog_message">Alkuperäiset kuvat ladataan Mi Pilvestä. Paikallisia kuvia ei optimoida.</string>
   <string name="download_retry_message">Tiedostojen lataaminen epäonnistui, tarkasta verkkoyhteys ja yritä uudelleen</string>
   <string name="download_retry_text">Yritä uudelleen</string>
   <string name="download_retry_title">Tiedostojen lataaminen epäonnistui</string>
   <string name="download_tip">Lataa</string>
   <string name="download_title">Valmistellaan tiedostoja…</string>
+  <string name="download_type_origin">Alkuperäiset tiedostot</string>
+  <string name="download_type_origin_desc">Alkuperäiset tiedostot</string>
+  <string name="download_type_thumbnail">Korkea laatu</string>
+  <string name="download_type_thumbnail_desc">Korkea laatu</string>
+  <string name="download_type_title">Latauksen laatu</string>
   <string name="download_without_wifi_msg">Käyttämällä mobiilidatayhteyttä kuvien lataamiseen nostaa datan käyttöä. Jos menet datapakettisi yli, operaattorisi saattaa veloittaa siitä ylimääräisiä maksuja.</string>
   <string name="download_without_wifi_title">Tiedonsiirtovaroitus</string>
+  <string name="downloading_desc">%1$d/%2$d</string>
+  <string name="downloading_dialog_message">Voit valita ladattujen kuvien laadun tai poistaa automaattiset lataukset käytöstä Asetuksissa.</string>
+  <string name="downloading_title">Ladataan kuvia Mi Pilvestä</string>
   <string name="edit_baby_info">Näytä vauvan tiedot</string>
   <string name="email_picker_title">Lisää jaettu sähköposti</string>
   <string name="empty_query_text_msg">En tiedä mitä etsiä…</string>
@@ -736,7 +736,7 @@
   <string name="error_no_cta_permission_msg">Verkon käyttö on rajattu.</string>
   <string name="error_no_cta_permission_tip">Verkon käyttö on rajattu</string>
   <string name="error_no_network_action">Verkkoasetukset</string>
-  <string name="error_no_network_msg">Varmista, että laitteesi on yhdistetty Wi-Fi-verkkoon tai mobiilidata on päällä.</string>
+  <string name="error_no_network_msg">Varmista, että laitteesi on yhdistetty Wi-Fi-verkkoon tai mobiilidata on käytössä.</string>
   <string name="error_no_network_tip">Verkkoyhteyttä ei voitu muodostaa</string>
   <string name="error_no_wifi_action">Käytä mobiilidataa</string>
   <string name="error_no_wifi_msg">Laitteesi ei ole yhdistettynä Wi-Fi-verkkoon. Käyttämällä mobiilidataa saattaa lisätä lisämaksuja.</string>
@@ -854,7 +854,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="hidden_album_display_name">Piilotettu albumi</string>
   <string name="home_menu_cleaner">Vapauta tilaa</string>
   <string name="home_menu_collage">Kollaasi</string>
-  <string name="home_menu_photo_movie">Katso taakse</string>
+  <string name="home_menu_photo_movie">Videoleike</string>
   <string name="home_menu_print">Tulosta kuvia</string>
   <string name="home_page_empty_action">Ota kuva</string>
   <string name="home_page_label">Kuvat</string>
@@ -1037,7 +1037,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="photo_editor_crop_reset">Nollaa</string>
   <string name="photo_editor_crop_rotation_format">%d°</string>
   <string name="photo_editor_doodle">Piirrä</string>
-  <string name="photo_editor_filter">Suodattimet</string>
+  <string name="photo_editor_filter">Suodata</string>
   <string name="photo_editor_label">Muokkaa</string>
   <string name="photo_editor_long_crop">Rajaa</string>
   <string name="photo_editor_miui_beauty">Kaunista</string>
@@ -1067,7 +1067,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="photo_editor_remover">Poista</string>
   <string name="photo_editor_rotate">Kierrä</string>
   <string name="photo_editor_saving">Tallennetaan…</string>
-  <string name="photo_editor_sticker">Tarrat</string>
+  <string name="photo_editor_sticker">Tarra</string>
   <string name="photo_editor_text">Teksti</string>
   <string name="photo_editor_transition_image_view">photo_view</string>
   <string name="photo_editor_transition_menu_view">menu_view</string>
@@ -1076,6 +1076,26 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="photo_print_menu_loading">Ladataan liitännäistä…</string>
   <string name="photo_print_package_finish">Ladattiin onnistuneesti</string>
   <string name="photo_print_package_installing">Ladataan liitännäistä…</string>
+  <string name="photomovie_audio_custom">Paikallinen</string>
+  <string name="photomovie_audio_none">Ei mitään</string>
+  <string name="photomovie_audio_unsupport">Tätä äänimuotoa ei tueta</string>
+  <string name="photomovie_cancel_download">Peruuta lataaminen</string>
+  <string name="photomovie_delete_disable">Tarvitset vähintään 3 kuvaa luodaksesi videoleikkeen.</string>
+  <string name="photomovie_download">Lataa</string>
+  <string name="photomovie_download_failed">Ei voitu ladata</string>
+  <string name="photomovie_download_failed_for_notwork">Ei voitu ladata. Tarkista verkkoyhteytesi.</string>
+  <string name="photomovie_download_without_wifi_msg">Käyttämällä mobiilitiedonsiirtoa tiedostojen lataamiseen nostaa datan käyttöäsi. Jos menet tiedonsiirtorajasi yli, operaattorisi saattaa veloittaa siitä lisämaksuja.</string>
+  <string name="photomovie_download_without_wifi_title">Tiedonsiirtovaroitus</string>
+  <string name="photomovie_item_name">Videoleike</string>
+  <string name="photomovie_return">Takaisin</string>
+  <string name="photomovie_save">Tallenna</string>
+  <string name="photomovie_save_failed">Tallentaminen epäonnistui</string>
+  <string name="photomovie_save_successfully">Tallennettiin onnistuneesti</string>
+  <string name="photomovie_saving">Luodaan videoleikettä…</string>
+  <string name="photomovie_tab_edit">Muokkaa</string>
+  <string name="photomovie_tab_music">Musiikki</string>
+  <string name="photomovie_tab_template">Sapluuna</string>
+  <string name="photomovie_template_default">Hidas</string>
   <string name="pick_from_contact">Valitse yhteystiedoista</string>
   <string name="pick_too_many_recipients">Liian monta vastaanottajaa</string>
   <string name="picker_cancel_download">Peruuta lataaminen</string>
@@ -1259,6 +1279,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="slideshow_interval_value">%1$d sekuntia</string>
   <string name="slim_after_backuped_summary">Korvaa laitteella olevat alkuperäiset kuvat optimoiduilla versioilla, kun ne ovat varmuuskopioitu Mi Pilveen. Alkuperäiset kuvat ovat silti käytettävissä Mi Pilvessä. Tämä voi säästää paljon paikallista tallennustilaa.</string>
   <string name="slim_after_backuped_title">Optimoi paikallinen tallennustila varmuuskopioinnin jälkeen</string>
+  <string name="slim_dialog_message">Optimoidut HD-kuvat ladataan Mi Pilvestä alkuperäisten tiedostojen sijaan.</string>
   <string name="slim_introduce">Korvaa laitteella olevat alkuperäiset kuvat optimoiduilla versioilla, kun ne ovat varmuuskopioitu Mi Pilveen. Alkuperäiset kuvat ovat silti käytettävissä Mi Pilvessä.</string>
   <string name="slim_introduce_with_specific_size">Korvaa laitteella olevat alkuperäiset kuvat optimoiduilla versioilla, kun ne ovat varmuuskopioitu Mi Pilveen. Alkuperäiset kuvat ovat silti käytettävissä Mi Pilvessä. Tämä voi säästää jopa %1$s paikallista tallennustilaa (Mi Tili vaaditaan).</string>
   <string name="slim_now">Optimoi nyt</string>
@@ -1376,7 +1397,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="video_editor_cancel">Peruuta</string>
   <string name="video_editor_done">Valmis</string>
   <string name="video_editor_down_load_later">Myöhemmin</string>
-  <string name="video_editor_down_load_no_wifi_tips">Lataa yhdistämällä Wi-Fi-verkkoon</string>
+  <string name="video_editor_down_load_no_wifi_tips">Yhdistä Wi-Fi-verkkoon lataaksesi</string>
   <string name="video_editor_down_load_now">Lataa</string>
   <string name="video_editor_encode_video">Muunnetaan videota…</string>
   <string name="video_editor_encode_video_error">Videon muunnos epäonnistui</string>

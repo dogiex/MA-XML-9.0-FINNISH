@@ -1813,9 +1813,9 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="incoming_call_breathing_light_color_title">Puheluiden ilmoitusvalon väri</string>
   <string name="incoming_call_breathing_light_freq_title">Puheluiden ilmoitusvalon vilkkumistiheys</string>
   <string name="incoming_call_volume_title">Soittoääni</string>
-  <string name="infinity_display_settings">Kokonäytön ruutu</string>
-  <string name="infinity_display_slogan">Jatkuvaa kasvua tutkimattomasta teknologiasta</string>
-  <string name="infinity_display_title">Kokonäytön ruutu</string>
+  <string name="infinity_display_settings">Koko näyttö</string>
+  <string name="infinity_display_slogan">Innovaatiota koko näytöllä</string>
+  <string name="infinity_display_title">Koko näytön ruutu</string>
   <string name="information_dialog_button_text">Selvä</string>
   <string name="input_method">Näppäimistö</string>
   <string name="input_method_selector">Syöttötavan valinta</string>
@@ -2094,7 +2094,7 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="lock_screen_signature_summary">Tämä viesti näytetään Lukitusnäytöllä</string>
   <string name="lock_screen_signature_title">Lukitusnäytön omistajatiedot</string>
   <string name="lock_screen_unlock_show">Ohita Lukitusnäyttö</string>
-  <string name="lock_screen_unlock_show_summary">Laitteen herätessä se menee suoraan Aloitusnäytölle tai salasanan syöttökenttään</string>
+  <string name="lock_screen_unlock_show_summary">Avaa Aloitusnäyttö tai syötä salasana suoraan</string>
   <string name="lock_secure_after_timeout_click_me_to_change_text">Vaihda napauttamalla</string>
   <string name="lock_settings">Lukitusnäyttö &amp; salasana</string>
   <string name="lock_settings_common_title">Lukitusasetukset</string>
@@ -3825,7 +3825,7 @@ PIN-koodi on mahdollisesti virheellinen."</string>
   <string name="size_tera_byte">Tt</string>
   <string name="skip_anyway_button_label">Ohita silti</string>
   <string name="skip_label">Ohita</string>
-  <string name="skip_lock_screen_confirm_msg">Ilmoitukset, musiikkisoittimen painikkeet, Kamera ja Mi Koti poistetaan käytöstä Lukitusnäytöltä.</string>
+  <string name="skip_lock_screen_confirm_msg">Ilmoituksia, musiikkisoittimen ohjaimia eikä pikavalintoja näytetä Lukitusnäytöllä.</string>
   <string name="skip_step">Ohita</string>
   <string name="slot_number">(Paikka %1$d)</string>
   <string name="slot_status_title">IMEI tieto</string>
@@ -4708,7 +4708,7 @@ Napauta plussaa lisätäksesi sanoja."</string>
   <string name="vr_listeners_title">Virtuaalitodellisuuden avustinpalvelut</string>
   <string name="wait_for_debugger">Odota vianetsintää</string>
   <string name="wait_for_debugger_summary">Sovellus odottaa vianetsinnän lisäämistä, ja käynnistyy sen jälkeen.</string>
-  <string name="wakeup_for_keyguard_notification_title">Herätä lukitusnäyttö ilmoituksista</string>
+  <string name="wakeup_for_keyguard_notification_title">Herätä Lukitusnäyttö ilmoituksista</string>
   <string name="wallpaper_attributions">Taustakuvat</string>
   <string name="wallpaper_attributions_values">"Satelliittikuvat:
 ©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>

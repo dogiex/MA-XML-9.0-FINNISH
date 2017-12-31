@@ -74,7 +74,6 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="cloud_backup_in_cancel">Peruuta</string>
   <string name="cloud_backup_in_process">Varmuuskopioidaan…</string>
   <string name="cloud_backup_select_recover">Valitse varmuuskopio Mi Pilvestä</string>
-  <string name="cloud_backup_title">Mi Pilven varmuuskopiot</string>
   <string name="cloud_restore_from_other_device">Lopetetaanko kohteesta %s palauttaminen ja poistetaanko tämä varmuuskopio? Et voi kumota tätä toimintoa.</string>
   <string name="cloud_restore_task">Palautetaan…</string>
   <string name="cloud_task_in_process">Lopetetaanko %s palauttaminen ja poistetaanko tämä varmuuskopio? Et voi kumota tätä toimintoa.</string>
@@ -126,7 +125,6 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="open_wifi_description">Yhdistä Wi-Fi-verkkoon palauttaaksesi sovelluksen</string>
   <string name="open_wifi_setting">Wi-Fi asetukset</string>
   <string name="process_whole_recovery">Palautetaan \"%s\"</string>
-  <string name="query_restore_back_view">Mi Pilvi varmuuskopio</string>
   <string name="query_restore_description">Palauta Aloitusnäytön sovellukset ja asetukset käyttäen tätä varmuuskopiota. Tämä korvaa jo olemassaolevien sovelluksien kaksoiskappaleiden sovellustiedot. Sovellukset, jotka eivät sisälly varmuuskopioon, siirretään viimeiselle Aloitusnäytölle.</string>
   <string name="query_restore_summary">Tälle laitteelle löydettiin Mi Pilvi varmuuskopio. Palautetaanko Aloitusnäytön sovellukset ja asetukset vai käytetäänkö laitetta uutena laitteena ja poistetaanko edellinen Mi Pilvi varmuuskopiot?</string>
   <string name="recover_from_micloud">Palauta Mi Pilvi varmuuskopio</string>

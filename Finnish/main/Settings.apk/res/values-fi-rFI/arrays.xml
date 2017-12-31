@@ -169,8 +169,8 @@
         <item>Erikseen</item>
     </string-array>
     <string-array name="status_bar_show_carrier_entries">
-        <item>Näytä vain Lukitusnäytöllä ja Ilmoitusalueella</item>
-        <item>Näytä operaattorin nimi aina</item>
+        <item>Näytä vain lukitusnäytöllä</item>
+        <item>Näytä vain tilapalkissa</item>
         <item>Älä näytä operaattorin nimeä koskaan</item>
     </string-array>
     <string-array name="check_importance_entries">

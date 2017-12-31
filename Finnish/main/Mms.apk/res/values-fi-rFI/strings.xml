@@ -65,7 +65,7 @@
   <string name="class_0_message_activity">Luokan 0 viesti</string>
   <string name="close">Sulje</string>
   <string name="cloud_recommend_msg">Synkronoi viestit Mi Pilveen napauttamalla.</string>
-  <string name="cloud_state_disabled">Mi Pilven synkronointi ei ole käytössä</string>
+  <string name="cloud_state_disabled">Ota Mi Pilven synkronointi käyttöön synkronoidaksesi viestit</string>
   <string name="cloud_state_sync_finished">Synkronoitu Mi Pilveen</string>
   <string name="cloud_state_syncing">Synkronoidaan Mi Pilveen…</string>
   <string name="compressing">Kuva on liian iso. Pakataan…</string>

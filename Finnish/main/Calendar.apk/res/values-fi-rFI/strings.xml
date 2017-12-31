@@ -15,10 +15,11 @@
   <string name="accessibility_sync_cal">Synkronoi Kalenteri</string>
   <string name="account_and_calendar">Tilit</string>
   <string name="accounts">Tilit ja synkronointi</string>
-  <string name="acct_not_synced">Tätä tiliä ei synkronoida. Kalenterisi eivät välttämättä ole ajan tasalla.</string>
+  <string name="acct_not_synced">Tätä tiliä ei synkronoida. Kalenterisi ei välttämättä ole ajan tasalla.</string>
   <string name="acessibility_cal_notification">Kalenteri-ilmoitus</string>
   <string name="acessibility_selected_marker_description">Valittu tapahtuma</string>
   <string name="action_bar_more_menu_view_description">Lisää</string>
+  <string name="action_bar_return">Takaisin</string>
   <string name="action_text_card_manager">Kanava</string>
   <string name="action_text_today">Tänään</string>
   <string name="ad_card_connecting">连接中</string>
@@ -96,12 +97,12 @@
   <string name="countdown_notify_before_3_day_title">Laskenta: %1$s 3 päivän kuluttua</string>
   <string name="countdown_notify_title">Laskenta: %1$s</string>
   <string name="countdown_today">Tänään</string>
-  <string name="create_an_account_desc">"Kalenteri toimii paremmin Mi-tilin kanssa.
+  <string name="create_an_account_desc">"Kalenteri toimii paremmin Mi Tilin kanssa.
 
-• Käytä kalenteriasi millä tahansa selaimella
-• Varmuuskopioi tapahtumasi turvallisesti"</string>
+• Käytä kalenteriasi millä tahansa selaimella.
+• Varmuuskopioi tapahtumasi turvallisesti."</string>
   <string name="creating_event">Tapahtuma luotu.</string>
-  <string name="creating_event_with_guest">Kutsut lähetetään.</string>
+  <string name="creating_event_with_guest">Lähetetään kutsuja…</string>
   <string name="credit">信用卡</string>
   <string name="credit_card_date_label">还款日：</string>
   <string name="credit_card_number_label">卡号：</string>
@@ -116,6 +117,7 @@
   <string name="date_calculate_days">Syötä päivien määrä</string>
   <string name="date_calculate_description">Opi, mikä päivämäärä on ennen tai jälkeen tietyn päivän</string>
   <string name="date_calculate_direction">Suunta</string>
+  <string name="date_calculate_direction_content_description">Suunta, nykyinen on %1s</string>
   <string name="date_calculate_result">Tulos</string>
   <string name="date_calculate_tab">Laske päiväys</string>
   <string name="date_calculate_today">0 päivää</string>
@@ -183,10 +185,10 @@
   <string name="electricity_detail_title">电费缴费</string>
   <string name="electricity_event_delete_successfully">电费缴费事件删除成功</string>
   <string name="email_guests_label">Lähetä sähköposti osallistujille</string>
-  <string name="email_install_hint">Sähköpostisovellus on poistettu. Asentamalla sen uudelleen voit palauttaa kalenterin tilitiedot tai lisätä uuden tilin.</string>
-  <string name="email_picker_label">Sähköposti ja</string>
+  <string name="email_install_hint">Sähköpostisovellus on poistettu. Asenna Sähköposti uudelleen palauttaaksesi kalenterin tilitiedot tai lisää uusi.</string>
+  <string name="email_picker_label">Lähetä sähköposti käyttäen</string>
   <string name="email_subject_prefix">"Re: "</string>
-  <string name="empty_event">Tyhjää tapahtumaa ei voi luoda</string>
+  <string name="empty_event">Tyhjiä tapahtumia ei voi luoda</string>
   <string name="english_premium_league">Englannin premier liiga</string>
   <string name="event_account">Tili</string>
   <string name="event_action_delete">Poista</string>
@@ -287,11 +289,11 @@
   <string name="insert_event_dialog_title">Huomio</string>
   <string name="insert_event_toast_add_failed">Lisääminen epäonnistui</string>
   <string name="insert_event_toast_add_success">Tapahtuma luotu</string>
-  <string name="install_email_app">Asenna sähköposti</string>
-  <string name="install_email_finished">Sähköposti Asennettu</string>
+  <string name="install_email_app">Asenna Sähköposti</string>
+  <string name="install_email_finished">Asennettiin onnistuneesti</string>
   <string name="install_weather_app_error">应用加载失败.</string>
   <string name="install_weather_app_loading">加载中...</string>
-  <string name="installing_email">Asennetaan...</string>
+  <string name="installing_email">Asennetaan…</string>
   <string name="item_num_selected">%1$d valittu</string>
   <string name="joke_card_click_toast">长按可复制笑话</string>
   <string name="joke_card_icon_text">%1$s人笑过</string>
@@ -390,9 +392,9 @@
 Tarkista verkkoyhteys ja yritä uudelleen."</string>
   <string name="no_network_btn">Yritä uudestaan</string>
   <string name="no_title_label">(Ei otsikkoa)</string>
-  <string name="no_visiable_calendar_message">Sinun täytyy valita kalenteritili. Jatka napauttamalla Valitse tili.</string>
-  <string name="no_visiable_calendar_select_account">Valitse tili</string>
-  <string name="no_visiable_calendar_title">Valitse kalenteritili</string>
+  <string name="no_visiable_calendar_message">Sinun täytyy lisätä kalenteritili. Napauta Lisää tili jatkaaksesi.</string>
+  <string name="no_visiable_calendar_select_account">Lisää tili</string>
+  <string name="no_visiable_calendar_title">Lisää tili</string>
   <string name="not_synced">ei synkronoitu</string>
   <string name="olympic_rank">排名</string>
   <string name="olympic_total">总数</string>
@@ -490,7 +492,7 @@ Tarkista verkkoyhteys ja yritä uudelleen."</string>
   <string name="response_yes">Kyllä</string>
   <string name="rest_day_indication">: )</string>
   <string name="saving_event">Tapahtuma tallennettu.</string>
-  <string name="saving_event_with_guest">Päivitykset lähetetään.</string>
+  <string name="saving_event_with_guest">Lähetetään päivityksiä…</string>
   <string name="search">Haku</string>
   <string name="search_calendar">Päiväys;Kuun termit;Kuu;Almanakka;Ennustus;Agenda;Kokous;Muistutus;Loma;Juhlapyhä;Syntymäpäivä;2016;2017;Kevätjuhla;Uudenvuoden päivä;Kansainvälinen Työläisten päivä;Keskisyksyn juhla</string>
   <string name="search_calendar_edit_event">Kokous;Muistutus;Agenda</string>
@@ -575,6 +577,7 @@ Voit myös lisätä muistutuksia, jotta et menetä mitään tärkeää."</string
   <string name="swipe_up_guide_hint_text">上滑发现更多</string>
   <string name="synced">synkronoitu</string>
   <string name="taishen">胎神</string>
+  <string name="talk_back_read_date">Nykyinen päivämäärä on %1$s,%2$s,</string>
   <string name="template_announce_item_index">Tapahtuma %1$s / %2$s.</string>
   <string name="template_week_num">Viikko %1$s</string>
   <string name="text_day">日</string>

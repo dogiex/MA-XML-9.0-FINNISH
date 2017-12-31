@@ -4,15 +4,21 @@
         <item>Poika</item>
         <item>Tyttö</item>
     </string-array>
-    <string-array name="owner_relation">
-        <item>Isä</item>
-        <item>Äiti</item>
-        <item>Isänisä</item>
-        <item>Isänäiti</item>
-        <item>Äidinisä</item>
-        <item>Äidinäiti</item>
+    <string-array name="collage_month">
+        <item>Tammi</item>
+        <item>Helmi</item>
+        <item>Maalis</item>
+        <item>Huhti</item>
+        <item>Touko</item>
+        <item>Kesä</item>
+        <item>Heinä</item>
+        <item>Elo</item>
+        <item>Syys</item>
+        <item>Loka</item>
+        <item>Marras</item>
+        <item>Joulu</item>
     </string-array>
-    <string-array name="sharer_relation_addressive">
+    <string-array name="owner_relation">
         <item>Isä</item>
         <item>Äiti</item>
         <item>Isänisä</item>
@@ -27,20 +33,14 @@
         <item>Kollegat</item>
         <item>Luokkakaverit</item>
         <item>Ystävät</item>
-        <item>Luokaton</item>
+        <item>Ryhmittelemätön</item>
     </string-array>
-    <string-array name="collage_month">
-        <item>Tammi</item>
-        <item>Helmi</item>
-        <item>Maalis</item>
-        <item>Huhti</item>
-        <item>Touko</item>
-        <item>Kesä</item>
-        <item>Heinä</item>
-        <item>Elo</item>
-        <item>Syys</item>
-        <item>Loka</item>
-        <item>Marras</item>
-        <item>Joulu</item>
+    <string-array name="sharer_relation_addressive">
+        <item>Isä</item>
+        <item>Äiti</item>
+        <item>Isänisä</item>
+        <item>Isänäiti</item>
+        <item>Äidinisä</item>
+        <item>Äidinäiti</item>
     </string-array>
 </resources>
