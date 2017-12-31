@@ -18,6 +18,8 @@
   <string name="date_day"/>
   <string name="date_month">/</string>
   <string name="date_year">/</string>
+  <string name="description_content">Näytön nauhoittaja tarjoaa järjestelmätason nauhoitusominaisuuksia. Tämä toiminto tarkoittaa, että hylkäät näytön nauhoitusominaisuuden. Vahvista jatkaminen.</string>
+  <string name="description_title">Tietoja Näytön Nauhoittajasta</string>
   <string name="deselect_all">Poista valinnat</string>
   <string name="error_open_file_failed_no_app_found">Sovellusta ei löytynyt tämän tiedoston avaamista varten</string>
   <string name="frames">Ruudunpäivitysnopeus</string>

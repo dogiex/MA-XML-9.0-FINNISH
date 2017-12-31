@@ -3,9 +3,10 @@
   <string name="action_cancel">Peruuta</string>
   <string name="action_submit">Lähetä</string>
   <string name="announcement">Huomio</string>
-  <string name="app_empty">Et ole ladannut yhtään sovellusta</string>
+  <string name="app_empty">Sovelluksia ei löytynyt.</string>
   <string name="app_label">Palaute</string>
   <string name="app_name">Palaute</string>
+  <string name="app_search">Hae sovelluksia</string>
   <string name="btn_send">Lähetä</string>
   <string name="bugreport_dialog_not_show_again">Älä näytä uudelleen</string>
   <string name="bugreport_dialog_submit_content">Palautteesi saattaa sisältää henkilökohtaista tietoa ja sijaintitietoa.</string>

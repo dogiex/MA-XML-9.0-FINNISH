@@ -71,7 +71,7 @@ Edellinen varmuuskopiointi: %2$s"</string>
   <string name="enable_cloud_service_notification">Sinun täytyy aktivoida Mi Pilvi</string>
   <string name="enable_find_device_error">Laitteen etsintää ei voi ottaa käyttöön. %1$s</string>
   <string name="enable_find_device_success">Laitteen etsintä on käytössä.</string>
-  <string name="enable_micloud">Käytä Mi Pilveä</string>
+  <string name="enable_micloud">Kirjaudu sisään käyttääksesi Mi Pilveä</string>
   <string name="enable_sync">Synkronoi</string>
   <string name="enable_sync_dspt">Älä synkronoi</string>
   <string name="error_data_in_transfer">Synkronointi valmistuu %s tunnissa.</string>
@@ -539,6 +539,7 @@ Tämä toiminto salaa ja lähettää laitteesi ID-tunnuksen Mi:n palvelimille."<
   <string name="sync_sub_dspt">Lähtevä tekstiviesti saatetaan vaatia tämän palvelun aktivointia varten. Operaattorisi veloittaa sinua tästä viestistä.</string>
   <string name="sync_sub_dspt_provision">Synkronoi kuvat, yhteystiedot, musiikki, sovellukset ja muuta kaikkien laitteidesi kesken</string>
   <string name="sync_sub_int_dspt">Lähtevä kansainvälinen tekstiviesti saatetaan vaatia tämän palvelun aktivointia varten. Operaattorisi veloittaa sinua tästä viestistä.</string>
+  <string name="title_back">Takaisin</string>
   <string name="title_reg">Luo Mi Tili</string>
   <string name="total_space_upgraded_to">Tilaa yhteensä:%s</string>
   <string name="trying_to_connect_to_network">Yhdistetään verkkoon…</string>
@@ -568,4 +569,5 @@ Tämä toiminto salaa ja lähettää laitteesi ID-tunnuksen Mi:n palvelimille."<
   <string name="wipe_data_dialog_title">Kohteita on synkronoimatta</string>
   <string name="wipe_secret_photo_dialog_title">Piilotettuja kuvia on synkronoimatta</string>
   <string name="xiaomi_cloud_service">Mi Pilvi</string>
+  <string name="xiaomi_cloud_service_subtitle">Kaikki tärkeät asiat yhdessä paikassa</string>
 </resources>

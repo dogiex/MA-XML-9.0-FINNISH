@@ -50,9 +50,25 @@
         <item>Kun laite on lukittu tai sovelluksesta poistutaan</item>
         <item>Kun laite on lukittu tai yhden minuutin jälkeen, kun poistutaan sovelluksesta</item>
     </string-array>
+    <string-array name="sort_type">
+        <item>Tila</item>
+        <item>Sovelluksen nimi</item>
+        <item>Käyttötiheys</item>
+        <item>Käytetty tallennustila</item>
+        <item>Asennusaika</item>
+        <item>Voit poistaa nämä sovellukset</item>
+    </string-array>
+    <string-array name="sort_title">
+        <item>Lajittele tilan mukaan</item>
+        <item>Lajittele sovelluksen nimen mukaan</item>
+        <item>Lajittele käyttötiheyden mukaan</item>
+        <item>Lajittele käytetyn tallennustilan mukaan</item>
+        <item>Lajittele asennusajan mukaan</item>
+        <item>Näytä ensin sovellukset, jotka voidaan poistaa</item>
+    </string-array>
     <string-array name="title_app_info">
         <item>Asennuslähde</item>
-        <item>Asennuksen aika</item>
+        <item>Asennusaika</item>
         <item>Edellisen päivityksen lähde</item>
         <item>Edellisen päivityksen aika</item>
     </string-array>

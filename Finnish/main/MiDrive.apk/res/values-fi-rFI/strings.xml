@@ -21,7 +21,6 @@
   <string name="create_new_folder_failed">Kansion luominen epäonnistui.</string>
   <string name="delete_failed">Poistaminen epäonnistui</string>
   <string name="delete_failed_retry">Poistaminen epäonnistui, odota %1$s ja yritä uudelleen</string>
-  <string name="delete_file">Poistetaanko tämä tiedosto?</string>
   <string name="delete_success">Tiedosto poistettiin</string>
   <string name="download_failed">Lataaminen epäonnistui</string>
   <string name="downloading">Ladataan</string>
