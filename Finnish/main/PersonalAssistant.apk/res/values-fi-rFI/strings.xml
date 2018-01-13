@@ -508,7 +508,6 @@
   <string name="express_goods_detail">Tilauksen tiedot</string>
   <string name="express_icon_tip">Vastaanota pikatoimituksen seurantatietoja käyttämällä puhelinnumeroasi ja tilaustietojasi.</string>
   <string name="express_icon_tip_link">Tietoturva &amp; yksityisyys</string>
-  <string name="express_info_divider">" / "</string>
   <string name="express_inqiury_select_logistics">Kuljetuspalvelu</string>
   <string name="express_inquiry">Seurataan</string>
   <string name="express_inquiry_and_send">Seurataan ja lähetetään</string>
@@ -572,7 +571,6 @@ Tarkista seurantanumerosi."</string>
   <string name="express_order_failed">Epäonnistui</string>
   <string name="express_order_ongoing">Tilataan…</string>
   <string name="express_order_result">Tulos</string>
-  <string name="express_order_state">%1$s / %2$s</string>
   <string name="express_order_state_accepted">Hyväksytty</string>
   <string name="express_order_state_allograph">Allekirjoitettu</string>
   <string name="express_order_state_cancelled">Peruutettu</string>
@@ -977,7 +975,6 @@ Tarkista seurantanumerosi."</string>
   <string name="mini_safe_no">安全码</string>
   <string name="mini_safe_no_hint">卡背面末三位数字</string>
   <string name="mini_start_download">开始下载...</string>
-  <string name="mini_str_null">xx</string>
   <string name="mini_temp_support_xiaomi">暂时仅支持小米手环</string>
   <string name="mini_to_open">去开通</string>
   <string name="mini_to_open_error">指纹采集软件启动异常，请检查</string>
@@ -1235,7 +1232,6 @@ Tarkista seurantanumerosi."</string>
   <string name="pie_chart_label_catering">Ruoka:</string>
   <string name="pie_chart_label_education">Koulutus:</string>
   <string name="pie_chart_label_entertainment">Viihde:</string>
-  <string name="pie_chart_label_format">%1$s %2$s%%</string>
   <string name="pie_chart_label_go_dutch">Jaa kustannuksia:</string>
   <string name="pie_chart_label_life">Elämä:</string>
   <string name="pie_chart_label_medical">Terveydenhuolto:</string>
@@ -1244,7 +1240,6 @@ Tarkista seurantanumerosi."</string>
   <string name="pie_chart_label_remain">Jäljellä:</string>
   <string name="pie_chart_label_remittance">Siirretty:</string>
   <string name="pie_chart_label_shopping">Ostokset:</string>
-  <string name="pie_chart_label_special">%1$s &lt;0.01%%</string>
   <string name="pie_chart_label_spending">Maksut:</string>
   <string name="pie_chart_label_telephone_charge">Viestintä:</string>
   <string name="pie_chart_label_tenement">Vuokra:</string>

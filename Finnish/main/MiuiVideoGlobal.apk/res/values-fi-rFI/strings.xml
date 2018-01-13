@@ -24,7 +24,6 @@
   <string name="airkan_playing">Suoratoistetaan laitteeseen %s</string>
   <string name="airkan_tips">Napauta suoratoistaaksesi</string>
   <string name="app_name">Mi Video</string>
-  <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
   <string name="audio_changed">Uusi ääniraita</string>
   <string name="audio_title">Ääniraita</string>
   <string name="audio_track">Ääniraita</string>

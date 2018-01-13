@@ -1069,8 +1069,6 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="photo_editor_saving">Tallennetaan…</string>
   <string name="photo_editor_sticker">Tarra</string>
   <string name="photo_editor_text">Teksti</string>
-  <string name="photo_editor_transition_image_view">photo_view</string>
-  <string name="photo_editor_transition_menu_view">menu_view</string>
   <string name="photo_page_save_uri_image_fail">Galleriaan tallentaminen epäonnistui</string>
   <string name="photo_page_save_uri_image_ok">Kuva tallennettiin Galleriaan</string>
   <string name="photo_print_menu_loading">Ladataan liitännäistä…</string>

@@ -548,7 +548,6 @@
   <string name="inline_picture_deleted">Ladataan puuttuva kuva…</string>
   <string name="input_password_prompt">Syötä salasanasi</string>
   <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
-  <string name="intent_exchange_package">com.android.exchange</string>
   <string name="interact_with_server_error">Palvelimeen ei saatu yhteyttä</string>
   <string name="invalid_recipient">Osoite %s ei kelpaa.</string>
   <string name="invalid_recipient_title">Virheellinen vastaanottaja</string>

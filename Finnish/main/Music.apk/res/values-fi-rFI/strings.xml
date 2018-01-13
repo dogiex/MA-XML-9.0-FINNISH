@@ -142,7 +142,6 @@
   <string name="connecting_apk">Yhdistetään...</string>
   <string name="continue_backup">Jatka</string>
   <string name="cp_info_first">Musiikin online suoratoistopalvelun pääosin tarjoaa Ultimate Oy.</string>
-  <string name="cp_info_second">service1@ultimobi.com</string>
   <string name="create_order_fail">Tilausta ei voitu luoda, yritä uudelleen.</string>
   <string name="create_playlist">Luo soittolista</string>
   <string name="create_playlist_failure">Soittolistan luominen epäonnistui</string>
