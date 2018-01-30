@@ -220,9 +220,9 @@
   <string name="no_vm_number_msg">SIM-kortille ei ole tallennettu puhelinvastaajan numeroa.</string>
   <string name="non_primary_user">Vain laitteen omistaja voi katsella ja hallinnoida estettyjä numeroita.</string>
   <string name="notification_AllMissedCallTitle">Kaikki vastaamatta jääneet puhelut</string>
-  <string name="notification_missedCallTicker">Vastaamatta jäänyt puhelu numerosta %s</string>
-  <string name="notification_missedCallTitle">Vastaamatta jäänyt puhelu</string>
-  <string name="notification_missedCall_call_back">Soita</string>
+  <string name="notification_missedCallTicker">Vastaamaton puhelu numerosta %s</string>
+  <string name="notification_missedCallTitle">Vastaamaton puhelu</string>
+  <string name="notification_missedCall_call_back">Soita takaisin</string>
   <string name="notification_missedCall_call_back_miui">Soita</string>
   <string name="notification_missedCall_message">Viesti</string>
   <string name="notification_missedCallsMsg">%s vastaamatonta puhelua</string>
