@@ -157,7 +157,6 @@
   <string name="account_sync_settings_settings">Synkronoi yhteystiedot ja kalenteri</string>
   <string name="account_sync_settingstip_description">Synkronointi</string>
   <string name="account_waiting_for_folders_msg">Ladataan kansioluetteloa...</string>
-  <string name="actionbar_large_unread_count">%1$d+ lukematonta</string>
   <string name="activity_folder_selection">Valitse kansio</string>
   <string name="activity_mailbox_selection">Valitse tili</string>
   <string name="ad_merge">Mainokset &amp; Ilmoitukset</string>
@@ -213,6 +212,8 @@
   <string name="auto_advance_help_title">Viestin poistamisen jälkeen, näytä…</string>
   <string name="auto_advance_label">Poista viestiketju</string>
   <string name="auto_advance_summary">Valitse mihin viestiin siirrytään viestin poistamisen jälkeen</string>
+  <string name="auto_login_fail">Automaattinen kirjautuminen epäonnistui</string>
+  <string name="auto_login_fail_to_retry">Automaattinen kirjautuminen epäonnistui, yritä uudelleen.</string>
   <string name="auto_mail_describe">139 Sähköpostipalvelun Automaattinen Määritys voi auttaa sinua täyttämään postilaatikkosi kirjautumistiedot. Haluatko ottaa tämän ominaisuuden käyttöön?</string>
   <string name="auto_mail_disable_txt">Ei käytössä</string>
   <string name="auto_mail_enable_txt">Ota käyttöön</string>
@@ -530,7 +531,6 @@
   <string name="header_label_general_preferences">Yleistä</string>
   <string name="help_and_info">Ohje</string>
   <string name="help_config">Määritä itse</string>
-  <string name="hide_atts_remaining">Piilota %1$d liitetiedostoa</string>
   <string name="hide_elided">▼ Piilota lainattu teksti</string>
   <string name="hide_password">Piilota salasana</string>
   <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
@@ -558,7 +558,6 @@
   <string name="loading_conversations">Ladataan…</string>
   <string name="loading_from_remote">Ladataan…</string>
   <string name="local_search">Paikallinen haku</string>
-  <string name="local_search_result">%s hakutulosta synkronoiduissa viesteissä</string>
   <string name="login">Kirjaudu sisään</string>
   <string name="login139">Kirjaudu sisään China Mobilella</string>
   <string name="login_failed_ticker">Kirjautuminen tiliin %s epäonnistui.</string>
@@ -671,7 +670,6 @@
   <string name="mibill_privacy_policy_link">"Käyttämällä tätä toimintoa, hyväksyt meidän "&lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Palveluehdot&lt;/a&gt;</string>
   <string name="mibill_privacy_policy_title">Hallitse laskuja automaattisesti</string>
   <string name="min_payment_text">Maksettava vähintään</string>
-  <string name="more_atts_remaining">%1$d lisää jäljellä</string>
   <string name="more_context">Lisää</string>
   <string name="more_string">yli %1$s</string>
   <string name="move_to_selection_dialog_title">Siirrä kohteeseen</string>
@@ -685,7 +683,6 @@
   <string name="network_try_again">Tarkista verkkoyhteys ja yritä uudelleen</string>
   <string name="network_unavailable">Verkko ei saatavilla</string>
   <string name="new_incoming_messages_one">Uusi viesti lähettäjältä %s. Näytä.</string>
-  <string name="new_messages">%1$d uutta viestiä</string>
   <string name="new_signature_has_saved">Tallennettiin onnistuneesti</string>
   <string name="next_action">Seuraava</string>
   <string name="no">Ei</string>
@@ -848,6 +845,9 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="push_wps_confirm_message">Kokeile WPS Officea tämän liitetiedoston avaamiseen.</string>
   <string name="push_wps_confirm_title">Kokeile WPS Officea</string>
   <string name="push_wps_no_response_app">Tämän toimenpiteen käsittelemiseen ei löydetty sovellusta</string>
+  <string name="qq_auto_login_failed_cpy_pass_success">Kopioitiin onnistuneesti; siirry takaisin kirjautumissivulle ja liitä teksti täyttääksesi salasanakentän</string>
+  <string name="qq_auto_login_failed_dialog_message">Kopioi vahvistuskoodi ja palaa sen jälkeen takaisin kirjautumissisuvlle ja napauta \"Syötä käyttäjänimi ja salasana kirjautuaksesi\"; liitä täyttääksesi salasanakenttä ja kirjautuaksesi sisään manuaalisesti</string>
+  <string name="qq_auto_login_failed_dialog_positive_label">Kopioi vahvistuskoodi</string>
   <string name="qq_bar_open_imap">Apua</string>
   <string name="qq_bar_send_message">Lähetä tekstiviesti</string>
   <string name="qq_login_basecode">Kirjaudutaan QQ Sähköpostiin selaimessa. Syötä salasanasi.</string>
@@ -872,8 +872,7 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="quick_2">Kuulostaa hyvältä!</string>
   <string name="quick_3">Luen tämän myöhemmin ja palaan asiaan.</string>
   <string name="quick_4">Pidetään kokous, jossa tämä on aiheena.</string>
-  <string name="quick_reply_dialog_title">Choose a reply</string>
-  <string name="quick_reply_hint">Vastaa %1$d henkilölle</string>
+  <string name="quick_reply_dialog_title">Valitse vastaus</string>
   <string name="quick_reply_hint_bcc">(BCC:llä)</string>
   <string name="quick_reply_hint_cc">(CC:llä)</string>
   <string name="quick_reply_hint_reply_only_from">Pikavastaus (vain lähettäjä)</string>
@@ -937,7 +936,6 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="refreshing_done">Valmis</string>
   <string name="release_to_refresh">Päivitä vapauttamalla</string>
   <string name="remind_attachment_size_limit">Sähköpostisi tulisi olla alle %s Mt</string>
-  <string name="remote_search_result">%s hakutulosta palvelimella</string>
   <string name="remove_account">Poista tili</string>
   <string name="remove_folder">Poista kansiosta %1$s</string>
   <string name="remove_star">Poista tähti</string>
@@ -950,6 +948,7 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="request_entity_large">Tiedosto on liian iso</string>
   <string name="request_permission_activity">Käyttöoikeuspyyntö</string>
   <string name="respond_inline">"   Vastaa inline"</string>
+  <string name="retry_login">Kirjaudu sisään uudelleen</string>
   <string name="save_action">Tallenna</string>
   <string name="save_attachment">Tallenna</string>
   <string name="save_draft_failed">Luonnoksen tallentaminen epäonnistui</string>
@@ -1096,7 +1095,6 @@ Poistetaanko tili?"</string>
   <string name="undo">Kumoa</string>
   <string name="unknow">Tuntematon</string>
   <string name="unread_string">keskustelua ei ole luettu</string>
-  <string name="unsent_messages_in_outbox">%2$s: %1$s lähettämätöntä viestiä</string>
   <string name="unzip_file_failed">Tiedoston purkaminen epäonnistui</string>
   <string name="update_date_format_templete">HH:mm, d.M.</string>
   <string name="update_to_wps_mail">Nauti lisää ominaisuuksia WPS Maililla</string>

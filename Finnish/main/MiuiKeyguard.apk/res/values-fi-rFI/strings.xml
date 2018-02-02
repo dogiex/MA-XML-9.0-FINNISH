@@ -15,6 +15,8 @@
   <string name="face_data_input_msg">Aseta kasvosi kehysten sisään</string>
   <string name="face_data_input_ok">Valmis</string>
   <string name="face_data_input_ok_msg">Avaa näyttö poistaaksesi laitteesi lukitus käyttäen kasvojesi tietoja.</string>
+  <string name="face_data_input_ok_msg_angle">"Avaa laitteesi lukitus kasvoillasi, kun näyttö on päällä.
+(Tallenna kasvojesi tiedot, mukaan lukien kaikki vaaditut kulmat.)​"</string>
   <string name="face_data_input_ok_title">Lisättiin onnistuneesti</string>
   <string name="face_data_input_title">Lisää kasvojen tiedot</string>
   <string name="face_data_introduction_msg">Kasvojen tietoja voidaan käyttää laitteesi lukituksen avaamiseen tai henkilöllisyytesi tunnistamiseen. Lisää Lukitusnäytön salasana ennen, kuin lisäät kasvojesi tiedot.</string>
@@ -26,7 +28,9 @@
   <string name="face_data_manage_delete_title">Kasvojen tiedot</string>
   <string name="face_data_manage_unlock_msg">Avaa laitteen lukitus käyttämällä kasvojesi tietoja</string>
   <string name="face_data_manage_unlock_title">Avaa lukitus käyttämällä kasvojen tietoja</string>
-  <string name="face_data_suggesstion_first">Avaamalla laitteen lukitus käyttämällä kasvojesi tietoja on vähemmän turvallinen, kuin käyttämällä Lukitusnäytön salasanaa. Henkilöt, jotka näyttävät sinulta voivat avata laitteen lukituksen.</string>
+  <string name="face_data_siggesstion_next">Seuraava</string>
+  <string name="face_data_siggesstion_next_time">Seuraava(%ds)</string>
+  <string name="face_data_suggesstion_first">Tietoturvaongelmat: Kasvojentunnistus on vähemmän turvallisempi, kuin PIN-koodi, salasana tai kuvio. Laitteesi saatetaan saada avattua valokuvallasi, samoin kuin henkilöillä tai esineillä, joilla on samanlainen ulkonäkö.</string>
   <string name="face_data_suggesstion_second">Varmista, että kaikki kasvosi ei peity millään esineillä ja että ne ovat selvästi esillä. Kasvosi pitäisi olla myös hyvin valaistu.</string>
   <string name="face_unlock_adjust_distance">Varmista, että kasvosi ja näyttösi etäisyys on ihanteellinen.</string>
   <string name="face_unlock_be_on_the_screen">Pidä laitetta kasvojesi edessä</string>
@@ -45,6 +49,8 @@
   <string name="face_unlock_passwork">Käytä salasanaa</string>
   <string name="face_unlock_passwork_and_fingerprint">Käytä salasanaa tai kasvojen tietoja</string>
   <string name="face_unlock_quality">Kasvojasi ei nähty kunnolla</string>
+  <string name="face_unlock_reenter_content">Kasvojentunnistusalgoritmia päivitetään. Napauta tallentaaksesi kasvojesi tiedot uudelleen.</string>
+  <string name="face_unlock_reenter_title">Tallenna kasvojesi tiedot uudelleen.</string>
   <string name="face_unlock_reveal_eye">Tee silmäsi näkyviksi</string>
   <string name="face_unlock_reveal_mouth">Tee huulesi näkyviksi</string>
   <string name="face_unlock_rise">Laske päätäsi</string>

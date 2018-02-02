@@ -47,9 +47,9 @@
         <item>Kaikki Kansiot</item>
     </string-array>
     <string-array name="prefEntries_autoAdvance">
-        <item>Uudemmat</item>
-        <item>Vanhemmat</item>
-        <item>Keskusteluluettelo</item>
+        <item>Uudempi viesti</item>
+        <item>Vahempi viesti</item>
+        <item>Postilaatikko</item>
     </string-array>
     <string-array name="signature_normal_string_array">
         <item>Blogi:</item>

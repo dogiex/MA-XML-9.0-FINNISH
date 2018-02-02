@@ -928,6 +928,7 @@ Muodostetaanko pari tämän laitteen kanssa?"</string>
   <string name="clear_uri_btn_text">Poista käyttöoikeus</string>
   <string name="clear_user_data_text">Tyhjennä tiedot</string>
   <string name="close_app">Sulje nykyinen sovellus</string>
+  <string name="close_demo_mode">Peruuta</string>
   <string name="close_gesture">Sulje käyttämällä elettä</string>
   <string name="close_miui_optimization_title">Poista MIUI:n optimointi käytöstä</string>
   <string name="close_miui_optimization_warning_message">Laitteesi käynnistyy uudelleen, jotta muutokset tulevat voimaan.</string>
@@ -2677,6 +2678,8 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="online_resource_entry">Online resurssit</string>
   <string name="only_one_home_message">Aloitusnäytön asetukset piilotetaan, kunnes asennat toisen aloitusnäyttösovelluksen.</string>
   <string name="onscreen_keyboard_settings_summary">Näyttönäppäimistön asetukset</string>
+  <string name="open_demo_mode">Avaa</string>
+  <string name="open_demo_mode_warning_message">Kun Demotila on päällä, tilapalkissa oleva kello pysähtyy ja akku ja signaalin kuvakkeet näyttävät täyttä. Voit muuttaa tätä poistamalla Demotilan käytöstä tai käynnistämällä laitteen uudelleen.</string>
   <string name="open_miui_optimization_title">Ota MIUI optimointi käyttöön</string>
   <string name="open_miui_optimization_warning_message">Laitteesi käynnistyy uudelleen, jotta muutokset tulevat voimaan.</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Peruuta</string>

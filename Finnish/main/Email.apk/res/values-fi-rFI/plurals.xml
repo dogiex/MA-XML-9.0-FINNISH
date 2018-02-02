@@ -135,4 +135,36 @@
         <item quantity="few">%1$d vanhempaa viestiä</item>
         <item quantity="many">%1$d vanhempaa viestiä</item>
     </plurals>
+    <plurals name="actionbar_large_unread_count">
+        <item quantity="other">%1$d+ lukematonta</item>
+        <item quantity="one">%1$d+ lukematon</item>
+    </plurals>
+    <plurals name="hide_atts_remaining">
+        <item quantity="other">Piilota %1$d liitettä</item>
+        <item quantity="one">Piilota %1$d liite</item>
+    </plurals>
+    <plurals name="local_search_result">
+        <item quantity="other">%s hakutulosta synkronoiduissa viesteissä</item>
+        <item quantity="one">%s hakutulos synkronoiduissa viesteissä</item>
+    </plurals>
+    <plurals name="more_atts_remaining">
+        <item quantity="other">Vielä %1$d jäljellä</item>
+        <item quantity="one">Vielä %1$d jäljellä</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d uutta viestiä</item>
+        <item quantity="one">%1$d uusi viesti</item>
+    </plurals>
+    <plurals name="quick_reply_hint">
+        <item quantity="other">Vastaa %1$d henkilölle</item>
+        <item quantity="one">Vasta %1$d henkilölle</item>
+    </plurals>
+    <plurals name="remote_search_result">
+        <item quantity="other">%s hakutulosta palvelimella</item>
+        <item quantity="one">%s hakutulos palvelimella</item>
+    </plurals>
+    <plurals name="unsent_messages_in_outbox">
+        <item quantity="other">%1$s lähettämätöntä kansiossa %2$s</item>
+        <item quantity="one">%1$s lähettämätön kansiossa %2$s</item>
+    </plurals>
 </resources>
