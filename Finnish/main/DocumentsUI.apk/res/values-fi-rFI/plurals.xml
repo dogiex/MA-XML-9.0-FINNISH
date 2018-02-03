@@ -1,40 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="clipboard_files_clipped">
+      <item quantity="other">Kopioitiin %1$d tiedostoa leikepöydälle.</item>
+      <item quantity="one">Kopioitiin %1$d tiedosto leikepöydälle.</item>
+  </plurals>
+  <plurals name="compress_begin">
+        <item quantity="other">Pakataan %1$d tiedostoa.</item>
+        <item quantity="one">Pakataan %1$d tiedosto.</item>
+    </plurals>
+    <plurals name="compress_error_notification_title">
+        <item quantity="other">%1$d tiedostoa ei voitu pakata</item>
+        <item quantity="one">%1$d tiedostoa ei voitu pakata</item>
+    </plurals>
+    <plurals name="compress_failure_alert_content">
+        <item quantity="other">Näitä tiedostoja ei pakattu: %1$s</item>
+        <item quantity="one">Tätä tiedostoa ei pakattu: %1$s</item>
+    </plurals>
     <plurals name="copy_begin">
-        <item quantity="other">Kopioidaan %1$d tiedostoa.</item>
-        <item quantity="one">Kopioidaan %1$d tiedosto.</item>
+        <item quantity="other">Kopioidaan %1$d kohdetta.</item>
+        <item quantity="one">Kopioidaan %1$d kohdetta.</item>
     </plurals>
-    <plurals name="move_begin">	
-        <item quantity="other">Siirretään %1$d tiedostoa.</item>
-        <item quantity="one">Siirretään %1$d tiedosto.</item>
-    </plurals>
-    <plurals name="deleting">		
-        <item quantity="other">Poistetaan %1$d tiedostoa.</item>
-        <item quantity="one">Poistetaan %1$d tiedosto.</item>
+    <plurals name="copy_converted_warning_content">
+        <item quantity="other">Nämä tiedostot muunnettiin toiseen muotoon: %1$s</item>
+        <item quantity="one">Tämä tiedosto muunnettiin toiseen muotoon: %1$s</item>
     </plurals>
     <plurals name="copy_error_notification_title">
-        <item quantity="other">%1$d tiedoston kopioiminen epäonnistui</item>
-        <item quantity="one">%1$d tiedoston kopioiminen epäonnistui</item>
+        <item quantity="other">%1$d kohteen kopioiminen epäonnistui</item>
+        <item quantity="one">%1$d kohteen kopioiminen epäonnistui</item>
     </plurals>
-    <plurals name="move_error_notification_title">
-        <item quantity="other">%1$d tiedoston siirtäminen epäonnistui</item>
-        <item quantity="one">%1$d tiedoston siirtäminen epäonnistui</item>
+    <plurals name="copy_failure_alert_content">
+        <item quantity="other">Näitä tiedostoja ei kopioitu: %1$s</item>
+        <item quantity="one">Tätä tiedostoa ei kopioitu: %1$s</item>
     </plurals>
     <plurals name="delete_error_notification_title">
-        <item quantity="other">%1$d tiedoston poistaminen epäonnistui</item>
-        <item quantity="one">%1$d tiedoston poistaminen epäonnistui</item>
+        <item quantity="other">%1$d kohteen poistaminen epäonnistui</item>
+        <item quantity="one">%1$d kohteen poistaminen epäonnistui</item>
     </plurals>
-    <plurals name="clipboard_files_clipped">
-        <item quantity="other">Kopioitiin %1$d tiedostoa leikepöydälle.</item>
-        <item quantity="one">Kopioitiin %1$d tiedosto leikepöydälle.</item>
-    </plurals>
-    <plurals name="elements_selected">
-        <item quantity="other">%1$d valittu</item>
-        <item quantity="one">%1$d valittu</item>
-    </plurals>
-    <plurals name="elements_dragged">
-        <item quantity="other">%1$d kohdetta</item>
-        <item quantity="one">%1$d kohde</item>
+    <plurals name="delete_failure_alert_content">
+        <item quantity="other">Näitä tiedostoja ei poistettu: %1$s</item>
+        <item quantity="one">Tätä tiedostoa ei poistettu: %1$s</item>
     </plurals>
     <plurals name="delete_files_confirmation_message">
         <item quantity="other">Poistetaanko %1$d tiedostoa?</item>
@@ -47,5 +51,37 @@
     <plurals name="delete_items_confirmation_message">
         <item quantity="other">Poistetaanko %1$d kohdetta?</item>
         <item quantity="one">Poistetaanko %1$d kohde?</item>
+    </plurals>
+    <plurals name="deleting">
+        <item quantity="other">Poistetaan %1$d kohdetta.</item>
+        <item quantity="one">Poistetaan %1$d kohde.</item>
+    </plurals>
+    <plurals name="elements_dragged">
+        <item quantity="other">%1$d kohdetta</item>
+        <item quantity="one">%1$d kohde</item>
+    </plurals>
+    <plurals name="elements_selected">
+        <item quantity="other">%1$d valittu</item>
+        <item quantity="one">%1$d valittu</item>
+    </plurals>
+    <plurals name="extract_begin">
+        <item quantity="other">Puretaan %1$d tiedostoa.</item>
+        <item quantity="one">Puretaan %1$d tiedosto.</item>
+    </plurals>
+    <plurals name="extract_failure_alert_content">
+        <item quantity="other">Näitä tiedostoja ei purettu: %1$s</item>
+        <item quantity="one">Tätä tiedostoa ei purettu: %1$s</item>
+    </plurals>
+    <plurals name="move_begin">
+        <item quantity="other">Siirretään %1$d kohdetta.</item>
+        <item quantity="one">Siirretään %1$d kohde.</item>
+    </plurals>
+    <plurals name="move_error_notification_title">
+        <item quantity="other">%1$d kohteen siirtäminen epäonnistui</item>
+        <item quantity="one">%1$d kohteen siirtäminen epäonnistui</item>
+    </plurals>
+    <plurals name="move_failure_alert_content">
+        <item quantity="other">Näitä tiedostoja ei siirretty: %1$s</item>
+        <item quantity="one">Tätä tiedostoa ei siirretty: %1$s</item>
     </plurals>
 </resources>

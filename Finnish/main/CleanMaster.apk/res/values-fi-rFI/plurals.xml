@@ -82,8 +82,8 @@
         <item quantity="one">%d viden tuonti epäonnistui. Vapauta tallennustilaa ja yritä uudelleen.</item>
     </plurals>
     <plurals name="wechat_empty_files">
-        <item quantity="other">(%1$d tyhjää tiedostoa) %2$s</item>
-        <item quantity="one">(%1$d tyhjä tiedosto) %2$s</item>
+        <item quantity="other">(%1$d tyhjää tiedostoa)</item>
+        <item quantity="one">(%1$d tyhjä tiedosto)</item>
     </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">Ei ole käytetty %d päivään</item>

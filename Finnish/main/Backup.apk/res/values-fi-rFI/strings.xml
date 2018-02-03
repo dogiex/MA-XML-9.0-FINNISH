@@ -5,6 +5,16 @@
   <string name="account_contact_backup_info">Google Tili, Mi Tili, ja Yhteystietojen tiedot</string>
   <string name="account_login">Kirjaudu sisään</string>
   <string name="account_summary">Varmuuskopioi Google Tili, Mi Tili, ja muut käyttäjän tiedot</string>
+  <string name="alert_button_agree_and_continue">Salli</string>
+  <string name="alert_button_deny">Kiellä</string>
+  <string name="alert_message_backup_to_miasist">Mi PC Suite pyytää käyttöoikeutta luoda varmuuskopio tietokoneelle. Sallitaanko?</string>
+  <string name="alert_message_restore_from_miasist">Mi PC Suite pyytää käyttöoikeutta palauttaa kohteita puhelimeesi. Sallitaanko?</string>
+  <string name="alert_miasist_occupy_backup">Varmuuskopioidaan kohteita käyttäen Mi PC Suitea… Odota, kunnes varmuuskopiointi on valmis ja yritä uudelleen.</string>
+  <string name="alert_miasist_occupy_restore">Palautetaan kohteita käyttäen Mi PC Suitea… Odota, kunnes kohteet on palautettu ja yritä uudelleen.</string>
+  <string name="alert_phone_occupy_backup">Mi PC Suitea ei voi käyttää tällä hetkellä. Suorita kohteiden varmuuskopiointi tai palauttaminen loppuun puhelimellasi ja yritä uudelleen.</string>
+  <string name="alert_second_space_not_support_miasist">Mi PC Suitea ei voi käyttää Toisessa tilassa. Siirry Ensimmäiseen tilaan.</string>
+  <string name="alert_title_backup_to_miasist">Varmuuskopioidaanko kohteet käyttäen Mi PC Suitea?</string>
+  <string name="alert_title_restore_from_miasist">Palautetaanko kohteet puhelimeesi?</string>
   <string name="already_enable_encrypt">Salaus on jo käytössä</string>
   <string name="app_name">Varmuuskopiointi</string>
   <string name="apps_and_data_item_desc">Sovellukset ja tiedot</string>
@@ -178,7 +188,7 @@ http://www.miliao.com
   <string name="import_from_xiaomi_account_hint2">Jos sinulla on jo varmuuskopio, paina Seuraava.</string>
   <string name="import_from_xiaomi_account_hint_title">Käytä Mi Talk -sovellusta varmuuskopioidaksesi yhteystiedot laitteistasi.</string>
   <string name="import_tip_summary">Yhteensopivuusongelmien takia, voit siirtää vain osittaisia tietoja iOS -laitteilta. Varmista, että olet luonut iCloud -varmuuskopion ennen siirron aloittamista.</string>
-  <string name="import_tip_title">Vinkit:</string>
+  <string name="list_footer_tip_title">Vinkit:</string>
   <string name="loading_data">Ladataan tietoja</string>
   <string name="local_app_name">Varmuuskopiointi</string>
   <string name="local_backup_window_title">Paikallisen varmuuskopion tiedot</string>
@@ -213,6 +223,9 @@ http://www.miliao.com
   <string name="notif_backup_complete_title">Varmuuskopioitu onnistuneesti</string>
   <string name="notif_backup_content">Varmuuskopioidaan käyttäjän tietoja</string>
   <string name="notif_backup_title">Varmuuskopioi tiedot</string>
+  <string name="notif_calculating_app">Lasketaan %1$s (%2$s)…</string>
+  <string name="notif_connect_miasist">Yhdistetty Mi PC Suiteen</string>
+  <string name="notif_disconnect_miasist">Ei yhdistetty Mi PC Suiteen</string>
   <string name="notif_icloud_canceled_summary">Peruutettu</string>
   <string name="notif_icloud_canceling_summary">Peruutetaan…</string>
   <string name="notif_icloud_import_title">Tuo tiedot iCloudista</string>
@@ -222,9 +235,12 @@ http://www.miliao.com
   <string name="notif_icloud_need_wifi_summary">Odotetaan Wi-Fiä</string>
   <string name="notif_icloud_saved_summary">Tuotiin onnistuneesti</string>
   <string name="notif_icloud_saving_summary">Palautetaan tietoja…</string>
+  <string name="notif_parse_select_descript_error">Varmuuskopioitujen kohteiden luetteloa ei voitu synkronoida.</string>
+  <string name="notif_receiving_transingsd">Vastaanotetaan %1$s (%2$s)…</string>
   <string name="notif_restore_complete_title">Palautettu onnistuneesti</string>
   <string name="notif_restore_content">Palautetaan käyttäjän tiedot</string>
   <string name="notif_restore_title">Palauta tiedot</string>
+  <string name="notif_sending_transingsd">Lähetetään %1$s (%2$s)…</string>
   <string name="notif_trans_auto_reconnecting_content">Voit peruuttaa nykyisen tehtävän jos se on tarpeen.</string>
   <string name="notif_trans_auto_reconnecting_title">Yhteys keskeytettiin. Yhdistetään uudelleen automaattisesti…</string>
   <string name="notif_trans_receiving_completed">Tiedot vastaanotettiin onnistuneesti</string>
@@ -359,10 +375,30 @@ Vapauta vähintään %s."</string>
   <string name="trans_connect_failed_toast">Ei voitu yhdistää</string>
   <string name="trans_connecting_toast">Yhdistetään…</string>
   <string name="trans_connection_failed">Yhteys keskeytyi</string>
+  <string name="trans_detail_app_apk_list_title">Asennetut sovellukset</string>
+  <string name="trans_detail_app_apk_page_title">Valitse sovellukset</string>
+  <string name="trans_detail_app_data_list_title">Sovellustiedot</string>
+  <string name="trans_detail_app_data_page_title">Valitse sovellustiedot</string>
+  <string name="trans_detail_app_data_useless_tip">Voit palauttaa nämä sovelluksesta, siirtämistä ei tarvita.</string>
+  <string name="trans_detail_audio_video_doc_list_title">Ääni, video ja tiedostot</string>
+  <string name="trans_detail_audio_video_doc_page_title">Valitse ääni, video ja tiedostot</string>
   <string name="trans_detail_category_account">Tilit ja yhteystiedot</string>
+  <string name="trans_detail_category_audio_video_doc">Ääni, video ja tiedostot</string>
   <string name="trans_detail_category_files">Tiedostot</string>
-  <string name="trans_detail_category_sysdata">Järjestelmätiedot</string>
+  <string name="trans_detail_category_sysdata">Järjestelmätiedot  (mukaan lukien viestit, yhteystiedot ja puheluhistoria)</string>
+  <string name="trans_detail_category_user_app_data">Sovellustiedot</string>
   <string name="trans_detail_category_userdata">Sovellukset</string>
+  <string name="trans_detail_category_wechat_qq">WeChat ja QQ tiedot (mukaan lukien keskusteluhistoria)</string>
+  <string name="trans_detail_item_app_data_selected_tip">Valittiin myös vastaavat sovellukset..</string>
+  <string name="trans_detail_item_app_data_too_large_tip">Näyttää siltä, että kohde on liian suuri siirrettäväksi.</string>
+  <string name="trans_detail_list_footer">Huomaa: Voit valita siirrettävät sovellukset erikseen. Jos valitset sovellustiedot, myös vastaavat sovellukset siirretään.</string>
+  <string name="trans_detail_page_tip">Mitä enemmän kohteita valitset, sitä kauemmin siirtäminen kestää.</string>
+  <string name="trans_detail_qq_data">QQ tiedot (mukaan lukien keskusteluhistoria)</string>
+  <string name="trans_detail_sys_data_list_title">Järjestelmäsovellukset</string>
+  <string name="trans_detail_sys_data_page_title">Valitse järjestelmäsovellukset</string>
+  <string name="trans_detail_wechat_data">WeChat tiedot (mukaan lukien keskusteluhistoria)</string>
+  <string name="trans_detail_wechat_qq_list_title">WeChat ja QQ</string>
+  <string name="trans_detail_wechat_qq_page_title">Valitse WeChat, QQ, ja sovellustiedot</string>
   <string name="trans_device_auto_reconnecting">Laitteen yhteys katkaistu. Yhdistetään uudelleen automaattisesti…</string>
   <string name="trans_device_disconnected">Yhteys keskeytyi</string>
   <string name="trans_device_wait_for_reconnecting">Yhteys keskeytyi. Yhdistä uudelleen jatkaaksesi.</string>
@@ -415,6 +451,7 @@ Luo QR-koodi napauttamalla [Olen vastaanottaja]"</string>
 Sen jälkeen napauta [Yhdistä uudelleen] luodaksesi QR-koodin."</string>
   <string name="trans_operate_reconnect_old_tips">"Odota, kunnes vanha puhelin näyttää \"Yhteys keskeytyi\".
 Sen jälkeen napauta [Yhdistä uudelleen] skannataksesi QR-koodin."</string>
+  <string name="trans_pausing">Pysäytetään…</string>  
   <string name="trans_please_waiting">Odota hetki…</string>
   <string name="trans_progress_subdescript_br_receiver">Palautetaan %1$s, %2$s valmiina</string>
   <string name="trans_progress_subdescript_br_sender">Varmuuskopioidaan %1$s, %2$s valmiina</string>
@@ -444,6 +481,8 @@ Pidä laitteet lähellä toisiaan."</string>
 Valitse tiedostot uudestaan tai vapauta %s tilaa uudella laitteella"</string>
   <string name="trans_select_data_tips">"Valitse lähetettävät tiedostot
 Samanlaiset tiedostot uudella laitteella korvataan"</string>
+  <string name="trans_select_data_too_large">"Valitsit liian monta kohdetta siirrettäväksi.
+Valitse vain tärkeät kohteet, jotta siirtäminen olisi nopeampaa."</string>
   <string name="trans_select_device_receive">Valitse tietojen vastaanottava laite.</string>
   <string name="trans_select_device_send">Valitse tietojen lähettävä laite.</string>
   <string name="trans_sender">"Olen lähettäjä"</string>

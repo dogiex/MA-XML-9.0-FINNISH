@@ -3,4 +3,5 @@
   <string name="app_label">Ulkoinen tallennustila</string>
   <string name="root_documents">Dokumentit</string>
   <string name="root_internal_storage">Sisäinen tallennustila</string>
+  <string name="storage_description">Paikallinen tallennustila</string>
 </resources>

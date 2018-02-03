@@ -298,7 +298,7 @@ siirtyäksesi Toiseen tilaan Lukitusnäytöltä"</string>
   <string name="title_choose_app_status">Valitse sovelluksen tyyppi</string>
   <string name="title_switch_file">Poistetaanko nämä tiedostot?</string>
   <string name="title_switch_photo">Poistetaanko nämä kuvat?</string>
-  <string name="transferApp">Toisessa tilassa asennetut sovellukset siirretään Ensimmäiseen tilaan. Huomioi, että kaikki sovellusdata menetetään.</string>
+  <string name="transferApp">Toisessa tilassa asennetut sovellukset siirretään Ensimmäiseen tilaan. Huomioi, että kaikki sovellustiedot menetetään.</string>
   <string name="transferContact">Yhteystiedot Toisesta tilasta siirretään Ensimmäiseen tilaan</string>
   <string name="transferDataConfirm">Jäljellä olevat kohteet poistetaan</string>
   <string name="transferDataConfirmDes">Et voi palauttaa kohteita niiden poistamisen jälkeen.</string>

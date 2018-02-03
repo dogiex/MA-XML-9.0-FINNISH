@@ -124,6 +124,7 @@
   <string name="from">lähettäjä %1$s</string>
   <string name="goon_feedback_main">Jatka</string>
   <string name="hint_feedback_main">Kuvaile ongelma</string>
+  <string name="issue_search">Haku</string>
   <string name="loading_apps">Ladataan listaa…</string>
   <string name="login_system_failed">Kirjautuminen epäonnistui, yritä uudestaan</string>
   <string name="logo_title">Palaute</string>
@@ -254,7 +255,7 @@
   <string name="reply_failed">Vastaaminen epäonnistui</string>
   <string name="reply_successful">Vastaaminen onnistui</string>
   <string name="report_miui">Ilmoita bugi</string>
-  <string name="request_empty_data">Ei dataa</string>
+  <string name="request_empty_data">Ei tietoja</string>
   <string name="save_pic">Tallenna</string>
   <string name="save_pic_fail">Kuvaa ei voitu tallentaa, tarkasta SD-kortti</string>
   <string name="save_pic_success">Kuva tallennettiin kohteeseen %s</string>
@@ -263,7 +264,7 @@
   <string name="section_description">Selitys</string>
   <string name="section_err_type">Virheen tyyppi</string>
   <string name="section_screenshot">Kuvakaappaus</string>
-  <string name="select_system_app_tag">Valitse tunnisteet</string>
+  <string name="select_system_app_tag">Valitse ongelma</string>
   <string name="submit_dialog_cancel">Peruuta</string>
   <string name="submit_dialog_confirm">Lähetä</string>
   <string name="submit_dialog_content">Palautteesi, liitetiedostot ja lokitiedostot lähetetään MIUI:n palvelimille. Se saattaa sisältää henkilökohtaisia tietoja.</string>

@@ -1,17 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="ErrorTooManyRequests">Liian monta käsiteltävää pyyntöä. Yritä myöhemmin uudelleen.</string>
+  <string name="a2dp_sink_mbs_label">Bluetooth Ääni</string>
   <string name="ack_record">Hyv. tiedot</string>
-  <string name="airplane_can_not_share">"Lentokonetila ei voi käyttää Bluetoothia jakamiseen"</string>
   <string name="airplane_error_msg">Et voi käyttää Bluetoothia lentokonetilassa.</string>
   <string name="airplane_error_title">Lentokonetila</string>
-  <string name="app_name">Bluetooth-jako</string>
+  <string name="app_name">Bluetooth</string>
   <string name="auth_notif_message">Kirjoita kohteen %1$s käyttökerran avain</string>
   <string name="auth_notif_ticker">Obex-todennuspyyntö</string>
   <string name="auth_notif_title">Käyttökerran avain</string>
   <string name="bluetooth_connected">Bluetooth ääni yhdistetty</string>
   <string name="bluetooth_disconnected">Bluetooth ääni katkaistu</string>
-  <string name="bluetooth_in_airplane_mode">Lentokonetilassa</string>
   <string name="bluetooth_map_settings_app_icon">Sovelluskuvake</string>
   <string name="bluetooth_map_settings_cancel">Peruuta</string>
   <string name="bluetooth_map_settings_count">Paikkoja jäljellä:</string>
@@ -60,13 +59,10 @@
   <string name="download_succ_ok">Avaa</string>
   <string name="download_success">%1$s vastaanotto valmis.</string>
   <string name="download_title">Tiedostonsiirto</string>
-  <string name="empty_file_notification_sent">Bluetooth jako: Vastaanottaja kieltäytyi nolla kokoisesta tiedostosta %1$s</string>
   <string name="enabling_progress_content">Otetaan Bluetooth käyttöön...</string>
   <string name="enabling_progress_title">Odota…</string>
-  <string name="hello">Hello World, TestActivity</string>
   <string name="inbound_history_title">Saapuvat siirrot</string>
   <string name="inbound_noti_title">Bluetooth-jako: Vastaanotetut tiedostot</string>
-  <string name="incoming_file_confirm_Notification_caption">Haluatko vastaanottaa tämän tiedoston?</string>
   <string name="incoming_file_confirm_Notification_content">%1$s on valmis lähettämään kohteen %2$s.</string>
   <string name="incoming_file_confirm_Notification_title">Saapuva tiedosto</string>
   <string name="incoming_file_confirm_cancel">Hylkää</string>
@@ -88,7 +84,6 @@
   <string name="not_exist_file">Ei tiedostoa</string>
   <string name="not_exist_file_desc">"Tiedostoa ei ole olemassa. 
 "</string>
-  <string name="noti_caption">%1$s onnistunutta, %2$s epäonnistunutta.</string>
   <string name="notification_received">Bluetooth-jako: %1$s vastaanotettu</string>
   <string name="notification_received_fail">Bluetooth-jako: tiedostoa %1$s ei vastaanotettu</string>
   <string name="notification_receiving">Bluetooth-jako: vastaanotetaan tiedostoa %1$s</string>
@@ -98,17 +93,17 @@
   <string name="notification_sent_fail">Bluetooth-jako: tiedostoa %1$s ei lähetetty</string>
   <string name="notify_server">Ilmoita TCP-palvelin</string>
   <string name="ok_button">OK</string>
+  <string name="opp_notification_group">Bluetooth Jako</string>
   <string name="outbound_history_title">Lähtevät siirrot</string>
   <string name="outbound_noti_title">Bluetooth-jako: Lähetetyt tiedostot</string>
   <string name="pbap_acceptance_timeout_message">Kohteen %1$s yhteyspyyntö aikakatkaistiin</string>
   <string name="pbap_authentication_timeout_message">Kohteen %1$s käyttökerran avaimen syöttö aikakatkaistiin</string>
+  <string name="pbap_notification_group">Bluetooth Yhteystietojen jakaminen</string>
   <string name="pbap_session_key_dialog_header">Bluetooth-käyttökerran avain vaaditaan</string>
   <string name="pbap_session_key_dialog_title">Kirjoita kohteen %1$s käyttökerran avain</string>
-  <string name="permdesc_bluetoothAvrcpDataManager">Salli sovellukselle pääsy BluetoothAvrcpData hallintaan ja käyttää sitä näyttääkseen käyttöliittymän päällä.</string>
   <string name="permdesc_bluetoothShareManager">Antaa sovelluksen käyttää BluetoothShare-hallintaa tiedostojen siirtoon.</string>
   <string name="permdesc_bluetoothWhitelist">Mahdollistaa tilapäisten käyttöoikeuksien antamisen Bluetooth-laitteelle, jolloin tiedostojen lähettäminen laitteesta tähän laitteeseen ei vaadi käyttäjän hyväksyntää.</string>
   <string name="permdesc_handoverStatus">Sallii handover siirron tilatietojen vastaanoton Bluetoothilta.</string>
-  <string name="permlab_bluetoothAvrcpDataManager">Salli pääsy avrcp metadataan.</string>
   <string name="permlab_bluetoothShareManager">Lataustenhallinnan käyttö.</string>
   <string name="permlab_bluetoothWhitelist">Käyttö Bluetooth-laitteella, jolla on tilapäinen käyttöoikeus.</string>
   <string name="permlab_handoverStatus">Vastaanota BT handover siirron tilatiedot.</string>

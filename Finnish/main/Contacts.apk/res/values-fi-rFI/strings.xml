@@ -179,7 +179,7 @@
   <string name="cloud_antispam_marked">Merkattu</string>
   <string name="cloud_antispam_title">Tunnista tuntemattomat numerot</string>
   <string name="cloud_recommend_msg">Synkronoi yhteystiedot Mi Pilveen koskettamalla.</string>
-  <string name="cloud_state_disabled">Synkronointi Mi Pilveen ei käytössä</string>
+  <string name="cloud_state_disabled">Synkronoi yhteystiedot Mi Pilveen</string>
   <string name="cloud_state_loading">Ladataan…</string>
   <string name="cloud_state_sync_finished">Synkronoitu Mi Pilven kanssa</string>
   <string name="cloud_state_syncing">Synkronoitu Mi Pilven kanssa</string>
@@ -373,15 +373,15 @@ Yhteystietokortit on poistettu käytöstä"</string>
   <string name="device_pairing_dialog_message">Muodostetaan laitepariyhteyttä…</string>
   <string name="device_pairing_dialog_title">Muodosta laitepariyhteys</string>
   <string name="device_transfer_by_bluetooth_message">"1. Ota toisessa laitteessa Bluetooth käyttöön.
-        
-- Bluetooth löytyy verkkoasetuksista Android-laitteissa. 
-- iOS-laitteissa, Bluetooth löytyy Asetuksista. 
 
-2. Tunnistettavuus on myös otettava käyttöön Android-laitteissa.. 
+- Bluetooth löytyy verkkoasetuksista Android-laitteissa.
+- iOS-laitteissa, Bluetooth löytyy Asetuksista.
+
+2. Tunnistettavuus on myös otettava käyttöön Android-laitteissa..
 
 3. Napauta \"Seuraava\", ja anna Yhteystiedolle tarvittavat käyttöoikeudet."</string>
   <string name="device_transfer_by_sim_message">"1. Tallenna toisen laitteesi yhteystiedot SIM-kortille;
-        
+
 
 2. Avaa asetukset Yhteystiedot-sovelluksessa ja mene sen jälkeen \"Tuo/Vie yhteystietoja\" -- \"Tuo SIM-kortilta\", paina pitkään mitä tahansa SIM-kortin yhteystietoa valitaksesi sen, valitse haluamasi yhteystiedot, ja sen jälkeen napauta \"Tuo\" valintaa."</string>
   <string name="device_version_header_bluetooth">Tuo käyttäen Bluetoothia</string>
@@ -409,7 +409,7 @@ Yhteystietokortit on poistettu käytöstä"</string>
   <string name="dialog_voicemail_airplane_mode_message">Poista lentokonetila käytöstä ennen vastaajaan soittamista.</string>
   <string name="dialog_voicemail_not_ready_message">Määritä vastaaja-asetukset valitsemalla Valikko &gt; Asetukset.</string>
   <string name="directory_search_label">Osoitekirja</string>
-  <string name="disclaimer_text">"Hakemistot hakee saldosi tiedot lähettämällä tekstiviestin. Operaattorisi saattaa päivittää tämän tiedon viiveellä, joten saamasi tieto ei saata olla tarkka. Jos huomaat virheen, voit kertoa siitä lähettämällä tekstiviestin meille parantaaksemme palvelua. 
+  <string name="disclaimer_text">"Hakemistot hakee saldosi tiedot lähettämällä tekstiviestin. Operaattorisi saattaa päivittää tämän tiedon viiveellä, joten saamasi tieto ei saata olla tarkka. Jos huomaat virheen, voit kertoa siitä lähettämällä tekstiviestin meille parantaaksemme palvelua.
 
 Välttääksemme useita pyyntöjä, päivitämme saldon tiedot kerran päivässä."</string>
   <string name="disclaimer_title">Vastuuvapauslauseke</string>
@@ -761,9 +761,9 @@ Odota…"</string>
 Lisätäksesi yhteystietoja suosikkeihisi:
 
 Kosketa Yhteystiedot välilehteä
- 
+
 Kosketa yhteystietoa, jonka haluat lisätä suosikkeihisi
- 
+
 Kosketa tähteä yhteystiedon nimen vieressä
 "</string>
   <string name="noGroups">Ei ryhmiä.</string>
@@ -1143,15 +1143,15 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="type_voicemail">Vastaaja</string>
   <string name="unable_get_device_id">IMEI-koodia ei saada</string>
   <string name="unfold_all">Näytä kaikki</string>
-  <string name="unknow_phone_number_call_failed">Tuntemattomaan numeroon ei voi soittaa</string>
-  <string name="unknow_phone_number_mms_failed">Tuntemattomaan numeroon ei voi lähettää viestiä</string>
+  <string name="unknow_phone_number_call_failed">Tuntemattomiin numeroihin ei voi soittaa</string>
+  <string name="unknow_phone_number_mms_failed">Tuntemattomiin numeroihin ei voi lähettää viestejä</string>
   <string name="unknown">Tuntematon</string>
   <string name="unknown_contact_name">Tuntematon yhteystieto</string>
   <string name="unknown_details_add_to_contact">Olemassa olevaan</string>
   <string name="unknown_details_new_contact">Uusi</string>
   <string name="update_sim_contact_photo_toast">SIM-yhteystiedoille ei voi asettaa profiilikuvaa</string>
   <string name="upgrade_in_progress">Yhteystietoluetteloa päivitetään.</string>
-  <string name="upgrade_out_of_memory">"Yhteystietoja päivitetään parasta aikaa. 
+  <string name="upgrade_out_of_memory">"Yhteystietoja päivitetään parasta aikaa.
 
 Päivitys vie sisäiseltä muistilta noin %s Mt tilaa.
 

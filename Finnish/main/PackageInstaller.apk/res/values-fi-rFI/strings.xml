@@ -209,10 +209,10 @@ Kaikki aikaisemmat käyttäjätiedot tallennetaan."</string>
   <string name="install">Asenna</string>
   <string name="install_confirm_question">Haluatko asentaa tämän sovelluksen? Se saa käyttöönsä seuraavat käyttöoikeudet:</string>
   <string name="install_confirm_question_no_perms">Haluatko asentaa tämän sovelluksen? Se ei vaadi erityisiä käyttöoikeuksia.</string>
-  <string name="install_confirm_question_update">Haluatko asentaa päivityksen tähän olemassa olevaan sovellukseen? Olemassa oleva sovellusdata ei katoa. Päivitetty sovellus saa käyttöönsä seuraavat käyttöoikeudet:</string>
-  <string name="install_confirm_question_update_no_perms">Haluatko asentaa päivityksen tähän olemassa olevaan sovellukseen? Olemassa oleva sovellusdata ei katoa. Päivitys ei edellytä erityisiä käyttöoikeuksia.</string>
-  <string name="install_confirm_question_update_system">Haluatko asentaa päivityksen tähän järjestelmän sisäiseen sovellukseen? Olemassa oleva sovellusdata ei katoa. Päivitetty sovellus saa käyttöönsä seuraavat käyttöoikeudet:</string>
-  <string name="install_confirm_question_update_system_no_perms">Haluatko asentaa päivityksen tähän järjestelmän sisäiseen sovellukseen? Olemassa oleva sovellusdata ei katoa. Päivitys ei edellytä erityisiä käyttöoikeuksia.</string>
+  <string name="install_confirm_question_update">Haluatko asentaa päivityksen tähän olemassa olevaan sovellukseen? Olemassa olevat sovellustiedot ei katoa. Päivitetty sovellus saa käyttöönsä seuraavat käyttöoikeudet:</string>
+  <string name="install_confirm_question_update_no_perms">Haluatko asentaa päivityksen tähän olemassa olevaan sovellukseen? Olemassa olevat sovellustiedot ei katoa. Päivitys ei edellytä erityisiä käyttöoikeuksia.</string>
+  <string name="install_confirm_question_update_system">Haluatko asentaa päivityksen tähän järjestelmän sisäiseen sovellukseen? Olemassa olevat sovellustiedot ei katoa. Päivitetty sovellus saa käyttöönsä seuraavat käyttöoikeudet:</string>
+  <string name="install_confirm_question_update_system_no_perms">Haluatko asentaa päivityksen tähän järjestelmän sisäiseen sovellukseen? Olemassa olevat sovellustiedot ei katoa. Päivitys ei edellytä erityisiä käyttöoikeuksia.</string>
   <string name="install_done">Sovellus asennettu.</string>
   <string name="install_failed">Sovellusta ei asennettu.</string>
   <string name="install_failed_blocked">Paketin asentaminen estettiin.</string>

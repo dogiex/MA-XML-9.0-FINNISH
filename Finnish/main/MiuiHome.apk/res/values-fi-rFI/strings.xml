@@ -219,7 +219,7 @@
   <string name="process"/>
   <string name="recommend_apps_default_title">Tyhjä</string>
   <string name="recommend_apps_notice">Mainostetut sovellukset</string>
-  <string name="recommend_apps_notice_nodata">Mainostetut sovellukset (Ei dataa)</string>
+  <string name="recommend_apps_notice_nodata">Mainostetut sovellukset (Ei tietoja)</string>
   <string name="recommend_apps_switch_title">Mainostetut sovellukset</string>
   <string name="recommend_apps_tips">Tämä ominaisuus vaatii internet-yhteyden toimiakseen normaalisti. Poista tämä ominaisuus käytöstä koskettamalla tämän kansion nimeä.</string>
   <string name="reset_scene_prompt">Näyttö palautetaan oletus ulkoasuksi.</string>
@@ -258,7 +258,7 @@
   <string name="transformation_type_rotate">Kierrä</string>
   <string name="transformation_type_stack">Sarja</string>
   <string name="uninstall">Poista</string>
-  <string name="uninstall_dialog_message">Poistaminen poistaa myös sovellusdatan.</string>
+  <string name="uninstall_dialog_message">Poistaminen poistaa myös sovellustiedot.</string>
   <string name="uninstall_dialog_title_format">Poistetaanko %s?</string>
   <string name="uninstall_result_failed">%s poistaminen epäonnistui</string>
   <string name="uninstall_result_succeeded">Sovellus poistettu</string>

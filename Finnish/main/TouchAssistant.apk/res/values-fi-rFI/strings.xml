@@ -13,8 +13,8 @@
   <string name="handy_mode_default_to_close_whether_open">Yhden käden-tila ei ole käytössä oletuksena. Otetaanko Yhden käden-tila käyttöön?</string>
   <string name="hide_touch_assistant">Piilota automaattisesti</string>
   <string name="hide_touch_assistant_intro">Piilota Pikavalikko valituissa sovelluksissa.</string>
-  <string name="hide_when_fullscreen">Siirrä sivuun kokonäyttö-tilassa</string>
-  <string name="hide_when_fullscreen_intro">Siirrä sivuun, kun siirrytään kokonäyttö-tilaan.</string>
+  <string name="hide_when_fullscreen">Siirrä sivuun kokonäyttötilassa</string>
+  <string name="hide_when_fullscreen_intro">Siirrä sivuun, kun siirrytään kokonäyttötilaan.</string>
   <string name="motion_behavior">Suositeltu ele</string>
   <string name="name_alipay_payment_code">Alipay maksaminen</string>
   <string name="name_alipay_scan">Alipay lukija</string>
@@ -49,7 +49,7 @@
   <string name="pref_category_quick_settings">Pika asetukset</string>
   <string name="pref_category_system">Järjestelmän asetukset</string>
   <string name="restore_default">Palauta oletusasetukset</string>
-  <string name="restore_intro">Palauta oletusasetukset, mukaan lukien pikatoiminnot ja niiden järjestys. Laitteesi Sovellusdataan ei kosketa.</string>
+  <string name="restore_intro">Palauta oletusasetukset, mukaan lukien pikatoiminnot ja niiden järjestys. Laitteesi Sovellustietoihin ei kosketa.</string>
   <string name="show_on_keyguard">Näytä Lukitusnäytöllä</string>
   <string name="theme_manager_not_supported">Teema-manageri ei ole tuettu.</string>
   <string name="three_seconds_auto_hide">Kiinnitä reunaan, kun sitä ei ole käytetty 3 sekuntiin</string>

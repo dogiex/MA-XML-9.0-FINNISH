@@ -51,6 +51,9 @@
   <string name="action_menu_toolbox">Työkalut</string>
   <string name="action_menu_useful_page">Lisää pikakuvake</string>
   <string name="action_menu_useful_page_added">Lisätty aloitussivulle</string>
+  <string name="action_menu_user_center">Profiili</string>
+  <string name="action_modify_bookmark">Muokkaa kirjanmerkkiä</string>
+  <string name="action_put_in_search_box">Laita %s hakulaatikkoon</string>
   <string name="actionbar_share">Jaa</string>
   <string name="actionbar_textselection_title">Tekstin valinta</string>
   <string name="actionbar_web_search">Verkkohaku</string>
@@ -485,16 +488,16 @@ Poistutaanko tältä sivulta?"</string>
   <string name="miuichromium_error_page_problem_page_not_working_reason_invalid_response">Tämä sivu ei toimi, koska %s0 lähetti virheellisen vastauksen.</string>
   <string name="miuichromium_error_page_problem_page_not_working_reason_too_many_redirects">Tämä sivu ei toimi, koska %s0 uudelleenohjasi sinut liian monta kertaa.</string>
   <string name="miuichromium_error_page_problem_security_error_reason_bad_client_cert">Tämä sivusto ei voi tarjota turvallista yhteyttä, koska %s0 ei hyväksynyt varmennettasi.</string>
-  <string name="miuichromium_error_page_problem_security_error_reason_bad_server_cert">Tämä sivusto ei voi tarjota turvallista yhteyttä, %s0 ei noudata turvallisuusvaatimuksia.</string>
+  <string name="miuichromium_error_page_problem_security_error_reason_bad_server_cert">Tämä sivusto ei voi tarjota turvallista yhteyttä, koska %s0 ei noudata turvallisuusvaatimuksia.</string>
   <string name="miuichromium_error_page_problem_security_error_reason_invalid_response">Tämä sivusto ei voi tarjota turvallista yhteyttä, koska %s0 lähetti virheellisen vastauksen.</string>
-  <string name="miuichromium_error_page_problem_security_error_reason_unsupported_protocol">Tämä sivusto ei voi tarjota turvallista yhteyttä, %s0 ei käytä tuettua protokollaa.</string>
+  <string name="miuichromium_error_page_problem_security_error_reason_unsupported_protocol">Tämä sivusto ei voi tarjota turvallista yhteyttä, koska %s0 ei käytä tuettua protokollaa.</string>
   <string name="miuichromium_error_page_problem_server_fault">%s0 ei tällä hetkellä pysty käsittelemään tätä pyyntöä.</string>
 
   <string name="miuichromium_error_page_reload">Päivitä</string>
   <string name="miuichromium_error_page_safe_network">Vikatila</string>
   <string name="miuichromium_error_page_server_error">Liian monta laitetta yrittää yhdistää</string>
   <string name="miuichromium_error_page_suggestion_check_app_proxy">Tarkista laitteellesi asennetun proxy-sovelluksien asetukset.</string>
-  <string name="miuichromium_error_page_suggestion_check_connetion">Tarkista Internetyhteytesi.</string>
+  <string name="miuichromium_error_page_suggestion_check_connetion">Tarkista internetyhteytesi.</string>
   <string name="miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Mobiilidata) Palauta %s1APN asetuksesi%s2.</string>
   <string name="miuichromium_error_page_suggestion_check_url">Tarkista syöttämäsi URL-osoite.</string>
   <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Tarkista %s1proxy asetuksesi%s2.</string>
@@ -502,7 +505,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Tyhjennä välimuisti ja evästeet (%s1Asetukset%s2 - Tyhjennä tiedot, tilisi tiedot saattaa hävitä).</string>
   <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Tyhjennä välimuisti ja evästeet (tilisi tiedot saattaa hävitä).</string>
   <string name="miuichromium_error_page_suggestion_clear_cache_no_invoke">Tyhjennä välimuisti.</string>
-  <string name="miuichromium_error_page_suggestion_connect_and_retry">Päivitä internetiin yhdistämisen jälkeen</string>
+  <string name="miuichromium_error_page_suggestion_connect_and_retry">Päivitä internetiin yhdistämisen jälkeen.</string>
   <string name="miuichromium_error_page_suggestion_contact_admin">Ota yhteyttä järjestelmänvalvojaasi.</string>
   <string name="miuichromium_error_page_suggestion_correct_url">Tarkista syöttämäsi osoite ja yritä uudelleen oikealla URL-osoitteella.</string>
   <string name="miuichromium_error_page_suggestion_grant_permission">Päivitä sen jälkeen, kun olet antanut Selaimelle käyttöoikeuden käyttää internetiä.</string>
@@ -563,7 +566,7 @@ Muista, että lataamasi tiedostot ja lisäämäsi kirjanmerkin silti tallennetaa
   <string name="open_cloud_sync_desc">Kirjanmerkki lisättiin. Ota pilven synkronointi käyttöön ja toiseen laitteeseen lisätyt kirjanmerkit synkronoidaan tähän laitteeseen. Kirjaudutaanko sisään ja avataanko se nyt?</string>
   <string name="open_file_explorer_failed">Tiedostoselainta ei voitu avata</string>
   <string name="open_voice_permission">Salli mikrofonin yhdistää internetiin</string>
-  <string name="opening_file_error">Valittua tiedostoa ei voitu avata</string>
+  <string name="opening_file_error">Valittua tiedostoa ei voitu avata.</string>
   <string name="page_info">Sivun tiedot</string>
   <string name="page_info_address">Osoite:</string>
   <string name="page_info_view">Näytä sivun tiedot</string>

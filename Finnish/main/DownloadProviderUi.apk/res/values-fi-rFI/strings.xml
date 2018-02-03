@@ -56,14 +56,14 @@
   <string name="dialog_btn_cancel">Peruuta</string>
   <string name="dialog_btn_ok">OK</string>
   <string name="dialog_btn_ok_disabled_net">Verkkoasetukset</string>
-  <string name="dialog_cannot_resume">Lataus on keskeytetty eikä sitä voida jatkaa.</string>
+  <string name="dialog_cannot_resume">Lataus on keskeytetty eikä sitä voi jatkaa.</string>
   <string name="dialog_confirm_delete_checkbox_message">Poista myös paikalliset tiedostot</string>
   <string name="dialog_confirm_delete_downloads_message">Poistetaanko %d tehtävää?</string>
   <string name="dialog_confirm_delete_the_download_item_message">Poista nämä tehtävät</string>
-  <string name="dialog_failed_body">Haluatko yrittää ladata tiedoston uudelleen myöhemmin vai poistetaanko se jonosta?</string>
+  <string name="dialog_failed_body">Yritetäänkö ladata tiedosto myöhemmin vai poistetaanko se jonosta?</string>
   <string name="dialog_file_already_exists">Ei voi ladata. Kohdetiedosto on jo olemassa.</string>
   <string name="dialog_file_missing_body">Ladattua tiedostoa ei löydy.</string>
-  <string name="dialog_file_missing_title">Tiedoston avaus epäonnistui</string>
+  <string name="dialog_file_missing_title">Tiedoston avaaminen epäonnistui</string>
   <string name="dialog_insufficient_space_on_cache">Latausta ei voi ladata loppuun. Sisäistä tallennustilaa ei ole tarpeeksi.</string>
   <string name="dialog_insufficient_space_on_external">Latausta ei voi ladata loppuun. Ulkoisella tallennuslaitteella ei ole tarpeeksi tilaa.</string>
   <string name="dialog_media_not_found">Ei voi ladata. Ulkoinen laite ei ole käytettävissä.</string>

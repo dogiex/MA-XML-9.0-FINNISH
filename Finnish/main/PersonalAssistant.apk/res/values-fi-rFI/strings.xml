@@ -1003,7 +1003,7 @@ Tarkista seurantanumerosi."</string>
   <string name="month_list_activity_label">Tilin %1$s laskelma</string>
   <string name="month_record_list_money">Summa</string>
   <string name="month_record_list_time">Aika</string>
-  <string name="month_report_month_no_data">Ei dataa tällä kuukaudella</string>
+  <string name="month_report_month_no_data">Ei tietoja tälle kuukaudelle</string>
   <string name="month_statement_category_detail_title">Laskelma</string>
   <string name="monthly_report_entry_text">Näytä kuukausittainen raportti</string>
   <string name="monthly_report_lable">Kuukausittainen raportti</string>

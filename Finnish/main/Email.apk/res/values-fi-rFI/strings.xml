@@ -370,7 +370,6 @@
   <string name="device_not_activiey_lint2">Sähköpostipalvelu ei toimi Exchange:n kanssa</string>
   <string name="dialog_account_auto_sync_setting_no_open">Valitsit sähköpostien synkronoinnin manuaalisesti. Päivitä synkronoidaksesi.</string>
   <string name="dialog_change_sync_lookback">Sähköpostit, jotka vastaanotettiin %s sitten poistetaan automaattisesti. Vaihda napauttamalla.</string>
-  <string name="dialog_gmail_proxy_server_is_error">Gmail välityspalvelinvirhe.</string>
   <string name="dialog_insufficient_space_on_external">Liitetiedoston lataaminen epäonnistui. Ulkoisella tallennustilalla ei ole tarpeeksi tilaa.</string>
   <string name="dialog_insufficient_space_on_internal">Sisäisellä tallennustilalla ei ole tarpeeksi tilaa.</string>
   <string name="dialog_system_auto_sync_account_no_open">Ota tilin synkronointi käyttöön vastaanottaaksesi sähköposteja automaattisesti</string>

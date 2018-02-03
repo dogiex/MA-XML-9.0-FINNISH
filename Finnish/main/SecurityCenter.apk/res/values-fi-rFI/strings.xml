@@ -278,7 +278,7 @@
   <string name="applock_login_and_add_account">Kirjaudu sisään &amp; lisää</string>
   <string name="applock_not_add_account">Ei nyt</string>
   <string name="applock_not_login_account">Et ole kirjautuneena sisään</string>
-  <string name="apps_item_sign_dialog_content">"%s allekirjoitus on eri, kuin App Store version. Poistetaanko tämä sovellus ja asennetaanko virallinen versio? Huom: Ristiriitaisen allekirjoituksen omaavan sovelluksen asentaminen saattaa johtaa sovellusdatan menettämiseen."</string>
+  <string name="apps_item_sign_dialog_content">"%s allekirjoitus on eri, kuin App Store version. Poistetaanko tämä sovellus ja asennetaanko virallinen versio? Huom: Ristiriitaisen allekirjoituksen omaavan sovelluksen asentaminen saattaa johtaa sovellustietojen menettämiseen."</string>
   <string name="apps_item_sign_dialog_title">Asenna virallinen sovellus</string>
   <string name="apps_item_sign_install_button_text">Korvaa</string>
   <string name="apps_item_sms_default_set_success">Asetettiin onnistuneesti</string>
@@ -1004,7 +1004,7 @@ Operaattori saattaa veloittaa sinua lisämaksuista, jos käytät mobiilidataa uu
   <string name="main_leisure_remained">Hiljaisen ajan dataa jäljellä</string>
   <string name="main_month_total_used">Käytetty tässä kuussa</string>
   <string name="main_month_used">Käytetty tässä kuussa</string>
-  <string name="main_no_info">Ei dataa</string>
+  <string name="main_no_info">Ei tietoja</string>
   <string name="main_normal_data_usage">Käytetty mobiilidata</string>
   <string name="main_open_traffic_ctrl_button">Rajoita datan käyttöä</string>
   <string name="main_primary_message_leisure_alert">Hiljaisen ajan datavaroitus</string>
@@ -2167,7 +2167,7 @@ Lisää saldoa napauttamalla."</string>
   <string name="txv_dnd_type_title">勿扰方式</string>
   <string name="txv_lucky_money_group_text">仅提醒群红包</string>
   <string name="unable_connect_internet">Ei internet-yhteyttä</string>
-  <string name="uninstall_app_dialog_msg">Poistaminen poistaa myös sovellusdatan.</string>
+  <string name="uninstall_app_dialog_msg">Poistaminen poistaa myös sovellustiedot.</string>
   <string name="uninstall_app_dialog_title">Poistetaanko nyt?</string>
   <string name="uninstall_app_done">Poistettiin onnistuneesti</string>
   <string name="uninstall_danagerous_btn">Poista</string>

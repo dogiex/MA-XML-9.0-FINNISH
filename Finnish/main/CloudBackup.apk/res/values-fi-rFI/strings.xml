@@ -20,6 +20,7 @@
   <string name="backup_to_cloud">Varmuuskopioi sovellus</string>
   <string name="btn_back">Takaisin</string>
   <string name="btn_continue">Jatka</string>
+  <string name="btn_retry">Tarkista uudelleen</string>
   <string name="btn_skip">Ohita tämä kohta</string>
   <string name="button_cancel">Peruuta</string>
   <string name="button_delete">Poista</string>
@@ -43,11 +44,11 @@
   <string name="cloud_app_restore_success">Sovellukset palautettiin</string>
   <string name="cloud_app_restore_wifi_prompt">Palauta Mi Pilven varmuuskopiosta.</string>
   <string name="cloud_back_up_date_format">HH:mm d.M.yyyy</string>
-  <string name="cloud_back_up_detail_discription">"Nämä varmuuskopioidaan Mi Pilveen, kun laitteesi on yhdistettynä Wi-Fi verkkoon: 
-*Sovellukset, Aloitusnäytön asettelu ja taustakuvat 
-*Herätykset, kello, ja aika-asetukset 
-*Ilmoituksien asetukset 
-*MIUI ja järjestelmäasetukset 
+  <string name="cloud_back_up_detail_discription">"Nämä varmuuskopioidaan Mi Pilveen, kun laitteesi on yhdistettynä Wi-Fi verkkoon:
+*Sovellukset, Aloitusnäytön asettelu ja taustakuvat
+*Herätykset, kello, ja aika-asetukset
+*Ilmoituksien asetukset
+*MIUI ja järjestelmäasetukset
 Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Käytä sitä varten paikallista varmuuskopiointia."</string>
   <string name="cloud_back_up_frequence_choice_title">Varmuuskopion ajastus</string>
   <string name="cloud_back_up_frequence_long">Joka 7 päivä</string>
@@ -91,6 +92,7 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="desktop_installing">Asennetaan</string>
   <string name="desktop_wait_wifi">Odotetaan</string>
   <string name="desktop_waiting">Odotetaan</string>
+  <string name="device_corrupt">Mi Puhelin (Tiedot korruptoitunut)</string>
   <string name="device_delete_prompt">Poistetaanko %s varmuuskopio?</string>
   <string name="device_xiaomi">Mi Puhelin</string>
   <string name="dialog_cancel_backup_cancel">Peruuta</string>
@@ -125,6 +127,8 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="open_wifi_description">Yhdistä Wi-Fi-verkkoon palauttaaksesi sovelluksen</string>
   <string name="open_wifi_setting">Wi-Fi asetukset</string>
   <string name="process_whole_recovery">Palautetaan \"%s\"</string>
+  <string name="provision_error_connect_msg">Voit kokeilla verkkoa ja yrittää uudelleen. Varmuuskopiointi-toiminto ei ole käytettävissä ilman toimivaa verkkoa.</string>
+  <string name="provision_error_connect_title">Ei voi yhdistää</string>
   <string name="query_restore_description">Palauta Aloitusnäytön sovellukset ja asetukset käyttäen tätä varmuuskopiota. Tämä korvaa jo olemassaolevien sovelluksien kaksoiskappaleiden sovellustiedot. Sovellukset, jotka eivät sisälly varmuuskopioon, siirretään viimeiselle Aloitusnäytölle.</string>
   <string name="query_restore_summary">Tälle laitteelle löydettiin Mi Pilvi varmuuskopio. Palautetaanko Aloitusnäytön sovellukset ja asetukset vai käytetäänkö laitetta uutena laitteena ja poistetaanko edellinen Mi Pilvi varmuuskopiot?</string>
   <string name="recover_from_micloud">Palauta Mi Pilvi varmuuskopio</string>
@@ -147,10 +151,10 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="restore_task_cancelling">Peruutetaan…</string>
   <string name="restore_task_in_process">Palautetaan…</string>
   <string name="restore_unfinished">Palautetaan, yritä myöhemmin uudelleen</string>
-  <string name="restoring_file_tile">Palautetaan %d tiedostoa</string>
   <string name="retry">Yritä uudelleen</string>
   <string name="self_phone">Tämä puhelin</string>
   <string name="settings_backup">Järjestelmäasetukset</string>
+  <string name="size_unknown">Koko tuntematon</string>
   <string name="start_backup_to_micloud">Varmuuskopioi sovellukset Mi Pilveen</string>
   <string name="start_recover">Palauta %s</string>
   <string name="success_open_cloudbackup">Aloitusnäytön sovelluksien varmuuskopiot on käytössä</string>
