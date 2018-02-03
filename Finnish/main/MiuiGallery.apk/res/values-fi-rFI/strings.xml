@@ -562,6 +562,26 @@
   <string name="cityname_97">Haidong Prefecture</string>
   <string name="cityname_98">Haikou</string>
   <string name="cityname_99">Hainan Tibetan Autonomous Prefecture</string>
+  <string name="cleaner_empty_value_description">Kaikki näyttää hyvältä</string>
+  <string name="cleaner_photo_pick_delete_selected">Poista valitut kuvat</string>
+  <string name="cleaner_scan_description">Optimoimalla kohteet vapauttaa tallennustilaa laitteeltasi</string>
+  <string name="cleaner_scan_exit_dialog_message">Sinun täytyy aloittaa alusta seuraavalla kerralla. Pysäytetäänkö skannaaminen nyt?</string>
+  <string name="cleaner_scan_exit_dialog_positive">Pysäytä</string>
+  <string name="cleaner_scan_exit_dialog_title">Pysäytä skannaaminen</string>
+  <string name="cleaner_scan_finish">Skannattiin onnistuneesti</string>
+  <string name="cleaner_scan_no_result">Enempää tallennustilaa ei voi vapauttaa</string>
+  <string name="cleaner_scan_ok">Selvä</string>
+  <string name="cleaner_scan_title">Skannataan albumeita…</string>
+  <string name="cleaner_screen_shot_action">Tyhjennä</string>
+  <string name="cleaner_screen_shot_description">Poista kuvakaappaukset, joita et enää tarvitse.</string>
+  <string name="cleaner_screen_shot_title">Poista kuvakaappauksia</string>
+  <string name="cleaner_slim_action">Aloitetaan optimointi…</string>
+  <string name="cleaner_slim_description">Säilytä optimoidut kuvat laitteellasi. Alkuperäiset tiedotot säilytetään Mi Pilvessä.</string>
+  <string name="cleaner_slim_start">Optimoi</string>
+  <string name="cleaner_slim_title">Optimoi kuvat</string>
+  <string name="cleaner_space_description">voidaan vapauttaa</string>
+  <string name="cleaner_space_detail_description">Tyhjennä Galleriasi kuvat vapauttaaksesi tallennustilaa</string>
+  <string name="cleaner_stop_scan">Pysäytä skannaaminen</string>
   <string name="click_download_gif">Lataa GIF napauttamalla</string>
   <string name="click_top_right">Napauta tätä kuvaketta</string>
   <string name="cloud_camera_display_name">Kameran kuvat</string>
@@ -844,7 +864,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="gif_tip">GIF</string>
   <string name="gigabyteShort">Gt</string>
   <string name="grant_permission_go_and_set">Aseta</string>
-  <string name="grant_permission_text">"Galleria tarvitsee pääsyn 
+  <string name="grant_permission_text">"Galleria tarvitsee pääsyn
 %s
  toimiakseen normaalisti, mene Käyttöoikeuksiin napauttamalla \"Aseta\"."</string>
   <string name="grant_permission_title">Salli pääsy</string>
