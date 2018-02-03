@@ -1505,6 +1505,8 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="pref_key_half_year_package_start">Aloitus päiväys</string>
   <string name="pref_key_half_year_package_switch">Puolen vuoden datapaketti</string>
   <string name="pref_key_half_year_package_value">Paketin koko</string>
+  <string name="pref_key_tethering_setting">Kertakäyttöinen tiedonsiirtoraja</string>
+  <string name="pref_key_tethering_title">Kertakäyttöinen tiedonsiirtoraja</string>
   <string name="pref_manual_adjust">Aseta datan käyttötilastot manuaalisesti</string>
   <string name="pref_mi_sim_settings">Mi SIM-kortin Asetukset</string>
   <string name="pref_more_traffic_settings">Lisäasetukset</string>

@@ -611,7 +611,7 @@ laitteesta
   <string name="bluetooth_display_passkey_pin_msg">"Jos haluat muodostaa laiteparin laitteen
 %1$s
 
- kanssa, kirjoita laitteelle 
+ kanssa, kirjoita laitteelle
 %2$s ja paina Rivinvaihto tai Enter."</string>
   <string name="bluetooth_dock_settings">Telakointiasetukset</string>
   <string name="bluetooth_dock_settings_a2dp">Musiikille ja medialle</string>
@@ -1047,7 +1047,7 @@ Muodostetaanko pari tämän laitteen kanssa?"</string>
   <string name="crypt_keeper_confirm_title">Salataanko?</string>
   <string name="crypt_keeper_content">Voit salata tilisi, asetuksesi, ladatut sovellukset ja niiden tiedot, mediat ja muut tiedostot.</string>
   <string name="crypt_keeper_content_title">Salaa laite</string>
-  <string name="crypt_keeper_data_corrupt_summary">"Annoit oikean salasanan, mutta tiedot ovat valitettavasti vioittuneet. 
+  <string name="crypt_keeper_data_corrupt_summary">"Annoit oikean salasanan, mutta tiedot ovat valitettavasti vioittuneet.
 
 Tehdasasetukset on palautettava, jotta voit jatkaa puhelimen käyttöä. Tehdasasetusten palautuksen jälkeen voit määrittää puhelimen asetukset uudelleen ja palauttaa Google-tiliisi mahdollisesti varmuuskopioidut tiedot."</string>
   <string name="crypt_keeper_data_corrupt_title">Salauksen purku onnistui</string>
@@ -1062,7 +1062,7 @@ Salaaminen kestää ainakin tunnin. Akun täytyy olla alussa ladattu, ja puhelim
   <string name="crypt_keeper_encrypt_title">Salaa puhelin</string>
   <string name="crypt_keeper_encrypted_summary">Salattu</string>
   <string name="crypt_keeper_enter_password">Kirjoita salasana</string>
-  <string name="crypt_keeper_failed_summary">"Salaus keskeytyi, eikä sitä voi suorittaa loppuun. Tästä johtuen puhelimesi tietoja ei voi enää käyttää. 
+  <string name="crypt_keeper_failed_summary">"Salaus keskeytyi, eikä sitä voi suorittaa loppuun. Tästä johtuen puhelimesi tietoja ei voi enää käyttää.
 
 Voit jatkaa puhelimesi käyttöä, kun palautat tehdasasetukset. Kun olet määrittänyt puhelimesi asetukset tehdasasetusten palautuksen jälkeen, voit palauttaa tiedot, jotka olet varmuuskopioinut Google-tiliisi."</string>
   <string name="crypt_keeper_failed_title">Salaus epäonnistui</string>
@@ -1500,22 +1500,22 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="encrypt_talkback_dialog_require_pin">Vaaditaanko PIN-koodi?</string>
   <string name="encryption_continue_button">Jatka</string>
   <string name="encryption_interstitial_header">Turvallinen käynnistys</string>
-  <string name="encryption_interstitial_message_password">"Voit parantaa tämän laitteen suojausta vaatimalla salasanan ennen käynnistystä. Ennen käynnistystä laite ei vastaanota puheluita, viestejä eikä ilmoituksia, mukaan lukien hälytykset. 
+  <string name="encryption_interstitial_message_password">"Voit parantaa tämän laitteen suojausta vaatimalla salasanan ennen käynnistystä. Ennen käynnistystä laite ei vastaanota puheluita, viestejä eikä ilmoituksia, mukaan lukien hälytykset.
 
 Tämä auttaa suojaamaan kadonneen tai varastetun laitteen sisältämät tiedot."</string>
-  <string name="encryption_interstitial_message_password_for_fingerprint">"Laitteen lukitus voidaan avata vain sormenjäljen avulla. Tämän lisäksi voit vielä parantaa laitteen suojausta edellyttämällä salasanan ennen laitteen käynnistymistä. Ennen kuin laite käynnistyy, se ei voi vastaanottaa puheluita, viestejä tai ilmoituksia (myöskään hälytykset eivät toimi). 
+  <string name="encryption_interstitial_message_password_for_fingerprint">"Laitteen lukitus voidaan avata vain sormenjäljen avulla. Tämän lisäksi voit vielä parantaa laitteen suojausta edellyttämällä salasanan ennen laitteen käynnistymistä. Ennen kuin laite käynnistyy, se ei voi vastaanottaa puheluita, viestejä tai ilmoituksia (myöskään hälytykset eivät toimi).
 
 Tämä auttaa suojaamaan kadotettujen tai varastettujen laitteiden tietoja."</string>
-  <string name="encryption_interstitial_message_pattern">"Voit parantaa tämän laitteen suojausta vaatimalla kuvion ennen käynnistystä. Ennen käynnistystä laite ei vastaanota puheluita, viestejä eikä ilmoituksia, mukaan lukien hälytykset. 
+  <string name="encryption_interstitial_message_pattern">"Voit parantaa tämän laitteen suojausta vaatimalla kuvion ennen käynnistystä. Ennen käynnistystä laite ei vastaanota puheluita, viestejä eikä ilmoituksia, mukaan lukien hälytykset.
 
 Tämä auttaa suojaamaan kadonneen tai varastetun laitteen sisältämät tiedot."</string>
-  <string name="encryption_interstitial_message_pattern_for_fingerprint">"Laitteen lukitus voidaan avata vain sormenjäljen avulla. Tämän lisäksi voit vielä parantaa laitteen suojausta edellyttämällä käyttäjää antamaan kuvion ennen laitteen käynnistymistä. Ennen kuin laite käynnistyy, se ei voi vastaanottaa puheluita, viestejä tai ilmoituksia (myöskään hälytykset eivät toimi). 
+  <string name="encryption_interstitial_message_pattern_for_fingerprint">"Laitteen lukitus voidaan avata vain sormenjäljen avulla. Tämän lisäksi voit vielä parantaa laitteen suojausta edellyttämällä käyttäjää antamaan kuvion ennen laitteen käynnistymistä. Ennen kuin laite käynnistyy, se ei voi vastaanottaa puheluita, viestejä tai ilmoituksia (myöskään hälytykset eivät toimi).
 
 Tämä auttaa suojaamaan kadotettujen tai varastettujen laitteiden tietoja."</string>
-  <string name="encryption_interstitial_message_pin">"Voit parantaa tämän laitteen suojausta vaatimalla PIN-koodin ennen käynnistystä. Ennen käynnistystä laite ei vastaanota puheluita, viestejä eikä ilmoituksia, mukaan lukien hälytykset. 
+  <string name="encryption_interstitial_message_pin">"Voit parantaa tämän laitteen suojausta vaatimalla PIN-koodin ennen käynnistystä. Ennen käynnistystä laite ei vastaanota puheluita, viestejä eikä ilmoituksia, mukaan lukien hälytykset.
 
 Tämä auttaa suojaamaan kadonneen tai varastetun laitteen sisältämät tiedot."</string>
-  <string name="encryption_interstitial_message_pin_for_fingerprint">"Laitteen lukitus voidaan avata vain sormenjäljen avulla. Tämän lisäksi voit vielä parantaa laitteen suojausta edellyttämällä PIN-koodin ennen laitteen käynnistymistä. Ennen kuin laite käynnistyy, se ei voi vastaanottaa puheluita, viestejä tai ilmoituksia (myöskään hälytykset eivät toimi). 
+  <string name="encryption_interstitial_message_pin_for_fingerprint">"Laitteen lukitus voidaan avata vain sormenjäljen avulla. Tämän lisäksi voit vielä parantaa laitteen suojausta edellyttämällä PIN-koodin ennen laitteen käynnistymistä. Ennen kuin laite käynnistyy, se ei voi vastaanottaa puheluita, viestejä tai ilmoituksia (myöskään hälytykset eivät toimi).
 
 Tämä auttaa suojaamaan kadotettujen tai varastettujen laitteiden tietoja."</string>
   <string name="encryption_progress_summary">Salataan, älä käynnistä laitettasi uudelleen.</string>
@@ -1629,9 +1629,9 @@ Tämä auttaa suojaamaan kadotettujen tai varastettujen laitteiden tietoja."</st
   <string name="font_size_normal">Normaali</string>
   <string name="font_size_preview">MIUI</string>
   <string name="font_size_preview_text">Tässä on tekstiä. Teksti näyttää fontin koon.</string>
-  <string name="font_size_preview_text_body">"Jopa vihreiden lasiensa suojista Dorothy ystävineen häikäistyi ihmeellisen kaupungin loistosta. Katujen varsilla oli kauniita, vihreitä marmoritaloja, jotka oli kauttaaltaan koristeltu kimaltelevin smaragdein. Vihreästä marmorista oli tehty myös katu, jota pitkin ystävykset kulkivat, ja laattojen välit oli huolellisesti koristeltu kirkkassa auringonvalossa säkenöivin smaragdein. Ikkunat olivat vihreää lasia. Jopa kaupungin yllä kuultava taivas oli vihertävä, kuten myös auringonsäteet. 
+  <string name="font_size_preview_text_body">"Jopa vihreiden lasiensa suojista Dorothy ystävineen häikäistyi ihmeellisen kaupungin loistosta. Katujen varsilla oli kauniita, vihreitä marmoritaloja, jotka oli kauttaaltaan koristeltu kimaltelevin smaragdein. Vihreästä marmorista oli tehty myös katu, jota pitkin ystävykset kulkivat, ja laattojen välit oli huolellisesti koristeltu kirkkassa auringonvalossa säkenöivin smaragdein. Ikkunat olivat vihreää lasia. Jopa kaupungin yllä kuultava taivas oli vihertävä, kuten myös auringonsäteet.
 
-Kaduilla vilisevät ihmiset, miehet, naiset ja lapset, olivat pukeutuneet vihreään, ja myös heidän ihonsa vihersi. He katsoivat Dorothyä ja muuta sekalaista joukkoa ihmeissään, ja kaikki lapset pakenivat äitiensä jalkojen taa nähdessään Leijonan, mutta kukaan ei sanonut sanaakaan. Kadulla oli monia kojuja, ja Dorothy näki, että kaikki niissä myytävä oli vihreää. Kaupan oli vihreitä makeisia ja vihreää popcornia sekä vihreitä kenkiä, vihreitä hattuja ja kaikenlaisia vihreitä vaatteita. Yhden kojun luona oli vihreää juomaa myyvä mies, ja Dorothy näki lapsien maksavan myyjälle vihreillä kolikoilla. 
+Kaduilla vilisevät ihmiset, miehet, naiset ja lapset, olivat pukeutuneet vihreään, ja myös heidän ihonsa vihersi. He katsoivat Dorothyä ja muuta sekalaista joukkoa ihmeissään, ja kaikki lapset pakenivat äitiensä jalkojen taa nähdessään Leijonan, mutta kukaan ei sanonut sanaakaan. Kadulla oli monia kojuja, ja Dorothy näki, että kaikki niissä myytävä oli vihreää. Kaupan oli vihreitä makeisia ja vihreää popcornia sekä vihreitä kenkiä, vihreitä hattuja ja kaikenlaisia vihreitä vaatteita. Yhden kojun luona oli vihreää juomaa myyvä mies, ja Dorothy näki lapsien maksavan myyjälle vihreillä kolikoilla.
 
 Näkyvissä ei ollut lainkaan hevosia tai minkäänlaisia muita eläimiä. Miehet työnsivät tavaroita edellään pienissä, vihreissä kärryissä. Kaikki vaikuttivat iloisilta ja tyytyväisiltä ja hyvinvoivilta."</string>
   <string name="font_size_preview_text_headline">Esimerkkiteksti</string>
@@ -2123,11 +2123,11 @@ Voit asettaa uuden näytön lukituksen sekä laitteelle että työprofiilille, m
   <string name="lockpassword_choose_for_second_user">Aseta Toisen tilan salasana</string>
   <string name="lockpassword_choose_lock_generic_header">Valitse näytön lukitus</string>
   <string name="lockpassword_choose_your_password_header">Aseta salasanasi</string>
-  <string name="lockpassword_choose_your_password_second_space">"Aseta salasana 
+  <string name="lockpassword_choose_your_password_second_space">"Aseta salasana
  Toinen tila -toiminnolle"</string>
   <string name="lockpassword_choose_your_pattern_header">Aseta kuviosi</string>
   <string name="lockpassword_choose_your_pin_header">Aseta PIN-koodisi</string>
-  <string name="lockpassword_choose_your_pin_header_second_space">"Aseta PIN-koodi 
+  <string name="lockpassword_choose_your_pin_header_second_space">"Aseta PIN-koodi
  Toinen tila -toiminnolle"</string>
   <string name="lockpassword_confirm_for_second_user">Vahvista Toisen tilan salasana</string>
   <string name="lockpassword_confirm_passwords_dont_match">Salasanat eivät täsmää</string>
@@ -3963,23 +3963,23 @@ Laitteeseesi asennettu luotettu varmenne tekee tämän mahdolliseksi."</string>
   <string name="storage_detail_apps">Sovellukset</string>
   <string name="storage_detail_audio">Audio</string>
   <string name="storage_detail_cached">Välimuistitiedot</string>
-  <string name="storage_detail_dialog_other">"Muihin tiedostoihin sisältyvät esimerkiksi sovellusten tallentamat tiedostot, internetistä ja Bluetoothin kautta ladatut tiedostot ja Android-tiedostot. 
+  <string name="storage_detail_dialog_other">"Muihin tiedostoihin sisältyvät esimerkiksi sovellusten tallentamat tiedostot, internetistä ja Bluetoothin kautta ladatut tiedostot ja Android-tiedostot.
 
 Avaa ^1 selattavaksi valitsemalla Tutki."</string>
-  <string name="storage_detail_dialog_user">"^1 voi sisältää tallennettuja valokuvia, musiikkia, elokuvia, sovelluksia tai muita tietoja, jotka vievät ^2 tallennustilaa. 
+  <string name="storage_detail_dialog_user">"^1 voi sisältää tallennettuja valokuvia, musiikkia, elokuvia, sovelluksia tai muita tietoja, jotka vievät ^2 tallennustilaa.
 
 Jos haluat nähdä tarkemmat tiedot, valitse ^1."</string>
   <string name="storage_detail_explore">Tutki: ^1</string>
   <string name="storage_detail_images">Kuvahaku</string>
   <string name="storage_detail_other">Muu</string>
   <string name="storage_detail_videos">Videot</string>
-  <string name="storage_dialog_unmountable">"Tämä ^1 on vioittunut. 
+  <string name="storage_dialog_unmountable">"Tämä ^1 on vioittunut.
 
 ^1 täytyy asentaa ensin, jotta sitä voi käyttää."</string>
   <string name="storage_dialog_unmounted">"^1 on poistettu turvallisesti, mutta edelleen laitteen kortinlukijassa.
 
 ^1 täytyy ottaa ensin käyttöön, jotta tiedot ovat saatavilla."</string>
-  <string name="storage_dialog_unsupported">"^1 ei ole yhteensopiva laitteen kanssa. 
+  <string name="storage_dialog_unsupported">"^1 ei ole yhteensopiva laitteen kanssa.
 
 ^1 täytyy asentaa ensin, jotta sitä voi käyttää."</string>
   <string name="storage_external_title">Kannettava tallennustila</string>
@@ -3988,24 +3988,24 @@ Jos haluat nähdä tarkemmat tiedot, valitse ^1."</string>
   <string name="storage_format_success">%1$s on alustettu.</string>
   <string name="storage_internal_forget_confirm">Kaikki kohteen (^1) sovellukset, valokuvat ja tiedot poistetaan pysyvästi.</string>
   <string name="storage_internal_forget_confirm_title">Unohdetaanko ^1?</string>
-  <string name="storage_internal_forget_details">"Jos haluat käyttää tallennuslaitteen ^1 sisältämiä sovelluksia, kuvia tai tietoja, liitä se uudelleen. 
+  <string name="storage_internal_forget_details">"Jos haluat käyttää tallennuslaitteen ^1 sisältämiä sovelluksia, kuvia tai tietoja, liitä se uudelleen.
 
-Voit myös halutessasi unohtaa tämän tallennuslaitteen, jos se ei ole käytettävissä. 
+Voit myös halutessasi unohtaa tämän tallennuslaitteen, jos se ei ole käytettävissä.
 
-Jos päätät unohtaa laitteen, menetät kaikki sen sisältämät tiedot lopullisesti. 
+Jos päätät unohtaa laitteen, menetät kaikki sen sisältämät tiedot lopullisesti.
 
 Voit asentaa sovellukset uudelleen myöhemmin, mutta niiden laitteelle tallentamat tiedot menetetään."</string>
-  <string name="storage_internal_format_details">"Alustuksen jälkeen tämä ^1 on käytettävissä muissa laitteissa. 
+  <string name="storage_internal_format_details">"Alustuksen jälkeen tämä ^1 on käytettävissä muissa laitteissa.
 
-Kaikki kohteen ^1 tiedot poistetaan. Suosittelemme, että varmuuskopioit tiedot ensin. 
+Kaikki kohteen ^1 tiedot poistetaan. Suosittelemme, että varmuuskopioit tiedot ensin.
 
-"&lt;b&gt;Valokuvien ja muiden mediatiedostojen varmuuskopiointi&lt;/b&gt;" 
-Siirrä mediatiedostosi toiseen tässä laitteessa olevaan tallennustilaan, tai siirrä ne tietokoneelle USB-johdon avulla. 
+"&lt;b&gt;Valokuvien ja muiden mediatiedostojen varmuuskopiointi&lt;/b&gt;"
+Siirrä mediatiedostosi toiseen tässä laitteessa olevaan tallennustilaan, tai siirrä ne tietokoneelle USB-johdon avulla.
 
-"&lt;b&gt;Sovellusten varmuuskopiointi&lt;/b&gt;" 
+"&lt;b&gt;Sovellusten varmuuskopiointi&lt;/b&gt;"
 Kaikki kohteeseen ^1 tallennetut sovellukset poistetaan ja niiden tiedot tyhjennetään. Jos haluat säilyttää nämä sovellukset, siirrä ne toiseen tämän laitteen tallennustilaan."</string>
   <string name="storage_internal_title">Ei-järjestelmän tallennustila</string>
-  <string name="storage_internal_unmount_details">&lt;b&gt;Kun tämä ^1 poistetaan, siihen tallennetut sovellukset lakkaavat toimimasta eivätkä mediatiedostot ole käytettävissä ennen kuin se liitetään uudelleen.&lt;/b&gt;" 
+  <string name="storage_internal_unmount_details">&lt;b&gt;Kun tämä ^1 poistetaan, siihen tallennetut sovellukset lakkaavat toimimasta eivätkä mediatiedostot ole käytettävissä ennen kuin se liitetään uudelleen.&lt;/b&gt;"
 
 ^1 on alustettu niin, että se toimii vain tämän laitteen kanssa."</string>
   <string name="storage_label">Tallennustila</string>
@@ -4043,13 +4043,13 @@ Kaikki kohteeseen ^1 tallennetut sovellukset poistetaan ja niiden tiedot tyhjenn
   <string name="storage_volume_summary">Käytössä %1$s/%2$s</string>
   <string name="storage_volume_used">Tallennustilasta (%1$s) käytössä</string>
   <string name="storage_volume_used_total">Tallennustilasta (%1$s) käytössä yhteensä</string>
-  <string name="storage_wizard_format_confirm_body">"Jotta ^1 olisi turvallinen, se on alustettava. 
+  <string name="storage_wizard_format_confirm_body">"Jotta ^1 olisi turvallinen, se on alustettava.
 
-Alustamisen jälkeen ^1 toimii vain tässä laitteessa. 
+Alustamisen jälkeen ^1 toimii vain tässä laitteessa.
 
 "&lt;b&gt;Alustaminen tarkoittaa, että ^1 tyhjennetään kaikista tiedoista.&lt;/b&gt; Suosittelemme varmuuskopiointia, jotta et menetä tärkeitä tietoja.</string>
   <string name="storage_wizard_format_confirm_next">Poista tiedot ja alusta</string>
-  <string name="storage_wizard_format_confirm_public_body">"^1 on alustettava. 
+  <string name="storage_wizard_format_confirm_public_body">"^1 on alustettava.
 "&lt;b&gt;Alustaminen tarkoittaa, että ^1 tyhjennetään kaikista tiedoista. &lt;/b&gt; Suosittelemme varmuuskopiointia, jotta et menetä tärkeitä tietoja.</string>
   <string name="storage_wizard_format_confirm_public_title">Alusta kannettavana tallennustilana</string>
   <string name="storage_wizard_format_confirm_third_body">Alustetaan ^1</string>
@@ -4061,30 +4061,30 @@ Alustamisen jälkeen ^1 toimii vain tässä laitteessa.
   <string name="storage_wizard_init_internal_summary">Jos haluat tallentaa kaiken, mukaan lukien sovellukset ja kuvat, vain tälle laitteelle. Vaatii alustuksen, joka estää sen toimimisen muissa laitteissa.</string>
   <string name="storage_wizard_init_internal_title">Käytä sisäisenä tallennustilana</string>
   <string name="storage_wizard_init_title">Määritä ^1</string>
-  <string name="storage_wizard_migrate_body">"Uusi ^1 on nyt käytettävissä, ja voit siirtää kuvasi, tiedostosi ja jotkin sovellukset siihen. 
+  <string name="storage_wizard_migrate_body">"Uusi ^1 on nyt käytettävissä, ja voit siirtää kuvasi, tiedostosi ja jotkin sovellukset siihen.
 Siirto vie noin ^2 ja vapauttaa ^3 sisäistä tallennustilaa. Jotkin sovellukset eivät toimi siirron aikana."</string>
   <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;Siirron kesto on arviolta ^1. Siirron myötä ^3 saa ^2 lisätilaa.&lt;/b&gt;</string>
   <string name="storage_wizard_migrate_confirm_next">Siirrä</string>
   <string name="storage_wizard_migrate_confirm_title">Siirrä tiedot nyt</string>
-  <string name="storage_wizard_migrate_details">"Siirron aikana: 
-• Jätä ^1 paikoilleen. 
-• Kaikki sovellukset eivät toimi oikein. 
+  <string name="storage_wizard_migrate_details">"Siirron aikana:
+• Jätä ^1 paikoilleen.
+• Kaikki sovellukset eivät toimi oikein.
 • Pidä laite ladattuna."</string>
   <string name="storage_wizard_migrate_later">Siirrä myöhemmin</string>
   <string name="storage_wizard_migrate_now">Siirrä nyt</string>
   <string name="storage_wizard_migrate_progress_title">Siirretään tietoja…</string>
   <string name="storage_wizard_migrate_title">Siirrä tiedot uuteen paikkaan</string>
-  <string name="storage_wizard_move_confirm_body">"Sovelluksen ^1 ja sen tietojen siirtäminen kohteeseen ^2 vie vain hetken. Et voi käyttää sovellusta, ennen kuin siirto on valmis. 
+  <string name="storage_wizard_move_confirm_body">"Sovelluksen ^1 ja sen tietojen siirtäminen kohteeseen ^2 vie vain hetken. Et voi käyttää sovellusta, ennen kuin siirto on valmis.
 
 Jätä ^2 paikalleen siirron ajaksi."</string>
   <string name="storage_wizard_move_confirm_title">Siirrä ^1</string>
-  <string name="storage_wizard_move_progress_body">"Jätä ^1 paikalleen siirron ajaksi. 
+  <string name="storage_wizard_move_progress_body">"Jätä ^1 paikalleen siirron ajaksi.
 
 Tämän laitteen ^2-sovellus ei ole käytettävissä, ennen kuin siirto on valmis."</string>
   <string name="storage_wizard_move_progress_cancel">Peruuta siirto</string>
   <string name="storage_wizard_move_progress_title">Siirretään ^1…</string>
   <string name="storage_wizard_ready_external_body">^1 on valmis kuvien ja muiden mediatiedostojen tallennukseen.</string>
-  <string name="storage_wizard_ready_internal_body">"Uusi ^1 toimii oikein. 
+  <string name="storage_wizard_ready_internal_body">"Uusi ^1 toimii oikein.
 
 Jos haluat siirtää kuvia, tiedostoja ja sovellustietoja tähän laitteeseen, siirry kohtaan Asetukset &gt; Tallennustila."</string>
   <string name="storage_wizard_ready_title">^1 on valmis</string>
@@ -4135,9 +4135,9 @@ Nopeampi ^1 voi toimia tehokkaammin."</string>
   <string name="sync_menu_sync_cancel">Peruuta synkronointi</string>
   <string name="sync_menu_sync_now">Synkronoi nyt</string>
   <string name="sync_now">Synkronoi</string>
-  <string name="sync_one_time_sync">"Synkronoi nyt koskettamalla – 
+  <string name="sync_one_time_sync">"Synkronoi nyt koskettamalla –
 %1$s"</string>
-  <string name="sync_plug">&lt;font fgcolor="#ffffffff"&gt;Tervetuloa käyttämään Google Sync -palvelua!&lt;/font&gt;" 
+  <string name="sync_plug">&lt;font fgcolor="#ffffffff"&gt;Tervetuloa käyttämään Google Sync -palvelua!&lt;/font&gt;"
 Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystietojasi, tapaamisiasi ynnä muita tietoja mistä tahansa."</string>
   <string name="sync_settings">Synkronointi</string>
   <string name="sync_wifi_label">Wi-Fi</string>
@@ -4171,7 +4171,9 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="testing_sim_toolkit">SIM työkalu</string>
   <string name="testing_usage_stats">Käyttötiedot</string>
   <string name="testing_wifi_info">Wi-Fi tiedot</string>
-  <string name="tether_and_hotspot_title">Jaettu yhteys ja hotspot</string>
+  <string name="tether_and_hotspot_title">Jaettu yhteys ja kannettava hotspot</string>
+  <string name="tether_data_usage_limit">Kertakäyttöinen tiedonsiirtoraja</string>
+  <string name="tether_data_usage_limit_summary">Tiedonsiirtoraja asetetaan seuraavalla kerralla, kun hotspot on käytössä</string>
   <string name="tether_devices_management_title">Hallitse laitteita</string>
   <string name="tether_devices_max_number">Yhdistettyjen laitteiden raja</string>
   <string name="tether_settings_disabled">Kannettava hotspot pois käytöstä</string>
@@ -4184,17 +4186,17 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="tether_settings_title_wifi">Kannettava yhteyspiste</string>
   <string name="tether_share_qrcode_title">Jaa QR-koodi</string>
   <string name="tethering_help_button_text">Ohjeet</string>
-  <string name="tethering_help_dialog_text">Jaettu yhteys USB:n kautta" 
- Voit jakaa Android-laitteesi internetyhteyden tietokoneelle käyttämällä USB-kaapelia. 
+  <string name="tethering_help_dialog_text">Jaettu yhteys USB:n kautta"
+ Voit jakaa Android-laitteesi internetyhteyden tietokoneelle käyttämällä USB-kaapelia.
 
-1. USB-jakaminen toimii Windows Vista, Windows 7, Windows 8, Windows 8.1 ja Linux käyttöjärjestelmillä. 
+1. USB-jakaminen toimii Windows Vista, Windows 7, Windows 8, Windows 8.1 ja Linux käyttöjärjestelmillä.
 
-2. Jos laitteessasi on SD-kortti tai USB-tallennustila, et voi käyttää sitä tietokoneellasi, kun USB jakaminen on käytössä. 
+2. Jos laitteessasi on SD-kortti tai USB-tallennustila, et voi käyttää sitä tietokoneellasi, kun USB jakaminen on käytössä.
 
- "Kannettava Wi-Fi yhteyspiste" 
- Voit muuttaa Android-laitteesi kannettavaksi Wi-Fi yhteyspisteeksi jakaaksesi internetyhteyden muille tietokoneille ja laitteille. 
+ "Kannettava Wi-Fi yhteyspiste"
+ Voit muuttaa Android-laitteesi kannettavaksi Wi-Fi yhteyspisteeksi jakaaksesi internetyhteyden muille tietokoneille ja laitteille.
 
-1. Kun laitteesi toimii Wi-Fi yhteyspisteenä, laitteesi sovellukset ei voi käyttää Wi-Fi-yhteyttä internetiä varten (mutta olet tietenkin yhteydessä internetiin käyttäen mobiilidatayhteyttäsi). 
+1. Kun laitteesi toimii Wi-Fi yhteyspisteenä, laitteesi sovellukset ei voi käyttää Wi-Fi-yhteyttä internetiä varten (mutta olet tietenkin yhteydessä internetiin käyttäen mobiilidatayhteyttäsi).
 
 2. Määritä yhteyspisteen asetukset Wi-Fi yhteyspisteen asetuksissa."</string>
   <string name="tethering_help_dialog_title">Apua</string>
