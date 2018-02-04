@@ -319,11 +319,11 @@ siirtyäksesi Toiseen tilaan Lukitusnäytöltä"</string>
   <string name="xspace_default_app_title">Oletussovellus</string>
   <string name="xspace_default_setting_dialog_title">Oletus</string>
   <string name="xspace_default_setting_label">Oletussovellus</string>
-  <string name="xspace_description">"Kaksoissovellukset ovat kopioita, joissa voit käyttää eri tiliä.
+  <string name="xspace_description">"Kaksoissovellus on sovelluksen kopio, jossa voi käyttää eri tiliä.
 
 Jotkut kaksoissovellukset vaativat Google Services Frameworkin tuen. Näissä tapauksissa, kaksi Google Services Framework:iä luodaan."</string>
   <string name="xspace_guide_des">Käytä kahta tiliä ilman, että vaihdat niiden välillä</string>
-  <string name="xspace_guide_title">Luo kaksoissovellus sovelluksesta %s</string>
+  <string name="xspace_guide_title">Luo kaksoissovellus</string>
   <string name="xspace_header">Kaksoissovellukset</string>
   <string name="xspace_install_completed">Kuvake lisätty Aloitusnäytölle</string>
   <string name="xspace_install_failed">Luominen epäonnistui</string>
