@@ -423,7 +423,7 @@
   <string name="change_default_data_card">Oletus mobiilidatan SIM-kortti</string>
   <string name="change_default_data_card_summary">Näyttää siltä, että vaihdoit SIM-kortteja. Asetetaanko tämä kortti oletus SIM-kortiksi mobiilidatayhteydellesi?</string>
   <string name="change_num">Päivitä</string>
-  <string name="change_password">Vaida eston salasana</string>
+  <string name="change_password">Vaihda eston salasana</string>
   <string name="change_pin">Vaihda SIM-kortin PIN-koodi</string>
   <string name="change_pin2">Vaihda PIN2-koodi</string>
   <string name="change_pin_cancel_label">Peruuta</string>
@@ -1010,7 +1010,7 @@ Aktivointi voi kestää viisi minuuttia."</string>
   <string name="ota_title_activate">Aktivoi puhelin</string>
   <string name="ota_title_activate_success">Puhelin aktivoitu.</string>
   <string name="ota_title_problem_with_activation">Aktivointiongelma</string>
-  <string name="ota_touch_activate">"Sinun täytyy soittaa erityinen puhelu aktivoidaksesi puhelimesi palvelun. 
+  <string name="ota_touch_activate">"Sinun täytyy soittaa erityinen puhelu aktivoidaksesi puhelimesi palvelun.
 
 Paina Aktivoi ja aktivoi puhelimesi kuulemiesi ohjeiden avulla."</string>
   <string name="ota_try_again">Yritä uudelleen</string>
@@ -1054,7 +1054,7 @@ Yritä uudelleen tai pyydä lisäohjeita asiakaspalvelusta."</string>
   <string name="path_preference_telocation_title">Järjestelmäsovellukset/Puhelin/Sijainti</string>
   <string name="path_reject_via_sms">Järjestelmäsovellukset/Puhelin/Lisäasetukset/Pikavastaukset</string>
   <string name="path_sip_settings">Järjestelmäsovellukset/Puhelin/Lisäasetukset/SIP-asetukset</string>
-  <string name="path_t9_indexing_method_title">Järjestelmäsovellukset/Puhelin/Lisäasetukset/T9 search input</string>
+  <string name="path_t9_indexing_method_title">Järjestelmäsovellukset/Puhelin/Lisäasetukset/T9-haun syöttö</string>
   <string name="path_telocation_auto_country_code">Järjestelmäsovellukset/Puhelin/Sijainti/Lisää maakoodi</string>
   <string name="path_telocation_contacts_countrycode">Järjestelmäsovellukset/Puhelin/Sijainti/Maakoodin oletusarvo</string>
   <string name="path_telocation_custom_location_title">Järjestelmäsovellukset/Puhelin/Sijainti/Sijaintini</string>
@@ -1217,6 +1217,7 @@ Laitteesi lukitaan automaattisesti jos yrityksesi menee vielä väärin"</string
 SIM-korttisi lukitaan seuraavan epäonnistuneen yrityksen jälkeen."</string>
   <string name="puk_requested">Virheellinen salasana. PIN-koodi on estetty. PUK-koodi on pyydetty.</string>
   <string name="puk_unlocked">SIM-korttisi esto on purettu. Puhelimen lukitusta poistetaan...</string>
+  <string name="quick_dial_setting_title">Pikavalinta</string>
   <string name="radio_off_during_emergency_call">Lentokonetilaan ei voi siirtyä hätäpuhelun aikana.</string>
   <string name="radio_off_error">Käynnistä radio ennen näiden asetuksien tarkastelua.</string>
   <string name="reading_settings">Luetaan asetuksia…</string>
@@ -1400,9 +1401,9 @@ SIM-korttisi lukitaan seuraavan epäonnistuneen yrityksen jälkeen."</string>
   <string name="sum_show_caller_id">Numero näytetään soitetuissa puheluissa</string>
   <string name="sum_voicemail_choose_provider">Valitse puhelinvastaajapalvelu</string>
   <string name="t9_indexing_method_pinyin">Pinyin</string>
-  <string name="t9_indexing_method_title">T9 search input</string>
+  <string name="t9_indexing_method_title">T9-haun syöttö</string>
   <string name="t9_indexing_method_zhuyin">Zhuyin</string>
-  <string name="t9_indexing_rebuilding_message">Rebuilding T9 indexes…</string>
+  <string name="t9_indexing_rebuilding_message">T9-indeksiä rakennetaan uudelleen…</string>
   <string name="technology_news_disable">Teknologiauutiset pois käytöstä</string>
   <string name="technology_news_enable">Teknologiauutiset käytössä</string>
   <string name="telephony_setting">Puhelin</string>

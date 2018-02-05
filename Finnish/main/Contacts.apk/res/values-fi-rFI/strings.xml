@@ -343,8 +343,9 @@ Yhteystietokortit on poistettu käytöstä"</string>
   <string name="description_image_button_zero">nolla</string>
   <string name="description_minus_button">poista</string>
   <string name="description_plus_button">plus</string>
-  <string name="description_quick_contact_for">Pikayhteys henkilöön %1$s</string>
-  <string name="description_search_button">haku</string>
+  <string name="description_quick_contact_for">Pikavalinta henkilöön %1$s</string>
+  <string name="description_quick_dial_button">Pikavalinta</string>
+  <string name="description_search_button">Haku</string>
   <string name="description_send_message">Lähetä viesti kohteelle %1$s</string>
   <string name="description_send_text_message">Lähetä tekstiviesti: %1$s</string>
   <string name="description_star">lisää suosikkeihin</string>
@@ -822,6 +823,7 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="path_key_rebuild_t9_index_title">Järjestelmäsovellukset/Yhteystiedot/Järjestä yhteystietoja/Indeksoi tiedot uudelleen</string>
   <string name="path_key_sim_manage">Järjestelmäsovellukset/Yhteystiedot/Järjestä yhteystietoja/SIM-kortit</string>
   <string name="path_preference_contacts_filter">Järjestelmäsovellukset/Yhteystiedot/Yhteystietojen näyttäminen/Muokkaa yhteystietojen listoja</string>
+  <string name="path_quick_dial_setting">Järjestelmäsovellukset/Yhteystiedot/Pikavalinta</string>
   <string name="path_remove_duplicate">Järjestelmäsovellukset/Yhteystiedot/Järjestä yhteystietoja/Yhdistä yhteystietojen kaksoiskappaleet</string>
   <string name="path_share_visible_contacts">Järjestelmäsovellukset/Yhteystiedot/Tuonti ja vienti/Jaa näkyvät yhteystiedot</string>
   <string name="path_sim_capacity">Järjestelmäsovellukset/Yhteystiedot/SIM-kortin tallennustila</string>
@@ -931,6 +933,12 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="pull_to_refresh_release_label">Vapauta päivittääksesi…</string>
   <string name="qr_card_card">QR-koodi</string>
   <string name="qrcode_card_title">QR-koodi</string>
+  <string name="quick_dial_setting_delete_dialog_message">Poistetaanko määritetty numero pikavalinnasta?</string>
+  <string name="quick_dial_setting_delete_dialog_option_delete">Poista</string>
+  <string name="quick_dial_setting_hint">Napauta painiketta määrittääksesi tai poistaaksesi pikavalintanumeron. Pidä määritettyä painiketta pohjassa soittaaksesi siihen.</string>
+  <string name="quick_dial_setting_set_dialog_message">Määritetäänkö pikavalintanumero tälle painikkeelle?</string>
+  <string name="quick_dial_setting_set_dialog_option_set">Kyllä</string>
+  <string name="quick_dial_setting_title">Pikavalinta</string>
   <string name="quickcontact_missing_app">Tähän toimintoon ei löydy soveltuvaa ohjelmaa</string>
   <string name="quit_dialog_confirm_message">Et ole yhdistänyt yhtään yhteystietoa</string>
   <string name="quit_dialog_confirm_title">Peruuta yhteystietojen yhdistäminen</string>
