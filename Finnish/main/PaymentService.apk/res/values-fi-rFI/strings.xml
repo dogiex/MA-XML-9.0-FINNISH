@@ -32,7 +32,6 @@
   <string name="mibi_button_cancel">Peruuta</string>
   <string name="mibi_button_confirm">Vahvista</string>
   <string name="mibi_button_count_down_finish">OK (%1$s)</string>
-  <string name="mibi_button_count_down_reget">%1$s</string>
   <string name="mibi_button_custom_service_phone">Selvä</string>
   <string name="mibi_button_next">Seuraava</string>
   <string name="mibi_button_pay">Vahvista</string>
@@ -42,7 +41,6 @@
   <string name="mibi_change_security_lock">Lisää näytön lukituksia</string>
   <string name="mibi_check_giftcard">Näytä kupongit</string>
   <string name="mibi_click_retry">%1$s, yritä uudelleen napauttamalla</string>
-  <string name="mibi_colon">": "</string>
   <string name="mibi_deduct_goods_name">Tuote</string>
   <string name="mibi_deduct_open_prompt">%1$s voi veloittaa sinua automaattisesti käyttäen %2$s ilman vahvistusta. Voit poistaa tämän ominaisuuden käytöstä asetuksista %1$s</string>
   <string name="mibi_deduct_order_price">Hinta</string>
@@ -86,7 +84,6 @@ Tarkista paikallinen päivämäärä ja yritä uudelleen."</string>
   <string name="mibi_error_common_summary">Järjestelmävirhe. Yritä myöhemmin uudelleen.</string>
   <string name="mibi_error_deduct">Automaattista Maksuprotokollaa ei voitu aktivoida</string>
   <string name="mibi_error_expired_summary">Tilauksesi on vanhentunut</string>
-  <string name="mibi_error_frozen_service_num">400-100-3399</string>
   <string name="mibi_error_has_bought_summary">Olet jo ostanut tämän tuotteen.</string>
   <string name="mibi_error_illegal_order_summary">Tilausvirhe. Yritä myöhemmin uudelleen</string>
   <string name="mibi_error_invalid_device">Virheellinen laite.</string>

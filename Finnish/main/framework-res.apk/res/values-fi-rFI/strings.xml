@@ -1299,7 +1299,6 @@ Pitkäkestoinen kova äänenvoimakkuus saattaa heikentää kuuloa."</string>
   <string name="ssl_ca_cert_warning">Verkkoa saatetaan valvoa</string>
   <string name="ssl_certificate">Suojausvarmenne</string>
   <string name="ssl_certificate_is_valid">Varmenne on voimassa.</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stk_cc_ss_to_dial">SS-pyyntö muutettiin DIAL-pyynnöksi.</string>
   <string name="stk_cc_ss_to_ss">SS-pyyntö muutettiin uudeksi SS-pyynnöksi.</string>
   <string name="stk_cc_ss_to_ussd">SS-pyyntö muutettiin USSD-pyynnöksi.</string>
