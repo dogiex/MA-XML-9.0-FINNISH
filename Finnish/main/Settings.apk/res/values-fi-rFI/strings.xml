@@ -3573,7 +3573,6 @@ Näytön kiinnittäminen:
   <string name="security_encryption_attention_3">Sinun täytyy asettaa uusi lukitusnäytön salasana</string>
   <string name="security_encryption_attention_4">Pidä huoli, että muistat lukitusnäytön salasanasi. Muuten joudut palauttamaan laitteesi tehdasasetuksille ja menetät laitteesi kaikki tiedot.</string>
   <string name="security_encryption_attention_info">Voit salata tilisi, ladatut sovellukset ja niiden tiedot, mediat ja muut tiedostot.</string>
-  <string name="security_encryption_attention_symbol">•</string>
   <string name="security_encryption_attention_title">Tärkeää</string>
   <string name="security_encryption_close_dialog_info">Jos et käytä lukitusnäytön salasanan käyttämistä laitteen salaamiseen, jotkut Googlen palvelut ei välttämättä ole saatavilla enää.</string>
   <string name="security_encryption_close_dialog_title">Palaa takaisin käyttämään salasanasuojausta</string>
