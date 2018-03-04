@@ -351,9 +351,7 @@ Kaikki aikaisemmat käyttäjätiedot tallennetaan."</string>
   <string name="picture_color_mode_desc">Ota sRGB käyttöön</string>
   <string name="pointer_location">Osoittimen sijainti</string>
   <string name="pointer_location_summary">Näytön peittokuva näyttää nykyiset kosketustiedot</string>
-  <string name="power_charging">%1$s – %2$s</string>
   <string name="power_charging_duration">%1$s – %2$s täyteen lataukseen</string>
-  <string name="power_charging_duration_short">%1$s – %2$s</string>
   <string name="power_discharging_duration">%1$s – noin %2$s jäljellä</string>
   <string name="power_discharging_duration_short">%1$s – %2$s jäljellä</string>
   <string name="power_remaining_charging_duration_only">%1$s kunnes täynnä</string>

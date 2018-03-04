@@ -246,7 +246,6 @@ Virransäästö poistuu käytöstä automaattisesti, kun laitteesi latautuu."</s
   <string name="common_name_suffixes"/>
   <string name="condition_provider_service_binding_label">Ehtojen toimituspalvelu</string>
   <string name="conference_call">Puhelinneuvottelu</string>
-  <string name="config_UsbDeviceConnectionHandling_component">@null</string>
   <string name="contentServiceSync">Synkronointi</string>
   <string name="contentServiceSyncNotificationTitle">Synkronointi</string>
   <string name="contentServiceTooManyDeletesNotificationDesc">Liikaa %s-poistoja.</string>
