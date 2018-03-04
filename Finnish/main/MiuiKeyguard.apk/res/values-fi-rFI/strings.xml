@@ -7,6 +7,8 @@
   <string name="custom_lock_wallpaper_enter">Avaa</string>
   <string name="default_lockscreen_unlock_hint_text">Avaa lukitus pyyhkäisemällä ylös</string>
   <string name="delete">Poista</string>
+  <string name="do_disclosure_generic">Organisaatiosi hallinnoi tätä laitetta.</string>
+  <string name="do_disclosure_with_name">Tätä laitetta hallitsee %s.</string>
   <string name="emergency_call_string">Hätätilanne</string>
   <string name="face_data_input_camera_fail">Kameran lataaminen epäonnistui</string>
   <string name="face_data_input_camera_ok">Ladataan kameraa…</string>

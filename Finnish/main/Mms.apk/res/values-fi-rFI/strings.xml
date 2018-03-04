@@ -74,7 +74,7 @@
   <string name="confirm_delete_SIM_message">Poistetaanko tämä SIM viesti?</string>
   <string name="confirm_delete_all_SIM_messages">Poistetaanko kaikki SIM viestit?</string>
   <string name="confirm_delete_all_conversations">Poistetaanko kaikki keskustelut?</string>
-  <string name="confirm_delete_conversation">Poistetaanko tämä koko keskustelu?</string>
+  <string name="confirm_delete_conversation">Poistetaanko tämä keskustelu?</string>
   <string name="confirm_delete_group_message">Poistetaanko ryhmäviestit?</string>
   <string name="confirm_delete_locked_message">Poistetaanko tämä lukittu viesti?</string>
   <string name="confirm_delete_message">Poistetaanko tämä viesti?</string>
@@ -85,7 +85,8 @@
   <string name="confirm_export_dialog_description">Edelliset keskustelut tämän yhteystiedon kanssa ei pidetä enää piilossa.</string>
   <string name="confirm_export_dialog_title">Poista yksityisistä yhteystiedoista</string>
   <string name="confirm_no_block_positive">Poista esto</string>
-  <string name="confirm_no_block_title">Poista tämän numeron esto ja palauta kaikki lähetetyt viestit tästä numerosta?</string>
+  <string name="confirm_no_block_title">"Poistetaanko tämän numeron esto ja palautetaanko kaikki lähetetyt viestit tästä numerosta?
+(Numero lisätään viestien valkoiseen listaan)"</string>
   <string name="confirm_rate_limit">Suuri määrä multimediaviestejä lähetetään.</string>
   <string name="confirm_restore_all_title">Palautetaanko kaikki lähetetyt viestit tästä numerosta?</string>
   <string name="confirm_restore_checkbox">Palauta estetyt viestit</string>

@@ -1096,12 +1096,12 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="photo_print_package_installing">Ladataan liitännäistä…</string>
   <string name="photomovie_audio_custom">Paikallinen</string>
   <string name="photomovie_audio_none">Ei mitään</string>
-  <string name="photomovie_audio_unsupport">Tätä äänimuotoa ei tueta</string>
-  <string name="photomovie_cancel_download">Peruuta lataaminen</string>
+  <string name="photomovie_audio_unsupport">Tätä ääntä ei tueta.</string>
+  <string name="photomovie_cancel_download">Peruuta</string>
   <string name="photomovie_delete_disable">Tarvitset vähintään 3 kuvaa luodaksesi videoleikkeen.</string>
   <string name="photomovie_download">Lataa</string>
   <string name="photomovie_download_failed">Ei voitu ladata</string>
-  <string name="photomovie_download_failed_for_notwork">Ei voitu ladata. Tarkista verkkoyhteytesi.</string>
+  <string name="photomovie_download_failed_for_notwork">Ei voitu ladata. Yhdistä verkkoon ja yritä uudelleen.</string>
   <string name="photomovie_download_without_wifi_msg">Käyttämällä mobiilitiedonsiirtoa tiedostojen lataamiseen nostaa datan käyttöäsi. Jos menet tiedonsiirtorajasi yli, operaattorisi saattaa veloittaa siitä lisämaksuja.</string>
   <string name="photomovie_download_without_wifi_title">Tiedonsiirtovaroitus</string>
   <string name="photomovie_item_name">Videoleike</string>

@@ -30,6 +30,8 @@
   <string name="label_paper_size_summary">Paperikoko:</string>
   <string name="more_options_button">Lisäasetukset</string>
   <string name="no_connection_to_printer">Ei yhteyttä tulostimeen</string>
+  <string name="notification_channel_failure">Epäonnistuneet tulostustyöt</string>
+  <string name="notification_channel_progress">Käynnissä olevat tulostustyöt</string>
   <string name="page_description_template">Sivu %1$d/%2$d</string>
   <string name="pages_range_example">esim. 1–5,8,11–13</string>
   <string name="print_add_printer">Lisää tulostin</string>

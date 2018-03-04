@@ -263,10 +263,6 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="other">%d kertaa</item>
         <item quantity="one">%d kerran</item>
     </plurals>
-    <plurals name="app_manager_reject_count">
-        <item quantity="other">Estettiin %d kertaa</item>
-        <item quantity="one">Estettiin %d kerran</item>
-    </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">Käytettiin %d päivää sitten</item>
         <item quantity="one">Käytettiin %d päivä sitten</item>

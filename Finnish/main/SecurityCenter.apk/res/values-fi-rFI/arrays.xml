@@ -81,6 +81,10 @@
         <item>金币</item>
         <item>红包来了</item>
     </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>Poista käytöstä ja ilmoita</item>
+        <item>Vain ilmoitus</item>
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Kerran</item>
         <item>Joka päivä</item>

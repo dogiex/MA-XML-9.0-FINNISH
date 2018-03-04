@@ -38,6 +38,79 @@
         <item>Käytä HDCP-tarkistusta vain DRM-suojatulle sisällölle</item>
         <item>Käytä aina HDCP-tarkistusta</item>
     </string-array>
+    <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (oletus)</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Käytä järjestelmän valintaa (oletus)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Ota valinnaiset koodekit käyttöön</item>
+        <item>Poista valinnaiset koodekit käytöstä</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Käytä järjestelmän valintaa (oletus)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Ota valinnaiset koodekit käyttöön</item>
+        <item>Poista valinnaiset koodekit käytöstä</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Käytä järjestelmän valintaa (oletus)</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Käytä järjestelmän valintaa (oletus)</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Käytä järjestelmän valintaa (oletus)</item>
+        <item>16 bittiä/näyte</item>
+        <item>24 bittiä/näyte</item>
+        <item>32 bittiä/näyte</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Käytä järjestelmän valintaa (oletus)</item>
+        <item>16 bittiä/näyte</item>
+        <item>24 bittiä/näyte</item>
+        <item>32 bittiä/näyte</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Käytä järjestelmän valintaa (oletus)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Käytä järjestelmän valintaa (oletus)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Optimoi äänenlaatu (990 kb/s / 909 kb/s)</item>
+        <item>Tasapainoinen yhteyden ja äänenlaadun optimointi (660 kb/s / 606 kb/s)</item>
+        <item>Optimoi yhteyden laatu (330 kb/s / 303 kb/s)</item>
+        <item>Paras mahdollinen (mukautuva siirtonopeus)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Optimoi äänenlaatu</item>
+        <item>Tasapainoinen yhteyden ja äänenlaadun optimointi</item>
+        <item>Optimoi yhteyden laatu</item>
+        <item>Paras mahdollinen (mukautuva siirtonopeus)</item>
+    </string-array>
     <string-array name="select_logd_size_titles">
         <item>Ei käytössä</item>
         <item>64 kt</item>
@@ -59,6 +132,18 @@
         <item>1 Mt / lokipuskuri</item>
         <item>4 Mt / lokipuskuri</item>
         <item>16 Mt / lokipuskuri</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Ei käytössä</item>
+        <item>Kaikki</item>
+        <item>Kaikki paitsi radio</item>
+        <item>vain kernel</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Ei käytössä</item>
+        <item>Kaikki lokipuskurit</item>
+        <item>Kaikki paitsi radiolokipuskurit</item>
+        <item>vain kernel-lokipuskuri</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animaatio pois käytöstä</item>
@@ -121,6 +206,10 @@
         <item>Ei käytössä</item>
         <item>Näytä päällekkäiset alueet</item>
         <item>Näytä alueet puna-vihersokeille näkyvinä</item>
+    </string-array>
+    <string-array name="debug_hw_renderer_entries">
+        <item>OpenGL (oletus)</item>
+        <item>OpenGL (Skia)</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Vakioraja</item>

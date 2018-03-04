@@ -675,6 +675,11 @@ Tarkista seurantanumerosi."</string>
   <string name="fav_support_more">Kaikki tuetut sovellukset</string>
   <string name="fav_support_not_title">Suosikkeja ei näytetä luettelossa</string>
   <string name="fav_support_title">Suosikit näytetään luettelossa</string>
+  <string name="fav_tab_all">Kaikki</string>
+  <string name="fav_tab_article">Artikkelit</string>
+  <string name="fav_tab_new">Uusi</string>
+  <string name="fav_tab_shopping">Tuotteet</string>
+  <string name="fav_tab_video">Videot</string>
   <string name="favorite">Suosikit</string>
   <string name="favorite_add_home">Lisää Aloitusnäytölle</string>
   <string name="favorite_add_home_add">Lisää</string>
@@ -693,7 +698,7 @@ Tarkista seurantanumerosi."</string>
   <string name="feedback_ok">反馈</string>
   <string name="feedback_tip_msg">亲，您是否遇到了支付问题？您可以选择告诉我们。</string>
   <string name="flow_open">Näytä mobiilidatan kortti</string>
-  <string name="flow_setting_brief">Tarkastele datan käyttöä (Lisää datapakettisi paikassa Tietoturva &gt; Datan käyttö).</string>
+  <string name="flow_setting_brief">Tarkastele datan käyttötietoja (Lisää datapakettisi paikassa Tietoturva &gt; Datan käyttö).</string>
   <string name="flybird_auto_switch_channel">系统推荐</string>
   <string name="flybird_baoxian_close_text">开启账户安全险，享100万保险</string>
   <string name="flybird_baoxian_open_text">账户安全险保障中</string>
@@ -1345,8 +1350,8 @@ Tarkista seurantanumerosi."</string>
   <string name="setting_map">Liikennetiedot</string>
   <string name="setting_map_brief">Arvioi reitit ja ajat matkaa varten</string>
   <string name="setting_map_brief_detail">Arvioi reitit ja ajat matkaa varten</string>
-  <string name="setting_note">Lyhyt muistio</string>
-  <string name="setting_note_brief">Tee lyhyt muistio täällä.</string>
+  <string name="setting_note">Lyhyt muistiinpano</string>
+  <string name="setting_note_brief">Tee lyhyt muistiinpano täällä.</string>
   <string name="setting_place">Lisää usein käytettyjä paikkoja nähdäksesi liikenne- ja reittisuosituksia</string>
   <string name="setting_place_next">Seuraava</string>
   <string name="setting_pref_confirm">Valmis</string>
@@ -1394,7 +1399,7 @@ Tarkista seurantanumerosi."</string>
   <string name="step_km">km</string>
   <string name="step_setting_tip">Askeltietojen lähde</string>
   <string name="step_vip_action_bar">Askelta</string>
-  <string name="steps">Askelta</string>
+  <string name="steps">Askeleet</string>
   <string name="steps_auto_misport">Salli automaattinen käynnistyminen</string>
   <string name="steps_get_misport">Asenna Mi Fit</string>
   <string name="steps_misport">Valittu Mi Fit</string>

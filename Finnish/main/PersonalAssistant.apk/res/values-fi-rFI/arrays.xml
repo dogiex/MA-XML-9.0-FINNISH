@@ -41,7 +41,7 @@
     <string-array name="express_status_all">
         <item>Matkalla</item>
         <item>Lähetetään</item>
-        <item>Toimitettu</item>
+        <item>Lähetetty</item>
         <item>Tuntematon</item>
         <item>Vastaanotettu</item>
         <item>Hylätty</item>

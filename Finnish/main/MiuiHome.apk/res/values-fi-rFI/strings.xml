@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="action_add_to_workspace">Lisää Työtilaan</string>
+  <string name="action_add_to_workspace">Lisää työtilaan</string>
   <string name="activity_not_found">Sovellusta ei ole asennettu laitteellesi</string>
   <string name="add_screen">Lisää näyttö</string>
   <string name="app_already_exist">Sovellus on jo olemassa</string>
@@ -74,6 +74,11 @@
   <string name="durationformatshort">%2$2d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="edit_folder_title">Muokkaa kansion nimeä</string>
+  <string name="edit_mode_group">Ryhmä</string>
+  <string name="edit_mode_group_error_full">Ei tarpeeksi tilaa</string>
+  <string name="edit_mode_group_error_in_folder">Sulje kansio ennen kuvakkeiden ryhmittelyä</string>
+  <string name="edit_mode_group_error_one_folder">Kansiota ei voi kopioida valittujen kuvakkeiden kanssa</string>
+  <string name="edit_mode_uninstall">Poista</string>
   <string name="editing_add_widget_tips">Muokkaa widgettiä</string>
   <string name="editing_mode_enter_tip_text">Muokkaa Aloitusnäyttöä nipistämällä</string>
   <string name="editing_mode_title_empty">0 valittuna</string>
@@ -158,6 +163,8 @@
   <string name="lock_screen_failed_message">Lukitusnäytön taustakuvaa ei voi asettaa</string>
   <string name="lock_screen_success_message">Asetettiin Lukitusnäytölle</string>
   <string name="lock_screen_wallpaper">Lukitusnäytön taustakuva</string>
+  <string name="memory_clear_nothing_result">Välimuistissa ei ole vapautettavaa</string>
+  <string name="memory_clear_result">%1$s t vapautettu</string>
   <string name="menu_add">Lisää</string>
   <string name="menu_auto_fill">Täytä tyhjät ruudukot</string>
   <string name="menu_back_desktop">Takaisin Aloitusnäytölle</string>

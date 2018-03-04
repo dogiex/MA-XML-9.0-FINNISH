@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Turvallisuuspalvelun lisäosa</string>
-  <string name="app_not_installed_toast">Sovellusta ei ole asennettu laitteellesi.</string>
   <string name="cancel_button">Peruuta</string>
   <string name="empty">" "</string>
   <string name="fastboot_locked_answer_1">Fastboot on perinteinen Mi laitteiden asennusmenetelmä. Kun laite on Fastboot-tilassa, kaikkiin siihen tallennettuihin tietoihin päästään käsiksi ja ne voidaan poistaa suoraan. Lukitsemme Fastbootin varmistaaksemme, että tietosi pysyvät turvallisina, jos hukkaat laitteen ja se takaa myös Etsi laite -ominaisuuksien luotettavuuden.</string>
@@ -22,23 +21,6 @@
   <string name="miuishare_title_share">Jaa</string>
   <string name="miuishare_wechat_timeline_title">WeChat Hetket</string>
   <string name="miuishare_weibo_title">Weibo</string>
-  <string name="month_report_activity_label">Kuukausittainen raportti</string>
-  <string name="month_report_click_reconnect_network">Yritä uudelleen</string>
-  <string name="month_report_disconnect_tip">Verkkoyhteyttä ei voi muodostaa</string>
-  <string name="month_report_follow_service_negative">Ei kiitos</string>
-  <string name="month_report_follow_service_positive">Seuraa</string>
-  <string name="month_report_follow_service_summary">Pysy ajan tasalla tietoturvauutisista ja tiedoista seuraamalla MIUI:n Tietoturvasovelluksen virallista tiliä.</string>
-  <string name="month_report_follow_service_title">Tietoturvapäivitykset</string>
-  <string name="month_report_history_activity_label">Raporttien historia</string>
-  <string name="month_report_network_dialog_description">Sallitaanko tämän sovelluksen yhdistää internetiin hakeakseen raporttien tiedot?</string>
-  <string name="month_report_network_dialog_positive">Salli</string>
-  <string name="month_report_network_dialog_title">Raporttien haku epäonnistui</string>
-  <string name="month_report_result_share">Jaa</string>
-  <string name="month_report_share_img_fail">Jakaminen epäonnistui</string>
-  <string name="month_report_share_loading">Odota hetki…</string>
-  <string name="month_report_warning_dialog_description">Nähdäksesi kuukausittaiset raportit, ota tämä ominaisuus käyttöön Tietoturva-sovelluksen Asetuksista.</string>
-  <string name="month_report_warning_dialog_positive">Ota käyttöön</string>
-  <string name="month_report_warning_dialog_title">Kuukausittainen turvallisuusraportti</string>
   <string name="network_not_available">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="no_network_btn">Yritä uudelleen</string>
   <string name="ok_button">OK</string>
