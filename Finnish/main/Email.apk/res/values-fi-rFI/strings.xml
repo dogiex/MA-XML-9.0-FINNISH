@@ -270,7 +270,6 @@
   <string name="click_to_reload">Päivitä näyttö napauttamalla</string>
   <string name="close">Sulje</string>
   <string name="collapse_recipient_details">Näytä vastaanottajan tiedot</string>
-  <string name="colon">:</string>
   <string name="compose">Kirjoita viesti</string>
   <string name="compose_attachment_number_limit">Yli 10 liitetiedostoa ei voi lisätä.</string>
   <string name="compose_paste_address_oob">Liikaa merkkejä</string>
@@ -981,7 +980,6 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="send_feed_back_keywords">lähetä palaute</string>
   <string name="send_mail">Lähetä</string>
   <string name="sender_whitelist_cleared">Kuvia ei näytetä automaattisesti.</string>
-  <string name="senders_elided">..</string>
   <string name="senders_split_token">, </string>
   <string name="sending">Lähetetään…</string>
   <string name="sending_message">Lähetetään viestiä…</string>
@@ -1025,9 +1023,6 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="special_text_3">寫道:</string>
   <string name="special_text_4">寫道：</string>
   <string name="special_text_5">kirjoitti:</string>
-  <string name="special_text_colon_en">:</string>
-  <string name="special_text_colon_zh">：</string>
-  <string name="special_text_qq_subscribe">loadScript(_aoFiles){</string>
   <string name="special_text_sender_en">lähettäjä</string>
   <string name="special_text_sender_zh">发件人</string>
   <string name="storage">Tallennustila</string>

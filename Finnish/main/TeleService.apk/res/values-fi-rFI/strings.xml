@@ -1461,7 +1461,6 @@ Seuraava jakso alkaa %2$d päivän kuluttua (%3$s)"</string>
   <string name="time_end_minute">time end minute</string>
   <string name="time_formate_am">ap.</string>
   <string name="time_formate_pm">ip.</string>
-  <string name="time_interval_char">:</string>
   <string name="time_next_day">" next day "</string>
   <string name="time_start">From</string>
   <string name="time_start_hour">time start hour</string>

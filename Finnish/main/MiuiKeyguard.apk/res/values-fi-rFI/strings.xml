@@ -137,7 +137,6 @@
   <string name="phone_locked_forget_password_suggesstion_two_content">Valitse \"Nollaa &amp; Resetoi\" ja odota, kunnes laite käynnistyy uudelleen.</string>
   <string name="phone_locked_forget_password_suggesstions_title">Kuinka poistan kaikki tiedot?</string>
   <string name="phone_locked_string">Puhelin on lukittu</string>
-  <string name="symbol_colon">:</string>
   <string name="unlock_camera_steady">Ole paikoillasi</string>
   <string name="unlock_failed">Sisäinen virhe</string>
   <string name="unlock_failed_face_not_found">Tunnistetaan</string>
