@@ -247,7 +247,6 @@
   <string name="power_discharging_duration_short">%1$s – %2$s jäljellä</string>
   <string name="power_remaining_duration_only">Noin %1$s jäljellä</string>
   <string name="power_remaining_duration_only_short">%1$s jäljellä</string>
-  <string name="process_kernel_label">Android-käyttöjärjestelmä</string>
   <string name="pull_to_call_back">Vedä napauttamalla</string>
   <string name="remaining_length_format">%1$s jäljellä</string>
   <string name="respond_via_sms_canned_response_1">En voi vastata. Mitä asiaa?</string>

@@ -670,7 +670,6 @@
   <string name="top_videos">Jaa sijat</string>
   <string name="topic_follow">Seuraa</string>
   <string name="topic_followed">Seurataan</string>
-  <string name="topic_message">%1$s: %2$s</string>
   <string name="topic_title">Otsikot</string>
   <string name="transfer_done">Tiedostot siirrettiin onnistuneesti.</string>
   <string name="transfer_private_data">Siirretään piilotetut kansiot SD-kortilta…</string>

@@ -1200,7 +1200,6 @@ Laitteesi lukitaan automaattisesti jos yrityksesi menee vielä väärin"</string
   <string name="preferred_network_type_title">Ensisijaisen verkon tyyppi</string>
   <string name="preferred_phone_account">Ensisijainen puhelutili</string>
   <string name="private_num">Salainen numero</string>
-  <string name="process_kernel_label">Android-käyttöjärjestelmä</string>
   <string name="progress_dialog_exiting_ecm">Poistutaan hätäpuhelujen takaisinsoittotilasta</string>
   <string name="proximity_mode_title">Ota läheisyysanturi käyttöön</string>
   <string name="proximity_off_summary">Kun vastaat puheluun, näyttö pidetään aina päällä.</string>

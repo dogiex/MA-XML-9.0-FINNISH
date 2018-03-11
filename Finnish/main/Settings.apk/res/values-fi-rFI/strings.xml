@@ -2979,7 +2979,6 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="private_sms_recording_intro_header">Piirrä lukituksenpoistokuvio:</string>
   <string name="private_sms_reset_by_account">Sinun on kirjauduttava Mi Tilillesi, jotta voit palauttaa salasanasi</string>
   <string name="process_dex2oat_label">Sovellusoptimointi</string>
-  <string name="process_kernel_label">Android-käyttöjärjestelmä</string>
   <string name="process_mediaserver_label">Mediapalvelin</string>
   <string name="process_provider_in_use_description">Palveluntarjoaja %1$s on käytössä.</string>
   <string name="process_service_in_use_description">Palvelu %1$s on käytössä.</string>

@@ -198,7 +198,6 @@
   <string name="pause_prompt_no">Ei</string>
   <string name="pause_prompt_yes">Kyllä</string>
   <string name="payphone">Yleisöpuhelin</string>
-  <string name="phone_info_divider">" ｜ "</string>
   <string name="picking_participant">Haetaan yhteystiedon tietoja…</string>
   <string name="private_num">Yksityinen numero</string>
   <string name="remind_unlock_message">Laitteesi on nyt lukittu. \"%s\" on käytettävissä, kun avaat lukituksen. Avataanko nyt?</string>

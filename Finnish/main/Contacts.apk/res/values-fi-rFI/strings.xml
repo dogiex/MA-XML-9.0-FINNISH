@@ -570,7 +570,6 @@ Syy: %s"</string>
   <string name="keep_local">Säilytä paikallisena</string>
   <string name="keep_local_btn">Käytä laitteen sisäistä tallennustilaa</string>
   <string name="label_custom_type">Muokattu</string>
-  <string name="label_duplicate_count">(%1$d)</string>
   <string name="label_no_duplicate_contacts">Kaksoiskappaleita ei löytynyt</string>
   <string name="label_notes">Muistiinpanot</string>
   <string name="label_sip_address">SIP</string>
@@ -833,7 +832,6 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="payphone">Maksupuhelin</string>
   <string name="people">Yhteystiedot</string>
   <string name="phoneLabelsGroup">Puhelin</string>
-  <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_number_too_long_toast">Numero on liian pitkä</string>
   <string name="phone_primary">Ensisijainen</string>
   <string name="photoPickerNotFoundText">Tässä puhelimessa ei ole käytettäviä kuvia.</string>

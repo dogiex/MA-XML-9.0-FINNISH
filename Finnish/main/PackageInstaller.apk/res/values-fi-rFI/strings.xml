@@ -358,7 +358,6 @@ Kaikki aikaisemmat käyttäjätiedot tallennetaan."</string>
   <string name="power_remaining_duration_only">Noin %1$s jäljellä</string>
   <string name="power_remaining_duration_only_short">%1$s jäljellä</string>
   <string name="privacyPerms">Tietosuoja</string>
-  <string name="process_kernel_label">Android-käyttöjärjestelmä</string>
   <string name="remaining_length_format">%1$s jäljellä</string>
   <string name="retail_demo_reset_message">Palauta tehdasasetukset antamalla salasana</string>
   <string name="retail_demo_reset_next">Seuraava</string>

@@ -1540,7 +1540,6 @@ Tämä toiminta vähentää akun kestoa."</string>
 
 Kalibroinnin aikana, MIUI lähettää tekstiviestin operaattorillesi saadakseen kalibrointimallin."</string>
   <string name="privacy_prompt_upload">Lähetä</string>
-  <string name="process_kernel_label">Android</string>
   <string name="process_mediaserver_label">Media palvelin</string>
   <string name="promotion">Mainos</string>
   <string name="prompt_all">Kysy kaikille</string>

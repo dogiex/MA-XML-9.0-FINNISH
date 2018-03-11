@@ -519,7 +519,6 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="power_remaining_charging_duration_only">%1$s kunnes täynnä</string>
   <string name="power_remaining_duration_only">Noin %1$s jäljellä</string>
   <string name="power_remaining_duration_only_short">%1$s jäljellä</string>
-  <string name="process_kernel_label">Android-käyttöjärjestelmä</string>
   <string name="quick_settings_bluetooth_detail_empty_text">Laitepareja ei ole käytettävissä</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
   <string name="quick_settings_connect_success">Yhdistetty</string>

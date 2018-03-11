@@ -84,7 +84,6 @@
   <string name="edit_face_slender">Hoikka</string>
   <string name="edit_skin_smooth">Sileä</string>
   <string name="edit_skin_white">Sävy</string>
-  <string name="empty">" "</string>
   <string name="error_fail_to_start_audio_capture">Äänenkaappauksen aloittaminen epäonnistui</string>
   <string name="face_age_info">Ikä: %d</string>
   <string name="face_analyze_info_female">Nainen</string>
