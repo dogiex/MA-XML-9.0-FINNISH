@@ -369,7 +369,6 @@ Aseta vain laitteet vierekkäin (yleensä takakannet vastakkain) ja kosketa näy
   <string name="assist_access_screenshot_summary">Salli avustajasovelluksen käsitellä näytön kuvaa</string>
   <string name="assist_access_screenshot_title">Käytä kuvakaappausta</string>
   <string name="assist_and_voice_input_title">Avustus ja äänisyöte</string>
-  <string name="assist_and_voice_input_title">Avustus ja äänisyöte</string>
   <string name="assist_flash_summary">Välkytä näytön reunoja, kun avustajasovellus käyttää näytöllä tai kuvakaappauksessa näkyvää tekstiä.</string>
   <string name="assist_flash_title">Näytön välkytys</string>
   <string name="assist_footer">Avustajasovellukset voivat auttaa sinua näytöllä näkyvien tietojen perusteella. Jotkin sovellukset tukevat myös käynnistysohjelma- ja äänisyötepalveluja, joten ne voivat tarjota sinulle integroitua apua.</string>
