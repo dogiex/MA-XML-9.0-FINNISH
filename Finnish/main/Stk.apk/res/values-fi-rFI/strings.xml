@@ -25,6 +25,7 @@
   <string name="sim_type_uim_name">UIM työkalu</string>
   <string name="sim_type_usim_name">USIM työkalu</string>
   <string name="stk_app_state">Sovelluksen tila</string>
+  <string name="stk_channel_name">Mobiilipalveluviestit</string>
   <string name="stk_dialog_accept">KYLLÄ</string>
   <string name="stk_dialog_reject">EI</string>
   <string name="stk_dialog_title">SIM työkalu</string>

@@ -13,6 +13,8 @@
   <string name="bugreport_info_dialog_title">Virheraportin #%d tiedot</string>
   <string name="bugreport_info_name">Tiedostonimi</string>
   <string name="bugreport_info_title">Virheen nimi</string>
+  <string name="bugreport_intent_chooser_title">Jaa virheraportti</string>
+  <string name="bugreport_notification_channel">Virheraportit</string>
   <string name="bugreport_screenshot_action">Kuvakaappaus</string>
   <string name="bugreport_screenshot_failed">Kuvakaappauksen tallentaminen epäonnistui.</string>
   <string name="bugreport_screenshot_taken">Kuvakaappaus on tallennettu.</string>
@@ -22,4 +24,4 @@
   <string name="bugreport_updating_title">Lisätään tietoja virheraporttiin</string>
   <string name="bugreport_updating_wait">Odota…</string>
   <string name="save">Tallenna</string>
-</resources>
+</resources>a
