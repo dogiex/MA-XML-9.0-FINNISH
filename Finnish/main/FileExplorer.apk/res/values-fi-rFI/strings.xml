@@ -6,7 +6,6 @@
   <string name="activity_parse_video_title">Liitä videon linkki</string>
   <string name="ad_download">Lataa</string>
   <string name="ad_downloading">Odota hetki…</string>
-  <string name="add_one">+1</string>
   <string name="add_private">Piilota tiedostot nyt</string>
   <string name="add_private_files">Lisää tiedostoja</string>
   <string name="album_creator">Luoja %s</string>
@@ -800,9 +799,7 @@
   <string name="video_retry_btn">点击重试</string>
   <string name="video_status_reject">Hylätty</string>
   <string name="video_status_review">Tarkistuksessa</string>
-  <string name="video_tag">\# %s #</string>
   <string name="video_tag_search_hint">Muokattu aihe</string>
-  <string name="video_tag_search_lead">\#</string>
   <string name="video_tag_search_title">Valitse aihe</string>
   <string name="video_topic_hint">Etsi</string>
   <string name="video_upload_btn">Seuraava</string>

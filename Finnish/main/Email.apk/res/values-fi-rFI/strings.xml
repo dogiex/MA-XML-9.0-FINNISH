@@ -208,7 +208,6 @@
   <string name="attachment_unknown">%s-tiedosto</string>
   <string name="attachment_video">Video</string>
   <string name="attachments_header">Liitetiedostot</string>
-  <string name="authority_email_provider">com.android.email.provider</string>
   <string name="auto_advance_help_title">Viestin poistamisen jälkeen, näytä…</string>
   <string name="auto_advance_label">Poista viestiketju</string>
   <string name="auto_advance_summary">Valitse mihin viestiin siirrytään viestin poistamisen jälkeen</string>
@@ -411,7 +410,6 @@
   <string name="email_address">Sähköpostiosoite</string>
   <string name="email_feedback_uri"/>
   <string name="email_netease">NetEase Sähköposti</string>
-  <string name="email_package_name">com.android.email</string>
   <string name="email_qq">QQ Sähköposti</string>
   <string name="email_setting">Sähköpostiasetukset</string>
   <string name="email_setting_keywords">Tilit;Lisää tili;sähköposti tilit;lisää sähköposti tili;vahvista ennen poistamista;poista vahvista;vahvista ennen lähettämistä;lähetä vahvista;poista viesti ketju;poista uudelleenohjaa;keskustelu näkymä;sähköposti keskustelu;Virransäästö;sähköposti akku;lähetä palaute;lähetä lokit</string>
@@ -545,7 +543,6 @@
   <string name="info_switch_title">Tarjoukset</string>
   <string name="inline_picture_deleted">Ladataan puuttuva kuva…</string>
   <string name="input_password_prompt">Syötä salasanasi</string>
-  <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
   <string name="interact_with_server_error">Palvelimeen ei saatu yhteyttä</string>
   <string name="invalid_recipient">Osoite %s ei kelpaa.</string>
   <string name="invalid_recipient_title">Virheellinen vastaanottaja</string>
