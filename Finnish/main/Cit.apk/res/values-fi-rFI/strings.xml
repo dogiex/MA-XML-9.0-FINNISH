@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="FpTest">Käynnistä FpTest</string>
-  <string name="FpTest_result">FpTest tulos:</string>
+  <string name="FpTest_result">FpTestin tulos:</string>
   <string name="SDCard">SD-kortti</string>
   <string name="SD_INTERNAL_SDCard_mounted">Tunnista Sisäinen SD-kortti</string>
   <string name="SD_INTERNAL_SDCard_unmounted">Sisäinen SD-kortti ei käytettävissä</string>
@@ -9,10 +9,10 @@
   <string name="SD_SDCard_mounted">Tunnista SD-kortti</string>
   <string name="SD_SDCard_total_size">Koko yhteensä</string>
   <string name="SD_SDCard_unmounted">SD-kortti ei käytettävissä</string>
-  <string name="abc_action_bar_home_description">Navigoi kotiin</string>
+  <string name="abc_action_bar_home_description">Siirry kotiin</string>
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-  <string name="abc_action_bar_up_description">Navigoi ylös</string>
+  <string name="abc_action_bar_up_description">Siirry ylös</string>
   <string name="abc_action_menu_overflow_description">Lisää valintoja</string>
   <string name="abc_action_mode_done">Valmis</string>
   <string name="abc_activity_chooser_view_see_all">Näytä kaikki</string>
@@ -22,7 +22,7 @@
   <string name="abc_search_hint">Haku…</string>
   <string name="abc_searchview_description_clear">Tyhjennä kysely</string>
   <string name="abc_searchview_description_query">Hakukysely</string>
-  <string name="abc_searchview_description_search">Hae</string>
+  <string name="abc_searchview_description_search">Haku</string>
   <string name="abc_searchview_description_submit">Lähetä kysely</string>
   <string name="abc_searchview_description_voice">Äänihaku</string>
   <string name="abc_shareactionprovider_share_with">Jaa</string>
@@ -107,9 +107,9 @@ Ennen laitteesi kalibrointia, aseta se tasaiselle pinnalle."</string>
   <string name="cit_audio_check_title">Äänitiedot</string>
   <string name="cit_audio_get_temp_fail">Lämpötilan tietojen haku epäonnistui!</string>
   <string name="cit_audio_hdset_plug">"Äänikuulokkeiden liittämiskerrat: "</string>
-  <string name="cit_audio_lb_backmic_to_speaker_title">Takamikrofoni kaiutin palautetesti</string>
-  <string name="cit_audio_lb_frontmic_to_speaker_title">Etumikrofoni kaiutin palautetesti</string>
-  <string name="cit_audio_lb_mainmic_to_earpiece_title">Päämikrofoni kaiutin palautetesti</string>
+  <string name="cit_audio_lb_backmic_to_speaker_title">Takamikrofonista kaiuttimeen palautetesti</string>
+  <string name="cit_audio_lb_frontmic_to_speaker_title">Etumikrofonista kaiuttimeen palautetesti</string>
+  <string name="cit_audio_lb_mainmic_to_earpiece_title">Päämikrofonista kaiuttimeen palautetesti</string>
   <string name="cit_audio_lb_phonecall_title">Simuloitu puhelutesti</string>
   <string name="cit_audio_lb_summary_backmic_to_speaker">"Takamikrofonista kaiuttimeen palautetesti.
 
@@ -127,37 +127,37 @@ Pidä puhelinta, kuin soittaisit sillä, puhu päämikrofoniin, sinun pitäisi k
 
 Puhu ylämikrofoniin, sinun pitäisi kuulla ääntä kaiuttimesta"</string>
   <string name="cit_audio_lb_topmic_to_speaker_title">Ylämikrofonin kaiutin palautetesti</string>
-  <string name="cit_audio_left_caldata">"Left PA Calibrated Data:
+  <string name="cit_audio_left_caldata">"Vasemman PA:n Kalibrointitiedot:
 "</string>
-  <string name="cit_audio_left_calfail">Left PA Calibrated Failed!</string>
-  <string name="cit_audio_loopback_check_one_title">Main microphone receiver feedback test</string>
-  <string name="cit_audio_loopback_check_summary_first">"Main microphone receiver feedback test
+  <string name="cit_audio_left_calfail">Vasemman PA:n Kalibrointi Epäonnistui!</string>
+  <string name="cit_audio_loopback_check_one_title">Päämikrofonista kuulokkeeseen palautetesti</string>
+  <string name="cit_audio_loopback_check_summary_first">"Päämikrofonista kuulokkeeseen palautetesti
 
-Hold the phone as if you are making a call, speak into the microphone and should hear your voice in the receiver."</string>
-  <string name="cit_audio_loopback_check_summary_second">"Secondary microphone speaker feedback test.
+Pidä puhelinta kuin soittaisit puhelun, puhu mikrofoniin, sinun pitäisi kuulla äänesi yläkaiuttimesta."</string>
+  <string name="cit_audio_loopback_check_summary_second">"Toisesta mikrofonista kaiuttimeen palautetesti.
 
-Turn the phone so that the headphone input is facing downward. Speak into the receiver. You should hear your voice played through the external speaker."</string>
-  <string name="cit_audio_loopback_check_two_title">Secondary microphone speaker feedback test</string>
-  <string name="cit_audio_loopback_dualmic_earpiece_title">Ambient noise reduction test</string>
-  <string name="cit_audio_loopback_next">Next</string>
-  <string name="cit_audio_loopback_previous">Previous</string>
-  <string name="cit_audio_loopback_summary_dualmic_earpiece">"Ambient noise reduction test
+Käännä puhelin niin, että kuulokeliitäntä on  suunnattu alaspäin. Puhu kuulokkeeseen. Sinun pitäisi kuulla äänesi ulkoisesta kaiuttimesta."</string>
+  <string name="cit_audio_loopback_check_two_title">Toisesta mikrofonista kaiuttimeen palautetesti</string>
+  <string name="cit_audio_loopback_dualmic_earpiece_title">Taustamelun vähentämisen testi</string>
+  <string name="cit_audio_loopback_next">Seuraava</string>
+  <string name="cit_audio_loopback_previous">Edellinen</string>
+  <string name="cit_audio_loopback_summary_dualmic_earpiece">"Taustamelun vähentämisen testi
 
-Hold the phone as if you're answering a call, speak in to the microphone. You should hear your voice with reduced noise in the background played through the receiver."</string>
-  <string name="cit_audio_rcv_type">"Audio receiver vendor: "</string>
-  <string name="cit_audio_rcv_usetime">"Audio receiver use time: "</string>
-  <string name="cit_audio_right_caldata">"Right PA Calibrated Data:
+Pidä puhelinta kuin vastaisit puheluun, puhu mikrofoniin. Sinun pitäisi kuulla kuulokkeesta äänesi taustalla vähennetyllä äänellä."</string>
+  <string name="cit_audio_rcv_type">"Äänen vastaanottimen valmistaja: "</string>
+  <string name="cit_audio_rcv_usetime">"Äänen vastaanottimen käyttöaika: "</string>
+  <string name="cit_audio_right_caldata">"Oikean PA:n Kalibrointitiedot:
 "</string>
-  <string name="cit_audio_right_calfail">Right PA Calibrated Failed!</string>
-  <string name="cit_audio_spk_type">"Audio speaker vendor: "</string>
-  <string name="cit_audio_spk_usetime">"Audio speaker use time: "</string>
-  <string name="cit_aux_camera_action">Zoom</string>
-  <string name="cit_aux_camera_check_summary">"Test instructions:
+  <string name="cit_audio_right_calfail">Oikean PA:n Kalibrointi Epäonnistui!</string>
+  <string name="cit_audio_spk_type">"Äänikaiuttimen valmistaja: "</string>
+  <string name="cit_audio_spk_usetime">"Äänikaiuttimen käyttöaika: "</string>
+  <string name="cit_aux_camera_action">Zoomaa</string>
+  <string name="cit_aux_camera_check_summary">"Testiohjeet:
 
-1.Tap the Zoom button below to enter Camera interface
-2.Tap the zoom button on camera preview, preview frame will zoom in
-3.Tap the Done icon."</string>
-  <string name="cit_back_pointer_location_title">Back touch sensor</string>
+1.Napauta alapuolella olevaa Zoomaa-painiketta siirtyäksesi Kameraan
+2.Napauta zoomaa-painiketta kameran esikatselussa jolloin esikatselukuva lähenee
+3.Napauta Valmis kuvaketta."</string>
+  <string name="cit_back_pointer_location_title">Takakosketusanturi</string>
   <string name="cit_battery_check_summary">Laitteen akkutilastot</string>
   <string name="cit_battery_check_title">Akun tiedot</string>
   <string name="cit_battery_temp_fail">Akun lämpötila ei ole normaali (arvo=%d)</string>
@@ -184,59 +184,59 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
   <string name="cit_bluetooth_scanning_bluetooth_done">Valmis. Lähellä olevia Bluetooth-laitteita ei löytynyt.</string>
   <string name="cit_bluetooth_scanning_bluetooth_error">Tapahtui virhe Bluetooth-laitteiden skannauksen aikana.</string>
   <string name="cit_bluetooth_scanning_opening_bluetooth">Avataan Bluetooth-laitetta…</string>
-  <string name="cit_build_finger_failed">build fingerprint FAILED</string>
-  <string name="cit_build_finger_passed">build fingerprint PASSED</string>
+  <string name="cit_build_finger_failed">Sormenjäljen luonti EPÄONNISTUI</string>
+  <string name="cit_build_finger_passed">Sormenjäljen luonti ONNISTUI</string>
   <string name="cit_button_light_off">Painikkeiden valo pois käytöstä</string>
   <string name="cit_button_light_on">Painikkeiden valo käytössä</string>
   <string name="cit_calibration_fail">Kalibrointi epäonnistui</string>
-  <string name="cit_calibration_pass">Kalibrointi läpäisty</string>
-  <string name="cit_camera_calibration_summary">"Test instructions:
+  <string name="cit_calibration_pass">Kalibrointi onnistui</string>
+  <string name="cit_camera_calibration_summary">"Testiohjeet:
 
-1.Tap the calibration button below to start OIS calibration.
-2.There will be a calibration pass label to indicate the ois has been calibrated"</string>
+1. Napauta alapuolella olevaa kalibrointipainiketta käynnistääksesi OIS (optisen kuvanvakaimen) kalibroinnin.
+2. Kalibrointi onnistui otsikko osoittaa, että OIS on kalibroitu"</string>
   <string name="cit_camera_sdcard_error">Kuvaa ei voi ottaa. SD-kortti on täynnä.</string>
-  <string name="cit_charger_plugin_check_summary">When USB charger is connected the text \"Charging via USB/AC\" should be displayed below.</string>
+  <string name="cit_charger_plugin_check_summary">Kun USB-laturi on yhdistetty, teksti \"Ladataan käyttäen USB/AC\" pitäisi näkyä alapuolella.</string>
   <string name="cit_charger_plugin_check_title">Laturi (yhdistä)</string>
-  <string name="cit_charger_plugout_check_summary">When USB charger is disconnected the text \"USB/AC charger disconnected\" should be displayed below.</string>
+  <string name="cit_charger_plugout_check_summary">Kun USB-laturi on irroitettu, teksti \"USB/AC-laturi irroitettu\" should be displayed below.</string>
   <string name="cit_charger_plugout_check_title">Laturi (irrota)</string>
   <string name="cit_charger_waiting_in">Yhdistä laturi</string>
   <string name="cit_charger_waiting_out">Irrota laturi nyt</string>
   <string name="cit_dial_emergencycall">Soita 112</string>
-  <string name="cit_display_check_summary">Confirm that the required bmp file is on the SD card. Confirm that the colors are consistently displayed across the whole screen. Make sure there are no irregular bright spots and dark spots.</string>
+  <string name="cit_display_check_summary">Vahvista, että vaadittu bmp-tiedosto on SD-kortilla. Vahvista, että värit toistetaan systemaattisesti koko näytöllä. Varmista, että näytöllä ei esiinny epäsäännöllisiä kirkkaita tai tummia pisteitä.</string>
   <string name="cit_display_check_title">Näyttö</string>
-  <string name="cit_display_continue">Kosketa ruutua aloittaaksesi testin</string>
-  <string name="cit_emergencycall_check_summary">Please click Dial 112 button to dial 112 to check if 112 can be placed.</string>
+  <string name="cit_display_continue">Aloita testi koskettamalla näyttöä</string>
+  <string name="cit_emergencycall_check_summary">Paina Soita 112 painiketta soittaaksesi 112 numeroon tarkistaaksesi, että 112 voidaan yhdistää.</string>
   <string name="cit_emergencycall_check_title">Hätäpuhelu</string>
-  <string name="cit_exit_test_summary">When you exit, all related text data will be erased.</string>
+  <string name="cit_exit_test_summary">Kun poistut, kaikki testeihin liittyvät tiedot poistetaan.</string>
   <string name="cit_exit_test_title">Poistu testistä</string>
-  <string name="cit_fail">Fail</string>
-  <string name="cit_finger_check_title">Finger Print Test</string>
-  <string name="cit_flash_life_check_summary">Device flash life time estimation</string>
-  <string name="cit_flash_life_check_title">Flash life</string>
-  <string name="cit_fm_audio_path">Configure audio path</string>
-  <string name="cit_fm_audio_path_headset">Headphones</string>
-  <string name="cit_fm_audio_path_speaker">Speaker</string>
-  <string name="cit_fm_check_summary">"This will test the device's FM function."</string>
+  <string name="cit_fail">Epäonnistui</string>
+  <string name="cit_finger_check_title">Sormenjälkitesti</string>
+  <string name="cit_flash_life_check_summary">Laitteen flash-muistin arvioitu elinikä</string>
+  <string name="cit_flash_life_check_title">Flash-muistin ikä</string>
+  <string name="cit_fm_audio_path">Määritä äänen polku</string>
+  <string name="cit_fm_audio_path_headset">Kuulokkeet</string>
+  <string name="cit_fm_audio_path_speaker">Kaiutin</string>
+  <string name="cit_fm_check_summary">Tämä testaa laitteen FM Radion toiminnot.</string>
   <string name="cit_fm_check_title">FM Radio</string>
-  <string name="cit_fm_close">Close FM</string>
-  <string name="cit_fm_not_supported">"This device doesn't support FM"</string>
-  <string name="cit_fm_open_1">Start FM - 88.5</string>
-  <string name="cit_fm_open_2">Start FM - 107.9</string>
-  <string name="cit_fm_open_bluetooth">Opening Bluetooth…</string>
-  <string name="cit_fm_start_service">Start audio</string>
-  <string name="cit_fpc_checkerboard_test">CHECKERBOARD TEST</string>
-  <string name="cit_fpc_selftest">SELF-TEST</string>
-  <string name="cit_fpc_sensor_check_summary">FPC sensor test, press the button and wait for the pass info highlighted in green is correct.</string>
-  <string name="cit_fpc_sensor_check_title">FPC fingerprint sensor</string>
-  <string name="cit_fptest_summary">Press FpTest button to do fingerprint test</string>
-  <string name="cit_fptest_title">Fingerprint FpTest</string>
-  <string name="cit_front_camera_check_summary">"Test instructions:
+  <string name="cit_fm_close">Sulje FM</string>
+  <string name="cit_fm_not_supported">Tämä laite ei tue FM Radiota</string>
+  <string name="cit_fm_open_1">Käynnistä FM - 88.5</string>
+  <string name="cit_fm_open_2">Käynnistä FM - 107.9</string>
+  <string name="cit_fm_open_bluetooth">Avataan Bluetoothia…</string>
+  <string name="cit_fm_start_service">Käynnistä ääni</string>
+  <string name="cit_fpc_checkerboard_test">CHECKERBOARD TESTI</string>
+  <string name="cit_fpc_selftest">ITSE-TESTI</string>
+  <string name="cit_fpc_sensor_check_summary">FPC anturitesti, paina painiketta ja odota vihreäksi korostettua onnistui tekstiä.</string>
+  <string name="cit_fpc_sensor_check_title">FPC sormenjälkitunnistin</string>
+  <string name="cit_fptest_summary">Paina FpTesti painiketta suorittaaksesi sormenjälkitestin</string>
+  <string name="cit_fptest_title">Sormenjälki FpTesti</string>
+  <string name="cit_front_camera_check_summary">"Testiohjeet:
 
-1.Tap the Camera button below to enter front Camera interface
-2.Tap the shutter button
-3.Tap the Check icon. The system will save the photo automatically.
-4.The photo you took should be displayed below. Tap Delete to complete the test."</string>
-  <string name="cit_front_camera_check_title">Front camera</string>
+1. Napauta Kamera painiketta siirtyäksesi  etukameraan
+2. Napauta sulkijapainiketta
+3. Napauta vahvista kuvaketta. Järjestelmä tallentaa kuvan automaattisesti.
+4. Ottamasi kuva pitäisi näkyä alapuolella. Lopeta testi painamalla Poista."</string>
+  <string name="cit_front_camera_check_title">Etukamera</string>
   <string name="cit_get_signature_failed">get signature FAILED</string>
   <string name="cit_goodix_sensor_check_summary">Goodix sensor test, press the button and wait for the pass info highlighted in green is correct.</string>
   <string name="cit_goodix_sensor_check_title">Goodix fingerprint sensor</string>
