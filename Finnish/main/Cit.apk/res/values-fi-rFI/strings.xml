@@ -270,82 +270,81 @@ Käynnistä GPS koskettamalla näyttöä…"</string>
   <string name="cit_headset_button_pass">Onnistui</string>
   <string name="cit_headset_button_play_pause">Toista/Pysäytä</string>
   <string name="cit_headset_button_previous">Edellinen</string>
-  <string name="cit_headset_button_reverse">Please reversely insert usb headset</string>
+  <string name="cit_headset_button_reverse">Aseta USB-kuulokkeet käänteisesti</string>
   <string name="cit_headset_button_rewind">Kelaa taaksepäin</string>
   <string name="cit_headset_button_stop">Lopeta</string>
   <string name="cit_headset_button_unknown">Tuntematon</string>
-  <string name="cit_headset_loopback_check_summary">"While wearing the headphones, connect them to the device. Speak into the headphone microphone (often located on the cord). You should hear your voice in the headphone's speakers."</string>
+  <string name="cit_headset_loopback_check_summary">Yhdistä kuulokkeet laitteeseen samaan aikaan kun pidät niitä päässä. Puhu kuulokkeiden mikrofoniin (usein sijaitsee johdossa). Sinun pitäisi kuulla äänesi kuulokkeista.</string>
   <string name="cit_headset_loopback_check_title">Kuulokkeiden mikrofonin palautetesti</string>
-  <string name="cit_headset_plug_detect_summary">When headphones are connected, the text \"Headphones detected\" should be displayed below.</string>
-  <string name="cit_headset_plug_detect_title">Headphone detection (connect)</string>
-  <string name="cit_headset_plug_finish">Headphones detected</string>
-  <string name="cit_headset_plug_hint">Connect headphones now</string>
-  <string name="cit_headset_pull_detect_summary">When headphones are disconnected, the text \"Headphones have been disconnected\" should be displayed below</string>
-  <string name="cit_headset_pull_detect_title">Headphone detection (disconnect)</string>
-  <string name="cit_headset_pull_finish">Headphones have been disconnected</string>
-  <string name="cit_headset_pull_hint">Disconnect headphones now</string>
-  <string name="cit_hide_menu">Hide menu</string>
-  <string name="cit_kayboard_volume_down">Button: VOLUME DOWN</string>
-  <string name="cit_kayboard_volume_up">Button: VOLUME UP</string>
-  <string name="cit_keyboard_back">Button: BACK</string>
-  <string name="cit_keyboard_current">Current keyboard: %s</string>
-  <string name="cit_keyboard_menu">Button: MENU</string>
-  <string name="cit_keyboard_test_summary">When you push the buttons, the corresponding text on screen should turn green (note: the Home and the Power buttons are not included in the test).</string>
+  <string name="cit_headset_plug_detect_summary">Kun kuulokkeet on yhdistetty teksti \"Kuulokkeet havaittu\" pitäisi näkyä alla.</string>
+  <string name="cit_headset_plug_detect_title">Kuulokkeiden havaitseminen (yhdistäminen)</string>
+  <string name="cit_headset_plug_finish">Kuulokkeet havaittu</string>
+  <string name="cit_headset_plug_hint">Yhdistä kuulokkeet nyt</string>
+  <string name="cit_headset_pull_detect_summary">Kun kuulokkeet on irroitettu, teksti \"Kuulokkeet on irroitettu\" pitäisi näkyä alla</string>
+  <string name="cit_headset_pull_detect_title">Kuulokkeiden havaitseminen (irroittaminen)</string>
+  <string name="cit_headset_pull_finish">Kuulokkeet on irroitettu</string>
+  <string name="cit_headset_pull_hint">Irroita kuulokkeet nyt</string>
+  <string name="cit_hide_menu">Piilota valikko</string>
+  <string name="cit_kayboard_volume_down">Painike: ÄÄNENVOIMAKKUUS ALAS</string>
+  <string name="cit_kayboard_volume_up">Painike: ÄÄNENVOIMAKKUUS YLÖS</string>
+  <string name="cit_keyboard_back">Painike: TAKAISIN</string>
+  <string name="cit_keyboard_current">Nykyinen näppäimistö: %s</string>
+  <string name="cit_keyboard_menu">Painike: VALIKKO</string>
+  <string name="cit_keyboard_test_summary">Kun painat painikkeita, vastaava näytöllä oleva teksti pitäisi muuttua vihreäksi (huomio: Koti- ja Virtapainikkeet ei sisälly testiin).</string>
   <string name="cit_keyboard_test_title">Painikkeet</string>
   <string name="cit_label">Laitteistotestit</string>
   <string name="cit_lcdlight_brightness">Taustavalo</string>
   <string name="cit_lcdlight_brightness_max">MAX</string>
   <string name="cit_lcdlight_brightness_min">MIN</string>
-  <string name="cit_leds_check_summary">Backlight, notification light, and flash light (rear), should respond when corresponding button is pressed.</string>
-  <string name="cit_leds_check_title">Notification light (LED)</string>
-  <string name="cit_light_sensor_check_summary">DAC value should appear below</string>
-  <string name="cit_light_sensor_check_title">Light sensor</string>
-  <string name="cit_magnetic_sensor_check_summary">Values for X，Y，Z, coordinates should appear below</string>
-  <string name="cit_magnetic_sensor_check_title">Magnetic sensor</string>
-  <string name="cit_main_camera_check_summary">"Test instructions:
+  <string name="cit_leds_check_summary">Taustavalo, ilmoitusvalo ja taskulampun (takana) pitäisi vastata, kun vastaavaa painiketta painetaan.</string>
+  <string name="cit_leds_check_title">Ilmoitusvalo (LED)</string>
+  <string name="cit_light_sensor_check_summary">DAC-arvon pitäisi näkyä alla</string>
+  <string name="cit_light_sensor_check_title">Valoanturi</string>
+  <string name="cit_magnetic_sensor_check_summary">X, Y ja Z-koordinaattien arvot pitäisi ilmestyä alle</string>
+  <string name="cit_magnetic_sensor_check_title">Magneettianturi</string>
+  <string name="cit_main_camera_check_summary">"Testiohjeet:
 
-1.Tap the Camera button below to enter rear Camera interface
-2.Make sure the flash is enabled
-3.Tap the shutter button
-4.Tap the Check icon. The system will save the photo automatically.
-5.The photo you took should be displayed below. Tap Delete to complete the test."</string>
-  <string name="cit_main_camera_check_title">Rear camera</string>
+1. Napauta alla olevaa Kamera-painiketta siirtyäksesi takakameraan
+2. Varmista, että salama on käytössä
+3. Napauta sulkijapainiketta
+4. Napauta Tarkist kuvaketta. Järjestelmä tallentaa kuvan automaattisesti.
+5. Ottamasi kuva pitäisi näkyä alla. Lopeta testi napauttamalla Poista.</string>
+  <string name="cit_main_camera_check_title">Takakamera</string>
   <string name="cit_name">Laitteistotestit</string>
-  <string name="cit_nfc_check_summary">Please put the card on the top of the back of the phone</string>
-  <string name="cit_nfc_check_title">NFC test</string>
-  <string name="cit_not_available">"This test isn't available on this version of MIUI"</string>
-  <string name="cit_notificationlight">Notification light</string>
-  <string name="cit_notificationlight_off">Notification light off</string>
-  <string name="cit_notificationlight_on">Notification light on</string>
-  <string name="cit_otg_not_supported">"This device doesn't support OTG testing"</string>
+  <string name="cit_nfc_check_summary">Laita kortti puhelimen takapuolen yläosaan</string>
+  <string name="cit_nfc_check_title">NFC testi</string>
+  <string name="cit_not_available">Tämä testi ei ole käytettävissä tässä MIUI versiossa</string>
+  <string name="cit_notificationlight">Ilmoitusvalo</string>
+  <string name="cit_notificationlight_off">Ilmoitusvalo pois</string>
+  <string name="cit_notificationlight_on">Ilmoitusvalo päällä</string>
+  <string name="cit_otg_not_supported">Tämä laite ei tue OTG testausta</string>
   <string name="cit_pass">Onnistui</string>
-  <string name="cit_play_sd_mp3_hifi_summary">"Confirm that there's a file named \"music.mp3\" stored on the SD card. The file \"music.mp3\" should be played through the device's HIFI path when you open this test."</string>
-  <string name="cit_play_sd_mp3_hifi_title">Play MP3(HIFI) stored on SD card</string>
-  <string name="cit_play_sd_mp3_summary">"Confirm that there's a file named \"music.mp3\" stored on the SD card. The file \"music.mp3\" should be played through the device's external speakers when you open this test."</string>
-  <string name="cit_play_sd_mp3_title">Play MP3 stored on SD card</string>
-  <string name="cit_playing_sd_mp3">Playing music.mp3…</string>
-  <string name="cit_pointer_location_title">Touch sensor</string>
-  <string name="cit_power_check_summary">"The amount of battery charge should be expressed as a percentage below, and the battery's temperature also should be displayed."</string>
-  <string name="cit_power_check_title">Battery indicator</string>
-  <string name="cit_pressure_sensor_check_summary">Value for pressure should appear below</string>
-  <string name="cit_pressure_sensor_check_title">Pressure sensor</string>
-  <string name="cit_proximity_sensor_check_summary">"Cover the proximity sensor (located at the top of the phone near the receiver) with your hand, then move your hand away. The value should increase from 0.0 when you move your hand further away from the device.
-When calibrating, make sure there's nothing between the sensor and your hand (e.g. protective screen cover or gloves)."</string>
+  <string name="cit_play_sd_mp3_hifi_summary">Varmista, että tiedosto nimeltään \"music.mp3\" sijaitsee SD-kortilla. Tiedoston \"music.mp3\" pitäisi soida laitteeseen liitetyn HIFI:n kautta, kun avaat tämän testin.</string>
+  <string name="cit_play_sd_mp3_hifi_title">Toista SD-kortille tallennettu MP3(HIFI)</string>
+  <string name="cit_play_sd_mp3_summary">Varmista, että tiedosto nimeltään \"music.mp3\" sijaitsee SD-kortilla. Tiedoston \"music.mp3\" pitäisi soida laitteen ulkoisesta kaiuttimesta, kun avaat tämän testin.</string>
+  <string name="cit_play_sd_mp3_title">Toista SD-kortille tallennettu MP3</string>
+  <string name="cit_playing_sd_mp3">Toistetaan music.mp3…</string>
+  <string name="cit_pointer_location_title">Kosketusanturi</string>
+  <string name="cit_power_check_summary">Akun varaustila pitäisi näkyä prosentteina ja akun lämpötilan myös pitäisi näkyä alla.</string>
+  <string name="cit_power_check_title">Akun ilmaisin</string>
+  <string name="cit_pressure_sensor_check_summary">Paineen arvon pitäisi ilmestyä alle</string>
+  <string name="cit_pressure_sensor_check_title">Paineanturi</string>
+  <string name="cit_proximity_sensor_check_summary">Peitä läheisyysanturi (sijaitsee puhelimen yläreunassa lähellä kuulokevastaanotinta) kädelläsi ja sen jälkeen poista käsi anturilta. Arvon pitäisi nousta luvusta 0.0 kun siirrät kättäsi pois päin laitteesta. Kalibroinnin aikana varmista, että anturin ja kätesi välissä ei ole mitään (esim. näytön suojaa tai hanskoja).</string>
   <string name="cit_proximity_sensor_check_title">Läheisyysanturi</string>
   <string name="cit_proximity_us_sensitivity">Herkkyys:</string>
   <string name="cit_proximity_us_summary">Ultraääniläheisyysanturin kalibrointi</string>
-  <string name="cit_rear_dual_camera_check_title">Rear dual camera</string>
-  <string name="cit_rear_sub_camera_check_title">Rear sub camera</string>
-  <string name="cit_recovery_signature_failed">recovery signature FAILED</string>
-  <string name="cit_recovery_signature_passed">recovery signature PASSED</string>
-  <string name="cit_reset_check_summary">This test will reboot the device. All previous test data will be lost.</string>
-  <string name="cit_reset_check_title">Reboot test</string>
-  <string name="cit_reset_test">Test</string>
+  <string name="cit_rear_dual_camera_check_title">Taka kaksoiskamera</string>
+  <string name="cit_rear_sub_camera_check_title">Taka sub kamera</string>
+  <string name="cit_recovery_signature_failed">recovery allekirjoitus EPÄONNISTUI</string>
+  <string name="cit_recovery_signature_passed">recovery allekirjoitus ONNISTUI</string>
+  <string name="cit_reset_check_summary">Tämä testi käynnistää laitteen uudelleen. Kaikki edellisen testin tiedot menetetään.</string>
+  <string name="cit_reset_check_title">Uudelleenkäynnistystesti</string>
+  <string name="cit_reset_test">Testaa</string>
   <string name="cit_sar_sensor_check_summary">SAR anturikanavien arvot pitäisi näkyä alla. Peitä puhelimen painike, jos tiedot muuttuvat se toimii hyvin. Älä suorita kalibrointia USB-kaapelin ollessa liitettynä!</string>
   <string name="cit_sar_sensor_check_title">SAR Anturi</string>
   <string name="cit_sd_fail">Tapahtui virhe.</string>
-  <string name="cit_sd_mount">Mount SD card</string>
-  <string name="cit_sd_mount_sucess">SD card mounted</string>
+  <string name="cit_sd_mount">Liitä SD-kortti</string>
+  <string name="cit_sd_mount_sucess">SD-kortti liitetty</string>
   <string name="cit_sd_mp3_not_existed">"There is no file on the SD card called \"music.mp3\"
 After you place \"music.mp3\" in the SD card's directory, tap the display to play."</string>
   <string name="cit_sd_plugged_in">SD card detected, remove SD card now</string>
