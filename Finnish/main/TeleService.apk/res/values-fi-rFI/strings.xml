@@ -305,8 +305,13 @@ Siirtonopeus"</string>
   <string name="callFailed_data_limit_reached_description">Puhelu päättyi, koska mobiilidatan käyttöraja saavutettiin.</string>
   <string name="callFailed_destination_out_of_order">Destination out of order</string>
   <string name="callFailed_dialToDial">DIAL-pyyntö muutettiin DIAL-pyynnöksi toisella numerolla.</string>
+  <string name="callFailed_dialToDialVideo">DIAL-pyyntö muutettiin Video DIAL-pyynnöksi.</string>
   <string name="callFailed_dialToSs">DIAL-pyyntö muutettiin SS-pyynnöksi.</string>
   <string name="callFailed_dialToUssd">DIAL-pyyntö muutettiin USSD-pyynnöksi.</string>
+  <string name="callFailed_dialVideoToDial">Video DIAL-pyyntö muutettiin DIAL-pyynnöksi.</string>
+  <string name="callFailed_dialVideoToDialVideo">Video DIAL-pyyntö muutettiin Video DIAL-pyynnöksi toisella numerolla.</string>
+  <string name="callFailed_dialVideoToSs">Video DIAL-pyyntö muutettiin SS-pyynnöksi.</string>
+  <string name="callFailed_dialVideoToUssd">Video DIAL-pyyntö muutettiin USSD-pyynnöksi.</string>
   <string name="callFailed_dsac_restricted">Käyttörajoitus rajoittaa puheluita.</string>
   <string name="callFailed_dsac_restricted_emergency">Käyttörajoitus rajoittaa hätäpuheluita.</string>
   <string name="callFailed_dsac_restricted_normal">Käyttörajoitus rajoittaa normaaleja puheluita.</string>

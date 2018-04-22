@@ -19,12 +19,14 @@
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Joka päivä</item>
-        <item>Arkipäivät</item>
+        <item>Arkiyöt</item>
+        <item>Viikonloppuna</item>
         <item>Muokattu</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Joka päivä</item>
-        <item>Arkipäivät</item>
+        <item>Arkiyöt</item>
+        <item>Viikonloppuna</item>
         <item>Muokattu</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">

@@ -2706,6 +2706,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="music_title_dolby_control">Dolby digital plus</string>
   <string name="music_unsupport_effect_summary">USB-kuulokkeet ei ole tuettu</string>
   <string name="musicfx_title">Musiikkitehosteet</string>
+  <string name="mute_music_stream">Mykistä musiikkistriimi</string>
   <string name="mvno_match_data">MVNO-arvo</string>
   <string name="mvno_type">MVNO-tyyppi</string>
   <string name="my_device">Laitteeni</string>
@@ -4537,6 +4538,8 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="testing_usage_stats">Käyttötiedot</string>
   <string name="testing_wifi_info">Wi-Fi tiedot</string>
   <string name="tether_and_hotspot_title">Jaettu yhteys ja kannettava hotspot</string>
+  <string name="tether_data_usage_limit">Kertakäyttöinen tiedonsiirtoraja</string>
+  <string name="tether_data_usage_limit_summary">Tiedonsiirtoraja otetaan käyttöön seuraavalla kerralla, kun otat hotspotin käyttöön</string>
   <string name="tether_data_usage_limit">Kertakäyttöinen tiedonsiirtoraja</string>
   <string name="tether_data_usage_limit_summary">Tiedonsiirtoraja asetetaan seuraavalla kerralla, kun hotspot on käytössä</string>
   <string name="tether_devices_management_title">Hallitse laitteita</string>
