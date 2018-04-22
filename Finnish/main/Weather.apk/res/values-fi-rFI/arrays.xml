@@ -1,45 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="hot_city">
-        <item>Beijing</item>
-        <item>Shanghai</item>
-        <item>Hong Kong</item>
-        <item>Taipei City</item>
-        <item>Jakarta</item>
-        <item>Delhi</item>
-        <item>Mumbai</item>
-        <item>Moscow</item>
-        <item>Hyderabad</item>
-        <item>Chennai</item>
-        <item>Istanbul</item>
-        <item>Rio de Janeiro</item>
-        <item>Singapore</item>
-        <item>Berlin</item>
-        <item>Rome</item>
-        <item>New York</item>
-        <item>Los Angeles</item>
-        <item>Chicago</item>
-        <item>Tokyo</item>
-        <item>Paris</item>
-        <item>Bangkok</item>
-        <item>Seoul</item>
-        <item>Kuala Lumpur</item>
-    </string-array>
-    <string-array name="aqi_title_prefix">
-        <item>ILI %1$s</item>
-        <item>ILI %1$s</item>
-        <item>ILI %1$s</item>
-        <item>ILI %1$s</item>
-        <item>ILI %1$s</item>
-        <item>ILI %1$s</item>
-    </string-array>
-    <string-array name="aqi_title_append">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
+    <string-array name="aqi_detail_title">
+        <item>Hyvä</item>
+        <item>Kohtalainen</item>
+        <item>Epäterveellinen erityisen herkille</item>
+        <item>Epäterveellinen</item>
+        <item>Hyvin epäterveellinen</item>
+        <item>Vaarallinen</item>
     </string-array>
     <string-array name="aqi_title">
         <item>%1$s</item>
@@ -49,13 +16,89 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
-    <string-array name="aqi_detail_title">
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>ILI %1$s</item>
+        <item>ILI %1$s</item>
+        <item>ILI %1$s</item>
+        <item>ILI %1$s</item>
+        <item>ILI %1$s</item>
+        <item>ILI %1$s</item>
+    </string-array>
+    <string-array name="aqi_value">
         <item>Hyvä</item>
+        <item>Tyydyttävä</item>
+        <item>Kohtuullisesti saastunut</item>
+        <item>Heikko</item>
+        <item>Hyvin heikko</item>
+        <item>Vakava</item>
+        <item>Indeksin ulkopuolella</item>
+    </string-array>
+    <string-array name="breeze">
+        <item>&lt;Voima 2</item>
+        <item>&lt;6.0 km/h</item>
+        <item>&lt;1.7 m/s</item>
+        <item>&lt;3.7 mph</item>
+        <item>&lt;3.2 kn</item>
+    </string-array>
+    <string-array name="hot_city">
+        <item>Peking</item>
+        <item>Shanghai</item>
+        <item>Hong Kong</item>
+        <item>Taipei City</item>
+        <item>Jakarta</item>
+        <item>Delhi</item>
+        <item>Mumbai</item>
+        <item>Moskova</item>
+        <item>Hyderabad</item>
+        <item>Chennai</item>
+        <item>Istanbul</item>
+        <item>Rio de Janeiro</item>
+        <item>Singapore</item>
+        <item>Berliini</item>
+        <item>Rooma</item>
+        <item>New York</item>
+        <item>Los Angeles</item>
+        <item>Chicago</item>
+        <item>Tokio</item>
+        <item>Pariiss</item>
+        <item>Bangkok</item>
+        <item>Soul</item>
+        <item>Kuala Lumpur</item>
+    </string-array>
+    <string-array name="indices_car_wash">
+        <item>Sopiva</item>
+        <item>Sopimaton</item>
+    </string-array>
+    <string-array name="indices_sport">
+        <item>Sopiva</item>
+        <item>Sopimaton</item>
+    </string-array>
+    <string-array name="indices_uv_level">
+        <item>Heikko</item>
         <item>Kohtalainen</item>
-        <item>Epäterveellinen erityisen herkille</item>
-        <item>Epäterveellinen</item>
-        <item>Hyvin epäterveellinen</item>
-        <item>Vaarallinen</item>
+        <item>Voimakas</item>
+    </string-array>
+    <string-array name="minute_rain_array">
+        <item>Rankka</item>
+        <item>Kohtalainen</item>
+        <item>Kevyt</item>
+    </string-array>
+    <string-array name="pollution_level_desc_arr">
+        <item>Loistava</item>
+        <item>Hyvä</item>
+        <item>Kevyesti saastunut</item>
+        <item>Kohtuullisesti saastunut</item>
+        <item>Voimakkaasti saastunut</item>
+        <item>Vakavasti saastunut</item>
+        <item>Indexin ulkopuolella</item>
     </string-array>
     <string-array name="weather_type">
         <item>Selkeä</item>
@@ -86,19 +129,6 @@
         <item>Jäätävä tihku</item>
         <item></item>
     </string-array>
-    <string-array name="indices_uv_level">
-        <item>Heikko</item>
-        <item>Kohtalainen</item>
-        <item>Voimakas</item>
-    </string-array>
-    <string-array name="indices_sport">
-        <item>Sopiva</item>
-        <item>Sopimaton</item>
-    </string-array>
-    <string-array name="indices_car_wash">
-        <item>Sopiva</item>
-        <item>Sopimaton</item>
-    </string-array>
     <string-array name="wind_direction">
         <item>Pohjoinen</item>
         <item>Koillinen</item>
@@ -119,29 +149,6 @@
         <item>W</item>
         <item>NW</item>
     </string-array>
-    <string-array name="aqi_value">
-        <item>Hyvä</item>
-        <item>Tyydyttävä</item>
-        <item>Kohtuullisesti saastunut</item>
-        <item>Heikko</item>
-        <item>Hyvin heikko</item>
-        <item>Vakava</item>
-        <item>Indeksin ulkopuolella</item>
-    </string-array>
-    <string-array name="wind_unit_simple">
-        <item>Boforiasteikko</item>
-        <item>km/h</item>
-        <item>m/s</item>
-        <item>mph</item>
-        <item>kn</item>
-    </string-array>
-    <string-array name="breeze">
-        <item>&lt;Voima 2</item>
-        <item>&lt;6.0 km/h</item>
-        <item>&lt;1.7 m/s</item>
-        <item>&lt;3.7 mph</item>
-        <item>&lt;3.2 kn</item>
-    </string-array>
     <string-array name="wind_unit_detail">
         <item>Boforiasteikko</item>
         <item>Kilometriä tunnissa (km/h)</item>
@@ -156,18 +163,11 @@
         <item>%1$s mph</item>
         <item>%1$s kn</item>
     </string-array>
-    <string-array name="minute_rain_array">
-        <item>Rankka</item>
-        <item>Kohtalainen</item>
-        <item>Kevyt</item>
-    </string-array>
-    <string-array name="pollution_level_desc_arr">
-        <item>Loistava</item>
-        <item>Hyvä</item>
-        <item>Kevyesti saastunut</item>
-        <item>Kohtuullisesti saastunut</item>
-        <item>Voimakkaasti saastunut</item>
-        <item>Vakavasti saastunut</item>
-        <item>Indexin ulkopuolella</item>
-    </string-array>
+    <string-array name="wind_unit_simple">
+        <item>Boforiasteikko</item>
+        <item>km/h</item>
+        <item>m/s</item>
+        <item>mph</item>
+        <item>kn</item>
+    </string-array>   
 </resources>

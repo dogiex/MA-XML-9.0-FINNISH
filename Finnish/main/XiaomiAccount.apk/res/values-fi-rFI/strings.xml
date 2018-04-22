@@ -186,7 +186,7 @@
   <string name="oauth_title">Kirjaudu Mi Tilillä</string>
   <string name="other_devices_title">Muut laitteet</string>
   <string name="passport_access_denied">Pääsy kielletty</string>
-  <string name="passport_account_hint_text">Sähköpostiosoite, puhelinnumero tai Mi Tilin ID</string>
+  <string name="passport_account_hint_text">Sähköpostiosoite/puhelinnumero/Mi Tilin ID</string>
   <string name="passport_account_identity_title">Vahvista henkilöllisyytesi</string>
   <string name="passport_account_label">Mi Tili</string>
   <string name="passport_account_name">Tili: %1$s</string>
@@ -213,6 +213,7 @@
 Aktivoi tilisi seuraamalla
  linkkiä, jonka lähetimme sähköpostiisi."</string>
   <string name="passport_completed">Valmis</string>
+  <string name="passport_confirm_login">Jatka</string>
   <string name="passport_confirm_recycle_account">Kyllä</string>
   <string name="passport_confirm_recycle_account_msg">Näyttää siltä, että numero %s on kierrätetty operaattorisi toimesta ja Mi Tili on liitettynä siihen. Onko tämä tili sinun?</string>
   <string name="passport_continue">Jatka</string>
@@ -221,7 +222,7 @@ Aktivoi tilisi seuraamalla
   <string name="passport_delete_account">Kirjaudu ulos</string>
   <string name="passport_downlink_reg">Puhelinnumero</string>
   <string name="passport_email">Sähköpostiosoite</string>
-  <string name="passport_email_or_id_hint_text">Sähköpostiosoite tai Mi Tilin ID</string>
+  <string name="passport_email_or_id_hint_text">Sähköpostiosoite/Mi Tilin ID</string>
   <string name="passport_email_reg_success_summary">%1$s on liitetty tiliisi. Voit käyttää sitä sisäänkirjautumiseen tai salasanasi palauttamiseen.</string>
   <string name="passport_error_auth_fail">Istunto vanhentui, kirjaudu sisään uudelleen myöhemmin</string>
   <string name="passport_error_device_id">Laitteen ID:tä ei saatu</string>
