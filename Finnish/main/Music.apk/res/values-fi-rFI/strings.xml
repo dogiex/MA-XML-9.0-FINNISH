@@ -87,7 +87,7 @@
   <string name="auto_download_in_wifi">Lataa suosikkikappaleet käyttäen Wi-Fi-yhteyttä</string>
   <string name="auto_payment">Automaattinen uusiminen</string>
   <string name="auto_payment_date">Seuraava maksu: %s</string>
-  <string name="auto_restart_under_wifi">Wi-Fi lataa tämän tiedoston automaattisesti</string>
+  <string name="auto_restart_under_wifi">Tiedosto ladataan, kun laite on yhteydessä Wi-Fi-verkkoon</string>
   <string name="auto_upgrade">Päivitä automaattisesti</string>
   <string name="avail_services">Käytettävissä</string>
   <string name="available_playlist_name_format">Uusi soittolista %d</string>
@@ -130,7 +130,7 @@
   <string name="cloud_settings">Synkronointiasetukset</string>
   <string name="cloud_state_cloud_space_full">Mi Pilven tallennustilaa ei ole tarpeeksi, varmuuskopiointi pysäytetty</string>
   <string name="cloud_state_low_power">Jatka varmuuskopiointia yhdistämällä laturi</string>
-  <string name="cloud_state_network_data">Wi-Fi-verkkoa ei löytynyt, varmuuskopiointi pysäytetty</string>
+  <string name="cloud_state_network_data">Wi-Fi-verkkoja ei löytynyt, varmuuskopiointi pysäytettiin</string>
   <string name="cloud_state_network_unavailable">Verkkoon yhdistäminen epäonnistui, varmuuskopiointi pysäytetty</string>
   <string name="cloud_state_storage_full">Puhelimen tallennustilaa ei ole tarpeeksi, varmuuskopiointi pysäytetty</string>
   <string name="cloud_welcome_message">Varmuuskopioi kappaleet</string>
@@ -185,8 +185,8 @@
   <string name="dialog_file_missing_body">Ladattua tiedostoa ei löydy.</string>
   <string name="dialog_file_missing_title">Tiedostoa ei voi avata</string>
   <string name="dialog_hint_music_error">Kappaleita ei löytynyt.</string>
-  <string name="dialog_insufficient_space_on_cache">Latausta ei voi jatkaa. Sisäisellä tallennustilalla ei ole tarpeeksi tilaa.</string>
-  <string name="dialog_insufficient_space_on_external">Latausta ei voi jatkaa. Ulkoisella tallennustilalla ei ole tarpeeksi tilaa.</string>
+  <string name="dialog_insufficient_space_on_cache">Sisäisellä tallennustilalla ei ole tarpeeksi tilaa</string>
+  <string name="dialog_insufficient_space_on_external">Ulkoisella tallennustilalla ei ole tarpeeksi tilaa</string>
   <string name="dialog_media_not_found">Ei voi ladata. Ulkoinen media ei ole käytettävissä.</string>
   <string name="dialog_not_show_again">Älä näytä uudelleen</string>
   <string name="dialog_queued_body">Tämä tiedosto on latausjonossa.</string>
@@ -266,7 +266,6 @@
   <string name="download_running">Latauksessa</string>
   <string name="download_running_percent">Latauksessa, %d%%</string>
   <string name="download_share_dialog">Jaa käyttäen</string>
-  <string name="download_speed_null"/>
   <string name="download_start">Aloitetaan lataaminen…</string>
   <string name="download_start_apk">Aloitetaan lataaminen… Tarkista edistyminen Ilmoitusalueelta.</string>
   <string name="download_start_btn">Lataa</string>
@@ -594,7 +593,7 @@
   <string name="notification_download_failed">Lataaminen epäonnistui</string>
   <string name="notification_download_failed_more">%1$d kappaleen lataaminen epäonnistui</string>
   <string name="notification_download_success_more">%1$d ladattu</string>
-  <string name="notification_need_wifi_for_size">Latauskoko vaatii Wi-Fi-yhteyden.</string>
+  <string name="notification_need_wifi_for_size">Latauksen koko vaatii Wi-Fi-yhteyden.</string>
   <string name="notification_play_summary">Näytä nykyinen ja seuraava kappale, näytä laulun sanat Aloitusnäytöllä</string>
   <string name="notification_play_title">Ilmoitusalueen widgetti</string>
   <string name="notification_recommend_summary">Opi lisää uusista musiikkitrendeistä ja sovellustarjouksista</string>
