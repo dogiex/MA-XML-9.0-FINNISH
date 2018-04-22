@@ -185,7 +185,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_beautify_entry_high">Korkea</string>
   <string name="pref_camera_beautify_entry_low">Matala</string>
   <string name="pref_camera_beautify_entry_normal">Keskitaso</string>
-  <string name="pref_camera_coloreffect_entry_aqua"/>
+  <string name="pref_camera_bokeh_title">Muotokuva</string>
   <string name="pref_camera_coloreffect_entry_big_face">Levitä</string>
   <string name="pref_camera_coloreffect_entry_blackwhite">Mustavalkoinen</string>
   <string name="pref_camera_coloreffect_entry_fisheye">Kalansilmä</string>
@@ -198,10 +198,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_coloreffect_entry_mirror">Peili</string>
   <string name="pref_camera_coloreffect_entry_mono">Mono</string>
   <string name="pref_camera_coloreffect_entry_mosaic">Mosaiikki</string>
-  <string name="pref_camera_coloreffect_entry_negative"/>
   <string name="pref_camera_coloreffect_entry_none">Normaali</string>
-  <string name="pref_camera_coloreffect_entry_posterize"/>
-  <string name="pref_camera_coloreffect_entry_sepia"/>
   <string name="pref_camera_coloreffect_entry_sketch">Luonnos</string>
   <string name="pref_camera_coloreffect_entry_small_face">Purista</string>
   <string name="pref_camera_coloreffect_entry_vivid">Eloisa</string>
@@ -232,6 +229,8 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_focusmode_entry_manual">Manuaalinen</string>
   <string name="pref_camera_focusmode_entry_normal">Normaali</string>
   <string name="pref_camera_focusmode_title">Tarkennustila</string>
+  <string name="pref_camera_front_bokeh_entry_off">Pois päältä</string>
+  <string name="pref_camera_front_bokeh_entry_on">Päällä</string>
   <string name="pref_camera_gradienter_title">Suorista</string>
   <string name="pref_camera_groupshot_mode_title">Ryhmäselfie</string>
   <string name="pref_camera_hand_night_title">HHT</string>
@@ -444,6 +443,7 @@ ja tuo henkilöt esiin."</string>
   <string name="user_notice_title">Käyttöehdot</string>
   <string name="video_camera_label">Videokamera</string>
   <string name="video_effect_entry_blackwhite">M&amp;V</string>
+  <string name="video_effect_entry_bygone">Entisaika</string>
   <string name="video_effect_entry_film">Elokuva</string>
   <string name="video_effect_entry_forest">Lehto</string>
   <string name="video_effect_entry_holiday">Heijastukset</string>

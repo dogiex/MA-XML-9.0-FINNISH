@@ -105,8 +105,6 @@ Jos vaihdat SIM-kortteja, toinen tekstiviesti lähetetään automaattisesti täm
   <string name="find_device_pref_alert_positive">OK</string>
   <string name="find_device_pref_alert_title">Muista Mi Tilisi ID numero ja salasana</string>
   <string name="find_device_pref_initializing">Alustetaan…</string>
-  <string name="find_device_reading_status">Ladataan tilaa…</string>
-  <string name="find_device_reading_status_failure">Tilan lataaminen epäonnistui.</string>
   <string name="find_device_send_sms_alert">Jos vaihdat SIM-kortteja, toinen tekstiviesti lähetetään automaattisesti tämän toiminnon uudelleenaktivoimiseksi.</string>
   <string name="find_device_service_summary">Paikanna laitteesi ja lukitse se etänä vierailemalla osoitteessa i.mi.com</string>
   <string name="find_device_service_summary_international">Paikanna laitteesi ja lukitse se etänä vierailemalla osoitteessa i.mi.com</string>
@@ -291,6 +289,7 @@ Korjataksesi asian, voit joko tehdä tilaa uusille poistamalla vanhoja tiedostoj
   <string name="micloud_main_head_menu_recycle_bin_title">Roskakori</string>
   <string name="micloud_main_head_menu_state_close">Pois käytöstä</string>
   <string name="micloud_main_head_menu_state_open">Käytössä</string>
+  <string name="micloud_main_head_menu_state_unavailable">Ei saatavilla</string>
   <string name="micloud_main_last_sync_time">Viimeksi synkronoitu %s</string>
   <string name="micloud_main_master_sync_on">Synkronointi päällä</string>
   <string name="micloud_main_memory_low_message">Synkronoidaksesi, poista ensin pilvessä olevia kohteita.</string>
@@ -474,7 +473,9 @@ Tämä toiminto salaa ja lähettää laitteesi ID-tunnuksen Mi:n palvelimille."<
   <string name="pref_summary_sync_display_photo_on_wifi_only">Synkronoi vain yhteystietojen profiilikuvat, kun olet yhteydessä Wi-Fi-verkkoon</string>
   <string name="pref_title_sync_contacts_title">Synkronoi yhteystiedot</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Käytä kuvien synkronointiin vain Wi-Fiä</string>
-  <string name="privacy_policy">Yksityisyyskäytäntö</string>
+  <string name="privacy_policy">Tietosuojakäytäntö</string>
+  <string name="reading_status">Ladataan tilaa…</string>
+  <string name="reading_status_failure">Tilaa ei voitu ladata.</string>
   <string name="recommend_open_all_sync">Synkronoi kaikki kohteet</string>
   <string name="remind_later">Ei nyt</string>
   <string name="restoreSync">Synkronoi nyt</string>

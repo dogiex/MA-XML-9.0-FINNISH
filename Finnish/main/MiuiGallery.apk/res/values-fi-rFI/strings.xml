@@ -12,15 +12,18 @@
   <string name="add_to_album_failed">Albumiin lisääminen epäonnistui</string>
   <string name="add_to_album_success">Lisättiin albumiin</string>
   <string name="add_to_album_tip">Kuvat pilvessä</string>
+  <string name="add_to_favorites_failed">Ei voitu lisätä suosikkeihin</string>
   <string name="add_to_secret_exist">Kuva on jo olemassa piilotetussa albumissa</string>
   <string name="add_to_secret_fail">Piilotettuun albumiin lisääminen epäonnistui</string>
   <string name="add_to_secret_failed_with_reason">Piilotettuun albumiin ei voi lisätä. %1$s.</string>
   <string name="add_to_secret_failed_with_reason_and_count">%2$s kohdetta ei voi lisätä piilotettuun albumiin. %1$s.</string>
   <string name="add_to_secret_successful">Lisättiin piilotettuun albumiin</string>
   <string name="add_to_share_album_not_delete">Jaetun albumin kuvaa ei voi poistaa</string>
+  <string name="added_to_favorites_tip">Lisättiin \"Suosikit\" albumiin</string>
   <string name="adding">Lisätään…</string>
   <string name="adding_recipients">Lisätään vastaanottajia…</string>
   <string name="adding_to_album">Lisätään kuvia…</string>
+  <string name="adding_to_favorites">Lisätään suosikkeihin…</string>
   <string name="adjust_brightness">Kirkkaus</string>
   <string name="adjust_contrast">Kontrasti</string>
   <string name="adjust_saturation">Saturaatio</string>
@@ -29,12 +32,17 @@
   <string name="album_already_exists">Näytä</string>
   <string name="album_already_exists_msg">Albumi \"%s\" on jo olemassa</string>
   <string name="album_already_forced_top">On jo ylimpänä</string>
+  <string name="album_bluetooth">Bluetooth</string>
   <string name="album_camera_name">Kamera</string>
+  <string name="album_creative">Muokkaamani kuvat</string>
   <string name="album_detail_page_empty">Ei kuvia tai videoita</string>
+  <string name="album_download">Ladatut</string>
   <string name="album_faces_name">Henkilöt</string>
+  <string name="album_favorites_name">Suosikit</string>
   <string name="album_from_format">Paikasta %s</string>
   <string name="album_jump_failed">Odota kunnes albumit ovat synkronoitu Mi Pilven kanssa ja yritä uudelleen</string>
   <string name="album_member">Albumin jäsenet %s</string>
+  <string name="album_midrop">Mi Drop</string>
   <string name="album_name">Albumin nimi</string>
   <string name="album_name_locations">Sijainnit</string>
   <string name="album_name_people">Ihmiset</string>
@@ -47,6 +55,8 @@
   <string name="album_page_label">Albumit</string>
   <string name="album_pano_name">Panoramat</string>
   <string name="album_quota_fulfiled">Liian monta albumia. Poista albumeita ja yritä uudelleen.</string>
+  <string name="album_scanner">Lukija</string>
+  <string name="album_screen_recorder">Näytön nauhoittaja</string>
   <string name="album_screenshot_name">Kuvakaappaukset</string>
   <string name="album_share_exit_confirm">Poistutaanko tästä albumista?</string>
   <string name="album_share_kicked">%1$s on suljettu</string>
@@ -65,6 +75,7 @@
   <string name="album_type_share">Jaetut albumit</string>
   <string name="album_type_system">Järjestelmän albumit</string>
   <string name="album_videos_name">Videot</string>
+  <string name="album_wallpaper">Taustakuvat</string>
   <string name="alert_secret_album_enter">Selvä</string>
   <string name="alert_secret_album_message">Pyyhkäise alaspäin Albumit-välilehdellä nähdäksesi piilotetun albumin.</string>
   <string name="alert_secret_album_message_lower_case">  pyyhkäise alaspäin Albumeissa nähdäksesi</string>
@@ -143,6 +154,7 @@
   <string name="backup_no_wifi_title">Yhdistä Wi-Fi-verkkoon napauttamalla</string>
   <string name="backup_only_in_wifi">Käytä kuvien ja videoiden varmuuskopiointiin vain Wi-Fi-yhteyttä</string>
   <string name="backup_only_in_wifi_summary">Älä käytä mobiilidataa ikinä kuvien tai videoiden varmuuskopiointiin</string>
+  <string name="backup_only_wifi_dialog_message">Käytetäänkö mobiilidataa kuvien ja videoiden varmuuskopiointiin?</string>
   <string name="backup_pause">Pysäytä varmuuskopiointi</string>
   <string name="backup_pause_title">Varmuuskopioi %s kuluttua</string>
   <string name="backup_pending">Varmuuskopioidaan automaattisesti</string>
@@ -180,6 +192,8 @@
   <string name="cannot_remove_creator">Luojaa ei voi poistaa</string>
   <string name="cannot_send_message">Viestiä ei voi lähettää</string>
   <string name="cannot_send_message_reason">Ei vastaanottajia</string>
+  <string name="cast_devices_unavailable_desc">Varmista, että tämä laite ja projektori on yhdistetty samaan Wi-Fi-verkkoon</string>
+  <string name="cast_devices_unavailable_title">Projektoria ei löytynyt</string>
   <string name="change_to_face_mode">Näytä vain kasvot</string>
   <string name="change_to_photo_mode">Näytä esikatselut kokonaisina</string>
   <string name="change_to_visible">Palautetaanko tämä henkilö?</string>
@@ -1000,6 +1014,8 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="operation_add_picture">Lisää kohteita</string>
   <string name="operation_add_secret">Piilota</string>
   <string name="operation_back">Takaisin</string>
+  <string name="operation_cast_connected_format">Suoratoista - %s</string>
+  <string name="operation_cast_connecting_format">Yhdistetään kohteeseen %s</string>
   <string name="operation_delete">Poista</string>
   <string name="operation_detail">Tiedot</string>
   <string name="operation_disable_auto_upload">Poista Mi Pilven synkronointi käytöstä</string>
@@ -1068,11 +1084,13 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="photo_editor_miui_beauty_menu_eye_large">Suuret silmät</string>
   <string name="photo_editor_miui_beauty_menu_face_thin">Hoikka</string>
   <string name="photo_editor_miui_beauty_menu_lip_beauty">Huulet</string>
+  <string name="photo_editor_miui_beauty_menu_nose_thin">Nenämuotoilu</string>
   <string name="photo_editor_miui_beauty_menu_relighting">Täytevalo</string>
   <string name="photo_editor_miui_beauty_menu_skin_ruddy">Punaposki</string>
   <string name="photo_editor_miui_beauty_menu_skin_white">Sävy</string>
   <string name="photo_editor_miui_beauty_menu_smart_beauty">Älykäs</string>
   <string name="photo_editor_miui_beauty_menu_smooth">Sileä</string>
+  <string name="photo_editor_miui_beauty_no_face">Kasvoja ei tunnisteta</string>
   <string name="photo_editor_mosaic">Mosaiikki</string>
   <string name="photo_editor_navigator_cancel">Peruuta</string>
   <string name="photo_editor_navigator_download_network_metered_msg">%s lataaminen vaatii noin 4 Mt edestä mobiilidataa. Ladataanko nyt?</string>
@@ -1133,6 +1151,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="picker_title_unlimit">Valitse kuvia</string>
   <string name="places_album_empty_title">Kuvat voi lajitella sijainnin mukaan</string>
   <string name="preparing_data">Odota hetki…</string>
+  <string name="projection_cancel">Peruuta</string>
   <string name="projection_checkbox_text">Muista tämä näyttö</string>
   <string name="projection_device_connection_failed">Näytön yhdistäminen epäonnistui</string>
   <string name="projection_local_mobile">Tämä puhelin</string>
@@ -1141,6 +1160,8 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="projection_slide_exit">Lopeta diaesitys</string>
   <string name="projection_slide_fail_cause_loading">Käynnistä diaesitys uudelleen kuvan ladattua</string>
   <string name="projection_slide_playing">Diaesitys toistetaan laitteessa %s</string>
+  <string name="projection_stop">Lopeta suoratoisto</string>
+  <string name="projection_switch_title">Vaihda laitteeseen</string>
   <string name="projection_video_quit">Poistu napauttamalla</string>
   <string name="public_url_descript">Kuka tahansa voi nähdä albumisi käyttämällä tätä URL-osoitetta</string>
   <string name="publish_failed">Julkaiseminen epäonnistui</string>
@@ -1168,6 +1189,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="remove_from_album_message">Tätä kuvaa ei enää näytetä täällä</string>
   <string name="remove_from_album_title">Poista tästä albumista</string>
   <string name="remove_from_current_album">Poista tästä albumista</string>
+  <string name="remove_from_favorites_failed">Suosikeista poistaminen epäonnistui</string>
   <string name="remove_from_other_albums_tip">Ota Mi Pilven synkronointi käyttöön siirtääksesi kohteet muista albumeista. Siirretäänkö nyt?</string>
   <string name="remove_from_secret_fail">Piilotetusta albumista poistaminen epäonnistui</string>
   <string name="remove_from_secret_failed_with_reason">Piilotetusta albumista ei voi poistaa. %1$s.</string>
@@ -1179,6 +1201,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="remover_edit_type_line">Linjat</string>
   <string name="remover_erase_aera_too_big">Poistettava alue on liian iso</string>
   <string name="remover_menu_processing">Käsitellään</string>
+  <string name="removing_from_favorites">Poistetaan suosikeista…</string>
   <string name="rename_album">Nimeä albumi uudelleen</string>
   <string name="rename_album_failed">Nimeäminen uudelleen epäonnistui</string>
   <string name="rename_album_succeeded">Nimeäminen uudelleen onnistui</string>
@@ -1219,7 +1242,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="search_feedback_task_requesting_award">Vastaanotetaan palkintoa…</string>
   <string name="search_feedback_user_notice">Olen lukenut ja hyväksyn %s.</string>
   <string name="search_feedback_user_policy">MIUI Gallerian AI-algoritmiohjelman Tietosuojakäytäntö</string>
-  <string name="search_hint">Hae kuvia</string>
+  <string name="search_hint">Hae napauttamalla</string>
   <string name="search_image_result_title">Hakutulokset</string>
   <string name="search_login_now">Kirjaudu sisään</string>
   <string name="search_login_sub_title">Löydä lisää kuvia kirjautumalla sisään</string>
@@ -1247,6 +1270,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="search_title_recommend">Suositeltu</string>
   <string name="search_title_suggestion">Ehdotukset</string>
   <string name="search_title_tag">Kohteet</string>
+  <string name="searching_cast_devices">Etsitään projektoria…</string>
   <string name="secret_album_card_description">Paras paikka kaikille pienille salaisuuksillesi</string>
   <string name="secret_album_card_title">Kokeile piilotettua albumia</string>
   <string name="secret_album_display_name">Piilotettu albumi</string>

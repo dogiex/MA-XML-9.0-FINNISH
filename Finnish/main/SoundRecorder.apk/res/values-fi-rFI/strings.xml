@@ -50,6 +50,7 @@
   <string name="low_battery_error_confirm">OK</string>
   <string name="low_battery_error_title">Akku vähissä</string>
   <string name="mark_point_list_title">Merkkauslista</string>
+  <string name="menu">Valikko</string>
   <string name="message_file_size_error">Nauhoitus on saavuttanut %s tuetun maksimipituuden</string>
   <string name="network_tip_dialog_cancel">Peruuta</string>
   <string name="network_tip_dialog_content">Ääninauhuri tarvitsee internetyhteyden ja luvan lukea yhteystietojasi toimiakseen normaalisti. Hyväksytäänkö?</string>

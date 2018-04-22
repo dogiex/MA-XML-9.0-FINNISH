@@ -14,7 +14,6 @@
   <string name="backup_finished_notification_content">Varmuuskopioitiin Aloitusnäyttö, sovellukset, järjestelmäasetukset, jne.</string>
   <string name="backup_now">Varmuuskopioi nyt</string>
   <string name="backup_size">Koko: %s</string>
-  <string name="backup_size_summary">Koko: %1$s</string>
   <string name="backup_success">Varmuuskopiointi onnistui</string>
   <string name="backup_successfully">Varmuuskopiointi onnistui</string>
   <string name="backup_to_cloud">Varmuuskopioi sovellus</string>
@@ -53,8 +52,6 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="cloud_back_up_frequence_choice_title">Varmuuskopion ajastus</string>
   <string name="cloud_back_up_frequence_long">Joka 7 päivä</string>
   <string name="cloud_back_up_frequence_short">Joka päivä</string>
-  <string name="cloud_back_up_interval_long">7 päivää</string>
-  <string name="cloud_back_up_interval_short">Joka päivä</string>
   <string name="cloud_back_up_no_network_warn">Wi-Fi-Verkkoyhteyttä ei voi muodostaa</string>
   <string name="cloud_back_up_ok_btn">OK</string>
   <string name="cloud_back_up_opening">Odota hetki…</string>
@@ -63,10 +60,9 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="cloud_back_up_share_activity_title">Päivitä Mi Tili</string>
   <string name="cloud_back_up_task">Varmuuskopioidaan…</string>
   <string name="cloud_backup">Mi Pilven varmuuskopiot</string>
+  <string name="cloud_backup_derail_size_summary">Koko: %s</string>
   <string name="cloud_backup_detail_frequence">Varmuuskopion ajastus</string>
-  <string name="cloud_backup_detail_frequence_day">Varmuuskopioi joka %1$s</string>
   <string name="cloud_backup_detail_manage">Hallitse varmuuskopioita</string>
-  <string name="cloud_backup_detail_manage_summary">%1$s varmuuskopioita, koko:%2$s</string>
   <string name="cloud_backup_detail_state">Automaattinen varmuuskopiointi</string>
   <string name="cloud_backup_detail_state_summary">Luo Mi Pilven varmuuskopioita automaattisesti, kun olet yhteydessä Wi-Fi-verkkoon.</string>
   <string name="cloud_backup_detail_time">Edellinen varmuuskopio: %1$s</string>
@@ -92,7 +88,7 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="desktop_installing">Asennetaan</string>
   <string name="desktop_wait_wifi">Odotetaan</string>
   <string name="desktop_waiting">Odotetaan</string>
-  <string name="device_corrupt">Mi Puhelin (Tiedot korruptoitunut)</string>
+  <string name="device_corrupt">Mi Puhelin (Tiedot on korruptoitunut)</string>
   <string name="device_delete_prompt">Poistetaanko %s varmuuskopio?</string>
   <string name="device_xiaomi">Mi Puhelin</string>
   <string name="dialog_cancel_backup_cancel">Peruuta</string>
@@ -127,7 +123,7 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="open_wifi_description">Yhdistä Wi-Fi-verkkoon palauttaaksesi sovelluksen</string>
   <string name="open_wifi_setting">Wi-Fi asetukset</string>
   <string name="process_whole_recovery">Palautetaan \"%s\"</string>
-  <string name="provision_error_connect_msg">Voit kokeilla verkkoa ja yrittää uudelleen. Varmuuskopiointi-toiminto ei ole käytettävissä ilman toimivaa verkkoa.</string>
+  <string name="provision_error_connect_msg">Testaa verkko ja yritä uudelleen. Varmuuskopiot ei ole käytettävissä, kun laitteesi on offline-tilassa.</string>
   <string name="provision_error_connect_title">Ei voi yhdistää</string>
   <string name="query_restore_description">Palauta Aloitusnäytön sovellukset ja asetukset käyttäen tätä varmuuskopiota. Tämä korvaa jo olemassaolevien sovelluksien kaksoiskappaleiden sovellustiedot. Sovellukset, jotka eivät sisälly varmuuskopioon, siirretään viimeiselle Aloitusnäytölle.</string>
   <string name="query_restore_summary">Tälle laitteelle löydettiin Mi Pilvi varmuuskopio. Palautetaanko Aloitusnäytön sovellukset ja asetukset vai käytetäänkö laitetta uutena laitteena ja poistetaanko edellinen Mi Pilvi varmuuskopiot?</string>
@@ -154,7 +150,7 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="retry">Yritä uudelleen</string>
   <string name="self_phone">Tämä puhelin</string>
   <string name="settings_backup">Järjestelmäasetukset</string>
-  <string name="size_unknown">Koko tuntematon</string>
+  <string name="size_unknown">Tuntematon koko</string>
   <string name="start_backup_to_micloud">Varmuuskopioi sovellukset Mi Pilveen</string>
   <string name="start_recover">Palauta %s</string>
   <string name="success_open_cloudbackup">Aloitusnäytön sovelluksien varmuuskopiot on käytössä</string>
