@@ -376,11 +376,7 @@
   <string name="cta_desc">Se on ideaalinen pikakuvakkeille, tiedoille ja suosikkiominaisuuksillesi</string>
   <string name="cta_dialog_negative">Poistu</string>
   <string name="cta_dialog_positive">Hyväksyn</string>
-  <string name="cta_dialog_text1">Käyttääksesi Sovellusholvia sinun täytyy lukea ja hyväksyä</string>
-  <string name="cta_dialog_text2">\"Käyttöehdot\"</string>
-  <string name="cta_dialog_text3">ja</string>
-  <string name="cta_dialog_text4">\"Tietosuojakäytäntö\".</string>
-  <string name="cta_dialog_text5">Palvelu vaatii myös internetyhteyden ja pääsyn sijaintipalveluihin. Hyväksytkö?</string>
+  <string name="cta_dialog_text_all">Käyttääksesi Sovellusholvia sinun täytyy lukea ja hyväksyä %1$s\"Käyttöehdot\" %2$s ja %3$s \"Tietosuojakäytännön\" %4$s. Palvelu vaatii myös internetyhteyden ja pääsyn sijaintipalveluihin. Joidenkin palveluiden käyttämä sisällön kerääjä vaatii myös internetyhteyden. Hyväksytkö?</string>
   <string name="cta_dialog_title">Käyttöehdot</string>
   <string name="cta_negative">Sulje</string>
   <string name="cta_positive">Tiedot</string>

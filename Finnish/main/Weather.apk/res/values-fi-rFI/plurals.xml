@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="daily_forcast_drawer_on_top">
-        <item quantity="other">%1$s-päivän ennustus</item>
-        <item quantity="one">%1$s-päivän ennustus</item>
+    <plurals name="activity_main_update_time_in_one_day">
+        <item quantity="other">%d tuntia sitten</item>
+        <item quantity="one">%d tunti sitten</item>
     </plurals>
     <plurals name="activity_main_update_time_in_one_hour">
         <item quantity="other">%d minuuttia sitten</item>
         <item quantity="one">%d minuutti sitten</item>
     </plurals>
-    <plurals name="activity_main_update_time_in_one_day">
-        <item quantity="other">%d tuntia sitten</item>
-        <item quantity="one">%d tunti sitten</item>
-    </plurals>
     <plurals name="activity_main_update_time_one_day_ago">
         <item quantity="other">%d päivää sitten</item>
         <item quantity="one">%d päivä sitten</item>
     </plurals>
-    <plurals name="view_realtime_clear">
-        <item quantity="other">Selkeä</item>
-        <item quantity="one">Selkeä</item>
+    <plurals name="daily_forcast_drawer_on_top">
+        <item quantity="other">%1$s-päivän ennustus</item>
+        <item quantity="one">%1$s-päivän ennustus</item>
     </plurals>
-    <plurals name="total_voted_num_text">
-        <item quantity="other">%1$s henkilöä on äänestänyt</item>
-        <item quantity="one">%1$s henkilö on äänestänyt</item>
-    </plurals>
-    <plurals name="yes_vote_num">
-        <item quantity="other"> | %1$s henkilöä</item>
-        <item quantity="one"> | %1$s henkilö</item>
+    <plurals name="feedback_result_interval_time_too_short">
+        <item quantity="other">%1$s sekuntia palautteen jälkeen</item>
+        <item quantity="one">%1$s sekuntia palautteen jälkeen</item>
     </plurals>
     <plurals name="no_vote_num">
         <item quantity="other">%1$s henkilöä | </item>
         <item quantity="one">%1$s henkilö | </item>
     </plurals>
-    <plurals name="feedback_result_interval_time_too_short">
-        <item quantity="other">%1$s sekuntia palautteen jälkeen</item>
-        <item quantity="one">%1$s sekuntia palautteen jälkeen</item>
+    <plurals name="total_voted_num_text">
+        <item quantity="other">%1$s henkilöä on äänestänyt</item>
+        <item quantity="one">%1$s henkilö on äänestänyt</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Selkeä</item>
+        <item quantity="one">Selkeä</item>
+    </plurals>
+    <plurals name="yes_vote_num">
+        <item quantity="other"> | %1$s henkilöä</item>
+        <item quantity="one"> | %1$s henkilö</item>
     </plurals>
 </resources>

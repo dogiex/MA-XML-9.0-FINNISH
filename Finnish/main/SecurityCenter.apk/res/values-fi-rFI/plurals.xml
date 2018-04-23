@@ -32,6 +32,14 @@
         <item quantity="other">%d sovellusta</item>
         <item quantity="one">%d sovellus</item>
     </plurals>
+    <plurals name="bg_network_allow_count">
+        <item quantity="other">%d sovellusta voi yhdistää verkkoon taustalla</item>
+        <item quantity="one">%d sovellus voi yhdistää verkkoon taustalla</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">%d sovellusta ei voi yhdistää verkkoon taustalla</item>
+        <item quantity="one">%d sovellus ei voi yhdistää verkkoon taustalla</item>
+    </plurals>
     <plurals name="daily_sim_over_limit_notify_title">
         <item quantity="other">Olet jo käyttänyt %s päiväkohtaisesta datarajasta.</item>
         <item quantity="one">Olet jo käyttänyt %s päiväkohtaisesta datarajasta.</item>
@@ -59,6 +67,10 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
     <plurals name="hints_roaming_found_app_count_title">
         <item quantity="other">%d sovellusta löytyi</item>
         <item quantity="one">%d sovellus löytyi</item>
+    </plurals>
+    <plurals name="network_restrict_count">
+        <item quantity="other">Verkon käyttö on rajoitettu %d sovellukselle</item>
+        <item quantity="one">Verkon käyttö on rajoitettu %d sovellukselle</item>
     </plurals>
     <plurals name="om_ill_proc_multi_app_title">
         <item quantity="other">%d sovellusta ei toimi kunnolla ja kuluttaa akkua</item>

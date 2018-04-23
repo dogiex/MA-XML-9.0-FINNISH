@@ -119,6 +119,7 @@
   <string name="antivirus_update_btn_update">Päivitä</string>
   <string name="apn_exception_summary">Testaa operaattorin tukiaseman (APN) määritykset.</string>
   <string name="apn_exception_title">Tarkista APN määritykset</string>
+  <string name="app_bg_restrict_dialog_message">Sovellus ei välttämättä toimi normaalisti jos rajoitat taustalla tapahtuvaa verkon käyttöä. Esimerkiksi se ei saata enää saada viestejä tai se ei voi päivittää sisältöä. Rajoitetaanko siitä huolimatta?</string>
   <string name="app_check_no_issue">Näyttää siltä, että akkuongelmia ei löytynyt. Siistiä!</string>
   <string name="app_detail">Tiedot</string>
   <string name="app_error_tip_for_launcher">Laitteesi laitteistokomponentit tai Androidin järjestelmäversio saattaa aiheuttaa yhteensopivuusongelmia, joka aiheuttaa joidenkin sovelluksien oudon käyttäytymisen, jäätymisen tai pakkolopettamisen. Jos kohtaat tällaisia ongelmia, jaa palautteesi sovelluskehittäjien kanssa.</string>
@@ -197,6 +198,7 @@
   <string name="app_manager_notify_bar">Merkit</string>
   <string name="app_manager_notify_floating">Kelluvat ilmoitukset</string>
   <string name="app_manager_notify_keyguard">Lukitusnäyttö</string>
+  <string name="app_manager_open_show_all_apps_immediate">Näytä kaikki tulokset</string>
   <string name="app_manager_perm">Käyttöoikeudet</string>
   <string name="app_manager_permission_manager_title">Käyttöoikeudet</string>
   <string name="app_manager_permission_notify_title">Ilmoitukset</string>
@@ -219,7 +221,9 @@
 
  Et menetä mitään sovellustietoja."</string>
   <string name="app_manager_reset_app_preferences_title">Palautetaanko sovellusasetukset?</string>
+  <string name="app_manager_search_prompt">Etkö löytänyt tuloksia? Kokeile tulosten näyttämistä kaikista sovelluksista.</string>
   <string name="app_manager_show_all_apps">Näytä kaikki sovellukset</string>
+  <string name="app_manager_show_all_apps_opened">Näytetään tulokset kaikista sovelluksista…</string>
   <string name="app_manager_show_detail_infos">Näytä kaikki</string>
   <string name="app_manager_start_by">Käynnistäjä %s</string>
   <string name="app_manager_support_uninstall">Voit poistaa nämä sovellukset</string>
@@ -347,6 +351,10 @@
   <string name="back_app_name">Siirry takaisin Sovelluslukkoon</string>
   <string name="back_description_securitycenter">Takaisin</string>
   <string name="back_modifypassword">Siirry takaisin salasanan vaihtoon</string>
+  <string name="back_sound_data">Se vaatii mobiiliverkon, yritä uudelleen!</string>
+  <string name="back_sound_fail">Epäonnistui!</string>
+  <string name="back_sound_success">Onnistui!</string>
+  <string name="back_sound_support">Nykyiset verkko-operaattorit ei tue sitä！"</string>
   <string name="background_restrict_app_dialog_message">Rajoittamalla tämän sovelluksen verkon käyttöä taustalla saattaa vaikuttaa sen toimintaan toimia normaalisti, vastaanottaa viestejä, ladata sisältöä jne. Rajoitetaanko siitä huolimatta?</string>
   <string name="background_traffic">Tausta %s</string>
   <string name="backsound_set_hint">Asetetaanko poissaoloviestisi: %s?</string>
@@ -391,6 +399,7 @@
   <string name="best_warning_dialog_message">"温馨提示：使用小米红包助手后，会提升您抢红包的速度。但如果您手太快，姿势太迅猛，每次都率先抢到红包，&lt;font color='#e56255'&gt;有一定几率会被微信误认为使用了自动抢红包插件&lt;/font&gt;，影响您后面使用红包功能。所以，有时候，高抬贵手略控制节奏，抢红包风味更佳。红包虽好，可不要贪多哟～"</string>
   <string name="best_warning_dialog_message1">"使用小米红包助手后，会提升您抢红包的速度。但如果您手太快，姿势太迅猛，每次都率先抢到红包，&lt;font color='#e56255'&gt;有一定几率会被微信误认为使用了自动抢红包插件&lt;/font&gt;，影响您后面使用红包功能。所以，有时候，高抬贵手略控制节奏，抢红包风味更佳。红包虽好，可不要贪多哟～～"</string>
   <string name="best_warning_dialog_title">温馨提示</string>
+  <string name="bg_network_exception_title">Rajoitettiin taustayhteys</string>
   <string name="bind_xiaomi_account_cancel">Peruuta</string>
   <string name="bind_xiaomi_account_confirm">Lisää</string>
   <string name="bind_xiaomi_account_dialog_summery">Olet lisäämässä Mi Tiliä %s. Jos unohdat salasanasi, voit käyttää tätä tiliä palauttaaksesi sen. Tili poistetaan automaattisesti jos kirjaudut ulos.</string>
@@ -613,6 +622,7 @@
   <string name="dlg_add_blacklist">Estetäänkö tämä numero?</string>
   <string name="dlg_add_blacklist_title">Lisää estolistalle</string>
   <string name="dlg_add_keyword">Lisää avainsanoja</string>
+  <string name="dlg_add_white">Uudet puhelut ja viestit numeroilta, jotka on lisätty poikkeuksiin näytetään puheluhistoriassa ja saapuneissa viesteissä. Kuitenkaan jo ennestään estetyt kohteet ei ilmesty sinne. Lisätäänkö valitut numerot poikkeuksiin?</string>
   <string name="dlg_antispam_mode_delete_message">Et voi palauttaa sääntöjä, kun ne ovat poistettu.</string>
   <string name="dlg_antispam_mode_delete_title">Poistetaanko säännöt?</string>
   <string name="dlg_antispam_using_mode_delete_message">Poistetaanko tällä hetkellä käyttämäsi säännöt ja vaihdetaanko takaisin estolistan oletussääntöihin?</string>
@@ -632,9 +642,12 @@
   <string name="dlg_import_whitelist">Lisätään…</string>
   <string name="dlg_keyword_ok">Tallenna</string>
   <string name="dlg_message_not_open_stranger_identify">Ottaaksesi tämän ominaisuuden käyttöön, mene Asetukset &gt; Puhelin.</string>
-  <string name="dlg_no_block">Poistetaanko esto tältä numerolta ja palautetaanko puhelut tästä numerosta puheluhistoriaan?
-(Numero lisätään puheluiden valkoiseen listaan)</string>
+  <string name="dlg_move_to_white">Lisää poikkeuksiin</string>
+  <string name="dlg_no_block">"Poistetaanko esto tältä numerolta?
+Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puheluhistoriaan."</string>
   <string name="dlg_no_block_ok">Poista esto</string>
+  <string name="dlg_not_block_call">Poistetaanko esto valituilta numeroilta? Ne lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puheluhistoriaan.</string>
+  <string name="dlg_not_block_sms">Poistetaanko esto valituilta numeroilta? Ne lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty saapuneisiin viesteihin.</string>
   <string name="dlg_remove_address_blacklist">Poistetaanko tämä sijainti estolistalta?</string>
   <string name="dlg_remove_address_whitelist">Poistetaanko tämä sijainti poikkeuksista?</string>
   <string name="dlg_remove_blacklist">Poistetaanko nämä numerot estolistalta?</string>
@@ -782,6 +795,8 @@
   <string name="get_sys_info">Haetaan tietoa…</string>
   <string name="gigabyteShort">Gt</string>
   <string name="give_lucky_money">红包大派送</string>
+  <string name="gmscore_support_remind">Poista tämä ominaisuus käytöstä jos kohtaat ongelmia Gmailin, Google Mapsin ja muiden Google-sovelluksien kanssa. Se vähentää hieman akun kestoa.</string>
+  <string name="gmscore_support_service">Google Palvelut</string>
   <string name="go_to">Jatka</string>
   <string name="go_to_setting_fingerprint">Asetukset</string>
   <string name="google_base_app_install_choice">\"%s\" vaatii Google Services Frameworkin toimiakseen normaalisti, ladataanko ja asennetaanko se?</string>
@@ -1377,8 +1392,7 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="permission_action_reject">Kiellä</string>
   <string name="permission_close_permission_control_dialog_msg">Kun käyttöoikeuden hallinta ei ole käytössä, sovellukset eivät kysy lupaasi ennen yhteystietojen lukemista, puheluhistorian katsomista, järjestelmän asetuksien muuttamista, tai pääsyä kameraan ja muihin laitteen resursseihin.</string>
   <string name="permission_close_permission_control_dialog_title">Poistetaanko käytöstä?</string>
-  <string name="permission_exception_summary">Joillakin sovelluksilla ei ole käyttöoikeutta yhdistää internetiin</string>
-  <string name="permission_exception_title">Näytä verkon käyttöoikeudet</string>
+  <string name="permission_exception_title">Rajoitettu yhteys sovelluksiin</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">Sovellukset eivät kysy lupaasi ennen yhteystietojen lukemista, puheluhistorian katsomista, järjestelmän asetuksien muuttamista, tai pääsyä kameraan ja muihin laitteen resursseihin. Voit ottaa tämän ominaisuudet käyttöön Käyttöoikeus asetuksista.</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Käyttöoikeuden hallinta</string>
   <string name="permission_with_SMS_and_MMS">SMS ja MMS viesteihin liittyvät käyttöoikeudet</string>
@@ -1470,6 +1484,7 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="pref_auto_adjust_traffic">Säädä datan käyttötilastot automaattisesti</string>
   <string name="pref_automatic_adjust">Synkronoi operaattorin datan käyttö</string>
   <string name="pref_avaible_traffic">Datapaketti</string>
+  <string name="pref_bg_network_title">Taustalla yhdistäminen</string>
   <string name="pref_category_daily_package_tile">Päiväkohtainen datapaketti</string>
   <string name="pref_category_extra_package_tile">Top-up paketti</string>
   <string name="pref_category_half_year_package_tile">Puolen vuoden datapaketti</string>
