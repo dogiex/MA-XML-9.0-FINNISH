@@ -18,7 +18,7 @@
   <string name="ac_summaryOn">Käytössä, salasana vaaditaan sovelluksien avaamiseen</string>
   <string name="ac_unmask_all_apps">Poista piilotus kaikilta sovelluksilta</string>
   <string name="access_control_app_is_launching">Sovellus käynnistyy</string>
-  <string name="access_control_failed_need_to_unlock_nofingerprint">Piirrä lukituksenpoistokuviosi käyttääksesi uutta sormenjälkeä</string>
+  <string name="access_control_failed_need_to_unlock_nofingerprint">Anna salasana ennen uudella sormenjäljellä avaamista</string>
   <string name="access_control_fingerprint_not_identified_msg">Sormenjälkeä ei voitu lukea.</string>
   <string name="access_control_need_password">"%s lisätty onnistuneesti
 "</string>
@@ -27,7 +27,8 @@
   <string name="action_button_text_60">Korjaa</string>
   <string name="action_button_text_60_80">Korjaa</string>
   <string name="action_button_text_80_100">Optimoi</string>
-  <string name="action_source_sms_title">Estetyt tekstiviestit</string>
+  <string name="action_source_call_title">Estetyt puhelut</string>
+  <string name="action_source_sms_title">Estetyt viestit</string>
   <string name="activity_title_antispam">Estolista</string>
   <string name="activity_title_antivirus">Tietoturvatarkistus</string>
   <string name="activity_title_apps_manager">Sovellukset</string>
@@ -352,7 +353,7 @@
   <string name="back_description_securitycenter">Takaisin</string>
   <string name="back_modifypassword">Siirry takaisin salasanan vaihtoon</string>
   <string name="back_sound_data">Se vaatii mobiiliverkon, yritä uudelleen!</string>
-  <string name="back_sound_fail">Epäonnistui!</string>
+  <string name="back_sound_fail">Epäonnistui!  Puhelinoperaattoriasetukset muuttuneet. Aseta nykyinen SIM-korttisi datakortiksi, yhdistä verkkoon ja yritä uudelleen.</string>
   <string name="back_sound_success">Onnistui!</string>
   <string name="back_sound_support">Nykyiset verkko-operaattorit ei tue sitä！"</string>
   <string name="background_restrict_app_dialog_message">Rajoittamalla tämän sovelluksen verkon käyttöä taustalla saattaa vaikuttaa sen toimintaan toimia normaalisti, vastaanottaa viestejä, ladata sisältöä jne. Rajoitetaanko siitä huolimatta?</string>
@@ -597,6 +598,7 @@
   <string name="deep_save_ontime_boot_shutdown_summary">Ajasta laitteen käynnistys ja sammutus</string>
   <string name="delete">Poista</string>
   <string name="delete_from_manual_item_white_list">Poista poikkeuksista</string>
+  <string name="delete_input">Poista</string>
   <string name="deleted_apps">Poistetut sovellukset</string>
   <string name="demo_number">241</string>
   <string name="descx_quick_scan_cancel">Skannaus peruutettu</string>
@@ -871,6 +873,7 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="info_unantispam_sms">Salli tekstiviestit</string>
   <string name="information_setting">Suositukset</string>
   <string name="input_aviable_traffic">Aseta tiedonsiirtoraja</string>
+  <string name="input_password_hint_text">Syötä salasana</string>
   <string name="input_traffic_pkg">Syötä datan käyttö</string>
   <string name="input_used_hint">Syötä datan käyttö</string>
   <string name="input_used_max_hint">Syötä datan käyttö (vähemmän kuin %s)</string>
@@ -1135,6 +1138,14 @@ vastausta"</string>
   <string name="mi_service_traffic_detail">Framework yksityiskohdat</string>
   <string name="mian_page_primary_txt">Ulkomaan roaming</string>
   <string name="miliao_lucky_warning">米聊红包</string>
+  <string name="mixed_need_to_confirm">Syötä uudelleen vahvistaaksesi</string>
+  <string name="mixed_password_confirmed_header_confirm">Asetettiin onnistuneesti. Vahvista napauttamalla.</string>
+  <string name="mixed_password_confirmed_header_continue">Asetettiin onnistuneesti. Napauta \"Seuraava\".</string>
+  <string name="mixed_pattern_entered_header">Asetettiin salasana onnistuneesti</string>
+  <string name="mixed_recording_incorrect_too_short">Anna vähintään %d merkkiä.</string>
+  <string name="mixed_recording_intro_header">Anna vähintään 4 merkkiä</string>
+  <string name="mixed_retry_button_text">Peruuta</string>
+  <string name="mixed_settings_help_how_to_record">Kuinka salasana asetetaan</string>
   <string name="modify_password_mode">Vaihda salasanatyyppi</string>
   <string name="modifypassword">Vaihda salasana</string>
   <string name="monitor_app_add">Lisää</string>
@@ -1234,6 +1245,14 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="notify_weekly_traffic_title">Käytetty %s tällä viikolla</string>
   <string name="notify_weekly_traffic_title_for_slotnum">%1$s käytetty %2$s tällä viikolla</string>
   <string name="number_of_lucky_money">已为您提醒红包总数</string>
+  <string name="numeric_need_to_confirm">Syötä uudelleen vahvistaaksesi</string>
+  <string name="numeric_password_confirmed_header_confirm">Asetettiin onnistuneesti. Napauta vahvistaaksesi.</string>
+  <string name="numeric_password_confirmed_header_continue">Asetettiin onnistuneesti. Napauta \"Seuraava\".</string>
+  <string name="numeric_pattern_entered_header">PIN-koodi asetettiin onnistuneesti</string>
+  <string name="numeric_recording_incorrect_too_short">Anna vähintään %d numeroa.</string>
+  <string name="numeric_recording_intro_header">Anna salasana</string>
+  <string name="numeric_retry_button_text">Peruuta</string>
+  <string name="numeric_settings_help_how_to_record">Kuinka PIN-koodi asetetaan</string>
   <string name="ok">OK</string>
   <string name="ok_button">OK</string>
   <string name="old_sdk_deny_warning">Sovellus ei ole yhteensopiva viimeisimmän Android käyttöoikeusvaatimuksien kanssa. Kielletyt käyttöoikeudet saattaa vaikuttaa siihen, kuin tämä sovellus toimii.</string>
@@ -1362,6 +1381,8 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="password_promotion_not_login_xiaomi_account_message">Lisää Mi Tilisi, jotta voit palauttaa salasanasi, jos unohdat sen.</string>
   <string name="password_promotion_postbutton_text">Lisää</string>
   <string name="password_promotion_title">Lisää Mi Tili</string>
+  <string name="password_type">Vaihda salasana</string>
+  <string name="password_type_underline">Vaihda salasana</string>
   <string name="password_xspace_forget_pattern_message">Vaihtaaksesi Toisen tilan salasanasi, sinun täytyy poistaa nykyinen Toinen tila ja luoda uusi.</string>
   <string name="path_antispam">Järjestelmäsovellukset/Tietoturva/Estolista</string>
   <string name="path_antivirus">Järjestelmäsovellukset/Tietoturva/Virustarkistus</string>
@@ -1571,6 +1592,7 @@ Kalibroinnin aikana, MIUI lähettää tekstiviestin operaattorillesi saadakseen 
   <string name="quick_optimize_sub_summary_text">Lisättiin %s akun kestoon</string>
   <string name="quick_optimize_suggest_battery_consume_too_fast">Puhelin käyttää paljon akkua, korjaa se</string>
   <string name="quick_optimize_suggest_battery_over_heat">Puhelin käy ylikuumana, korjaa se</string>
+  <string name="quite_all_string">Peruuta</string>
   <string name="random_expression">随机表情</string>
   <string name="reach_daily_limit_value_body">Vähennä mobiilidatan käyttöäsi.</string>
   <string name="reach_daily_limit_value_title">Päiväkohtainen dataraja saavutettu</string>
@@ -1675,6 +1697,9 @@ Kalibroinnin aikana, MIUI lähettää tekstiviestin operaattorillesi saadakseen 
   <string name="security_scan_optimizing">Optimoidaan…</string>
   <string name="see_detail">Tiedot</string>
   <string name="set_applock_password">Aseta salasana</string>
+  <string name="set_mixed_password_name">Aseta salasana</string>
+  <string name="set_numeric_password_name">Aseta PIN-koodi</string>
+  <string name="set_pattern_password_name">Aseta kuvio</string>
   <string name="setting">Asetukset</string>
   <string name="setting_alarm_summary">各大平台官方红包活动闹钟提醒</string>
   <string name="setting_privacy_password">Lisää kuvio</string>
@@ -2196,6 +2221,12 @@ Lisää saldoa napauttamalla."</string>
   <string name="unlike">Ei kiitos</string>
   <string name="unlock_pattern">Kuvio</string>
   <string name="unlock_pattern_to_bind_fingerprint">Syötä salasana aktivoidaksesi sormenjälki</string>
+  <string name="unlock_set_unlock_password_summary">Yhdistä erilaisia merkkejä</string>
+  <string name="unlock_set_unlock_password_title">Salasana</string>
+  <string name="unlock_set_unlock_pattern_summary">Yhdistä vähintään 4 pistettä</string>
+  <string name="unlock_set_unlock_pattern_title">Kuvio</string>
+  <string name="unlock_set_unlock_pin_summary">Anna 4 numeroa</string>
+  <string name="unlock_set_unlock_pin_title">PIN-koodi</string>
   <string name="updating_diagnostic_botton">Analysoidaan dataa…</string>
   <string name="usage_sorted_activity_lable">Datan käyttö</string>
   <string name="usage_sorted_empty_text">Tyhjä</string>
@@ -2248,6 +2279,7 @@ Lisää saldoa napauttamalla."</string>
   <string name="wlan_booster">Wi-Fi optimointi</string>
   <string name="wlan_change_protection_detail">Älä yhdistä Wi-Fi-verkkoon automaattisesti, kun mobiilidataverkko on yhteydessä</string>
   <string name="wlan_change_protection_title">Estä verkkojen vaihto</string>
+  <string name="wrong_password">Virheellinen salasana</string>
   <string name="xunyou_net_booster">Verkon nopeuden parantaja</string>
   <string name="xunyou_net_booster_detail">Käytä Xunyou:n nopeuden parantaja -palveluita pelaamiseen</string>
   <string name="xunyou_pay_webview">Xunyou palvelut</string>

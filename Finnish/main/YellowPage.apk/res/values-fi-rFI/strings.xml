@@ -17,6 +17,14 @@
   <string name="agree_to_turn_on">Hyväksy</string>
   <string name="all_services">Kaikki</string>
   <string name="allow">Salli</string>
+  <string name="antispam_curr_version">Nykyinen versio: %d</string>
+  <string name="antispam_data_downloading">Ladataan Soittaja ID:n tietoja. Tämä saattaa kestää 3-5 sekuntia.</string>
+  <string name="antispam_data_downloading_error">Verkkoyhteyttä ei voitu muodostaa</string>
+  <string name="antispam_local_newest">Nykyinen versio on ajan tasalla.</string>
+  <string name="antispam_network_remind_summary">Ladataanko päivityksiä käyttäen mobiilidataa?</string>
+  <string name="antispam_network_remind_title">Tiedonsiirtovaroitus</string>
+  <string name="antispam_pull_newest">Päivitettiin versioon %d onnistuneesti</string>
+  <string name="antispam_update_version">Tarkista päivitykset</string>
   <string name="app_label">Hakemistot</string>
   <string name="app_recommendation_install">Asenna</string>
   <string name="average_price">Keskiarvo %d RMB</string>

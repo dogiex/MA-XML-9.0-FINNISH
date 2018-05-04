@@ -310,13 +310,16 @@ siirtyäksesi Toiseen tilaan Lukitusnäytöltä"</string>
   <string name="wating">Odota hetki…</string>
   <string name="weibo_send">Lähetä Weiboon</string>
   <string name="weixin_pay">WeChat Pay</string>
-  <string name="weixin_share">Jaa Hetkiin</string>
+  <string name="weixin_share_sign">Kirjaudu sisään ja jaa</string>
   <string name="xpsace_guide_button">Luo</string>
   <string name="xspace_account">Kaksoissovelluksien tilit</string>
   <string name="xspace_chocie">Kaksoissovelluksien tuki</string>
   <string name="xspace_creating">Luodaan kaksoissovellusta…</string>
   <string name="xspace_default_app_summary">Aseta oletussovellus maksuille, jakamiselle, suosikeille ja paljon muuta.</string>
   <string name="xspace_default_app_title">Oletussovellus</string>
+  <string name="xspace_default_guide_notification_content">Vaihda napauttamalla</string>
+  <string name="xspace_default_guide_notification_main_title">Käytetään oletussovellusta</string>
+  <string name="xspace_default_guide_notification_xspace_title">Käytetään kaksoissovellusta</string>
   <string name="xspace_default_setting_dialog_title">Oletus</string>
   <string name="xspace_default_setting_label">Oletussovellus</string>
   <string name="xspace_description">"Kaksoissovellus on sovelluksen kopio, jossa voi käyttää eri tiliä.

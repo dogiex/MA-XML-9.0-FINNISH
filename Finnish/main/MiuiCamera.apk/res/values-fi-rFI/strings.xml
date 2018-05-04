@@ -24,6 +24,7 @@
   <string name="audio_focus_exit_button_text">Poista Äänitarkennus käytöstä</string>
   <string name="beauty_fragment_tab_name_beauty">Kauneus</string>
   <string name="beauty_fragment_tab_name_makeup">Edistynyt</string>
+  <string name="bokeh_use_hint">Syvyystehoste</string>
   <string name="burst_shoot_exit_button_text">Poista Burst Shoot käytöstä</string>
   <string name="button_fisheye_camera_title">Kalansilmä</string>
   <string name="button_front_camera_title">Ota selfie</string>
