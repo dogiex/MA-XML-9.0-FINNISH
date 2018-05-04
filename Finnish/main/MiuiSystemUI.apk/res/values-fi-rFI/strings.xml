@@ -421,6 +421,7 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="label_view">Katso</string>
   <string name="launch_defaults_none">Oletuksia ei asetettu.</string>
   <string name="launch_defaults_some">Joitakin oletuksia on asetettu.</string>
+  <string name="legacy_vpn_name">VPN</string>
   <string name="list_delimeter">", "</string>
   <string name="lland">L Land</string>
   <string name="loading_desktop">Odota hetki…</string>
@@ -429,7 +430,7 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="local_backup_password_title">Varmuuskop. salasana</string>
   <string name="local_backup_password_toast_confirmation_mismatch">Uusi salasana ja vahvistus eivät täsmää</string>
   <string name="local_backup_password_toast_success">Uusi varasalasana asetettiin</string>
-  <string name="local_backup_password_toast_validation_failure">Varasalasanan asetus epäonnistui</string>
+  <string name="local_backup_password_toast_validation_failure">Varasalasanan asettaminen epäonnistui</string>
   <string name="lockscreen_carrier_default">Ei palvelua</string>
   <string name="long_screenshot_not_support_msg">Nykyinen sovellus ei tue pitkiä kuvakaappauksia.</string>
   <string name="long_screenshot_out_of_memory_error">Epäonnistui liian suuren kuvan vuoksi</string>
@@ -457,6 +458,32 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="mock_location_app">Valitse valesijaintisovellus</string>
   <string name="mock_location_app_not_set">Valesijaintisovellusta ei ole valittu</string>
   <string name="mock_location_app_set">Valesijaintisovellus: %1$s</string>
+  <string name="monitoring_button_view_policies">Näytä säännöt</string>
+  <string name="monitoring_description_ca_certificate">Laitteeseen on asennettu varmenteen myöntäjä. Suojattua verkkoliikennettäsi voidaan valvoa tai muuttaa.</string>
+  <string name="monitoring_description_managed_profile_ca_certificate">Organisaatiosi lisäsi työprofiiliin varmenteen myöntäjän. Suojattua verkkoliikennettäsi voidaan valvoa tai muuttaa.</string>
+  <string name="monitoring_description_managed_profile_named_vpn">Työprofiilisi on yhteydessä sovellukseen %1$s, joka voi valvoa toimintaasi verkossa, esimerkiksi sähköposteja, sovelluksia ja verkkosivustoja.</string>
+  <string name="monitoring_description_management">"Organisaatiosi hallinnoi tätä laitetta.
+
+Järjestelmänvalvoja voi valvoa ja hallinnoida asetuksiasi, yrityskäyttöä, sovelluksia, laitteeseesi yhdistettyjä tietoja sekä laitteesi sijaintitietoja.
+
+Saat lisätietoja järjestelmänvalvojalta."</string>
+  <string name="monitoring_description_management_ca_certificate">Organisaatiosi asensi laitteeseen varmenteen myöntäjän. Suojattua verkkoliikennettäsi voidaan valvoa tai muuttaa.</string>
+  <string name="monitoring_description_management_network_logging">Järjestelmänvalvoja on ottanut käyttöön verkkolokitietojen tallentamisen, joka valvoo laitteellasi tapahtuvaa liikennettä.</string>
+  <string name="monitoring_description_named_management">"%1$s hallinnoi tätä laitetta.
+
+Järjestelmänvalvoja voi valvoa ja hallinnoida asetuksiasi, yrityskäyttöä, sovelluksia, laitteeseesi yhdistettyjä tietoja sekä laitteesi sijaintitietoja.
+
+Saat lisätietoja järjestelmänvalvojalta."</string>
+  <string name="monitoring_description_named_vpn">Olet yhteydessä sovellukseen %1$s, joka voi valvoa verkkotoimintaasi, esimerkiksi sähköposteja, sovelluksia ja verkkosivustoja.</string>
+  <string name="monitoring_description_personal_profile_named_vpn">Henkilökohtainen profiilisi on yhteydessä sovellukseen %1$s, joka voi valvoa verkkotoimintaasi, esimerkiksi sähköposteja, sovelluksia ja verkkosivustoja.</string>
+  <string name="monitoring_description_two_named_vpns">Olet yhteydessä sovelluksiin %1$s ja %2$s, jotka voivat valvoa verkkotoimintaasi, esimerkiksi sähköposteja, sovelluksia ja verkkosivustoja.</string>
+  <string name="monitoring_description_vpn_settings">Avaa VPN-asetukset</string>
+  <string name="monitoring_description_vpn_settings_separator">" "</string>
+  <string name="monitoring_subtitle_ca_certificate">CA-varmenteet</string>
+  <string name="monitoring_subtitle_network_logging">Lokitiedostojen tallennus</string>
+  <string name="monitoring_subtitle_vpn">VPN</string>
+  <string name="monitoring_title">Verkon valvonta</string>
+  <string name="monitoring_title_device_owned">Laitehallinta</string>
   <string name="mount_storage">Kyllä</string>
   <string name="nav_guide_cancel">Älä välitä</string>
   <string name="nav_guide_message">Piilota/näytä painikkeet eleillä.</string>
@@ -523,6 +550,21 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
   <string name="quick_settings_connect_success">Yhdistetty</string>
   <string name="quick_settings_connecting">Yhdistetään</string>
+  <string name="quick_settings_disclosure_managed_profile_monitoring">Organisaatiosi voi valvoa työprofiilisi verkkoliikennettä.</string>
+  <string name="quick_settings_disclosure_managed_profile_named_vpn">Työprofiili on yhteydessä sovellukseen %1$s.</string>
+  <string name="quick_settings_disclosure_management">Organisaatiosi hallinnoi laitetta.</string>
+  <string name="quick_settings_disclosure_management_monitoring">Organisaatiosi hallinnoi tätä laitetta ja voi valvoa verkkoliikennettä.</string>
+  <string name="quick_settings_disclosure_management_named_vpn">Organisaatiosi hallinnoi tätä laitetta, joka on yhteydessä sovellukseen %1$s.</string>
+  <string name="quick_settings_disclosure_management_vpns">Organisaatiosi hallinnoi tätä laitetta, joka on yhteydessä VPN:iin.</string>
+  <string name="quick_settings_disclosure_monitoring">Verkkoa saatetaan valvoa</string>
+  <string name="quick_settings_disclosure_named_managed_profile_monitoring">%1$s voi valvoa työprofiilisi verkkoliikennettä.</string>
+  <string name="quick_settings_disclosure_named_management">%1$s hallinnoi tätä laitetta.</string>
+  <string name="quick_settings_disclosure_named_management_monitoring">%1$s hallinnoi tätä laitetta ja voi valvoa verkkoliikennettä.</string>
+  <string name="quick_settings_disclosure_named_management_named_vpn">%1$s hallinnoi tätä laitetta, joka on yhteydessä sovellukseen %2$s.</string>
+  <string name="quick_settings_disclosure_named_management_vpns">%1$s hallinnoi tätä laitetta, joka on yhteydessä VPN:iin.</string>
+  <string name="quick_settings_disclosure_named_vpn">Laite on yhteydessä sovellukseen %1$s.</string>
+  <string name="quick_settings_disclosure_personal_profile_named_vpn">Henkilökohtainen profiili on yhteydessä sovellukseen %1$s.</string>
+  <string name="quick_settings_disclosure_vpns">Laite on yhteydessä VPN:iin.</string>
   <string name="quick_settings_done">Valmis</string>
   <string name="quick_settings_more_settings">Lisää asetuksia</string>
   <string name="quick_settings_tiles">oletus</string>

@@ -25,6 +25,31 @@
         <item>Miksi voin vain käynnistää ilmastointilaitteeni, mutta en voi sammuttaa sitä?</item>
         <item>Voinko käyttää Mi 3, Mi 2, ja Redmi laitteita infrapunakaukosäätimenä?</item>
     </string-array>
+    <string-array name="voice_ac_help">
+        <item>Käynnistä Haier AC olohuoneessa</item>
+        <item>Aseta lämpötila 25 asteeseen</item>
+        <item>Aseta puhalluksen suunta \"Ylös\"</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Käynnistä Gree AC</item>
+        <item>Vaihda keinuvaan tilaan</item>
+        <item>Laita ilmastointilaite puhaltamaan kovempaa</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Käynnistä set-top box</item>
+        <item>Haluan katsoa Hunan TV:tä</item>
+        <item>Siirry takaisin kanavalle 15</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>Käynnistä ilmastointilaite</item>
+        <item>Haluan katsoa Shenzhen TV:tä</item>
+        <item>Siirry takaisin kanavalle 12</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>Käynnistä makuuhuoneen TV</item>
+        <item>Sammuta TV</item>
+        <item>Lisää TV:n äänenvoimakkuutta</item>
+    </string-array>
     <string-array name="assistant_tab">
         <item>Videot</item>
         <item>Kuvakaappaukset</item>
@@ -55,10 +80,10 @@
     </string-array>
     <string-array name="epg_channel_tab_v53">
         <item>Kaikki</item>
-        <item>Viimeaikoina</item>
-        <item>HD</item>
         <item>TV</item>
         <item>CCTV</item>
+        <item>HD</item>
+        <item>Viimeaikoina</item>
     </string-array>
     <string-array name="epg_program_genre">
         <item></item>
