@@ -9,6 +9,7 @@
   <string name="cm_terms_content">Parantaaksemme sinulle tarjoamia palveluita, sinun valitsema mobiiliverkko-operaattori voi lähettää henkilökohtaisia tietoja sinusta ja tästä laitteesta heidän palvelimille käyttäen Wi-Fi-verkkoja tai mobiilidata-yhteyttä. Näitä tietoja käytetään vain tilastollisiin tarkoituksiin parantaakseen palveluiden laatua ja tarjoamaan henkilökohtaisempaa sisältöä. Tätä tietoa ei käytetä henkilön tunnistamiseen, eikä niitä anneta kolmansille osapuolille.</string>
   <string name="cm_terms_title">Mobiiliverkko-operaattorin Sopimusehdot</string>
   <string name="congratulation_label">Olet valmis rokkaamaan!</string>
+  <string name="congratulation_swipe">Siirry järjestelmään pyyhkäisemällä ylöspäin</string>
   <string name="congratulation_title">Asennus valmis</string>
   <string name="content_description_complete">Valmis</string>
   <string name="content_description_miui_version">MIUI 9</string>
@@ -35,6 +36,9 @@
   <string name="miui_terms_no_network">Sinulla ei ole internet-yhteyttä. Katso Palveluehdot osoitteessa %s.</string>
   <string name="multisim_settings_category">SIM-kortin asetukset</string>
   <string name="multisim_settings_title">2 SIM-korttia havaittu</string>
+  <string name="navigation_picker_gesture_guide">Eleopas</string>
+  <string name="navigation_picker_radio_text_full_screen">Kokonäytön eleet</string>
+  <string name="navigation_picker_radio_text_virtual_key">Painikkeet</string>
   <string name="next">Seuraava</string>
   <string name="next_fingerprint">Seuraava</string>
   <string name="other_settings">Lisäasetukset</string>
@@ -55,6 +59,7 @@ Näytä valitun näppäimistön Tietosuojakäytäntö."</string>
   <string name="setting_locale">Asetetaan kieltä…</string>
   <string name="shut_down">Sammuta</string>
   <string name="sim_card_detecting">Tarkistetaan SIM-korttia…</string>
+  <string name="sim_card_detecting_check">SIM-korttia ei löytynyt. Varmista, että SIM-kortti on asennettu kunnolla ja sinulla on tarpeeksi saldoa.</string>
   <string name="sim_card_detecting_title">SIM-kortin tarkastus</string>
   <string name="sim_card_detection">Aseta SIM-kortti</string>
   <string name="sim_card_detection_info">Asettaaksesi SIM-korttisi, lue laitteen mukana tulleet ohjeet.</string>
@@ -62,6 +67,7 @@ Näytä valitun näppäimistön Tietosuojakäytäntö."</string>
   <string name="sim_redetection">Tarkista uudelleen</string>
   <string name="skip_underline">Ohita tämä vaihe</string>
   <string name="summary_not_set">Ei asetettu</string>
+  <string name="system_navigation_mode">Järjestelmän navigointitila</string>
   <string name="terms_of_use">Käyttöehdot</string>
   <string name="terms_of_use_label">"Yksityisyytesi on todella tärkeää meille. Lue meidän Palveluehdot ja Tietosuojakäytäntö, jotta ymmärrät mitä tietoja keräämme, kuinka käytämme niitä, ja mitä vaihtoehtoja sinulla on.
 

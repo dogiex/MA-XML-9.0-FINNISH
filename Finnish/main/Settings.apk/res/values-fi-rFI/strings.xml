@@ -4574,6 +4574,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="title_font_current2">Järjestelmäfontti</string>
   <string name="title_font_size">Kirjasimen koko</string>
   <string name="title_hdmi_color_calibration">Värikorjaus preset</string>
+  <string name="title_jeejen">Jeejen Aloitusnäyttö</string>
   <string name="title_layout_current">Tekstin koko</string>
   <string name="title_layout_current2">Tekstin koko</string>
   <string name="toast_lockscreen_glogin_empty_password">Syötä salasana</string>

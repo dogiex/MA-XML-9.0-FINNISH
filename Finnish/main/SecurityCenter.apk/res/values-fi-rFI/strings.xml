@@ -120,7 +120,7 @@
   <string name="antivirus_update_btn_update">Päivitä</string>
   <string name="apn_exception_summary">Testaa operaattorin tukiaseman (APN) määritykset.</string>
   <string name="apn_exception_title">Tarkista APN määritykset</string>
-  <string name="app_bg_restrict_dialog_message">Sovellus ei välttämättä toimi normaalisti jos rajoitat taustalla tapahtuvaa verkon käyttöä. Esimerkiksi se ei saata enää saada viestejä tai se ei voi päivittää sisältöä. Rajoitetaanko siitä huolimatta?</string>
+  <string name="app_bg_restrict_dialog_message">Sovellus ei välttämättä toimi normaalisti jos rajoitat taustalla tapahtuvaa verkon käyttöä. Esimerkiksi se ei saata enää saada viestejä tai se ei voi päivittää sisältöä.</string>
   <string name="app_check_no_issue">Näyttää siltä, että akkuongelmia ei löytynyt. Siistiä!</string>
   <string name="app_detail">Tiedot</string>
   <string name="app_error_tip_for_launcher">Laitteesi laitteistokomponentit tai Androidin järjestelmäversio saattaa aiheuttaa yhteensopivuusongelmia, joka aiheuttaa joidenkin sovelluksien oudon käyttäytymisen, jäätymisen tai pakkolopettamisen. Jos kohtaat tällaisia ongelmia, jaa palautteesi sovelluskehittäjien kanssa.</string>
@@ -354,10 +354,10 @@
   <string name="back_app_name">Siirry takaisin Sovelluslukkoon</string>
   <string name="back_description_securitycenter">Takaisin</string>
   <string name="back_modifypassword">Siirry takaisin salasanan vaihtoon</string>
-  <string name="back_sound_data">Se vaatii mobiiliverkon, yritä uudelleen!</string>
-  <string name="back_sound_fail">Epäonnistui!  Puhelinoperaattoriasetukset muuttuneet. Aseta nykyinen SIM-korttisi datakortiksi, yhdistä verkkoon ja yritä uudelleen.</string>
-  <string name="back_sound_success">Onnistui!</string>
-  <string name="back_sound_support">Nykyiset verkko-operaattorit ei tue sitä！"</string>
+  <string name="back_sound_data">Ota mobiilidata käyttöön ja yritä uudelleen.</string>
+  <string name="back_sound_fail">Asettaminen epäonnistui! Puhelinoperaattoriasetukset muuttuneet. Aseta nykyinen SIM-korttisi datakortiksi, yhdistä verkkoon ja yritä uudelleen.</string>
+  <string name="back_sound_success">Asetettiin onnistuneesti!</string>
+  <string name="back_sound_support">Operaattorisi verkko ei tue tätä asetusta.</string>
   <string name="background_restrict_app_dialog_message">Rajoittamalla tämän sovelluksen verkon käyttöä taustalla saattaa vaikuttaa sen toimintaan toimia normaalisti, vastaanottaa viestejä, ladata sisältöä jne. Rajoitetaanko siitä huolimatta?</string>
   <string name="background_traffic">Tausta %s</string>
   <string name="backsound_set_hint">Asetetaanko poissaoloviestisi: %s?</string>
@@ -1686,7 +1686,7 @@ Kalibroinnin aikana, MIUI lähettää tekstiviestin operaattorillesi saadakseen 
   <string name="sc_allow_network_dialog_message">Tämä sovellus vaatii internet-yhteyden toimiakseen normaalisti.</string>
   <string name="sc_allow_network_dialog_tiltle">Tätä toimintoa ei voi käyttää</string>
   <string name="sc_system_risk_fix_info_xspace">Tätä ei voi ratkaista Toisessa tilassa. Yritä uudelleen Ensimmäisessä tilassa.</string>
-  <string name="sc_warning_updater_not_found">Päivättäjä-sovellusta ei löytynyt. Päivittäminen ei onnistu!</string>
+  <string name="sc_warning_updater_not_found">Päivättäjä-sovellusta ei löytynyt.</string>
   <string name="scan_installed_games">Tarkistetaan asennettuja pelejä…</string>
   <string name="scan_status_risk">Riskialtis</string>
   <string name="scan_status_safe">Turvallinen</string>
@@ -1883,8 +1883,8 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="st_title_call_wait_setting">Puhelu odottaa</string>
   <string name="st_title_editblacklist">Muokkaa estolistaa</string>
   <string name="st_title_editwhitelist">Muokkaa poikkeuksia</string>
-  <string name="st_title_keywords_blacklist">Avainsanojen mustalista</string>
-  <string name="st_title_keywords_whitelist">Avainsanojen valkoinen lista</string>
+  <string name="st_title_keywords_blacklist">Avainsanojen estolista</string>
+  <string name="st_title_keywords_whitelist">Avainsanojen poikkeukset</string>
   <string name="st_title_man_addblacklist">Lisää numero estolistalle</string>
   <string name="st_title_man_addwhitelist">Lisää puhelinnumero poikkeuksiin</string>
   <string name="st_title_man_editblacklist">Valitse suuntakoodi estolistalle</string>
