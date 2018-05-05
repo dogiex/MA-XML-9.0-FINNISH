@@ -12,12 +12,6 @@
         <item>Usein käytetty</item>
         <item>Koko</item>
     </string-array>
-    <string-array name="auto_clean_time">
-        <item>Joka päivä</item>
-        <item>3 päivän välein</item>
-        <item>7 päivän välein</item>
-        <item>15 päivän välein</item>
-    </string-array>
     <string-array name="auto_clean_size">
         <item>100 Mt</item>
         <item>300 Mt</item>

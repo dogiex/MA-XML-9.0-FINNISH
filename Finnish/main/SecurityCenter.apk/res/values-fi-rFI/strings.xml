@@ -190,9 +190,11 @@
   <string name="app_manager_install_other_app">Asenna sovelluksia tuntemattomista lähteistä</string>
   <string name="app_manager_manage_space">Hallitse tilaa</string>
   <string name="app_manager_memory">RAM</string>
-  <string name="app_manager_menu_clear_data">Tyhjennä data</string>
+  <string name="app_manager_menu_clear_data">Tyhjennä tiedot</string>
+  <string name="app_manager_mobile_slot1">Mobiilidata (SIM-kortti 1)</string>
+  <string name="app_manager_mobile_slot2">Mobiilidata (SIM-kortti 2)</string>
   <string name="app_manager_net_control_title">Rajoita datan käyttöä</string>
-  <string name="app_manager_net_mobile">Data</string>
+  <string name="app_manager_net_mobile">Mobiilidata</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
   <string name="app_manager_not_allow">Ei</string>
   <string name="app_manager_not_support_uninstall">Näitä sovelluksia ei voi poistaa</string>
