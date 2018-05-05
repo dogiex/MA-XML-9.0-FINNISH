@@ -23,6 +23,7 @@
   <string name="access_control_need_password">"%s lisätty onnistuneesti
 "</string>
   <string name="access_control_need_to_unlock_nofingerprint">Syötä Sovelluslukon salasana</string>
+  <string name="accessibility_gameboosterservice_description">Ota käyttöön mykistääksesi saapuvat WeChat-puhelut pelaamisen aikana</string>
   <string name="action_button_text_100">Optimoi</string>
   <string name="action_button_text_60">Korjaa</string>
   <string name="action_button_text_60_80">Korjaa</string>
@@ -80,7 +81,6 @@
   <string name="alarm_setting_title">红包闹钟设置</string>
   <string name="all_address_choose_hint">Kaikki numerot tästä maakunnasta</string>
   <string name="already_close_gamebooster">Pelien nopeuttaja on pois päältä</string>
-  <string name="anim_gamebooster_text">Odota hetki…</string>
   <string name="anti_disturb_msg_detail">Poista käytöstä kaikki ilmoitukset paitsi saapuville puheluille</string>
   <string name="anti_disturb_msg_title">Älä häiritse</string>
   <string name="antispam_mode_details">Estolistan tiedot</string>
