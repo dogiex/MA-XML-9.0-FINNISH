@@ -65,8 +65,9 @@
   <string name="fingerprint_enter_second_psw_msg">Syötä Toisen tilan salasana laitteen uudelleenkäynnistymisen jälkeen käyttääksesi sormenjälkitunnistusta</string>
   <string name="fingerprint_enter_second_psw_msg_oldman">Toiseen tilaan ei päästä, kun Lite-tila on käytössä</string>
   <string name="fingerprint_enter_second_psw_title">Syötä Toisen tilan salasana</string>
-  <string name="fingerprint_not_identified_msg">Liian monta virheellistä yritystä. Syötä salasana nyt tai yritä käyttää sormenjälkeäsi muutaman sekunnin kuluttua.</string>
-  <string name="fingerprint_not_identified_title">Syötä salasana</string>
+  <string name="fingerprint_not_identified_msg">Liian monta virheellistä yritystä. Anna salasana nyt tai yritä käyttää sormenjälkeäsi muutaman sekunnin kuluttua.</string>
+  <string name="fingerprint_not_identified_msg_lock">Liian monta virheellistä yritystä. Anna salasana nyt.</string>
+  <string name="fingerprint_not_identified_title">Anna salasana</string>
   <string name="fingerprint_try_again_msg">Sormenjälkeä ei voitu vahvistaa, yritä uudelleen.</string>
   <string name="fingerprint_try_again_text">Yritä uudelleen</string>
   <string name="forget_password_string">Salasana hukassa</string>

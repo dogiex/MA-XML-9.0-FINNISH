@@ -114,6 +114,14 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
     <plurals name="people_million">
         <item quantity="other">Latauskertoja %1$d</item>
     </plurals>
+    <plurals name="gb_ad_people_play">
+        <item quantity="other">%1$d henkilöä pelaa</item>
+        <item quantity="one">%1$d henkilö pelaa</item>
+    </plurals>
+    <plurals name="gb_ad_ten_thousand_people_play">
+        <item quantity="other">%1$d henkilöä pelaa</item>
+        <item quantity="one">%1$d henkilö pelaa</item>
+    </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d katselukertaa</item>
         <item quantity="zero">%1$d katselukertaa</item>

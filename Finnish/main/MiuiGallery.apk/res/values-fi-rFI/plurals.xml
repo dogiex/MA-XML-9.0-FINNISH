@@ -8,6 +8,14 @@
         <item quantity="other">Lisättiin %d pilvikuvaa, näytä poistamalla \"Näytä vain paikalliset albumit\" käytöstä.</item>
         <item quantity="one">Lisättiin %d pilvikuva, näytä poistamalla \"Näytä vain paikalliset albumit\" käytöstä.</item>
     </plurals>
+    <plurals name="add_to_album_failed_with_reason_and_count">
+        <item quantity="other">%2$d kohdetta ei voi lisätä albumiin. %1$s.</item>
+        <item quantity="one">%2$d kohdetta ei voi lisätä albumiin. %1$s.</item>
+    </plurals>
+    <plurals name="add_to_secret_failed_with_reason_and_count">
+        <item quantity="other">%2$d kohdetta ei voi lisätä piilotettuun albumiin. %1$s.</item>
+        <item quantity="one">%2$d kohde ei voi lisätä piilotettuun albumiin. %1$s.</item>
+    </plurals>
     <plurals name="age_day">
         <item quantity="other">%d päivää</item>
         <item quantity="one">%d päivä</item>
@@ -120,6 +128,10 @@
         <item quantity="other">Yhteensä %d kuvaa</item>
         <item quantity="one">Yhteensä %d kuva</item>
     </plurals>
+    <plurals name="fail_reason_processing_file">
+        <item quantity="other">Käsitellään kuvia…</item>
+        <item quantity="one">Käsitellään kuvaa…</item>
+    </plurals>
     <plurals name="fast_share_auto_render_failed">
         <item quantity="other">Ohitettiin %1$d kuvaa, joita ei voitu renderöidä.</item>
         <item quantity="one">Ohitettiin kuva, jota ei voitu renderöidä.</item>
@@ -204,6 +216,10 @@
         <item quantity="other">Yhteensä %d kuvaa</item>
         <item quantity="one">Yhteensä %d kuva</item>
     </plurals>
+    <plurals name="remove_from_secret_failed_with_reason_and_count">
+        <item quantity="other">%2$d kohdetta ei voi poistaa piilotetusta albumista. %1$s.</item>
+        <item quantity="one">%2$d kohdetta ei voi poistaa piilotetusta albumista. %1$s.</item>
+    </plurals>
     <plurals name="search_feedback_done_mark_and_contribute_false_negative">
         <item quantity="other">Lisättiin %1$d kuvaa kohteeseen \"%2$s\" ja lisättiin tietokantaan.</item>
         <item quantity="one">Lisättiin %1$d kuva kohteeseen \"%2$s\" ja lisättiin tietokantaan.</item>
@@ -219,6 +235,10 @@
     <plurals name="search_feedback_done_mark_false_positive">
         <item quantity="other">Poistettiin %1$d kuvaa kohteesta \"%2$s\".</item>
         <item quantity="one">Poistettiin %1$d kuva kohteesta \"%2$s\".</item>
+    </plurals>
+    <plurals name="send_processing_files_error">
+        <item quantity="other">Jakaminen epäonnistui. %d kuvan käsittely meneillään…</item>
+        <item quantity="one">Jakaminen epäonnistui. %d kuvan käsittely meneillään…</item>
     </plurals>
     <plurals name="sync_error_title">
         <item quantity="other">%d kuvaa ja videota ei ole varmuuskopioitu</item>

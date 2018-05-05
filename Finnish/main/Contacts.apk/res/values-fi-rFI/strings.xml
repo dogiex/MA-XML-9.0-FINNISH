@@ -397,6 +397,7 @@ Yhteystietokortit on poistettu käytöstä"</string>
   <string name="dialer_empty_text_loading">Ladataan…</string>
   <string name="dialer_empty_text_no_call_log">Ei viimeaikaisia yhteystietoja</string>
   <string name="dialer_empty_text_no_search_result">Yhteystietoja ei löydy</string>
+  <string name="dialer_firewall_entry_name">Estettyjen puheluiden lokit</string>
   <string name="dialer_menu_description">Näytä numerovalitsija</string>
   <string name="dialer_menu_title">Valikko asetukset</string>
   <string name="dialer_returnToInCallScreen">Palataan puheluun</string>
@@ -1003,6 +1004,7 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="search_key_rebuild_t9_index_title">Järjestä;Yhteystiedot;t9</string>
   <string name="search_key_sim_manage">Järjestä;Yhteystiedot</string>
   <string name="search_preference_contacts_filter">Yhteystiedot;Näyttäminen</string>
+  <string name="search_quick_dial_setting">Yhteystiedot</string>
   <string name="search_remove_duplicate">Järjestä;Yhteystiedot</string>
   <string name="search_results_searching">Haetaan...</string>
   <string name="search_settings_description">Yhteystietojen nimet</string>

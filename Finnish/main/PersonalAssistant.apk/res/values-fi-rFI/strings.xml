@@ -417,7 +417,7 @@
   <string name="didi_not_installed">Asenna DiDi käyttääksesi tätä korttia</string>
   <string name="didi_other_dest">Muu määränpää</string>
   <string name="didi_price">Hinta</string>
-  <string name="didi_price_unit">CNY</string>
+  <string name="didi_price_unit">%sCNY</string>
   <string name="didi_target">Määränpää     </string>
   <string name="didi_trip">Soita taksi</string>
   <string name="didi_trip_content">Arvioi hinta ja soita taksi</string>
@@ -524,6 +524,7 @@ Tarkista seurantanumero."</string>
   <string name="express_inquiry_logistics">Valitse kuljetuspalvelu</string>
   <string name="express_inquiry_logistics_prefix">Kuljetuspalvelu: %s</string>
   <string name="express_inquiry_logistics_select_others_indication">Muu</string>
+  <string name="express_inquiry_manual">手动查询</string>
   <string name="express_inquiry_no_history">Ei historiaa</string>
   <string name="express_inquiry_no_result">Ei tuloksia</string>
   <string name="express_inquiry_number_empty">Syötä seurantanumerosi.</string>
@@ -542,6 +543,7 @@ Tarkista seurantanumerosi."</string>
   <string name="express_inquiry_status_unknown">Tuntematon</string>
   <string name="express_install_cainiao_description">%s vaatii Cainiao -sovelluksen asentamisen. Asennetaanko nyt?</string>
   <string name="express_install_cainiao_hidden">Älä näytä uudelleen</string>
+  <string name="express_install_cainiao_not_found">Mi Markettia ei löytynyt</string>
   <string name="express_install_cainiao_ok">Asenna</string>
   <string name="express_install_cainiao_title">Asenna Cainiao</string>
   <string name="express_install_delivery_service">Seuraa tilauksiasi, ota yhteyttä toimittajaan ja paljon muuta.</string>
@@ -607,6 +609,7 @@ Tarkista seurantanumerosi."</string>
   <string name="express_setting_authorized_number_delete">Poista</string>
   <string name="express_setting_authorized_number_description">Tietosuojalausunto: Puhelinnumeroasi käytetään vain toimituksen tilan ja tietojen tarkistamiseen.</string>
   <string name="express_setting_authorized_number_empty">Et ole vielä vahvistanut puhelinnumeroasi.</string>
+  <string name="express_setting_authorized_number_limit">最多同时绑定4个手机号码</string>
   <string name="express_setting_brief">Seuraa pikalähetyksien pakettejasi</string>
   <string name="express_setting_brief_detail">Seuraa kaikkia pakettejasi käyttämällä puhelinnumeroasi ja tilaustietojasi.</string>
   <string name="express_setting_cainiaoguoguo">菜鸟裹裹</string>
@@ -621,12 +624,15 @@ Tarkista seurantanumerosi."</string>
   <string name="express_setting_dialog_delete_title">Poista puhelinnumero</string>
   <string name="express_setting_entrance_description">Vahvista puhelinnumerosi tarkistaaksesi tilaustiedot.</string>
   <string name="express_setting_number">Puhelinnumero</string>
+  <string name="express_setting_number_already_add">手机号码已绑定，请尝试其他号码</string>
   <string name="express_setting_number_invalid">Varmista, että olet syöttänyt kelvollisen puhelinnumeron</string>
   <string name="express_setting_number_save">Vahvista ja tallenna</string>
   <string name="express_setting_number_title">Lisää puhelinnumero</string>
   <string name="express_setting_phone">Salli tietojen pyyntö käyttämällä puhelinnumeroa</string>
   <string name="express_setting_request_failed">Pyyntöä ei voitu lähettää. Virhekoodi: %s.</string>
   <string name="express_setting_service_provider">Palveluntarjoaja</string>
+  <string name="express_setting_supported_orders">"现已支持：淘宝、天猫、闲鱼应用中的快递运单；中通，申通，韵达等主流快递公司的快递运单。
+暂不支持：部分非淘宝、天猫、闲鱼商家发货的顺丰快递运单（可手动添加运单号解决）；京东自派送运单。"</string>
   <string name="express_setting_title">Vahvistettu puhelinnumero</string>
   <string name="express_setting_tracking_disable">Ei vahvistettu</string>
   <string name="express_setting_verification_code">Koodi</string>
@@ -893,12 +899,10 @@ Tarkista seurantanumerosi."</string>
   <string name="map_title_congestion">有道路拥堵</string>
   <string name="map_title_congestion_last">公里拥堵</string>
   <string name="map_title_home">Koti</string>
-  <string name="map_title_hours">小时</string>
-  <string name="map_title_middle">需要</string>
-  <string name="map_title_minutes">分钟</string>
   <string name="map_title_office">Työ</string>
-  <string name="map_title_prve">到</string>
   <string name="map_title_smooth">整体畅通</string>
+  <string name="map_title_time_hours">需要%1$s小时%2$s分钟</string>
+  <string name="map_title_time_minutes">需要%1$s分钟</string>
   <string name="menu_new">Lisää</string>
   <string name="metre">m</string>
   <string name="mi_agenda">Kalenterin tapahtumat</string>

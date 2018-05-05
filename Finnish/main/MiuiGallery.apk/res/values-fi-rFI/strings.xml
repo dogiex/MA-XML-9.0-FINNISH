@@ -10,13 +10,13 @@
   <string name="add_to_album_bulk_result">Virhe (%d)</string>
   <string name="add_to_album_exist">Tämä kuva on jo olemassa</string>
   <string name="add_to_album_failed">Albumiin lisääminen epäonnistui</string>
+  <string name="add_to_album_failed_with_reason">Albumiin ei voi lisätä. %1$s.</string>
   <string name="add_to_album_success">Lisättiin albumiin</string>
   <string name="add_to_album_tip">Kuvat pilvessä</string>
   <string name="add_to_favorites_failed">Ei voitu lisätä suosikkeihin</string>
   <string name="add_to_secret_exist">Kuva on jo olemassa piilotetussa albumissa</string>
   <string name="add_to_secret_fail">Piilotettuun albumiin lisääminen epäonnistui</string>
   <string name="add_to_secret_failed_with_reason">Piilotettuun albumiin ei voi lisätä. %1$s.</string>
-  <string name="add_to_secret_failed_with_reason_and_count">%2$s kohdetta ei voi lisätä piilotettuun albumiin. %1$s.</string>
   <string name="add_to_secret_successful">Lisättiin piilotettuun albumiin</string>
   <string name="add_to_share_album_not_delete">Jaetun albumin kuvaa ei voi poistaa</string>
   <string name="added_to_favorites_tip">Lisättiin \"Suosikit\" albumiin</string>
@@ -954,6 +954,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="loading_image">Ladataan kuvaa…</string>
   <string name="loading_image_thumbnail">Ladataan esikatselukuvaa…</string>
   <string name="loading_members">Ladataan jäseniä</string>
+  <string name="loading_processing_tip">Käsitellään kuvaa…</string>
   <string name="loading_suspend">Lataaminen pysäytetty. Lataamista jatketaan, kun Wi-Fi on käytettävissä.</string>
   <string name="loading_video">Ladataan videota…</string>
   <string name="loading_video_fail_sync_without_network">Lataa metadata yhdistämällä verkkoon</string>
@@ -1010,6 +1011,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="open">Ota käyttöön</string>
   <string name="open_public_message">Luo URL-linkki, jonka voit jakaa ystävien kanssa</string>
   <string name="open_public_title">Jaa</string>
+  <string name="operate_processing_file_error">Odota, kunnes kaikki kuvat on käsitelty.</string>
   <string name="operation_add_album">Lisää albumiin</string>
   <string name="operation_add_picture">Lisää kohteita</string>
   <string name="operation_add_secret">Piilota</string>
@@ -1193,7 +1195,6 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="remove_from_other_albums_tip">Ota Mi Pilven synkronointi käyttöön siirtääksesi kohteet muista albumeista. Siirretäänkö nyt?</string>
   <string name="remove_from_secret_fail">Piilotetusta albumista poistaminen epäonnistui</string>
   <string name="remove_from_secret_failed_with_reason">Piilotetusta albumista ei voi poistaa. %1$s.</string>
-  <string name="remove_from_secret_failed_with_reason_and_count">%2$s kohdetta ei voi poistaa piilotetusta albumista. %1$s.</string>
   <string name="remove_from_secret_successful">Poistettiin piilotetusta albumista</string>
   <string name="remove_to_album_title">Yhdistä henkilöön</string>
   <string name="remove_to_other_album">Yhdistä eri henkilön kanssa</string>

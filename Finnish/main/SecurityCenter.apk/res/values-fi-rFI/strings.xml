@@ -738,6 +738,7 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="firewall_restrict_wlan">Rajoita Wi-Fi-yhteyden käyttöä</string>
   <string name="firewall_rule_group_title_roaming">Ulkomaan roaming</string>
   <string name="firewall_system_title">Järjestelmäsovelluksien datan käyttö</string>
+  <string name="firewall_temp_rule_reason">%2$s rajoitti internetyhteyden kohteelle %1$s​</string>
   <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">Asennettu sovellus ei voi yhdistää internetiin käyttämällä Wi-Fi:ä, kun tämä kytkin on pois päältä.</string>
   <string name="five_percent_total_pkg">%s (5%% kuukausittaisesta datasta)</string>
@@ -790,9 +791,12 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="gateway_exception_summary">Tarkista reitittimesi ja yritä uudelleen.</string>
   <string name="gateway_exception_summary2">Palvelimeen yhdistäminen epäonnistui</string>
   <string name="gateway_exception_title">Testaa reititin</string>
+  <string name="gb_ad_game_size">Mt</string>
+  <string name="gb_cutoff">|</string>
   <string name="gb_description_image_button_answer">Vastaa</string>
   <string name="gb_description_image_button_reject">Hylkää</string>
   <string name="gb_description_image_button_video_answer">Videopuhelu</string>
+  <string name="gb_new_feature">Uusi ominaisuus</string>
   <string name="ge">个</string>
   <string name="get_sys_info">Haetaan tietoa…</string>
   <string name="gigabyteShort">Gt</string>
@@ -1008,7 +1012,7 @@ Operaattori saattaa veloittaa sinua lisämaksuista, jos käytät mobiilidataa uu
   <string name="main_button_usage_adjusting_bill">Vaihdetaan…</string>
   <string name="main_button_usage_package_setting">Aseta tiedonsiirtoraja</string>
   <string name="main_daily_package">Päiväkohtainen datapaketti</string>
-  <string name="main_indicator_title">Odotetaan aktivointia</string>
+  <string name="main_indicator_title">Aktivointi</string>
   <string name="main_leisure_remained">Hiljaisen ajan dataa jäljellä</string>
   <string name="main_month_total_used">Käytetty tässä kuussa</string>
   <string name="main_month_used">Käytetty tässä kuussa</string>
