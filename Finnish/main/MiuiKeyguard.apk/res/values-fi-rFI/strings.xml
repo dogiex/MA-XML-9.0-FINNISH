@@ -31,7 +31,7 @@
   <string name="face_data_manage_unlock_msg">Avaa laitteen lukitus käyttämällä kasvojesi tietoja</string>
   <string name="face_data_manage_unlock_title">Avaa lukitus käyttämällä kasvojen tietoja</string>
   <string name="face_data_siggesstion_next">Seuraava</string>
-  <string name="face_data_siggesstion_next_time">Seuraava(%ds)</string>
+  <string name="face_data_siggesstion_next_time">Seuraava (%d s)</string>
   <string name="face_data_suggesstion_first">Tietoturvaongelmat: Kasvojentunnistus on vähemmän turvallisempi, kuin PIN-koodi, salasana tai kuvio. Laitteesi saatetaan saada avattua valokuvallasi, samoin kuin henkilöillä tai esineillä, joilla on samanlainen ulkonäkö.</string>
   <string name="face_data_suggesstion_second">Varmista, että kaikki kasvosi ei peity millään esineillä ja että ne ovat selvästi esillä. Kasvosi pitäisi olla myös hyvin valaistu.</string>
   <string name="face_unlock_adjust_distance">Varmista, että kasvosi ja näyttösi etäisyys on ihanteellinen.</string>

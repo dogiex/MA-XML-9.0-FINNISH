@@ -26,10 +26,10 @@
   <string name="downloading">Ladataan</string>
   <string name="downloading_in_3g">Ladataan 3G:llä…</string>
   <string name="downloading_in_wifi">Ladataan…</string>
-  <string name="drive_low_memory_description_content">Matkapuhelimen tallennustila on vähissä, siirrytäänkö puhelimen puhdistustyökaluun vapauttaakseen lisää tallennustilaa?</string>
-  <string name="drive_low_memory_description_title">Alhaisen muistin varoitus</string>
-  <string name="drive_low_memory_description_toast">Matkapuhelimen tallennustila on vähissä, puhdista MiDriven käytön jälkeen</string>
-  <string name="drive_low_memory_positive_content">Puhdista</string>
+  <string name="drive_low_memory_description_content">Mi Drivea ei voi käyttää vähäisen tallennustilan takia.</string>
+  <string name="drive_low_memory_description_title">Tallennustila vähissä</string>
+  <string name="drive_low_memory_description_toast">Mi Drivea ei voi käyttää vähäisen tallennustilan takia. Vapauta tallennustilaa ja yritä uudelleen.</string>
+  <string name="drive_low_memory_positive_content">Vapauta tilaa</string>
   <string name="empty_file_download">Tyhjiä tiedostoja ei tueta.</string>
   <string name="empty_file_upload">Tyhjiä tiedostoja ei tueta.</string>
   <string name="file_already_downlaoded">Tiedosto tallennettiin kansioon \"%1$s\"</string>

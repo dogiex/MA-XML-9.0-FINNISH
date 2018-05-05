@@ -4699,9 +4699,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="unlock_disable_frp_warning_content_pin_fingerprint">Laitteen suojausominaisuudet eivät toimi ilman PIN-koodiasi. Myös tallennetut sormenjälkesi poistetaan tältä laitteelta, etkä voi enää käyttää niitä puhelimen lukituksen avaamiseen, ostosten vahvistamiseen tai sovelluksiin kirjautumiseen.”</string>
   <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">Profiilin suojausominaisuudet eivät toimi ilman PIN-koodia. Lisäksi tallennetut sormenjäljet poistetaan profiilista, etkä voi enää avata profiilin lukitusta, hyväksyä ostoksia tai kirjautua sovelluksiin niillä.</string>
   <string name="unlock_disable_frp_warning_content_pin_profile">Profiilin suojausominaisuudet eivät toimi ilman PIN-koodia.</string>
-  <string name="unlock_disable_frp_warning_content_profile">"Profiilin suojausominaisuudet eivät toimi ilman salasanaa.
-
- Et voi avaata profiiliasi, valtuuttaa ostoja tai kirjautua sovelluksiin niillä."</string>
+  <string name="unlock_disable_frp_warning_content_profile">"Profiilin suojausominaisuudet ei toimi ilman salasanaa.</string>
   <string name="unlock_disable_frp_warning_content_unknown">Laitteen suojausominaisuudet eivät toimi ilman näytön lukitusta.</string>
   <string name="unlock_disable_frp_warning_content_unknown_fingerprint">Laitteen suojausominaisuudet eivät toimi ilman näytön lukitusta. Myös tallennetut sormenjälkesi poistetaan tältä laitteelta, etkä voi enää käyttää niitä puhelimen lukituksen avaamiseen, ostosten vahvistamiseen tai sovelluksiin kirjautumiseen.”</string>
   <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">Profiilin suojausominaisuudet eivät toimi ilman näytön lukitusta. Lisäksi tallennetut sormenjäljet poistetaan profiilista, etkä voi enää avata profiilin lukitusta, hyväksyä ostoksia tai kirjautua sovelluksiin niillä.</string>

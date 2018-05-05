@@ -85,7 +85,7 @@
   <string name="confirm_export_dialog_title">Poista yksityisistä yhteystiedoista</string>
   <string name="confirm_no_block_positive">Poista esto</string>
   <string name="confirm_no_block_title">"Poistetaanko tämän numeron esto ja palautetaanko kaikki lähetetyt viestit tästä numerosta?
-(Numero lisätään viestien valkoiseen listaan)"</string>
+(Numero lisätään poikkeuksiin.)"</string>
   <string name="confirm_rate_limit">Suuri määrä multimediaviestejä lähetetään.</string>
   <string name="confirm_restore_all_title">Palautetaanko kaikki lähetetyt viestit tästä numerosta?</string>
   <string name="confirm_restore_checkbox">Palauta estetyt viestit</string>

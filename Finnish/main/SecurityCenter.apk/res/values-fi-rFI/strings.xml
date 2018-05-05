@@ -1445,6 +1445,7 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="power_btn_analyze">Analysoi akun käyttö</string>
   <string name="power_cell">Solu lepotilassa</string>
   <string name="power_center_auto_shutdown">Ajasta käynnistäminen/sammuttaminen</string>
+  <string name="power_center_back">Takaisin akun käyttöön</string>
   <string name="power_center_charge_time">%1$s kunnes täynnä</string>
   <string name="power_center_main_percent_formatted">%s%%</string>
   <string name="power_center_ontime_boot">Käynnistymisen aika</string>

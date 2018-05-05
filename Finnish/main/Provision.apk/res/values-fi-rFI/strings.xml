@@ -71,5 +71,7 @@ Sinun täytyy hyväksyä Palveluehtomme ja Tietosuojakäytäntömme, ennen kuin 
 Sinun täytyy hyväksyä Palveluehtomme ja Tietosuojakäytäntömme, ennen kuin voit käyttää MIUI:ta. Mi palvelut, Mi SIM-kortin aktivointipalvelut, Mi Pilvi, Etsi laite, Aloitusnäyttö, Pelikeskus, MAB, MiuiDaemon ja MSA järjestelmäkomponentit, verkkosovellukset, pikakortit, statistiikat, älykortit, Mi Link, Mi Tilin komponentit ja Google Play Palvelut ottavat yhteyden internetiin ja saavat sijaintisi."</string>
   <string name="title_fingerprint">Aseta salasana</string>
   <string name="user_agreement">Palveluehdot</string>
+  <string name="voice_assist_desp">Sano \"Mi AI\" puhelimellesi. Mi AI tunnistaa äänesi ja voi ohjata laitettasi.</string>
+  <string name="voice_assist_title">Herätä äänellä</string>
   <string name="welcome">Tervetuloa</string>
 </resources>
