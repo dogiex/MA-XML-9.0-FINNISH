@@ -942,8 +942,8 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="missed_call_notify_times_title">Vastaamatta jääneiden puheluiden muistutus</string>
   <string name="missed_call_notify_twice">2 kertaa</string>
   <string name="miui_network_selection_reset_text">Nollaa</string>
-  <string name="miui_notification_network_selection_title">SIM ei palvelua</string>
-  <string name="miui_notification_network_selection_title_by_sim">SIM %s ei palvelua</string>
+  <string name="miui_notification_network_selection_title">SIM: Ei palvelua</string>
+  <string name="miui_notification_network_selection_title_by_sim">SIM %s: Ei palvelua</string>
   <string name="mmiCancelled">MMI-koodi peruutettu</string>
   <string name="mmiStarted">MMI-koodi aloitettu</string>
   <string name="mobile_data">Mobiilidata</string>
@@ -955,7 +955,7 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="mock_location_app">Valitse valesijaintisovellus</string>
   <string name="mock_location_app_not_set">Valesijaintisovellusta ei ole valittu</string>
   <string name="mock_location_app_set">Valesijaintisovellus: %1$s</string>
-  <string name="modem_dialog_body">Mobiiliverkko on epävakaa, mikä aiheuttaa häiriöitä ja verkko-ongelmia. Lähetetäänkö palautetta Mi:lle analyysiä varten? Tämä raportti voi sisältää henkilökohtaisesti tunnistettavia tietoja. Raporttisi auttaa korjaamaan tämän virheen, eikä sitä koskaan jaeta missään kaupallisessa yhteydessä.</string>
+  <string name="modem_dialog_body">Mobiiliverkko on epävakaa, jonka tuleksena se aiheuttaa häiriöitä ja verkko-ongelmia. Lähetetäänkö palautetta Mi:lle analyysiä varten? Tämä raportti voi sisältää henkilökohtaisesti tunnistettavia tietoja. Raporttisi auttaa korjaamaan tämän virheen, eikä sitä koskaan jaeta missään kaupallisessa yhteydessä.</string>
   <string name="modem_dialog_title">Mobiiliverkko on epävakaa</string>
   <string name="msim_apn_not_set">Ei asetettu</string>
   <string name="msim_default_setting">Oletusasetukset</string>

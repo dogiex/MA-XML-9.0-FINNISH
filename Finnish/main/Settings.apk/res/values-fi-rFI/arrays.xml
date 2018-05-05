@@ -39,7 +39,7 @@
         <item>Animaatioasteikko 10-kertainen</item>
     </string-array>
     <string-array name="ap_identify">
-        <item>oletus</item>
+        <item>Oletus</item>
         <item>iPhone</item>
     </string-array>
     <string-array name="apn_auth_entries">

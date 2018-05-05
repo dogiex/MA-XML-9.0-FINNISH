@@ -80,7 +80,7 @@
   <string name="alarm_lockscreen_btn">开始抢红包</string>
   <string name="alarm_setting_title">红包闹钟设置</string>
   <string name="all_address_choose_hint">Kaikki numerot tästä maakunnasta</string>
-  <string name="already_close_gamebooster">Pelien nopeuttaja on pois päältä</string>
+  <string name="already_close_gamebooster">Pelien nopeuttaja on pois käytöstä</string>
   <string name="anti_disturb_msg_detail">Poista käytöstä kaikki ilmoitukset paitsi saapuville puheluille</string>
   <string name="anti_disturb_msg_title">Älä häiritse</string>
   <string name="antispam_mode_details">Estolistan tiedot</string>
@@ -161,7 +161,7 @@
   <string name="app_manager_default_close_summary">Oletuksia ei asetettu.</string>
   <string name="app_manager_default_open_summary">Olet valinnut tämän sovelluksen käynnistymään oletuksena joillekin toiminnoille.</string>
   <string name="app_manager_default_open_title">Poista oletukset</string>
-  <string name="app_manager_defaults_setting">Oletukset</string>
+  <string name="app_manager_defaults_setting">Oletussovellukset</string>
   <string name="app_manager_details_electric_title">Akku</string>
   <string name="app_manager_details_storage_title">Tallennustila</string>
   <string name="app_manager_details_traffic_title">Datan käyttö</string>
@@ -756,7 +756,7 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="free_send_net_booster">Ilmainen Verkon nopeuden parantaja</string>
   <string name="free_send_net_booster_busniess">Hanki ilmainen Xunlei nopeuden parantaja</string>
   <string name="free_send_net_booster_busniess_tip">Napauta vastaanottaaksesi</string>
-  <string name="free_send_net_booster_tip">Nauti sulavasta pelaamisesta ilmaisella Verkon nopeuden parantajalla.</string>
+  <string name="free_send_net_booster_tip">Nauti sulavasta pelaamisesta ilmaisella verkon nopeuden parantajalla.</string>
   <string name="free_time_traffic">Hiljaisen ajan datan raja</string>
   <string name="free_time_traffic_hint">Syötä hiljaisen ajan datan raja</string>
   <string name="free_time_traffic_settings">Hiljaisen ajan datan raja</string>
@@ -826,7 +826,7 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="gs_game_net_priority">Yhteyden prioriteetti</string>
   <string name="gs_game_net_priority_detail">Rajoita latausnopeutta, jotta kaistanleveyttä on tarpeeksi pelaamista varten</string>
   <string name="gs_game_performance">Suorituskyky</string>
-  <string name="gs_game_shortcut">Nauti sujuvammasta pelikokemuksesta</string>
+  <string name="gs_game_shortcut">Paranna pelikokemustasi</string>
   <string name="gs_only_self_start_for_list">Rajoita taustalla olevia prosesseja säästääksesi akkua pelaamista varten</string>
   <string name="gs_open_game_booster">Paranna nopeutta</string>
   <string name="gs_performance_mode">Suorituskykytila</string>
@@ -2224,7 +2224,7 @@ Lisää saldoa napauttamalla."</string>
   <string name="uninstall_danagerous_btn">Poista</string>
   <string name="uninstall_danagerous_desc">\"%s\" voi vahingoittaa laitettasi</string>
   <string name="uninstall_danagerous_msg">\"%s\" voi vahingoittaa laitettasi, alentaa sen suorituskykyä tai aiheuttaa uudelleenkäynnistyksiä.</string>
-  <string name="uninstall_danagerous_title">Poista haitallinen sovellus</string>
+  <string name="uninstall_danagerous_title">Poista haitallisia sovelluksia</string>
   <string name="unlike">Ei kiitos</string>
   <string name="unlock_pattern">Kuvio</string>
   <string name="unlock_pattern_to_bind_fingerprint">Syötä salasana aktivoidaksesi sormenjälki</string>

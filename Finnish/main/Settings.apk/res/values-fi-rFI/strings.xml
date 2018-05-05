@@ -2938,7 +2938,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="onehour">30 minuuttia</string>
   <string name="onekey_migrate">Mi Siirtäjä</string>
   <string name="onscreen_keyboard_settings_summary">Näyttönäppäimistön asetukset</string>
-  <string name="open_demo_mode">Avaa</string>
+  <string name="open_demo_mode">Ota käyttöön</string>
   <string name="open_demo_mode_warning_message">Kun Demotila on päällä, tilapalkissa oleva kello pysähtyy ja akku ja signaalin kuvakkeet näyttävät täyttä. Voit muuttaa tätä poistamalla Demotilan käytöstä tai käynnistämällä laitteen uudelleen.</string>
   <string name="open_miui_optimization_title">Ota MIUI optimointi käyttöön</string>
   <string name="open_miui_optimization_warning_message">Laitteesi käynnistyy uudelleen, jotta muutokset tulevat voimaan.</string>
@@ -4183,7 +4183,7 @@ PIN-koodi on mahdollisesti virheellinen."</string>
   <string name="spellchecker_security_warning">Tämä oikoluku voi ehkä kerätä kaiken kirjoittamasi tekstin, mukaan lukien henkilötiedot, kuten salasanat ja luottokorttien numerot. Se on lähtöisin sovelluksesta %1$s. Käytetäänkö tätä oikolukua?</string>
   <string name="spellchecker_switch_title">Ota oikeinkirjoituksen tarkistus käyttöön</string>
   <string name="spellcheckers_settings_title">Oikeinkirjoituksen tarkistus</string>
-  <string name="split_screen">Siirry jaettuun näyttöön</string>
+  <string name="split_screen">Avaa Jaettu näyttö</string>
   <string name="ssid_label">SSID:</string>
   <string name="ssl_ca_cert_warning">Verkkoa saatetaan valvoa</string>
   <string name="ssl_ca_cert_warning_message">"Kolmas osapuoli pystyy seuraamaan toimiasi verkossa, esimerkiksi sähköpostiviestien, sovellusten ja turvallisten verkkosivustojen käyttöä.

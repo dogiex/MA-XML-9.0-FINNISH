@@ -12,7 +12,7 @@
   <string name="bugreport_dialog_submit_content">Palautteesi saattaa sisältää henkilökohtaista tietoa ja sijaintitietoa.</string>
   <string name="bugreport_dump_complete_notification_summary">Napauta katsoaksesi.</string>
   <string name="bugreport_dump_complete_notification_title">Luo virheraportti</string>
-  <string name="bugreport_dump_start_notification_summary">Tämä kestää useita minuutteja.</string>
+  <string name="bugreport_dump_start_notification_summary">Tämä saattaa kestää useita minuutteja.</string>
   <string name="bugreport_dump_start_notification_title">Luodaan virheraporttia…</string>
   <string name="bugreport_tool_log_dumping_desc">Kestää noin minuutin</string>
   <string name="bugreport_tool_log_dumping_title">Luodaan virheraporttia</string>

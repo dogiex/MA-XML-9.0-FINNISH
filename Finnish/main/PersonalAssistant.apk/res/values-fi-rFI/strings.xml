@@ -1177,14 +1177,10 @@ Tarkista seurantanumerosi."</string>
   <string name="payment_clear_records_failed">Maksuhistoriaa ei voitu tyhjentää</string>
   <string name="payment_clear_records_success">Maksuhistoria tyhjennettiin</string>
   <string name="payment_date_time_picker_dialog_title">Aseta päivämäärä ja aika</string>
-  <string name="payment_dialog_chooser_cancel">Peruuta</string>
-  <string name="payment_dialog_chooser_message_footer">"Huomio: Kaikki maksutiedot säilytetään turvallisesti puhelimeesi. Niitä ei synkronoida Mi Pilveen tai käytetä millään muulla tavalla.</string>
-  <string name="payment_dialog_chooser_message_header">Valitse lähteet kohteelle \"Maksuni\"</string>
-  <string name="payment_dialog_chooser_ok">Ota käyttöön</string>
-  <string name="payment_dialog_chooser_title">Maksuni</string>
-  <string name="payment_dialog_chooser_toast">Valitse vähintään yksi lähde</string>
-  <string name="payment_dialog_notice_ok">Selvä</string>
-  <string name="payment_dialog_notice_title">Huomio</string>
+  <string name="payment_dialog_notice_message">因微信客户端限制，自动记账功能在微信内将无法使用，您可以手动添加微信的支出信息。其他应用内的自动记账功能仍可继续使用。</string>
+  <string name="payment_dialog_notice_message_inside">因微信客户端限制，自动记账功能在微信内将无法使用，您可以手动添加微信的支出信息。</string>
+  <string name="payment_dialog_notice_ok">我知道了</string>
+  <string name="payment_dialog_notice_title">自动记账说明</string>
   <string name="payment_guide_hint">Kerää maksutietoja viesteistä ja muista sovelluksista.</string>
   <string name="payment_guide_hint_link">Tietoturva &amp; yksityisyys</string>
   <string name="payment_method_alipay">Alipay</string>
@@ -1231,7 +1227,7 @@ Tarkista seurantanumerosi."</string>
   <string name="payment_upload_data_fail">Tietojen lähetys epäonnistui</string>
   <string name="payment_upload_data_no_data">Ei lähetettävää tietoa</string>
   <string name="payment_upload_data_success">Lähetettiin tiedot onnistuneesti</string>
-  <string name="payment_user_notice_bar_text">Tietoja \"Maksuni\"</string>
+  <string name="payment_user_notice_bar_text">Tietoja \"Automaattisista maksuista\"</string>
   <string name="personalAssistant_mainpage">Kotisivu</string>
   <string name="pie_chart_label_atm">Pankkiautomaattinostot:</string>
   <string name="pie_chart_label_catering">Ruoka:</string>

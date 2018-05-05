@@ -486,9 +486,9 @@ Saat lisätietoja järjestelmänvalvojalta."</string>
   <string name="monitoring_title_device_owned">Laitehallinta</string>
   <string name="mount_storage">Kyllä</string>
   <string name="nav_guide_cancel">Älä välitä</string>
-  <string name="nav_guide_message">Piilota/näytä painikkeet eleillä.</string>
+  <string name="nav_guide_message">Käytä eleitä piilottaaksesi/näyttääksesi näyttöpainikkeet.</string>
   <string name="nav_guide_ok">Aseta</string>
-  <string name="nav_guide_title">Piilota painikkeet</string>
+  <string name="nav_guide_title">Piilota näyttöpainikkeet</string>
   <string name="no_application">Nothing</string>
   <string name="no_multi_window_app">Ei sovelluksia, jotka tukevat Jaettua näyttö</string>
   <string name="no_notification_tips">Ei ilmoituksia.</string>

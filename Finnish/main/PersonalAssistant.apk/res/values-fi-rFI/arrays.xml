@@ -52,11 +52,6 @@
         <item>Matkalla</item>
         <item>Lähetetään</item>
     </string-array>
-    <string-array name="payment_chooser">
-        <item>Tekstiviesti (pankki &amp; luottokortit)</item>
-        <item>WeChat</item>
-        <item>Alipay</item>
-    </string-array>
     <string-array name="stock_color_schema">
         <item>Punainen - ylös, vihreä - alas</item>
         <item>Vihreä - ylös, punainen - alas</item>
