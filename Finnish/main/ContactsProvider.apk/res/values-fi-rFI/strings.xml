@@ -22,6 +22,7 @@
   <string name="send_sms">Lähetä viesti</string>
   <string name="sharedUserLabel">Androidin ydinsovellukset</string>
   <string name="third_party_delete_contact_info">"\"%s\" yrittää poistaa yhteystietojasi. Tätä toimintoa ei voi tehdä kolmannen-osapuolen sovelluksilla. Poista yhteystietoja käyttämällä MIUI:n omaa Yhteystiedot-sovellusta."</string>
+  <string name="update_accounts_changed">Tilejä muutettu</string>
   <string name="upgrade_msg">Päivitetään kontaktitietokantaa.</string>
   <string name="upgrade_out_of_memory_notification_text">Suorita päivitys loppuun koskettamalla.</string>
   <string name="upgrade_out_of_memory_notification_ticker">Yhteystietojen päivittämiseen tarvitaan enemmän muistia.</string>

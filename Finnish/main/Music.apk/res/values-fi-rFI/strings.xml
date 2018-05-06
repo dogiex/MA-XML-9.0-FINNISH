@@ -191,7 +191,7 @@
   <string name="dialog_not_show_again">Älä näytä uudelleen</string>
   <string name="dialog_queued_body">Tämä tiedosto on latausjonossa.</string>
   <string name="dialog_show_more_backup">Varmuuskopioi paikallisia kappaleita</string>
-  <string name="dialog_show_more_optimize_all">Optimoi kappaleiden tiedot</string>
+  <string name="dialog_show_more_optimize_all">Optimoi kappaleen tiedot</string>
   <string name="dialog_song_sort_type">Lajittele</string>
   <string name="dialog_song_sort_type_name">Nimen mukaan</string>
   <string name="dialog_song_sort_type_playing_times">Soittokertojen mukaan</string>
@@ -402,7 +402,7 @@
   <string name="global_search_title_movie">Elokuvien soittolista</string>
   <string name="global_search_title_prenatal">Raskaudenaikainen musiikki</string>
   <string name="global_search_title_radar">Musiikin tunnistus</string>
-  <string name="go_to_settings">Asetukset</string>
+  <string name="go_to_settings">Siirry asetuksiin</string>
   <string name="handle_later">Ei nyt</string>
   <string name="hide_album">Piilota albumin kansikuva</string>
   <string name="hide_lyric">Piilota sanoitukset</string>
@@ -413,22 +413,22 @@
   <string name="hot_icon_in_fast_indexer">H</string>
   <string name="i_know">OK</string>
   <string name="i_know_it">OK</string>
-  <string name="impunity_declaration_content1">"Painamalla hyväksy, hyväksyt ehdot, jotka lukee meidän "</string>
+  <string name="impunity_declaration_content1">Napauttamalla \"Hyväksy\" hyväksyt ehdot, jotka mainitaan meidän</string>
   <string name="impunity_declaration_content2">Käyttöehdoissa</string>
   <string name="impunity_declaration_content3">" ja "</string>
   <string name="impunity_declaration_content4">Tietosuojakäytännössä</string>
   <string name="impunity_declaration_content5">.</string>
   <string name="impunity_declaration_ignore">Älä näytä uudelleen</string>
   <string name="impunity_declaration_negative_text">Poistu</string>
-  <string name="impunity_declaration_positive_text">Hyväksy</string>
+  <string name="impunity_declaration_positive_text">Hyväksyn</string>
   <string name="impunity_declaration_settings">Näytä Palveluehdot</string>
-  <string name="impunity_declaration_summary">Näytä Baidu Online Musiikkipalvelun Palveluehdon ponnahdusikkuna aina Musiikki-sovelluksen avatessa</string>
+  <string name="impunity_declaration_summary">Näytä Palveluehdot aina, kun Musiikki-sovellus käynnistetään</string>
   <string name="impunity_declaration_title">Palveluehdot</string>
   <string name="in_searching_please_wait">Etsitään…</string>
   <string name="individuation_recommend_message">Ota suositukset käyttöön, jotta saat henkilökohtaisia suosituksia.</string>
   <string name="individuation_recommend_switch_message">Tämän palvelun poistaminen käytöstä vaikuttaa henkilökohtaiseen Mi Musiiki-palveluihin. Poistetaanko käytöstä siitä huolimatta?</string>
   <string name="individuation_recommend_title">Suositukset</string>
-  <string name="input_hint_prefix">Syötä %1$s</string>
+  <string name="input_hint_prefix">Anna %1$s</string>
   <string name="installing_apk">Asennetaan…</string>
   <string name="insufficient_space">Laitteesi sisäisellä tallennustilalla ei ole tarpeeksi tilaa</string>
   <string name="intelligent_recognize">Albumien kansikuvat ja sanoitukset</string>
@@ -454,7 +454,7 @@
   <string name="local_music">Laitteessa</string>
   <string name="local_music_empty">Laitteen soittolista on tyhjä</string>
   <string name="local_music_empty_goto_online">Kappaleita ei löytynyt</string>
-  <string name="local_music_is_not_available">Laitteen musiikki ei ole käytettävissä.</string>
+  <string name="local_music_is_not_available">Laitteellasi ei ole kappaleita.</string>
   <string name="local_page_album_more">Näytä kaikki</string>
   <string name="local_page_artist">Seuratut artistit</string>
   <string name="local_page_artist_more">Lisää kappaleita artistilta %s</string>
@@ -585,14 +585,11 @@
   <string name="notif_text_engine_off">Xunlei kiihdyttäjä ei ole käytössä.</string>
   <string name="notif_text_engine_on">Kiihdytetään…</string>
   <string name="notif_title_file_size">%1$d yhteensä</string>
-  <string name="notif_title_multiple_downloading">Ladataan %1$d kappaletta</string>
   <string name="notif_title_single_downloading">Ladataan %1$s</string>
   <string name="notification_des_next_song">Seuraava kappale: %s</string>
   <string name="notification_des_no_song">Mi Musiikki. Jokainen päivä uusi.</string>
   <string name="notification_download_complete">Lataaminen valmis</string>
   <string name="notification_download_failed">Lataaminen epäonnistui</string>
-  <string name="notification_download_failed_more">%1$d kappaleen lataaminen epäonnistui</string>
-  <string name="notification_download_success_more">%1$d ladattu</string>
   <string name="notification_need_wifi_for_size">Latauksen koko vaatii Wi-Fi-yhteyden.</string>
   <string name="notification_play_summary">Näytä nykyinen ja seuraava kappale, näytä laulun sanat Aloitusnäytöllä</string>
   <string name="notification_play_title">Ilmoitusalueen widgetti</string>
@@ -626,8 +623,8 @@
   <string name="open_download">Avaa</string>
   <string name="open_online_service">Sinun täytyy ottaa online palvelut käyttöön käyttääksesi tätä ominaisuutta. Otetaanko käyttöön nyt?</string>
   <string name="open_service">Ota käyttöön</string>
-  <string name="optimize_all_until_optimized">Optimoi kappaleen tiedot, albumit ja sanoitukset</string>
-  <string name="optimize_all_until_scanned">Skannataan paikallista kappaletta, yritä myöhemmin uudelleen</string>
+  <string name="optimize_all_until_optimized">Asetetaan uusi kansikuva ja sanoitukset…</string>
+  <string name="optimize_all_until_scanned">Odota, kunnes Musiikki-sovellus lopettaa tallennustilan ja kappaleiden tarkistamisen.</string>
   <string name="order_pending">Odotetaan vahvistusta</string>
   <string name="order_process_fail">Tiliäsi ei voitu valtuuttaa. Odota muutama minuutti ja yritä uudelleen.</string>
   <string name="other_filter">Muu</string>
@@ -643,7 +640,7 @@
   <string name="paused_waiting_to_retry">Odotetaan uudelleenyrittämistä</string>
   <string name="pay">Maksa:</string>
   <string name="pay_now">Nykyinen palvelu</string>
-  <string name="payment_fail">Maksu epäonnistui</string>
+  <string name="payment_fail">Maksamista ei voitu viimeistellä</string>
   <string name="payment_success">Maksu onnistui</string>
   <string name="pending_apk">Odottaa…</string>
   <string name="permission_declaration_message">Salli pääsy tallennustilaan asetuksissa Tietoturva &gt; Käyttöoikeudet &gt; Käyttöoikeudet &gt; Tallennustila &gt; Musiikki, jotta Musiikki-sovellus toimii normaalisti.</string>
@@ -662,7 +659,7 @@
   <string name="playlist_type_fm">FM</string>
   <string name="playlist_type_my">Soittolistani</string>
   <string name="playlist_type_recommend">Suositut soittolistat</string>
-  <string name="playlist_unavailable">Anteeksi, soittolista ei ole käytettävissä. Poista se painamalla sitä pohjaan ja valitse poista.</string>
+  <string name="playlist_unavailable">Soittolista ei ole käytettävissä. Poista se painamalla sitä pohjaan ja valitse sitten \"Poista\".</string>
   <string name="please_download_first">Sinun täytyy ladata tämä kappale, ennen kuin voit käyttää sitä soittoäänenä</string>
   <string name="please_search_or_select">Hae tai valitse alue</string>
   <string name="please_select_song">Valitse ensin kappale</string>
@@ -763,7 +760,7 @@
   <string name="selected_count">Valittuna %1$d/%2$d</string>
   <string name="send_to">Jaa</string>
   <string name="send_to_title">Lähetä henkilölle (%1$s)</string>
-  <string name="server_error">Palvelinvirhe. Yritä myöhemmin uudelleen</string>
+  <string name="server_error">Tapahtui virhe. Odota minuutti tai kaksi ja yritä uudelleen.</string>
   <string name="service_and_settings">Palvelu ja asetukset</string>
   <string name="service_stop">Palvelua ei jatkettu</string>
   <string name="set_as_ring">Aseta soittoääneksi</string>
@@ -812,7 +809,7 @@
   <string name="song_is_empty">Kappaleen nimi ei voi olla tyhjä.</string>
   <string name="song_name">Kappale</string>
   <string name="song_not_find">Tämä kappale ei ole käytettävissä.</string>
-  <string name="song_offline">Anteeksi, tämä kappale ei ole enää käytettävissä.</string>
+  <string name="song_offline">Tämä kappale ei ole enää käytettävissä.</string>
   <string name="song_unit">kappaletta</string>
   <string name="sort_by_name">Nimi</string>
   <string name="sort_by_time">Päiväys</string>
@@ -844,10 +841,15 @@
   <string name="tab_track_list">Kappaleet</string>
   <string name="take_effect_afater_restart">Sinun täytyy käynnistää sovellus uudelleen tämän asetuksen tulemiseksi voimaan.</string>
   <string name="talkback_back">Takaisin</string>
+  <string name="talkback_cloud_setting">Asetukset</string>
   <string name="talkback_device">Toista toisessa laitteessa</string>
   <string name="talkback_download">Lataa</string>
   <string name="talkback_favorite">Tykkää tästä kappaleesta</string>
+  <string name="talkback_follow">Seuraa</string>
+  <string name="talkback_followed">Älä seuraa</string>
+  <string name="talkback_header_search">"Haku "</string>
   <string name="talkback_karaoke">Avaa karaoke</string>
+  <string name="talkback_like">Tykkää</string>
   <string name="talkback_mode">Loop</string>
   <string name="talkback_mode_repeat_all">Loop-tila</string>
   <string name="talkback_mode_repeat_current">Toistotila</string>
@@ -862,6 +864,7 @@
   <string name="talkback_radar">Musiikintunnistus</string>
   <string name="talkback_search">Haku</string>
   <string name="talkback_share">Jaa</string>
+  <string name="talkback_unlike">Poista tykkäys</string>
   <string name="task_already_exist">Tehtävä on jo olemassa</string>
   <string name="text_separator">|</string>
   <string name="ticket_summary">Osta lippuja näytöksiin, konsertteihin, esitelmiin ja muihin tapahtumiin</string>
@@ -937,8 +940,8 @@
   <string name="warning_tip_ok">Pysäytä</string>
   <string name="warning_tip_title">Tiedonsiirtovaroitus</string>
   <string name="welcome_to_new_music">Tervetuloa uuteen Mi Musiikin versioon</string>
-  <string name="wifi_required_body" formatted="false">"Sinun täytyy käyttää Wi-Fi-yhteyttä ladataksesi tiedoston %s.
+  <string name="wifi_required_body" formatted="false">"Yhdistä Wi-Fi-verkkoon ladataksesi tämän %s tiedoston.
 
-Kosketa %s aloittaaksesi latauksen seuraavalla kerralla, kun olet yhteydessä Wi-Fi-verkkoon."</string>
+Napauta %s aloittaaksesi latauksen seuraavalla kerralla, kun olet yhteydessä Wi-Fi-verkkoon."</string>
   <string name="wifi_required_title">Lataus on liian suuri operaattorin verkolle</string>
 </resources>

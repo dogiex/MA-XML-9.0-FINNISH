@@ -134,9 +134,9 @@ Jos vaihdat SIM-kortteja, toinen tekstiviesti lähetetään automaattisesti täm
   <string name="ks_download_success">Ladattiin onnistuneesti</string>
   <string name="ks_fingerprint_payment">Sormenjälki maksut</string>
   <string name="ks_fingerprint_status">Maksun tila</string>
-  <string name="ks_name_alipay">Alipay</string>
+  <string name="ks_name_alipay">IFAA</string>
   <string name="ks_name_fido">FIDO</string>
-  <string name="ks_name_soter">WeChat Pay</string>
+  <string name="ks_name_soter">Soter</string>
   <string name="ks_status_available">Käytettävissä</string>
   <string name="ks_status_unavailable">Ei käytettävissä</string>
   <string name="ks_update_certificate">Varmenne</string>
@@ -410,11 +410,9 @@ Käytä eri tiliä."</string>
   <string name="micloud_sync_alert_dialog_title">Käytä Mi Pilveä</string>
   <string name="micloud_sync_off">Mi Pilven synkronointi ei käytössä</string>
   <string name="micloud_sync_prompt_for_no_gallery_sync">Yhteystiedot, Kalenteri ja Muistiot synkronoidaan automaattisesti. Synkronoidaksesi enemmän kohteita, mene Mi Pilven asetuksiin.</string>
-  <string name="micloud_title_dspt" formatted="false">"%s yhteensä
- %s käytetty | %s jäljellä"</string>
+  <string name="micloud_title_dspt" formatted="false">Käytetty %s/Tilaa yhteensä %s,</string>
   <string name="micloud_title_dspt_remain">%s jäljellä</string>
   <string name="micloud_title_full_dspt">Tallennustilasi raja on tullut täyteet</string>
-  <string name="micloud_unlogin_for_time_summary"/>
   <string name="micloud_unlogin_for_time_title">Mi Pilvi</string>
   <string name="micloud_upgrade_member">Hanki tallennustilaa</string>
   <string name="micloud_upgrade_space">Hanki tallennustilaa</string>
@@ -517,7 +515,7 @@ Tämä toiminto salaa ja lähettää laitteesi ID-tunnuksen Mi:n palvelimille."<
   <string name="sub_sync_item_sms_title_wifi_only">Synkronoi multimediaviestit vain Wi-Fi-yhteydellä</string>
   <string name="success_upgraded_space">%s lisätty</string>
   <string name="sync_dspt">Synkronointi</string>
-  <string name="sync_dspt_entrance_provision">Mi Pilvi auttaa sinua synkronoimaan kuvasi, yhteystietosi ja muita kohteita laitteiden välillä. Voit käyttää synkronoituja tiedostojasi missä tahansa osoitteessa %s.</string>
+  <string name="sync_dspt_entrance_provision">Synkronoi kuvasi, yhteystietosi, puheluhistoriasi ja viestisi kaikkien laitteidesi välillä. Käytä synkronoituja tietojasi millä tahansa selaimella osoitteessa %s.</string>
   <string name="sync_dspt_entrance_provision_2">Lisätietoja</string>
   <string name="sync_dspt_entrance_provision_confirm_close">Älä käytä</string>
   <string name="sync_dspt_entrance_provision_confirm_content">MIUI:n järjestelmäsovellukset tarvitsevat Mi Pilveä kuvien, yhteystietojen, muistioiden ja muiden varmuuskopiointiin. Mi Pilvi on ilmainen ja valmiina käytettäväksi.</string>
@@ -570,10 +568,10 @@ Tämä toiminto salaa ja lähettää laitteesi ID-tunnuksen Mi:n palvelimille."<
   <string name="virtual_sim_desc">Ota Mi SIM käyttöön paikantaaksesi laite ilman SIM-korttia</string>
   <string name="voip_choose_sim">Valitse puhelinnumero Mi Äänen aktivoimiseksi</string>
   <string name="wipe_data_dialog_button_check_sync">Tarkista synkronointi</string>
-  <string name="wipe_data_dialog_msg">%s ei ole synkronoitu ja ne pysyy puhelimessasi.</string>
+  <string name="wipe_data_dialog_msg">Joitakin kohteita %s ei ole synkronoitu. Ne tallennetaan laitteellesi ja niitä ei poisteta.</string>
   <string name="wipe_data_dialog_msg_and_on">, ja muita kohteita</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
-  <string name="wipe_data_dialog_title">Joitakin kohteita ei ole synkronoitu</string>
+  <string name="wipe_data_dialog_title">Kohteita ei ole synkronoitu</string>
   <string name="wipe_secret_photo_dialog_title">Piilotettuja kuvia on synkronoimatta</string>
   <string name="xiaomi_cloud_service">Mi Pilvi</string>
   <string name="xiaomi_cloud_service_subtitle">Kaikki tärkeät asiat yhdessä paikassa</string>

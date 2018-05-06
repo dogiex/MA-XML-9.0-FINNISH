@@ -115,9 +115,12 @@
   <string name="face_beauty_intelligent_level_3">Korkea</string>
   <string name="face_beauty_smart">Älykäs</string>
   <string name="face_score_info">Pisteet: %.1f</string>
+  <string name="front_camera_hint_text_place">"Selfien ottaminen on helpompaa
+jos käännät puhelimesi"</string>
+  <string name="front_camera_hint_text_rotate">Käännä puhelimesi</string>
   <string name="hine_hht">"Vähäisellä valoisuudella kamera ottaa usean kuvan
 ja luo otoksen, jossa kuvassa on vähiten kohinaa."</string>
-<string name="hint_device_water_mark">Laitteen vesileima lisätään automaattisesti.</string>
+  <string name="hint_device_water_mark">Laitteen vesileima lisätään automaattisesti.</string>
   <string name="hint_fast_motion">Video, jonka otat toistetaan nopeammin.</string>
   <string name="hint_groupshot">"Kamera ottaa useita kuvia
 ja luo otoksen, jossa kaikki ovat parhaimmillaan."</string>

@@ -117,6 +117,18 @@
         <item quantity="other">%d kohdetta valittu</item>
         <item quantity="one">%d kohde valittu</item>
     </plurals>
+    <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">Ladataan %1$d kappaletta</item>
+        <item quantity="one">Ladataan %1$d kappale</item>
+    </plurals>
+    <plurals name="notification_download_failed_more">
+        <item quantity="other">%1$d kappaleen lataaminen epäonnistui</item>
+        <item quantity="one">%1$d kappaleen lataaminen epäonnistui</item>
+    </plurals>
+    <plurals name="notification_download_success_more">
+        <item quantity="other">%1$d kappaletta</item>
+        <item quantity="one">%1$d kappale</item>
+    </plurals>
     <plurals name="reader_count">
         <item quantity="other">%d seuraajaa</item>
         <item quantity="one">%d seuraaja</item>

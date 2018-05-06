@@ -46,7 +46,8 @@
   <string name="accessibility_desc_work_lock">Työlukitusnäyttö</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Tämä ominaisuus on kokeellinen ja voi vaikuttaa suorituskykyyn.</string>
   <string name="accessibility_display_daltonizer_preference_title">Värinkorjaus</string>
-  <string name="accessibility_divider">Näytön jakaja</string>
+  <string name="accessibility_divider">Jaetun näytön jakaja</string>
+  <string name="accessibility_drag_hint_message">Raahaa kohteita näytön yläreunaan</string>
   <string name="accessibility_home">Koti</string>
   <string name="accessibility_ime_switch_button">Vaihda syöttömenetelmän painiketta.</string>
   <string name="accessibility_managed_profile">Työ profiili</string>
@@ -63,8 +64,10 @@
   <string name="accessibility_recent">Viimeaikaiset sovellukset</string>
   <string name="accessibility_recent_task_exit">Viimeaikaiset suljettiin</string>
   <string name="accessibility_recent_task_locked">Lukittu, avaa lukitus pyyhkäisemällä alas</string>
+  <string name="accessibility_recent_task_locked_state">Lukittu</string>
   <string name="accessibility_recent_task_memory_info">RAM Yhteensä: %2$s | RAM Saatavilla %1$s. Tyhjennä tuplanapauttamalla.</string>
   <string name="accessibility_recent_task_unlocked">Lukitus avattu</string>
+  <string name="accessibility_recent_task_unlocked_state">Lukitus avattu</string>
   <string name="accessibility_recents_all_items_dismissed">Kaikki viimeaikaiset sovellukset poistettiin</string>
   <string name="accessibility_recents_item_dismissed">%s poistettiin.</string>
   <string name="accessibility_recents_item_launched">Käynnistetään %s…</string>
