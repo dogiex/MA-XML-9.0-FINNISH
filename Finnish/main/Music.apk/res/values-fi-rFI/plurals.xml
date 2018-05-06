@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="NPlaylist_delete_confirm">
-        <item quantity="other">Poistetaanko %d soittolistaa?</item>
-        <item quantity="one">Poistetaanko %d soittolista?</item>
-    </plurals>
     <plurals name="Nalbum_total_songs">
         <item quantity="other">Yhteensä %d kappaletta</item>
-        <item quantity="zero">Yhteensä %d kappaletta</item>
         <item quantity="one">Yhteensä %d kappaletta</item>
     </plurals>
     <plurals name="Nartists_count">
@@ -30,7 +25,8 @@
         <item quantity="one">%d yhtye</item>
     </plurals>
     <plurals name="Nnew_tracks_count">
-        <item quantity="other">%d uutta</item>
+        <item quantity="other">%d uutta kappaletta</item>
+        <item quantity="one">%d uusi kappale</item>
     </plurals>
     <plurals name="Nquit_warning">
         <item quantity="other">Soitin pysäytetään %d minuutin kuluttua</item>
@@ -41,9 +37,10 @@
         <item quantity="one">Valitsit ettet halua hakea albumeiden kansikuvia ja kappaleiden sanoituksia automaattisesti. Poistetaanko %d kappaleen tiedot?</item>
     </plurals>
     <plurals name="Nsong_group_detail_subtitle">
-        <item quantity="other">Luotu %1$s | yhteensä %2$d kappaletta</item>
-        <item quantity="zero">Luotu %1$s | yhteensä %2$d kappaletta</item>
-        <item quantity="one">Luotu %1$s | yhteensä %2$d kappaletta</item>
+        <item quantity="other">"Luotu %1$s
+yhteensä %2$d kappaletta"</item>
+        <item quantity="one">"Luotu %1$s
+yhteensä %2$d kappale"</item>
     </plurals>
     <plurals name="Nstop_backup_songs_message">
         <item quantity="other">%d kappaletta ei ole varmuuskopioitu Mi Pilveen. Lopetetaanko nyt?</item>
@@ -116,18 +113,6 @@
     <plurals name="multichoice_title">
         <item quantity="other">%d kohdetta valittu</item>
         <item quantity="one">%d kohde valittu</item>
-    </plurals>
-    <plurals name="notif_title_multiple_downloading">
-        <item quantity="other">Ladataan %1$d kappaletta</item>
-        <item quantity="one">Ladataan %1$d kappale</item>
-    </plurals>
-    <plurals name="notification_download_failed_more">
-        <item quantity="other">%1$d kappaleen lataaminen epäonnistui</item>
-        <item quantity="one">%1$d kappaleen lataaminen epäonnistui</item>
-    </plurals>
-    <plurals name="notification_download_success_more">
-        <item quantity="other">%1$d kappaletta</item>
-        <item quantity="one">%1$d kappale</item>
     </plurals>
     <plurals name="reader_count">
         <item quantity="other">%d seuraajaa</item>

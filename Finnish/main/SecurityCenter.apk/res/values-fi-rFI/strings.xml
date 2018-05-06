@@ -962,6 +962,8 @@ Operaattori saattaa veloittaa sinua lisämaksuista, jos käytät mobiilidataa uu
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Liian monta väärää yritystä!</string>
   <string name="lockpattern_tutorial_cancel_label">Peruuta</string>
   <string name="lockpattern_tutorial_continue_label">Seuraava</string>
+  <string name="lockpattern_tutorial_continue_label_confirm">Napauta OK</string>
+  <string name="lockpattern_tutorial_continue_label_next">Napauta seuraava</string>
   <string name="lockscreen_access_pattern_cell_added">Kuvio lisätty</string>
   <string name="lockscreen_access_pattern_cleared">Kuvio tyhjennetty</string>
   <string name="lockscreen_access_pattern_detected">Kuvio valmis</string>
