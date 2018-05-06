@@ -541,6 +541,7 @@ Saat lisätietoja järjestelmänvalvojalta."</string>
   <string name="pip_play">Toista</string>
   <string name="pip_skip_to_next">Siirry seuraavaan</string>
   <string name="pip_skip_to_prev">Siirry edelliseen</string>
+  <string name="please_slide_agian">Pyyhkäise uudelleen</string>
   <string name="pointer_location">Osoittimen sijainti</string>
   <string name="pointer_location_summary">Näytön peittokuva näyttää nykyiset kosketustiedot</string>
   <string name="power_charging_duration">%1$s – %2$s täyteen lataukseen</string>

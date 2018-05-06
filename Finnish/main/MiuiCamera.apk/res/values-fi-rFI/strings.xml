@@ -124,7 +124,7 @@ ja luo otoksen, jossa kuvassa on vähiten kohinaa."</string>
   <string name="hint_fast_motion">Video, jonka otat toistetaan nopeammin.</string>
   <string name="hint_groupshot">"Kamera ottaa useita kuvia
 ja luo otoksen, jossa kaikki ovat parhaimmillaan."</string>
-  <string name="hint_groupshot_beauty">Ryhmäselfie ei voi käyttää kaunista-toimintoa</string>
+  <string name="hint_groupshot_beauty">Kaunista-toimintoa ei voi käyttää ryhmäkuvissa</string>
   <string name="hint_slow_motion">Video, jonka otat toistetaan hitaammin.</string>
   <string name="hunt_dual_water_mark">Kaksoiskameran vesileima lisätään automaattisesti.</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>

@@ -91,10 +91,14 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="device_corrupt">Mi Puhelin (Tiedot on korruptoitunut)</string>
   <string name="device_delete_prompt">Poistetaanko %s varmuuskopio?</string>
   <string name="device_xiaomi">Mi Puhelin</string>
+  <string name="dialog_btn_next">Seuraava</string>
+  <string name="dialog_btn_restore_skip">Palauta myöhemmin</string>
   <string name="dialog_cancel_backup_cancel">Peruuta</string>
   <string name="dialog_cancel_backup_confirm">OK</string>
   <string name="dialog_cancel_backup_msg">Painamalla valintakytkintä lopettaa käynnissä olevat varmuuskopioinnit.</string>
   <string name="dialog_cancel_backup_title">Peruutetaanko käynnissä oleva varmuuskopiointi?</string>
+  <string name="dialog_msg_restore_require_wlan">Varmuuskopioitujen tiedostojen palauttaminen vaatii Wi-Fi-yhteyden.</string>
+  <string name="dialog_title_require_wlan">Wi-Fi vaaditaan</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
   <string name="doing_restore_home">Palautetaan Aloitusnäyttöä ja asetuksia…</string>
   <string name="done_remove">Poistettiin onnistuneesti</string>

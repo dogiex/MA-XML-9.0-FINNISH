@@ -1048,7 +1048,7 @@ Siirtonopeus"</string>
   <string name="close_sdcard_optimization_warning_message">Laitteesi käynnistyy uudelleen, jotta tämä muutos tulee voimaan.</string>
   <string name="cloud_backup_section_title">Mi Pilven varmuuskopiointi</string>
   <string name="cloud_backup_settings_section_title">Varmuuskopioinnin asetukset</string>
-  <string name="cloud_restore_section_summary">Palauta sovelluksia, Aloitusnäytön ulkoasu ja järjestelmän asetukset</string>
+  <string name="cloud_restore_section_summary">Palauta järjestelmän asetukset, Aloitusnäytön ulkoasu ja sovellukset</string>
   <string name="cloud_restore_section_title">Palauta Mi Pilvestä</string>
   <string name="cmcc_hardware_version">Laitteistoversio</string>
   <string name="color_black">Musta</string>
