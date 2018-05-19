@@ -322,9 +322,6 @@ Asiakaspalvelu: 400-100-3399"</string>
   <string name="mibi_title_password_threshold">Päivittäinen raja = ￥%1$s</string>
   <string name="mibi_title_sms_code">Syötä matkapuhelimen vahvistuskoodi</string>
   <string name="mibi_unit">Mi Krediitti</string>
-  <string name="mibi_unit_value">%1$s Mi Krediittiä</string>
-  <string name="mibi_unit_value_redeemed">%1$s Mi Krediittiä lunastettu</string>
-  <string name="mibi_unit_value_remained">%1$s Mi Krediittiä jäljellä</string>
   <string name="mibi_voucher_card_text">Raaputa pinta pois</string>
   <string name="mibi_voucher_error_password">Virheellinen koodi.</string>
   <string name="mibi_voucher_input_password_prompt">Syötä koodi</string>
