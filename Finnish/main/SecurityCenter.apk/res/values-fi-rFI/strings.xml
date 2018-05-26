@@ -483,7 +483,7 @@
   <string name="cancel">Peruuta</string>
   <string name="cancel_button">Peruuta</string>
   <string name="card_main_applock_action">Ota käyttöön</string>
-  <string name="card_main_applock_summary">Suojaa valitut sovellukset salasanalla. Piilota viestit, kuvat, muistiinpanot ja paljon muuta.</string>
+  <string name="card_main_applock_summary">Suojaa viestit, kuvat ja muut kohteet salasanalla.</string>
   <string name="card_main_applock_title">Sovelluslukko</string>
   <string name="card_main_deepclean_action">Tyhjennä</string>
   <string name="card_main_deepclean_qq_title">QQ puhdistaja</string>
@@ -962,8 +962,8 @@ Operaattori saattaa veloittaa sinua lisämaksuista, jos käytät mobiilidataa uu
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Liian monta väärää yritystä!</string>
   <string name="lockpattern_tutorial_cancel_label">Peruuta</string>
   <string name="lockpattern_tutorial_continue_label">Seuraava</string>
-  <string name="lockpattern_tutorial_continue_label_confirm">Napauta OK</string>
-  <string name="lockpattern_tutorial_continue_label_next">Napauta seuraava</string>
+  <string name="lockpattern_tutorial_continue_label_confirm">Napauta \"OK\"</string>
+  <string name="lockpattern_tutorial_continue_label_next">Napauta \"Seuraava\"</string>
   <string name="lockscreen_access_pattern_cell_added">Kuvio lisätty</string>
   <string name="lockscreen_access_pattern_cleared">Kuvio tyhjennetty</string>
   <string name="lockscreen_access_pattern_detected">Kuvio valmis</string>
@@ -971,7 +971,7 @@ Operaattori saattaa veloittaa sinua lisämaksuista, jos käytät mobiilidataa uu
   <string name="lockscreen_glogin_checking_password">Tarkistetaan…</string>
   <string name="lockscreen_glogin_password_hint">Salasana</string>
   <string name="lockscreen_glogin_submit_button">Kirjaudu sisään</string>
-  <string name="loding">Ladataan dataa</string>
+  <string name="loding">Ladataan tietoja</string>
   <string name="log_count">(%d)</string>
   <string name="long_click_dialog_summary">Paina listalla olevia kohteita pitkään lisätäksesi ne poikkeuksiin</string>
   <string name="long_click_dialog_title">Huomio</string>
@@ -1458,7 +1458,7 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="power_center_state_on">Päällä</string>
   <string name="power_center_time_to_boot">Käynnistymisen aika</string>
   <string name="power_center_time_to_shutdown">Sammuttamisen aika</string>
-  <string name="power_center_title">Virta</string>
+  <string name="power_center_title">Akun käyttö</string>
   <string name="power_consume_hardware_total_format">Laitteisto: %s</string>
   <string name="power_consume_other">Muu</string>
   <string name="power_consume_rank_hardware">Laitteisto</string>

@@ -56,7 +56,7 @@
         <item>Käyttötiheys</item>
         <item>Käytetty tallennustila</item>
         <item>Asennusaika</item>
-        <item>Voit poistaa nämä sovellukset</item>
+        <item>Sovellukset, jotka voidaan poistaa</item>
     </string-array>
     <string-array name="sort_title">
         <item>Lajittele tilan mukaan</item>

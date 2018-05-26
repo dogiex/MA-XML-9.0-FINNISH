@@ -171,7 +171,7 @@
   <string name="theme_title_yellow">Keltainen</string>
   <string name="theme_white_description">Valkoinen</string>
   <string name="theme_yellow_description">Keltainen</string>
-  <string name="toast_cancel_to_insert_image">Peruuta kuvan lisääminen.</string>
+  <string name="toast_cancel_to_insert_image">Kuvan lisääminen epäonnistui.</string>
   <string name="toast_message_add_image_fail">Kuvaa ei voitu lisätä</string>
   <string name="toast_notes_delete_success">Poistettiin onnistuneesti</string>
   <string name="toast_notes_hidden">Piilotettiin onnistuneesti</string>

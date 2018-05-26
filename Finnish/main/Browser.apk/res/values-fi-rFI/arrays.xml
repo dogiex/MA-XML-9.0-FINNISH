@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="menu_theme_setting">
-        <item>Valkoinen</item>
-        <item>Keltainen</item>
-        <item>Harmaa</item>
-        <item>Ruskea</item>
-        <item>Vihreä</item>
-        <item>Sininen</item>
-    </string-array>
-	<string-array name="pref_fling_on_border_gesture_entries">
+    <string-array name="pref_fling_on_border_gesture_entries">
         <item>Sivu takaisin eteenpäin</item>
         <item>Vaihda välilehtiä</item>
         <item>Ei mitään</item>
@@ -45,5 +37,50 @@
     <string-array name="shortcut_dialog_title">
         <item>Viesti Selaimesta</item>
         <item>Seuraa Olympialaisia Mi:llä</item>
+    </string-array>
+    <string-array name="suggestion_weather_condition_message">
+        <item>Selkeä</item>
+        <item>Osittain pilvistä</item>
+        <item>Pilvistä</item>
+        <item>Vesisade</item>
+        <item>Ukkosmyrskyjä</item>
+        <item>Raekuuro</item>
+        <item>Räntää</item>
+        <item>Kevyt sade</item>
+        <item>Kohtalainen sade</item>
+        <item>Rankkasade</item>
+        <item>Rankkasade</item>
+        <item>Kaatosade</item>
+        <item>Epätavallinen myrsky</item>
+        <item>Lumisuihku</item>
+        <item>Kevyt lumisade</item>
+        <item>Kohtalainen lumisade</item>
+        <item>Rankka lumisade</item>
+        <item>Lumimyrsky</item>
+        <item>Sumu</item>
+        <item>Jäätävä sade</item>
+        <item>Hiekkamyrsky</item>
+        <item>Kevyestä kohtalaiseen sateeseen</item>
+        <item>Kohtalaisesta rankkasateeseen</item>
+        <item>Rankkasateesta kaatosateeseen</item>
+        <item>Kaatosateesta kaatosateeseen</item>
+        <item>Kaatosateesta rajuun rankkasateeseen</item>
+        <item>Kevyestä kohtalaiseen lumisateeseen</item>
+        <item>Kohtalaisesta rankkaan lumisateeseen</item>
+        <item>Rankasta lumimyrskyyn</item>
+        <item>Kelluvaa pölyä</item>
+        <item>Nousevaa hiekkaa</item>
+        <item>Hiekkamyrsky</item>
+        <item>Sankka sumu</item>
+        <item>Voimakas sumu</item>
+        <item>Usva</item>
+        <item>Kohtalainen usva</item>
+        <item>Rankka usva</item>
+        <item>Vaarallinen usva</item>
+        <item>Sankka sumu</item>
+        <item>Voimakas sankka sumu</item>
+        <item>Ei mitään</item>
+        <item>Vesisade</item>
+        <item>Lumisade</item>
     </string-array>
 </resources>
