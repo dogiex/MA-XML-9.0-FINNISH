@@ -1692,7 +1692,7 @@ Kalibroinnin aikana, MIUI lähettää tekstiviestin operaattorillesi saadakseen 
   <string name="safepay_alert_dialog_button_fix">Korjaa</string>
   <string name="save_energy_text">Rajoita automaattista käynnistystä ja taustalla olevien sovelluksien synkronointia saadaksesi laitteesi akusta kaiken irti</string>
   <string name="save_energy_title">Optimoi akku</string>
-  <string name="sc_allow_network_dialog_message">Tämä sovellus vaatii internet-yhteyden toimiakseen normaalisti.</string>
+  <string name="sc_allow_network_dialog_message">Olet rajoittanut verkkoyhteyden ja sijaintitietojen käyttöä Tietoturvasovelluksen kautta. Anna Tietoturvasovellukselle vaaditut käyttöoikeudet tämän ominaisuuden käyttämiseksi.</string>
   <string name="sc_allow_network_dialog_tiltle">Tätä toimintoa ei voi käyttää</string>
   <string name="sc_system_risk_fix_info_xspace">Tätä ei voi ratkaista Toisessa tilassa. Yritä uudelleen Ensimmäisessä tilassa.</string>
   <string name="sc_warning_updater_not_found">Päivättäjä-sovellusta ei löytynyt.</string>
