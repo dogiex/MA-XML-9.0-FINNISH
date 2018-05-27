@@ -5,11 +5,9 @@
   <string name="alert_message_delete_record_title">Poistetaanko nauhoitus?</string>
   <string name="app_name">Ääninauhuri</string>
   <string name="back">Takaisin</string>
-  <string name="btn_clear_records">Poista nauhoitukset (%d kohdetta)</string>
   <string name="button_queue_for_wifi">Odota</string>
   <string name="button_start_now">Lataa</string>
   <string name="call_record">Nauhoitetut puhelut</string>
-  <string name="choose_call_records_count">%d kohdetta</string>
   <string name="clear_records">Poista synkronoidut nauhoitukset</string>
   <string name="cloud_record_open">Synkronoi nauhoitukset</string>
   <string name="cloud_record_tip">Synkronoi nauhoitukset Mi Pilveen.</string>
@@ -64,7 +62,6 @@
   <string name="notification_recording_ticker">Puhelin mykistetty</string>
   <string name="notification_stopped">Nauhoitus pysäytetty</string>
   <string name="notification_title_all_paused">Lataus pysäytetty</string>
-  <string name="notification_warning">Tallennustila vähissä (alle %d minuuttia)</string>
   <string name="path_soundrecorder_setting">Järjestelmäsovellukset/Ääninauhuri</string>
   <string name="pause">Pysäytä</string>
   <string name="playback_delete_records">Poista nauhoitus</string>

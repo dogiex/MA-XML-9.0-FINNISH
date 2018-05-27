@@ -1767,6 +1767,9 @@ Saat lisätietoja organisaatiosi järjestelmänvalvojalta."</string>
   <string name="filter_personal_apps">Henkilökohtaiset</string>
   <string name="filter_work_apps">Työ</string>
   <string name="filter_write_settings_apps">Voi muokata järjestelmäasetuksia</string>
+  <string name="find_my_device">Etsi laitteeni</string>
+  <string name="find_my_device_disable">Pois käytöstä</string>
+  <string name="find_my_device_enable">Käytössä</string>
   <string name="fingerprint_add_max">Voit lisätä korkeintaan %d sormenjälkeä</string>
   <string name="fingerprint_add_title">Lisää sormenjälki</string>
   <string name="fingerprint_and_password_entrance_title">Näytön lukitus ja sormenjälki</string>
@@ -2804,6 +2807,10 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="night_display_temperature_title">Voimakkuus</string>
   <string name="night_display_text">Yövalo tekee näytöstä keltasävyisen. Sen avulla näytön katselu heikossa valossa on helpompaa ja saatat nukahtaa helpommin.</string>
   <string name="night_display_title">Yövalo</string>
+  <string name="night_light">Yövalo</string>
+  <string name="night_light_brightness">Yövalon kirkkaus</string>
+  <string name="night_light_color">Yövalon väri</string>
+  <string name="night_light_summary">Minimoi taustavaloa heikosti valaistussa ympäristössä siirtyäksesi yövalotilaan</string>
   <string name="no">Ei</string>
   <string name="no_application">Ei mitään</string>
   <string name="no_applications">Ei sovelluksia.</string>
@@ -3941,8 +3948,10 @@ Huom. Tämän laitteen lukitusta ei voi avata sormenjäljellä. Saat lisätietoj
   <string name="security_settings_fingerprint_preference_title">Sormenjälki</string>
   <string name="security_settings_premium_sms_desc">Lähetä maksullinen tekstiviesti</string>
   <string name="security_settings_summary">Aseta Oma sijainti, näytön lukituksen poisto, SIM-kortin lukitus, käyttöoikeustietojen tallennustilan lukitus</string>
-  <string name="security_settings_title">Suojaus &amp; Sijainti</string>
-  <string name="security_status_title">Suojaustila</string>
+  <string name="security_settings_title">Tietoturva &amp; Sijainti</string>
+  <string name="security_status">Tietoturvan tila</string>
+  <string name="security_status_title">Tietoturvan tila</string>
+  <string name="security_update">Tietoturvapäivitys</string>
   <string name="select_all">Valitse kaikki</string>
   <string name="select_application">Valitse sovellus</string>
   <string name="select_device_admin_msg">Laitteenhallintasovellukset</string>

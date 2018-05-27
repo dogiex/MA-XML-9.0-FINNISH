@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="abrupt_weather_settings_summary_type_a">Epätavallisen sään varoituksen valintakytkin</string>
+  <string name="abrupt_weather_settings_summary_type_b">Epätavallisen sään varoituksen valintakytkin</string>
+  <string name="abrupt_weather_settings_title">Epätavallisen sään varoitus</string>
   <string name="act_find_city_hint">Syötä sijainti</string>
   <string name="act_find_city_hot_attractions_title">Suositut sivustot</string>
   <string name="act_find_city_hot_city_title">Suositut kaupungit</string>
@@ -78,6 +81,9 @@
   <string name="content_desc_activity_main_add_city">Lisää kaupunki</string>
   <string name="content_desc_activity_main_add_city_manage">Hallitse kaupunkeja</string>
   <string name="content_desc_activity_main_more_settings">Lisäasetukset</string>
+  <string name="content_desc_back_button">Takaisin</string>
+  <string name="content_desc_close_button">Sulje</string>
+  <string name="content_desc_edit_city_manage">Hallitse kaupunkeja</string>
   <string name="daily_forcast_drawer_on_bottom">Piilota</string>
   <string name="daily_forcast_no_stable_direction">Tuulahdus</string>
   <string name="daily_forcast_no_wind">0</string>
@@ -146,9 +152,9 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="location_tag">Paikanna</string>
   <string name="menu_add_city">Lisää tai poista kaupunki</string>
   <string name="menu_location">Sijainnit</string>
-  <string name="menu_minute_rain">2-tunnin sade-ennustus</string>
-  <string name="menu_speeker">Äänilähetys</string>
+  <string name="menu_speaker">Äänilähetys</string>
   <string name="mi_pad2">latte</string>
+  <string name="minute_rain">Minuuttiennustus</string>
   <string name="minute_rain_after_an_hour">Tunnin kuluttua</string>
   <string name="minute_rain_after_two_hour">Kahden tunnin kuluttua</string>
   <string name="minute_rain_feedback_subtitle">Kerro meille, minkälainen sää on.</string>
@@ -160,7 +166,8 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="minute_rain_progress_indicator_original_time">- -</string>
   <string name="minute_rain_pull_down_refresh">Päivitä vetämällä alas</string>
   <string name="minute_rain_refreshing_now">Päivitetään…</string>
-  <string name="more_details">Lisää tietoa</string>
+  <string name="missing_required_permission">Olet poistanut vaadittavan käyttöoikeuden käytöstä.</string>
+  <string name="more_details">Lisätietoja</string>
   <string name="network_not_available">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="network_unavailable">Verkkoyhteyttä ei voi muodostaa.</string>
   <string name="night_not_disturb_settings_summary">Mykistä hälytykset, jotka tulevat klo 23.00 ja 07.00 välisenä aikana</string>

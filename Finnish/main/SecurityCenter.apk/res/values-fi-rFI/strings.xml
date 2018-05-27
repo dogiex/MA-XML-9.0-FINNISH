@@ -1177,6 +1177,8 @@ vastausta"</string>
   <string name="network_blocked_connected_open_wifi">Yhdistetty julkiseen verkkoon</string>
   <string name="network_blocked_notification_summary">Testaa verkko</string>
   <string name="network_blocked_switch_wifi">Vaihda verkkoja</string>
+  <string name="network_changed_noti_summary">Käytetään mobiilidataa</string>
+  <string name="network_changed_noti_title">Wi-Fi-verkko katkaistiin</string>
   <string name="network_connected_exception_title">Testaa verkko</string>
   <string name="network_control">Näytä sovellusasetukset</string>
   <string name="network_diagnostics">Testaa verkko</string>
