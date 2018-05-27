@@ -56,6 +56,10 @@
         <item quantity="other">%d estolistan merkintää</item>
         <item quantity="one">%d estolistan merkintä</item>
     </plurals>
+    <plurals name="dirty_personalAssistant_count">
+        <item quantity="other">%d Sovellusholvin merkintää</item>
+        <item quantity="one">%d Sovellusholvin merkintä</item>
+    </plurals>
     <plurals name="dirty_secretphoto_count">
         <item quantity="other">%d piilotettua kuvaa on synkronoimatta. Kirjaudu ulos, kun kaikki kohteet on synkronoitu pitääksesi ne; muussa tapauksessa kohteet poistetaan.</item>
         <item quantity="one">%d piilotettu kuva on synkronoimatta. Kirjaudu ulos, kun kaikki kohteet on synkronoitu pitääksesi ne; muussa tapauksessa kohteet poistetaan.</item>
