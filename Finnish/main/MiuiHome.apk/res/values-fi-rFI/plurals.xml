@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="announce_for_drag">
-        <item quantity="other">raahataan %1$d kohdetta</item>
-        <item quantity="one">raahataan</item>
+        <item quantity="other">Raahataan %1$d kohdetta</item>
+        <item quantity="one">Raahataan %1$d kohdetta</item>
     </plurals>
     <plurals name="delete_wallpapers_message">
         <item quantity="other">Poistetaanko %1$d taustakuvaa?</item>

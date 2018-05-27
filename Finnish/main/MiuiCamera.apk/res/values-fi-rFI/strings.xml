@@ -31,7 +31,7 @@
   <string name="button_normal_video_title">Nauhoita video</string>
   <string name="camera_disabled">Kamera on poistettu käytöstä</string>
   <string name="camera_error_title">Kameravirhe</string>
-  <string name="camera_facedetection_sub_option_hint">Kokeellinen vaihtoehto on nyt käytettävissä</string>
+  <string name="camera_facedetection_sub_option_hint">Kokeellinen ominaisuus</string>
   <string name="camera_label">Kamera</string>
   <string name="camera_mode_options">Tilat</string>
   <string name="camera_setting">Kamera-asetukset</string>
@@ -120,7 +120,7 @@ jos käännät puhelimesi"</string>
   <string name="front_camera_hint_text_rotate">Käännä puhelimesi</string>
   <string name="hine_hht">"Vähäisellä valoisuudella kamera ottaa usean kuvan
 ja luo otoksen, jossa kuvassa on vähiten kohinaa."</string>
-  <string name="hint_device_water_mark">Laitteen vesileima lisätään automaattisesti.</string>
+  <string name="hint_device_water_mark">Kuvan vesileima lisätään automaattisesti.</string>
   <string name="hint_fast_motion">Video, jonka otat toistetaan nopeammin.</string>
   <string name="hint_groupshot">"Kamera ottaa useita kuvia
 ja luo otoksen, jossa kaikki ovat parhaimmillaan."</string>
@@ -145,7 +145,7 @@ ja luo otoksen, jossa kaikki ovat parhaimmillaan."</string>
   <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
   <string name="pano_how_to_use_prompt_align_reference_line">Kohdista nuoli vertailulinjan kanssa</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Jatka vain…</string>
-  <string name="pano_how_to_use_prompt_slow_down">Hidasta vähän</string>
+  <string name="pano_how_to_use_prompt_slow_down">Hidasta hieman…</string>
   <string name="pano_how_to_use_prompt_start">Napauta nuolta vaihtaaksesi suuntaa ja aloita panoroimaan hitaasti.</string>
   <string name="pano_how_to_use_prompt_to_move">Aloita panoroimaan hitaasti</string>
   <string name="path_settings">Järjestelmäsovellukset/Kamera/Asetukset</string>
@@ -217,10 +217,10 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_delay_capture_entry_5s">5s viive</string>
   <string name="pref_camera_delay_capture_entry_audio">Ääni</string>
   <string name="pref_camera_delay_capture_title">Ajastin</string>
-  <string name="pref_camera_device_watermark_title">Laitteen vesileima</string>
+  <string name="pref_camera_device_watermark_title">Kuvan vesileima</string>
   <string name="pref_camera_exposuretime_entry_auto">AUTO</string>
   <string name="pref_camera_face_info_watermark_title">Lisää ikäleima kuvaan</string>
-  <string name="pref_camera_facedetection_auto_hidden_title">Kasvojentunnistus automaattisesti piilotettu</string>
+  <string name="pref_camera_facedetection_auto_hidden_title">Piilota kasvojentunnistuksen kehys automaattisesti</string>
   <string name="pref_camera_facedetection_title">Kasvojentunnistus</string>
   <string name="pref_camera_flashmode_entry_auto">Automaattinen</string>
   <string name="pref_camera_flashmode_entry_off">Pois päältä</string>
@@ -270,7 +270,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_multilevel_entry_middle">Keskitaso (oletus)</string>
   <string name="pref_camera_multilevel_entry_normal">Normaali</string>
   <string name="pref_camera_panoramamode_title">Panoraama</string>
-  <string name="pref_camera_parallel_process_enable_title">Ota käyttöön rinnakkainen kuvankäsittely</string>
+  <string name="pref_camera_parallel_process_enable_title">Ota käyttöön rinnakkainen käsittely</string>
   <string name="pref_camera_peak_entry_off">Pois päältä</string>
   <string name="pref_camera_peak_entry_on">Päällä</string>
   <string name="pref_camera_peak_title">Focus peaking</string>
@@ -372,7 +372,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_qc_focus_position_title">F</string>
   <string name="pref_retain_camera_mode_summary">Vaihda kamera edelliseen käytettyyn tilaan, kun avaat sovelluksen.</string>
   <string name="pref_retain_camera_mode_title">Tallenna edellinen tila</string>
-  <string name="pref_scan_qrcode_summary">Takakamera voi lukea QR-koodeja vain \"Valokuva\" -tilassa.</string>
+  <string name="pref_scan_qrcode_summary">Vain takakamera voi lukea QR-koodeja \"Valokuva\" -tilassa.</string>
   <string name="pref_scan_qrcode_title">Skannaa QR-koodit</string>
   <string name="pref_setting_title">Asetukset</string>
   <string name="pref_simple_hdr_entry_off">Pois päältä</string>

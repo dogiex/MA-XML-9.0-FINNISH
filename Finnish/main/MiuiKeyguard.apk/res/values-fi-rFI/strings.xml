@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibility_enter_lock_wallpaper">Avaa Taustakuvan Karuselli napauttamalla</string>
+  <string name="accessibility_enter_lock_wallpaper">Avaa Musiikki napauttamalla</string>
   <string name="btn_camera">Anna kasvosi</string>
   <string name="change_to_ac_charging">Vaihdettiin langattomaan lataukseen</string>
   <string name="click_to_enter_text">Näytä napauttamalla</string>
@@ -106,7 +106,7 @@
   <string name="keyguard_left_buscard">Muistiot</string>
   <string name="keyguard_left_remotecentral">Kalenteri</string>
   <string name="keyguard_left_smarthome">Yhteystiedot</string>
-  <string name="keyguard_left_view_lock_wallpaper">Taustakuvan karuselli</string>
+  <string name="keyguard_left_view_lock_wallpaper">Musiikki</string>
   <string name="keyguard_quick_charging_info_click_to_detail">Pikalataus. Näytä tiedot napauttamalla.</string>
   <string name="keyguard_torch_cover_text">Pidä taskulamppu päällä pitämällä Virtapainiketta pohjassa</string>
   <string name="lock_screen_date">"EEEE d. MMMM'ta'"</string>

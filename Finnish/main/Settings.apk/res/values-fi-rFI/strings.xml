@@ -4866,7 +4866,8 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="use_location_title">Sijainti ja Google-haku</string>
   <string name="use_open_wifi_automatically_summary">Muodosta automaattisesti yhteys laadukkaisiin julkisiin verkkoihin.</string>
   <string name="use_open_wifi_automatically_title">Muodosta yhteys avoimiin verkkoihin</string>
-  <string name="use_personalized_ad_service">Käytä mainostuksen tunnistusta</string>
+  <string name="use_personalized_ad_service">Henkilökohtaiset mainossuositukset</string>
+  <string name="use_personalized_ad_service_summary">Kun suositusominaisuus on poistettu käytöstä, näet silti saman määrän mainoksia, mutta et sinun käyttäytymistietojesi tai henkilökohtaisten tietojesi perusteella olevia mainoksia.</string>
   <string name="use_privacy_password_immediate">Käytä</string>
   <string name="use_system_language_to_select_input_method_subtypes">Käytä järjestelmän kieltä</string>
   <string name="use_this_wlan">Käytä tätä Wi-Fi-yhteyttä</string>

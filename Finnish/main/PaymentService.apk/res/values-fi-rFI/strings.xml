@@ -19,6 +19,7 @@
   <string name="abc_shareactionprovider_share_with">Jakaminen:</string>
   <string name="abc_shareactionprovider_share_with_application">Jakaminen: %s</string>
   <string name="abc_toolbar_collapse_description">Kutista</string>
+  <string name="mibi_all_license_message">Olet käyttämässä Mi Krediittiä, joka on Xiaomi Inc.:n tarjoama palvelu. Ennen tämän palvelun käyttämistä, sinun täytyy hyväksyä Palveluehdot, jotka on määritetty %1$s. Napauta OK jos hyväksyt ehdot, jotka on lueteltu %1$s ja %1$s. Sinun täytyy yhdistää internetiin ja paikantaa laitteesi käyttääksesi Mi Krediittiä.</string>
   <string name="mibi_app_name">Mi Krediitti</string>
   <string name="mibi_applock_config">Sovelluslukkoa ei voi asettaa, kun Jaettu näyttö on käytössä.</string>
   <string name="mibi_applock_dialog_cancel">Ei nyt</string>
@@ -200,6 +201,7 @@ Tarkista paikallinen päivämäärä ja yritä uudelleen."</string>
   <string name="mibi_msg_telecom_picker_hint_2_1">Palveluntarjoajaasi on otettu yhteyttä!</string>
   <string name="mibi_msg_telecom_picker_hint_2_2">Saat tekstiviestivahvistuksen hetken kuluttua.</string>
   <string name="mibi_msg_telecom_sending">Otetaan yhteyttä palveluntarjoajaan…</string>
+  <string name="mibi_normal_license_name">Käyttöehdot</string>
   <string name="mibi_order_balance_lable">Mi Krediitit</string>
   <string name="mibi_order_balance_lable_append">Mi Krediitit + kupongit</string>
   <string name="mibi_order_balance_title">Minun Mi Krediitit</string>
@@ -249,6 +251,7 @@ Tarkista paikallinen päivämäärä ja yritä uudelleen."</string>
   <string name="mibi_prepaid_picker_hint_2_2_b">If the nominal value of the prepaid card is not ￥%1$s, the card will be void. Xiaomi is not responsible for any monetary loss that occurs as a result of user error.</string>
   <string name="mibi_prepaid_picker_title_default">Valitse Summa</string>
   <string name="mibi_prepaid_picker_title_selected">Summa</string>
+  <string name="mibi_privacy_license_name">Tietosuojakäytäntö</string>
   <string name="mibi_process_expired">Minne menit? Toiminto aikakatkaistiin.</string>
   <string name="mibi_progress_creating">Haetaan tilauksen tietoja…</string>
   <string name="mibi_progress_deduct_creating">Aktivoidaan %1$s Automaattista Maksuprotokollaa…</string>
