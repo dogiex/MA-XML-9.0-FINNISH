@@ -3310,6 +3310,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="profile_section_header">Työilmoitukset</string>
   <string name="progress_scanning">Haetaan</string>
   <string name="provider_label">Push-tilaukset</string>
+  <string name="provision_activation">Aktivoi</string>
   <string name="provision_back">Takaisin</string>
   <string name="provision_next">Seuraava</string>
   <string name="provision_page_layout_confirm_message">Laitteesi on käynnistettävä uudelleen, jotta muutokset tulevat voimaan. Tämä kestää noin yhden minuutin.</string>
