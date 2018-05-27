@@ -995,6 +995,8 @@ Siirtonopeus"</string>
   <string name="carrier_enabled">Ota APN käyttöön / poista se käytöstä.</string>
   <string name="carrier_enabled_summaryOff">APN poistettu käytöstä</string>
   <string name="carrier_enabled_summaryOn">APN otettu käyttöön</string>
+  <string name="carrier_show_in_lock_screen">Näytä vain lukitusnäytöllä</string>
+  <string name="carrier_show_none">Älä näytä operaattorin nimeä koskaan</string>
   <string name="category_personal">Henkilökohtainen</string>
   <string name="category_work">Työ</string>
   <string name="cdma_security_settings_summary">Aseta Oma sijainti, näytön lukituksen poisto, käyttöoikeustietojen tallennustilan lukitus</string>
