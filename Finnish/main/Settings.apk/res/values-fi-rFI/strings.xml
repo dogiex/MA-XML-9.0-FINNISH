@@ -5024,6 +5024,7 @@ Napauta plussaa lisätäksesi sanoja."</string>
   <string name="virus_scanner_update_lib">Päivitä virustunnisteet</string>
   <string name="vision_settings_description">Voit muokata laitteen ominaisuuksia tarpeidesi mukaan. Käytettävyysvalintoja voi muuttaa myöhemmin asetuksissa.</string>
   <string name="vision_settings_title">Näköasetukset</string>
+  <string name="voice_assist">Xiao Ai</string>
   <string name="voice_category">Puhe</string>
   <string name="voice_helper_title">Ääniavustaja</string>
   <string name="voice_input_output_settings">Äänisyöte ja -tulo</string>

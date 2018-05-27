@@ -280,7 +280,7 @@ Aktivoi tilisi seuraamalla
   <string name="passport_login_recycle_account_no">Ei</string>
   <string name="passport_login_recycle_account_yes">Kyllä</string>
   <string name="passport_login_title">Kirjaudu sisään Mi Tilillesi</string>
-  <string name="passport_login_using_other_ways">Muita tapoja kirjautua</string>
+  <string name="passport_login_using_other_ways">Muita tapoja kirjautua sisään</string>
   <string name="passport_message_dialog_title">Tekstiviesti vahvistuskoodeilla</string>
   <string name="passport_next">Seuraava</string>
   <string name="passport_no">Ei</string>

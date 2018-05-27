@@ -2,6 +2,7 @@
 <resources>
   <string name="accessibility_enter_lock_wallpaper">Avaa Taustakuvan Karuselli napauttamalla</string>
   <string name="btn_camera">Anna kasvosi</string>
+  <string name="change_to_ac_charging">Vaihdettiin langattomaan lataukseen</string>
   <string name="click_to_enter_text">Näytä napauttamalla</string>
   <string name="confirm_pin_msg">Syötä PIN-koodi uudelleen</string>
   <string name="custom_lock_wallpaper_enter">Avaa</string>
@@ -136,6 +137,8 @@
   <string name="phone_locked_forget_password_suggesstion_two_content">Valitse \"Nollaa &amp; Resetoi\" ja odota, kunnes laite käynnistyy uudelleen.</string>
   <string name="phone_locked_forget_password_suggesstions_title">Kuinka poistan kaikki tiedot?</string>
   <string name="phone_locked_string">Puhelin on lukittu</string>
+  <string name="reset_device_detail_tip">Ladataan langattomasti, varmista hyvä latausnopeus kohdistamalla puhelimen alusta.</string>
+  <string name="reset_device_tip">Ladataan hitaasti, aseta puhelin uudelleen</string>
   <string name="unlock_camera_steady">Ole paikoillasi</string>
   <string name="unlock_failed">Sisäinen virhe</string>
   <string name="unlock_failed_face_not_found">Tunnistetaan</string>
@@ -145,5 +148,8 @@
   <string name="unlockscreen_recharge_completed">Akku ladattu</string>
   <string name="unlockscreen_recharging_message">Ladataan %d%%</string>
   <string name="wallpaper_global_des_drop_down_notify_text">Vapauta nähdäksesi tiedot</string>
+  <string name="wireless_charge_dialog_cancel">Peruuta</string>
+  <string name="wireless_charge_dialog_title">Asento on huono, muokkaa asentoa</string>
+  <string name="wireless_charge_stop">Langaton lataaminen pysäytetty</string>
   <string name="wrong_password">Virheellinen salasana</string>
 </resources>
