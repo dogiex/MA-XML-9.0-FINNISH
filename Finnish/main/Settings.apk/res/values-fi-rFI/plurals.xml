@@ -176,6 +176,10 @@
         <item quantity="other">%d käyttöoikeutta myönnetty</item>
         <item quantity="one">%d käyttöoikeus myönnetty</item>
     </plurals>
+    <plurals name="print_jobs_summary">
+        <item quantity="other">%1$d tulostustyötä</item>
+        <item quantity="one">1 tulostustyö</item>
+    </plurals>
     <plurals name="print_settings_summary">
         <item quantity="other">%1$d tulostuspalvelua käytössä</item>
         <item quantity="one">1 tulostuspalvelu käytössä</item>

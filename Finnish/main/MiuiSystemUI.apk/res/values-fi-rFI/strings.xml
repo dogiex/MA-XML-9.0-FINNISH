@@ -500,8 +500,10 @@ Saat lisätietoja järjestelmänvalvojalta."</string>
   <string name="no_application">Nothing</string>
   <string name="no_multi_window_app">Ei sovelluksia, jotka tukevat Jaettua näyttö</string>
   <string name="no_notification_tips">Ei ilmoituksia.</string>
+  <string name="no_sim_card">Ei SIM-korttia</string>
   <string name="no_weather_description">Hae säätiedot &gt;</string>
   <string name="not_support_multi_window">Nykyinen sovellus ei tue Jaettua näyttöä</string>
+  <string name="notch_status_bar_date_format_12">"EEEE d. MMMM'ta'"</string>
   <string name="notification_header_title">Ilmoitukset</string>
   <string name="notification_hidden_text">Sinulla on uusi viesti</string>
   <string name="notification_low_battery_action_btn">Ota käyttöön</string>
@@ -555,6 +557,12 @@ Saat lisätietoja järjestelmänvalvojalta."</string>
   <string name="power_remaining_charging_duration_only">%1$s kunnes täynnä</string>
   <string name="power_remaining_duration_only">Noin %1$s jäljellä</string>
   <string name="power_remaining_duration_only_short">%1$s jäljellä</string>
+  <string name="prompt_danger">Vaara</string>
+  <string name="prompt_detecting">Havaitaan</string>
+  <string name="prompt_failure">Virhe</string>
+  <string name="prompt_return_to_split">Jaettu näyttö</string>
+  <string name="prompt_safe">Turvallinen</string>
+  <string name="prompt_unknown">Tuntematon</string>
   <string name="quick_settings_bluetooth_detail_empty_text">Laitepareja ei ole käytettävissä</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
   <string name="quick_settings_connect_success">Yhdistetty</string>

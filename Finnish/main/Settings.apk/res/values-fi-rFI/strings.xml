@@ -2085,6 +2085,7 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="key_gesture_function_preview">Painikkeen ja eleen esikatselu</string>
   <string name="key_gesture_function_shortcut">Toiminnalliset pikavalinnat</string>
   <string name="key_none">Ei mitään</string>
+  <string name="key_operation_diagram">Toimenpidekaavio</string>
   <string name="key_position_cat">Painikkeen sijainnit</string>
   <string name="key_settings">Painikkeen ja eleen pikavalinnat</string>
   <string name="key_settings_title">Painikkeen ja eleen pikavalinnat</string>
@@ -2779,8 +2780,8 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="nfc_more_title">Lisää…</string>
   <string name="nfc_payment_default">Oletusmaksusovellus</string>
   <string name="nfc_payment_default_not_set">Ei asetettu</string>
-  <string name="nfc_payment_favor_default">Aina</string>
-  <string name="nfc_payment_favor_open">Paitsi jos jokin toinen maksusovellus on auki</string>
+  <string name="nfc_payment_favor_default">Käytä aina oletussovellusta</string>
+  <string name="nfc_payment_favor_open">Korvaa oletussovellus jos toinen maksusovellus on auki</string>
   <string name="nfc_payment_how_it_works">Toimintatapa</string>
   <string name="nfc_payment_no_apps">Maksa puhelimella myymälöissä</string>
   <string name="nfc_payment_pay_with">Maksa napauttamalla maksamisen päätteellä tällä sovelluksella:</string>
