@@ -443,6 +443,9 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="long_screenshot_stop">Lopeta</string>
   <string name="long_screenshot_top_msg">Otetaan pitkää kuvakaappausta…</string>
   <string name="long_screenshot_top_msg_manual">Rajaa kuvakaappaus ja lopeta napauttamalla painiketta</string>
+  <string name="low_temperature_button_ok">Selvä</string>
+  <string name="low_temperature_warning_message">Lämpötila on liian alhainen, puhelin saattaa sammua milloin tahansa, tallenna tietosi.</string>
+  <string name="low_temperature_warning_title">Sammuttamisen varoitus</string>
   <string name="managed_profile_foreground_toast">Käytät työprofiilia</string>
   <string name="managed_user_title">Kaikki työsovellukset</string>
   <string name="mdb_entering">Aloitetaan…</string>

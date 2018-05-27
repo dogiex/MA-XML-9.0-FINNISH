@@ -513,6 +513,7 @@ Siirtonopeus"</string>
   <string name="close">Poista käytöstä</string>
   <string name="close_dialog">OK</string>
   <string name="close_profile">Sulje</string>
+  <string name="close_volte">Poista VoLTE käytöstä</string>
   <string name="cloud_antispam_title">Tunnista tuntemattomat numerot</string>
   <string name="cmcc_ut_data_enable_prompt">VoLTE verkkoon ei voitu yhdistää. Ota mobiilidata käyttöön nyt.</string>
   <string name="command_error_fdn_failure">Sinun täytyy ensin poistaa FDN käytöstä</string>
@@ -1202,6 +1203,7 @@ Laitteesi lukitaan automaattisesti jos yrityksesi menee vielä väärin"</string
   <string name="power_remaining_charging_duration_only">%1$s kunnes täynnä</string>
   <string name="power_remaining_duration_only">Noin %1$s jäljellä</string>
   <string name="power_remaining_duration_only_short">%1$s jäljellä</string>
+  <string name="prefered_network_type_3g_promp">Sinun pitäisi poistaa VoLTE käytöstä ennen kuin valitset 3G:n ensisijaisen verkon tyypiksi. Poistetaanko käytöstä nyt?</string>
   <string name="preference_auto_ip_summary_disable">Pois päältä</string>
   <string name="preference_category_ringtone">Soittoääni &amp; värinä</string>
   <string name="preference_data_usage_summary">Hallitse mobiilidatan käyttöä asettamalla tiedonsiirtoraja</string>
@@ -1277,6 +1279,7 @@ Laitteesi lukitaan automaattisesti jos yrityksesi menee vielä väärin"</string
   <string name="progress_dialog_exiting_ecm">Poistutaan hätäpuhelujen takaisinsoittotilasta</string>
   <string name="prompt_to_turnoff_volte_when_failed">VoLTE-palvelut ei ole käytettävissä. Poista VoLTE käytöstä soittaaksesi.</string>
   <string name="prompt_to_turnoff_volte_when_supp_service">Palvelu ei ole käytettävissä. Poista VoLTE käytöstä Asetuksissa.</string>
+  <string name="prompt_when_turnon_volte_on_3g_prefered">Valitse LTE ensisijaisen verkon tyypiksi ennen kuin otat VoLTE:n käyttöön.</string>
   <string name="prompt_when_turnon_volte_without_lte">LTE-verkkoja ei ole käytettävissä. Ottamalla VoLTE käyttöön saattaa se estää soittamasta normaaleja puheluita.</string>
   <string name="proxy_address">ProxyAddress</string>
   <string name="proxy_address_title">Lähettävän välityspalvelimen osoite</string>

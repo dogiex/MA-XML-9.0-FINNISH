@@ -2551,6 +2551,8 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="memory_settings_title">Muisti</string>
   <string name="memory_size">Tallennustilaa yhteensä</string>
   <string name="memory_summary">Muistia käytetty keskimäärin %1$s/%2$s</string>
+  <string name="memory_system_rom">Järjestelmän tallennustila</string>
+  <string name="memory_system_space">Järjestelmän tallennustila</string>
   <string name="memory_title">Käytettävissä: %1$s Yhteensä: %2$s</string>
   <string name="memory_usage">Muistin käyttötiedot</string>
   <string name="memory_usage_apps">Sovellusten käyttämä muisti</string>
@@ -4778,7 +4780,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="untitled_apn">Nimetön</string>
   <string name="update_new_version">Päivitys on saatavilla</string>
   <string name="update_progress_for_updates">Päivitetään (%s)</string>
-  <string name="upload_debug_log_summary">Tiedot, joita keräämme saattaa sisältää henkilökohtaisia tietoja. Tietoa käytetään paikantamaan ja tutkimaan järjestelmässä ilmaantuvia ongelmia eikä sitä ikinä käytetä käyttäjän tunnistamiseen.</string>
+  <string name="upload_debug_log_summary">Käyttötilastot, jotka auttavat meitä paikantamaan ja ratkaisemaan ongelmia saattaa sisältää henkilötietojasi</string>
   <string name="upload_debug_log_title">Lähetä diagnostiikkatietoja automaattisesti</string>
   <string name="usage">Käyttö</string>
   <string name="usage_access">Käyttöoikeus</string>
@@ -4932,7 +4934,7 @@ Napauta plussaa lisätäksesi sanoja."</string>
   <string name="user_exit_guest_dialog_remove">Poista</string>
   <string name="user_exit_guest_title">Poista vieras</string>
   <string name="user_experience_program">Käyttäjäkokemusohjelma</string>
-  <string name="user_experience_program_summary">Auta parantamaan MIUI:ta lähettämällä nimettömänä käyttötietoja</string>
+  <string name="user_experience_program_summary">Auta meitä parantamaan tuotteitamme ja palveluitamme jakamalla käyttötilastosi kanssamme</string>
   <string name="user_experience_program_title">Käyttäjäkokemusohjelma</string>
   <string name="user_guest">Vieras</string>
   <string name="user_image_choose_photo">Valitse kuva galleriasta</string>

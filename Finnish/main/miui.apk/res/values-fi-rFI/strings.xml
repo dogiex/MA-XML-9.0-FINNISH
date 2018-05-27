@@ -578,6 +578,7 @@
   <string name="tuesday_short">Tiist.</string>
   <string name="tuesday_shortest">Ti</string>
   <string name="user_agreement">Palveluehdot</string>
+  <string name="user_experience_program">Käyttäjäkokemusohjelma</string>
   <string name="user_manual">Käyttöohje</string>
   <string name="web_sso_login_fail">Kirjaudu sisään uudelleen</string>
   <string name="web_sso_login_message">Kirjaudutaan sisään…</string>

@@ -48,10 +48,11 @@
   <string name="other_settings_auto_update_summary">MIUI valitsee parhaan hetken päivityksien asentamiselle.</string>
   <string name="other_settings_location">Sijainti</string>
   <string name="other_settings_location_summary">Salli sovelluksien käyttää sijaintiasi.</string>
-  <string name="other_settings_upload_debug_log_summary">Tiedot, joita keräämme käytetään järjestelmässä olevien ongelmien paikantamiseen ja tutkimiseen ja ne saattaa sisältää henkilökohtaisia tietoja. Mitään tietoja ei käytetä henkilöllisyyden tunnistamiseen.</string>
+  <string name="other_settings_upload_debug_log_summary">Käyttötilastot, jotka auttavat meitä paikantamaan ja ratkaisemaan ongelmia saattaa sisältää henkilötietojasi</string>
   <string name="other_settings_upload_debug_log_title">Lähetä diagnostiikkatietoja automaattisesti</string>
   <string name="other_settings_user_experience">Käyttäjäkokemusohjelma</string>
-  <string name="other_settings_user_experience_summary">Auta parantamaan MIUI:ta lähettämällä käyttötietoja nimettömänä</string>
+  <string name="other_settings_user_experience_summary">Auta meitä parantamaan tuotteitamme ja palveluitamme jakamalla käyttötilastot kanssamme. Tiedot</string>
+  <string name="other_settings_user_experience_summary_index">Tiedot</string>
   <string name="pref_title_data_slot">Ensisijainen data SIM-kortti</string>
   <string name="pref_title_voice_slot">Ensisijainen äänen SIM-kortti</string>
   <string name="privacy_policy">Tietosuojakäytäntö</string>
