@@ -182,6 +182,7 @@
   <string name="mother">妈妈</string>
   <string name="mul">×</string>
   <string name="mulDesc">kertaa</string>
+  <string name="negDesc">Vaihda lämpötiloja nollan ala- ja yläpuolella</string>
   <string name="network_confirm_content">Valuuttamuuntimen, veron- ja lainalaskurin on yhdistettävä internetiin ja käytettävä laitteen sijaintitietoja toimiakseen normaalisti.</string>
   <string name="network_confirm_title">Käyttöoikeuksia vaaditaan</string>
   <string name="percentDesc">prosentti</string>

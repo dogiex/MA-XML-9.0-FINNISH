@@ -1,24 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="abc_action_bar_home_description">Siirry etusivulle</string>
-  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-  <string name="abc_action_bar_up_description">Siirry ylös</string>
-  <string name="abc_action_menu_overflow_description">Lisää</string>
-  <string name="abc_action_mode_done">Valmis</string>
-  <string name="abc_activity_chooser_view_see_all">Näytä kaikki</string>
-  <string name="abc_activitychooserview_choose_application">Valitse sovellus</string>
-  <string name="abc_capital_off">POIS KÄYTÖSTÄ</string>
-  <string name="abc_capital_on">KÄYTÖSSÄ</string>
-  <string name="abc_search_hint">Haku…</string>
-  <string name="abc_searchview_description_clear">Tyhjennä kysely</string>
-  <string name="abc_searchview_description_query">Hakulauseke</string>
-  <string name="abc_searchview_description_search">Haku</string>
-  <string name="abc_searchview_description_submit">Lähetä kysely</string>
-  <string name="abc_searchview_description_voice">Puhehaku</string>
-  <string name="abc_shareactionprovider_share_with">Jakaminen:</string>
-  <string name="abc_shareactionprovider_share_with_application">Jakaminen: %s</string>
-  <string name="abc_toolbar_collapse_description">Kutista</string>
   <string name="account_and_cloud">Tili</string>
   <string name="action_item_add">Lisää</string>
   <string name="action_item_add_song">Lisää soittolistalle</string>
@@ -121,29 +102,6 @@
   <string name="cloud_state_storage_full">Puhelimen tallennustilaa ei ole tarpeeksi, varmuuskopiointi pysäytetty</string>
   <string name="cloud_welcome_message">Varmuuskopioi kappaleet</string>
   <string name="cloud_welcome_summary">Varmuuskopioi kappaleet Mi Pilveen ja kuuntele niitä muilla laitteilla</string>
-  <string name="com_facebook_device_auth_instructions">Vieraile facebook.com/device ja syötä yllä oleva koodi.</string>
-  <string name="com_facebook_image_download_unknown_error">Kuvan lataamisen aika tapahtui odottamaton virhe.</string>
-  <string name="com_facebook_internet_permission_error_message">WebView kirjautuminen vaatii internetin käyttöoikeuden</string>
-  <string name="com_facebook_internet_permission_error_title">AndroidManifest Virhe</string>
-  <string name="com_facebook_like_button_liked">Tykätty</string>
-  <string name="com_facebook_like_button_not_liked">Tykkää</string>
-  <string name="com_facebook_loading">Ladataan…</string>
-  <string name="com_facebook_loginview_cancel_action">Peruuta</string>
-  <string name="com_facebook_loginview_log_in_button">Kirjaudu sisään</string>
-  <string name="com_facebook_loginview_log_in_button_continue">Jatka Facebookilla</string>
-  <string name="com_facebook_loginview_log_in_button_long">Kirjaudu Facebookilla</string>
-  <string name="com_facebook_loginview_log_out_action">Kirjaudu ulos</string>
-  <string name="com_facebook_loginview_log_out_button">Kirjaudu ulos</string>
-  <string name="com_facebook_loginview_logged_in_as">Kirjauduttu sisään: %1$s</string>
-  <string name="com_facebook_loginview_logged_in_using_facebook">Kirjauduttu sisään käyttäen Facebookia</string>
-  <string name="com_facebook_send_button_text">Lähetä</string>
-  <string name="com_facebook_share_button_text">Jaa</string>
-  <string name="com_facebook_smart_device_instructions">Yhdistääksesi tilisi, avaa Facebook-sovelluksesi mobiililaitteeltasi ja tarkista ilmoitukset.</string>
-  <string name="com_facebook_smart_device_instructions_or">- TAI -</string>
-  <string name="com_facebook_smart_login_confirmation_cancel">Ei sinä?</string>
-  <string name="com_facebook_smart_login_confirmation_continue_as">Jatka käyttäjänä %1$s</string>
-  <string name="com_facebook_smart_login_confirmation_title">Vahvista kirjautuminen</string>
-  <string name="com_facebook_tooltip_default">Sinä hallitset - valitse mitä tietoja haluat jakaa sovelluksista.</string>
   <string name="comment_format" formatted="false">%s: %s</string>
   <string name="common_google_play_services_enable_button">Ota käyttöön</string>
   <string name="common_google_play_services_enable_text">%1$s ei tule toimimaan ellet ota Google Play palveluita käyttöön.</string>
@@ -649,7 +607,6 @@
   <string name="search_hint">Hae artistia, kappaletta, albumia, suosittele</string>
   <string name="search_history_clear_all">Tyhjennä</string>
   <string name="search_instant_online_music">Online</string>
-  <string name="search_menu_title">Haku</string>
   <string name="search_title">Haku</string>
   <string name="second_symbol">s</string>
   <string name="select_all">Valitse kaikki</string>

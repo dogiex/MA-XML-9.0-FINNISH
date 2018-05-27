@@ -24,6 +24,7 @@
   <string name="deleting_message">Poistetaan…</string>
   <string name="details">Tiedot</string>
   <string name="dialog_content_storage_full">Nauhoitus pysäytettiin, koska laitteellasi ei ole riittävästi tallennustilaa.</string>
+  <string name="dialog_privacy_revoke_tips">Valtuutuksen peruuttamisen jälkeen sovellus lopettaa tietojen keräämisen ja kaikki siihen liittyvät tiedot poistetaan palvelimilta. Tämä saattaa tehdä sovelluksesta käytännössä käyttökelvottoman. Peruutetaanko valtuutus siitä huolimatta? Varmista tilisi turvallisuus kirjautumalla osoitteeseen i.mi.com ennen Mi Pilvi -palveluiden valtuutuksen peruuttamista.</string>
   <string name="dialog_title_storage_full">Tallennustilaa ei ole riittävästi</string>
   <string name="duration_format_hour">%s t</string>
   <string name="duration_format_minute">%s m</string>
