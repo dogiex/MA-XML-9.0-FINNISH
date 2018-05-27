@@ -214,6 +214,8 @@
   <string name="alipay_risk_process_verify_by_alipay">去手机支付宝验证</string>
   <string name="alipay_scan">Lukija</string>
   <string name="alipay_sdk_minute_refresh">Päivitä minuutin välein</string>
+  <string name="alipay_sdk_open_alipay">打开客户端</string>
+  <string name="alipay_sdk_open_extra_money">领取鼓励金</string>
   <string name="alipay_sdk_payed_desc">Alkuperäinen hinta: %1$s CNY | Säästät %2$s CNY</string>
   <string name="alipay_sdk_payed_desc_osfress">%1$s CNY (%2$s)</string>
   <string name="alipay_sdk_payed_finished">Maksu suoritettiin onnistuneesti</string>
@@ -331,6 +333,9 @@
   <string name="card_setting_btn">Mukauta</string>
   <string name="card_settings">Mukauta</string>
   <string name="card_settings_rule">Kortin järjestysasetukset</string>
+  <string name="card_title_empty_agenda">暂无行程</string>
+  <string name="card_title_empty_express">暂无快递</string>
+  <string name="card_title_empty_note">随便记点什么吧</string>
   <string name="card_title_express">Toimitukseni</string>
   <string name="card_title_favorite">Suosikit</string>
   <string name="card_title_funclaunch">Pikakuvakkeet</string>
@@ -867,6 +872,10 @@ Tarkista seurantanumerosi."</string>
   <string name="locations">Usein käydyt paikat</string>
   <string name="locations_preferences">Osoitteet</string>
   <string name="login_before_use">Sinun täytyy ensin kirjautua sisään</string>
+  <string name="login_dialog_body">开启小米云同步，重要数据永不丢失，现在登录并开启吗？</string>
+  <string name="login_dialog_negative">暂不</string>
+  <string name="login_dialog_positive">登录并开启</string>
+  <string name="login_dialog_title">开启云同步</string>
   <string name="login_ok">Kirjaudu sisään</string>
   <string name="look_more">Näytä lisää</string>
   <string name="main_add">Lisää</string>
@@ -1471,6 +1480,16 @@ Tarkista seurantanumerosi."</string>
   <string name="unusual_weather_open">Ota säävaroitukset käyttöön</string>
   <string name="unusual_weather_setting_brief">Vastaanota varoituksia, mikäli sijaintiasi lähestyy vaarallinen sää.</string>
   <string name="unusual_weather_setting_tip">Varoituksia varten olevia kaupunkeja voidaan muuttaa Sääsovelluksessa.</string>
+  <string name="upgrade_being">正在安装，桌面即将重启</string>
+  <string name="upgrade_bottom_dialog">底部升级弹窗</string>
+  <string name="upgrade_find">发现新版本</string>
+  <string name="upgrade_later">稍后安装</string>
+  <string name="upgrade_log_default">"1.优化性能；
+2.修复已知问题；"</string>
+  <string name="upgrade_log_subtitle">（已在Wifi环境下载）</string>
+  <string name="upgrade_log_title">信息助手新版本</string>
+  <string name="upgrade_now">立即安装</string>
+  <string name="upgrade_now_bottom">底部立即安装</string>
   <string name="uploads_disabled">Tiedostoja ei voi lähettää</string>
   <string name="user_id">Käyttäjä ID: %s</string>
   <string name="user_notice_title">Huomio</string>

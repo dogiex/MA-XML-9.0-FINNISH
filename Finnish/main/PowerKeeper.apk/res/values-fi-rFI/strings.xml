@@ -66,6 +66,7 @@ Virransäästö kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="scenario_policies_summary">Aseta erilaisia virransäästöjä eri skeneille.</string>
   <string name="scenario_policies_title">Älyskenet</string>
   <string name="scenario_policies_warmcontrol">Lämpötilan hallinta</string>
+  <string name="search_result_text">Sovelluksia ei löytynyt</string>
   <string name="show_system_app">Näytä järjestelmäsovellukset</string>
   <string name="sleep_config_enhance_description">Aina kun MIUI tunnistaa että nukut, se sulkee taustalla olevat sovellukset, rajoittaa NFC:tä, Bluetoothia, GPS:ää, mobiilidatan ja Wi-Fin käyttöä ja se ei herätä näyttöä ilmoituksista.</string>
   <string name="sleep_config_enhance_description_non_nfc">Aina kun MIUI tunnistaa että nukut, se sulkee taustalla olevat sovellukset, rajoittaa Bluetoothia, GPS:ää, mobiilidatan ja Wi-Fin käyttöä ja se ei herätä näyttöä ilmoituksista.</string>

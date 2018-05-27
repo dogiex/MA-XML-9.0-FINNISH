@@ -1601,6 +1601,9 @@ Seuraava jakso alkaa %2$d päivän kuluttua (%3$s)"</string>
   <string name="verify_apps_over_usb_title">Tarkista USB:n kautta asennetut</string>
   <string name="vibrate_after_connected_summary">Värise, kun puheluusi vastataan</string>
   <string name="vibrate_after_connected_title">Värisee yhdistämisen jälkeen</string>
+  <string name="vice_slot_volte_data_switch_prompt">Laitteesi yhdistää mobiilidataverkkoon toisella SIM-kortilla VoLTE-puheluiden aikana. Tämä saattaa aiheuttaa lisäkuluja. Ota yhteys operaattoriisi saadaksesi lisätietoja datapaketistasi.</string>
+  <string name="vice_slot_volte_data_switch_summary">Laitteesi yhdistää mobiilidataverkkoon toisella SIM-kortilla VoLTE-puheluiden aikana</string>
+  <string name="vice_slot_volte_data_switch_title">Käytä mobiilidataa toisella SIM-kortilla VoLTE-puheluiden aikana</string>
   <string name="vm_change_failed">"Vastaajapalvelun numeron vaihtaminen epäonnistui.
 Ota yhteyttä operaattoriin, jos ongelma jatkuu."</string>
   <string name="vm_change_pin_error_invalid">Uusi PIN-koodi sisältää virheellisiä merkkejä.</string>

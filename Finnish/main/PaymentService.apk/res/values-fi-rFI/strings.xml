@@ -297,6 +297,7 @@ Asiakaspalvelu: 400-100-3399"</string>
   <string name="mibi_recharge_other">Näytä muut tavat</string>
   <string name="mibi_recharge_push_notification_prime_title">%1$d lisättiin %2$s Mi Krediittiä tilillesi</string>
   <string name="mibi_recharge_push_notification_sub_title">Top-up valmis.</string>
+  <string name="mibi_recharge_warn_text">Et voi ostaa fyysisiä tavaroita käyttäen Mi Krediittejä.</string>
   <string name="mibi_scan_prompt_number">Skannaa %1$s prepaid-kortin numero</string>
   <string name="mibi_scan_prompt_password">Skannaa %1$s prepaid-kortin salasana</string>
   <string name="mibi_scan_prompt_voucher">Skannaa Mi Krediitin salasana</string>
