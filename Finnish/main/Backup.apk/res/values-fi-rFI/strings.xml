@@ -235,6 +235,7 @@ http://www.miliao.com
   <string name="notif_icloud_need_wifi_summary">Odotetaan Wi-Fiä</string>
   <string name="notif_icloud_saved_summary">Tuotiin onnistuneesti</string>
   <string name="notif_icloud_saving_summary">Palautetaan tietoja…</string>
+  <string name="notif_miasist_try_to_connect">Mi PC Suite yrittää muodostaa yhteyttä laitteeseesi</string>
   <string name="notif_parse_select_descript_error">Varmuuskopioitujen kohteiden luetteloa ei voitu synkronoida.</string>
   <string name="notif_receiving_transingsd">Vastaanotetaan %1$s (%2$s)…</string>
   <string name="notif_restore_complete_title">Palautettu onnistuneesti</string>

@@ -139,6 +139,7 @@ Vedä alaspäin päivittääksesi tai tarkasta verkkoasetukset"</string>
   <string name="indices_title_uv">UV-indeksi</string>
   <string name="indices_title_visibility">Näkyvyys</string>
   <string name="information_manager_extension">Sään lisäosa</string>
+  <string name="information_settings_title">Säätiedot</string>
   <string name="install">Asenna</string>
   <string name="international_detail_menu_title">Tiedot</string>
   <string name="international_details_pressure_title">PAINE</string>
@@ -179,6 +180,7 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="open_browser">Avaa selaimessa</string>
   <string name="open_now">Avaa</string>
   <string name="other">Muu</string>
+  <string name="other_settings">Muut asetukset</string>
   <string name="other_warning_settings">Muut hälytykset</string>
   <string name="particulate_matter_exceeded">Korkea</string>
   <string name="particulate_matter_not_exceeded">Normaali</string>

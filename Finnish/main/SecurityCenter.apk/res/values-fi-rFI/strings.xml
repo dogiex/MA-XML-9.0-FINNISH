@@ -5,7 +5,7 @@
   <string name="SMSpass">Salli tekstiviestit</string>
   <string name="Setting_lock">Asetukset</string>
   <string name="Settings_title_anti_spam">Estolistan asetukset</string>
-  <string name="Settings_title_anti_virus">Tietoturvaskannauksen asetukset</string>
+  <string name="Settings_title_anti_virus">Tietoturvatarkistuksen asetukset</string>
   <string name="Settings_title_garbage_cleanup">Puhdistajan asetukset</string>
   <string name="Settings_title_network_assistants">Datakäytön asetukset</string>
   <string name="Settings_title_power_center">Akun asetukset</string>
@@ -14,6 +14,12 @@
   <string name="ac_firstUseApplock_subTitle">Käytä parempaa järjestelmätason tietoturvatyökaluja</string>
   <string name="ac_firstUseApplock_title">Aseta salasana sovellusten suojaamiseksi</string>
   <string name="ac_mask_all_apps">Piilota kaikilta sovelluksilta</string>
+  <string name="ac_notification_contentText">Ota käyttöön napauttamalla</string>
+  <string name="ac_notification_contentTitle">Suojaa sovelluksia Sovelluslukolla</string>
+  <string name="ac_post_notification_contentText">Hanki järjestelmätason suojaus</string>
+  <string name="ac_post_notification_contentTitle">Ota Sovelluslukko käyttöön</string>
+  <string name="ac_pre_notification_contentText">Suojaa henkilökohtaiset tietosi</string>
+  <string name="ac_pre_notification_contentTitle">Kokeile Sovelluslukkoa</string>
   <string name="ac_summaryOff">Ei käytössä, salasanaa ei vaadita sovelluksien avaamiseen</string>
   <string name="ac_summaryOn">Käytössä, salasana vaaditaan sovelluksien avaamiseen</string>
   <string name="ac_unmask_all_apps">Poista piilotus kaikilta sovelluksilta</string>
@@ -1238,12 +1244,10 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="notification_battery_consume_abnormal_title">Akku tyhjenee liian nopeasti</string>
   <string name="notification_exit_power_save_mode">Virransäästö sammutettiin</string>
   <string name="notification_exit_power_save_mode_subtitle">Akku %s ladattu.</string>
-  <string name="notification_item">Suojaa sovellukset Sovelluslukolla</string>
   <string name="notification_mask_summary">Piilota ilmoituksen sisältö Lukitusnäytöltä ja Ilmoitusalueelta</string>
   <string name="notification_mask_title">Piilota sisältö</string>
   <string name="notification_masked_item">Piilota ilmoitukset</string>
   <string name="notification_masked_subtitle">Piilota ilmoitukset Sovelluslukolla suojatuilta sovelluksilta</string>
-  <string name="notification_subtitle">Ota käyttöön napauttamalla</string>
   <string name="notification_summary_cmcc_app_check">Näytä yksityiskohdat koskettamalla.</string>
   <string name="notify_daily_data_usage_body">Rajoittaaksesi datan käyttöä automaattisesti, aseta kuukausittainen datapaketti.</string>
   <string name="notify_daily_limit_body">Aseta tiedonsiirtoraja napauttamalla.</string>

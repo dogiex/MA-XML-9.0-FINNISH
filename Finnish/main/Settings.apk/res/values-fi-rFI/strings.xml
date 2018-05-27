@@ -766,7 +766,7 @@ Muodostetaanko pari tämän laitteen kanssa?"</string>
   <string name="bluetooth_pairing_pin_error_message">Laiteparia laitteen %1$s kanssa ei voitu muodostaa, koska PIN-koodi tai avain oli virheellinen.</string>
   <string name="bluetooth_pairing_rejected_error_message">Laite %1$s torjui laitepariyhteyden.</string>
   <string name="bluetooth_pairing_request">Muodostetaanko laitepari laitteen %1$s kanssa?</string>
-  <string name="bluetooth_pairing_shares_phonebook">Salli laitteen %1$s käyttää yhteystietojasi ja puheluhistoriaasi</string>
+  <string name="bluetooth_pairing_shares_phonebook">Salli käyttöoikeus yhteystietoihisi ja puheluhistoriaasi</string>
   <string name="bluetooth_pairing_will_share_phonebook">Laiteparin muodostaminen mahdollistaa yhteystietojen ja soittohistorian käyttämisen yhteyden aikana.</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">Paikallinen internetyhteys jaetaan laitteen kanssa</string>
   <string name="bluetooth_pan_profile_summary_use_for">Käytä internetyhteyteen</string>
@@ -1895,6 +1895,8 @@ Kaupungissa ei näkynyt hevosia tai muita eläimiä: tavaroita kuljetettiin pien
   <string name="free_xiaomi_wifi_connect_summary">Yhdistä %1$s-verkkoon napauttamalla.</string>
   <string name="frequently_fragment_delete">Poista</string>
   <string name="frequently_fragment_tempty">Usein käytetyt kohteet listataan tänne</string>
+  <string name="fsg_mistake_touch_summary">Joissakin tilanteissa, kuten koko näytöllä toistettavissa peleissä ja videoissa, eleet on toistettava kaksi kertaa toiminnon suorittamiseksi</string>
+  <string name="fsg_mistake_touch_title">Eleiden tuplatarkistus</string>
   <string name="full_transparent_smarrcover_title">Läpinäkyvä etukuori</string>
   <string name="fullbackup_data_summary">"Varmuuskopioi automaattisesti laitteen tiedot (kuten Wi-Fi-salasanat ja soittohistoria) sekä sovellusten tiedot (kuten asetukset ja sovellusten tallentamat tiedostot) Google Driveen.
 

@@ -81,7 +81,7 @@
   <string name="change_password">Vaihda salasana</string>
   <string name="change_phone_number">Vaihda puhelinnumero</string>
   <string name="cloud_service">Mi Pilvi</string>
-  <string name="completed">Kaikki valmiina</string>
+  <string name="completed">Kaikki valmiina!</string>
   <string name="confirm_activate_email">Todennettu</string>
   <string name="confirm_bundled_phone_dialog_title">Vahvista liitetty puhelinnumero</string>
   <string name="confirm_delete_app_message">Sovelluksen poistamisen jälkeen, sinun täytyy vahvistaa puhelinnumerosi seuraavalla kerralla, kun kirjaudut sovelluksella sisään Mi Tililläsi.</string>
@@ -95,8 +95,8 @@
   <string name="current_location_title">Nykyinen sijainti</string>
   <string name="delete_action">Poista</string>
   <string name="delete_app">Poista sovellus</string>
-  <string name="delete_bank_card_message">Pankkikorttisi poistetaan turvallisuussyistä uloskirjautumisen jälkeen</string>
-  <string name="delete_bank_card_title">Poistetaan pankkikorttiasi</string>
+  <string name="delete_bank_card_message">Mi Pay -pankkikortit ja NFC-kortit poistetaan uloskirjautumisen jälkeen.</string>
+  <string name="delete_bank_card_title">Huomio</string>
   <string name="delete_browser">Poista selain</string>
   <string name="delete_device">Poista laite</string>
   <string name="delete_device_btn">Poista</string>
@@ -119,7 +119,6 @@
   <string name="find_device_account_error">Tilaa ei voitu hakea tilivirheen takia</string>
   <string name="find_device_activate_account">Aktivoi tili</string>
   <string name="find_device_bad_response_error">Tapahtui palvelinvirhe, odota minuutti tai kaksi ja yritä uudelleen</string>
-  <string name="find_device_display_id">Avaa numeron lukitus: %s</string>
   <string name="find_device_error_password_not_confirmed">Laitteen etsintää ei voi sammuttaa. Syötä Mi Tilisi salasana uudelleen.</string>
   <string name="find_device_error_password_recently_changed">Olet muuttanut salasanasi kolmen päivän sisällä. Laitteen etsintää ei voi sammuttaa juuri nyt turvallisuussyistä.</string>
   <string name="find_device_interrupted">Toiminto keskeytyi, odota minuutti tai kaksi ja yritä uudelleen</string>
@@ -269,6 +268,7 @@ Aktivoi tilisi seuraamalla
   <string name="passport_input_password_hint">Syötä salasana</string>
   <string name="passport_input_phone_hint">Syötä puhelinnumero</string>
   <string name="passport_input_vcode_hint">Syötä vahvistuskoodi</string>
+  <string name="passport_input_voice_captcha_hint">Anna äänivahvistuksen koodi</string>
   <string name="passport_license_host_unreachable">Verkkoyhteyttä ei voi muodostaa. Voit katsoa tämän sivun osoitteessa %s.</string>
   <string name="passport_loading">Ladataan…</string>
   <string name="passport_login">Kirjaudu sisään</string>
@@ -366,7 +366,7 @@ Aktivoi tilisi seuraamalla
   <string name="passport_uplink_slot1_reg">Käytä SIM 1</string>
   <string name="passport_uplink_slot2_reg">Käytä SIM 2</string>
   <string name="passport_use_generated_pwd_message">Varmista, että muistat salasanasi. Voit käyttää sitä muiden Mi palveluiden kirjautumiseen.</string>
-  <string name="passport_use_generated_pwd_title">Muista salasanasi</string>
+  <string name="passport_use_generated_pwd_title">Muista salasanasi!</string>
   <string name="passport_user_agreement">Käyttäjäsopimus</string>
   <string name="passport_user_agreement_p1">Hyväksyn </string>
   <string name="passport_user_agreement_p2">Palveluehdot</string>
@@ -438,6 +438,7 @@ Aktivoi tilisi seuraamalla
   <string name="trusted_browsers">Luotetut selaimet</string>
   <string name="trusted_browsers_prompt">Selain ei ole enää luotettu jos poista evästeet.</string>
   <string name="turn_off_find_device_failed_title">Laitteen etsintää ei voi sammuttaa</string>
+  <string name="turning_off_find_device">Poistetaan Etsi laite -toiminto käytöstä…</string>
   <string name="unbind_sns_description">Kun katkaiset yhteyden tähän tiliin, et voi enää käyttää %s tilitietojasi Mi Tilin kirjautumiseen.</string>
   <string name="unlock_help_notice">"Apua:
 · Jos unohdit salasanasi, mene id.mi.com palauttaaksesi sen.

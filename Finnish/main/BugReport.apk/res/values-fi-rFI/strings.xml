@@ -83,9 +83,17 @@
   <string name="feedback_retest_label">Askeleet ongelman jäljentämiseen</string>
   <string name="feedback_select_images">Lisää kuvia</string>
   <string name="feedback_select_modem_log">Lisää modeemin lokitiedot</string>
+  <string name="feedback_select_modem_log_not_select_desc">Ei valittu \"Lisää modeemin lokit\"</string>
+  <string name="feedback_select_modem_log_select_desc">Valittu \"Lisää modeemin lokit\"</string>
   <string name="feedback_select_problem">Ongelmat</string>
+  <string name="feedback_select_problem_not_select_desc">Ei valittu \"Ongelmat\"</string>
+  <string name="feedback_select_problem_select_desc">Valittu \"Ongelmat\"</string>
   <string name="feedback_select_suggestion">Ehdotukset</string>
+  <string name="feedback_select_suggestion_not_select_desc">Ei valittu \"Ehdotukset\"</string>
+  <string name="feedback_select_suggestion_select_desc">Valittu \"Ehdotukset\"</string>
   <string name="feedback_select_upload_log">Lisää lokitiedot</string>
+  <string name="feedback_select_upload_log_not_select_desc">Ei valittu \"Lisää lokit\"</string>
+  <string name="feedback_select_upload_log_select_desc">Valittu \"Lisää lokit\"</string>
   <string name="feedback_status_answered">Vastattu</string>
   <string name="feedback_status_change_notification_title">Raporttisi edistyminen päivitettiin</string>
   <string name="feedback_status_commit_failed_title">Raporttia ei voitu lähettää</string>
