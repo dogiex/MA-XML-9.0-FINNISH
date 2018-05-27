@@ -908,7 +908,7 @@ Siirtonopeus"</string>
   <string name="breathing_light_freq_title">Ilmoitusvalon vilkkumisen tiheys</string>
   <string name="brightness">Kirkkaustaso</string>
   <string name="brightness_auto_adjust_off">Näytön kirkkaustaso pysyy vakiona.</string>
-  <string name="brightness_auto_adjust_on">Optimoi kirkkaustasoa ympärillä olevan valoisuuden mukaan.</string>
+  <string name="brightness_auto_adjust_on">Näytön kirkkaus optimoidaan ympärillä olevan valaistuksen mukaan.</string>
   <string name="brightness_summary">Säädä näytön kirkkautta</string>
   <string name="brightness_title">Kirkkaus</string>
   <string name="bssid_label">BSSID:</string>
@@ -1465,6 +1465,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="disable_service_title">Lopetetaanko %1$s?</string>
   <string name="disable_text">Poista käytöstä</string>
   <string name="disabled">Pois käytöstä</string>
+  <string name="disabled_authorised_apps_title">Valtuutus peruutettu</string>
   <string name="disabled_because_no_backup_security">Käytä asettamalla ensin näytön lukitus</string>
   <string name="disabled_by_admin">Järjestelmänvalvojan estämä</string>
   <string name="disabled_by_admin_summary_text">Järjestelmänvalvoja hallinnoi tätä asetusta.</string>
@@ -1475,6 +1476,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="disabled_by_policy_title_outgoing_calls">Puheluja ei sallita</string>
   <string name="disabled_by_policy_title_screen_capture">Kuvakaappauksia ei sallita</string>
   <string name="disabled_by_policy_title_sms">Tekstiviestejä ei sallita</string>
+  <string name="disabled_low_ram_device">Ominaisuus ei ole käytettävissä tällä laitteella</string>
   <string name="disconnect">katkaise yhteys</string>
   <string name="disconnected">Ei yhdistetty</string>
   <string name="display_auto_rotate_rotate">Käytössä</string>
@@ -1631,6 +1633,8 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="enable_terminal_title">Paikallinen pääte</string>
   <string name="enable_text">Ota käyttöön</string>
   <string name="enable_wifi_display">Langaton näyttö</string>
+  <string name="enabled_authorised_apps_summary">Valtuutuksesi peruutetaan sen jälkeen, kun olet vaihtanut yksittäisten sovellusten valintakytkintä.</string>
+  <string name="enabled_authorised_apps_title">Hyväksytty valtuutus</string>
   <string name="enabled_by_admin">Järjestelmänvalvojan käyttöön ottama</string>
   <string name="enalbe_identify_iPhone">Tukiaseman tunnistaminen</string>
   <string name="encrypt_talkback_dialog_message_password">Kun annat salasanasi käynnistääksesi tämän laitteen, käytettävyyspalvelut, kuten %1$s, eivät ole vielä käytettävissä.</string>
@@ -1767,7 +1771,7 @@ Saat lisätietoja organisaatiosi järjestelmänvalvojalta."</string>
   <string name="filter_personal_apps">Henkilökohtaiset</string>
   <string name="filter_work_apps">Työ</string>
   <string name="filter_write_settings_apps">Voi muokata järjestelmäasetuksia</string>
-  <string name="find_my_device">Etsi laitteeni</string>
+  <string name="find_my_device">Etsi laite</string>
   <string name="find_my_device_disable">Pois käytöstä</string>
   <string name="find_my_device_enable">Käytössä</string>
   <string name="fingerprint_add_max">Voit lisätä korkeintaan %d sormenjälkeä</string>
@@ -2174,7 +2178,7 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="launcher_auto_fill_empty_title">Täytä tyhjät ruudukot automaattisesti</string>
   <string name="launcher_title">Aloitusnäyttö &amp; Viimeaikaiset</string>
   <string name="launching_cit">Käynnistetään CIT</string>
-  <string name="launching_pho">Käynnistetään puhelimen tietoja, odota hetki.</string>
+  <string name="launching_pho">Käynnistetään puhelimen tietoja…</string>
   <string name="launching_rep">Raportoidaan…</string>
   <string name="layout_size_exhuge">XXL</string>
   <string name="layout_size_exhuge_text">Valtava</string>
@@ -2809,10 +2813,10 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="night_display_temperature_title">Voimakkuus</string>
   <string name="night_display_text">Yövalo tekee näytöstä keltasävyisen. Sen avulla näytön katselu heikossa valossa on helpompaa ja saatat nukahtaa helpommin.</string>
   <string name="night_display_title">Yövalo</string>
-  <string name="night_light">Yövalo</string>
-  <string name="night_light_brightness">Yövalon kirkkaus</string>
-  <string name="night_light_color">Yövalon väri</string>
-  <string name="night_light_summary">Minimoi taustavaloa heikosti valaistussa ympäristössä siirtyäksesi yövalotilaan</string>
+  <string name="night_light">Yötila</string>
+  <string name="night_light_brightness">Yötilan kirkkaus</string>
+  <string name="night_light_color">Yötilan värilämpötila</string>
+  <string name="night_light_summary">Ottaaksesi Yötilan käyttöön, minimoi näytön kirkkautta heikosti valaistussa ympäristössä.</string>
   <string name="no">Ei</string>
   <string name="no_application">Ei mitään</string>
   <string name="no_applications">Ei sovelluksia.</string>
@@ -3203,6 +3207,21 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="priority_storage_settings_summary">Jos SD-korttia ei tunnisteta, tiedostosi tallennetaan laitteesi sisäiseen tallennustilaan automaattisesti.</string>
   <string name="priority_storage_summary">Valitse minne tiedostot tallennetaan</string>
   <string name="priority_storage_title">Tallennustilan asetukset</string>
+  <string name="privacy_authorize_dialog_agree">Hyväksyn</string>
+  <string name="privacy_authorize_dialog_exit">Poistu</string>
+  <string name="privacy_authorize_dialog_message">%1$s vaatii, että luet ja hyväksyt %2$s. Sovellus täytyy yhdistää verkkoon toimiakseen normaalisti. Hyväksytkö?</string>
+  <string name="privacy_authorize_network_error">Yhdistä verkkoon ja yritä uudelleen.</string>
+  <string name="privacy_authorize_privacy_policy">Tietosuojakäytäntö</string>
+  <string name="privacy_authorize_revoke">Peruuta</string>
+  <string name="privacy_authorize_revoke_dialog_msg">Sen jälkeen, kun peruutat valtuutuksen, sovellus lopettaa tietojen keräämisen ja kaikki siihen liittyvät tiedot poistetaan palvelimilta. Tämä saattaa tehdä sovelluksesta käytännössä käyttökelvottoman. Peruutetaanko valtuutus joka tapauksessa?</string>
+  <string name="privacy_authorize_revoke_dialog_title">Valtuutuksen peruuttaminen</string>
+  <string name="privacy_authorize_revoke_failed">Valtuutuksen peruuttaminen epäonnistui</string>
+  <string name="privacy_authorize_revoke_success">Valtuutuksen peruuttaminen onnistui</string>
+  <string name="privacy_authorize_revoke_time">Peruuta (%1$d s)</string>
+  <string name="privacy_authorize_revoke_title">Valtuutus &amp; peruuttaminen</string>
+  <string name="privacy_authorize_revoking">Revoking authorization…</string>
+  <string name="privacy_authorize_success">Granted authorization successfully</string>
+  <string name="privacy_authorize_title">Granting authorization</string>
   <string name="privacy_close_dlg_button_ok">Poista käytöstä</string>
   <string name="privacy_close_dlg_msg">Kun Yksityisyydensuojan salasana ei ole käytössä, käyttämäsi kohteet ei ole enää suojattuna.</string>
   <string name="privacy_close_dlg_title">Huomio</string>
@@ -5313,7 +5332,7 @@ Napauta plussaa lisätäksesi sanoja."</string>
   <string name="wifi_hotspot_off_subtext">Internetyhteyttä tai sisältöä ei jaeta muiden laitteiden kanssa.</string>
   <string name="wifi_hotspot_title">Kirjaudutaanko sisään yhteyttä varten?</string>
   <string name="wifi_in_airplane_mode">Lentokonetilassa</string>
-  <string name="wifi_info_reconnect">Yhteyden muodostaminen epäonnistui, ole hyvä ja yritä uudelleen!</string>
+  <string name="wifi_info_reconnect">Yhdistäminen epäonnistui, yritä uudelleen.</string>
   <string name="wifi_install_credentials">Asenna varmenteet</string>
   <string name="wifi_ip_address">IP-osoite</string>
   <string name="wifi_ip_address_hint">192.168.1.128</string>

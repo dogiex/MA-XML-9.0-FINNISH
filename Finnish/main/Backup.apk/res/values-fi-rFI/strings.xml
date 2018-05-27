@@ -499,7 +499,8 @@ Pidä laitteet lähellä toisiaan."</string>
   <string name="trans_show_qr_code_tips">Skannaa QR-koodi vanhalla laitteella</string>
   <string name="trans_start_failed_message">"Lähetystä ei voitu aloittaa, kokeile uudelleen tai käynnistä laite uudelleen."</string>
   <string name="trans_start_failed_title">"Lähetystä ei voitu aloittaa"</string>
-  <string name="trans_time_format_second">Vähemmän kuin 1 minuutti</string>
+  <string name="trans_switching_5g">Vaihdetaan 5GHz Wi-Fi-verkkoon…</string>
+  <string name="trans_time_format_second">Alle 1 minuutti</string>
   <string name="trans_time_spent">"
 Aikaa käytetty: %s"</string>
   <string name="trans_wait_trans_data">"Yhdistetty vanhaan laitteeseen.

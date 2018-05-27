@@ -24,8 +24,6 @@
   <string name="HIPS_Perm_External_Storage_Desc">Lisätä ja poistaa tiedostoja laitteen sisäiseltä muistilta</string>
   <string name="HIPS_Perm_Location">Hae sijainnin tietoja</string>
   <string name="HIPS_Perm_Location_Desc">hae tarkka sijainti (GPS ja verkko-pohjautuva)</string>
-  <string name="HIPS_Perm_MMS">Luoda ja poistaa MMS viestejä</string>
-  <string name="HIPS_Perm_MMS_Desc">luoda ja poistaa multimediaviestejä</string>
   <string name="HIPS_Perm_Mobile_Connectivity">Muokata mobiilidatayhteyttä</string>
   <string name="HIPS_Perm_Mobile_Connectivity_Desc">ottaa mobiilidatan käyttöön tai poistaa käytöstä</string>
   <string name="HIPS_Perm_PhoneID">Hae laitteen tietoja</string>
@@ -40,8 +38,6 @@
   <string name="HIPS_Perm_Read_MMS_Desc">lukea multimediaviestejäsi</string>
   <string name="HIPS_Perm_Read_SMS">Lukea SMS viestejä</string>
   <string name="HIPS_Perm_Read_SMS_Desc">lukea SMS viestejäsi</string>
-  <string name="HIPS_Perm_SMS">Luoda ja poistaa SMS viestejä</string>
-  <string name="HIPS_Perm_SMS_Desc">luoda ja poistaa SMS viestejä</string>
   <string name="HIPS_Perm_SendMMS">Lähettää MMS viestejä</string>
   <string name="HIPS_Perm_SendMMS_Desc">suoraan lähettää multimediaviestejä</string>
   <string name="HIPS_Perm_SendSMS">Lähettää SMS viestejä</string>
