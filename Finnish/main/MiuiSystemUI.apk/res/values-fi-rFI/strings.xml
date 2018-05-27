@@ -317,7 +317,7 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="ext_media_badremoval_notification_title">USB-muisti poistettiin odottamatta</string>
   <string name="ext_media_checking_notification_message">Etsitään virheitä.</string>
   <string name="ext_media_checking_notification_title">Valmistellaan USB-muistia</string>
-  <string name="ext_media_mountable_notification_message">Avaa Mi Tiedostohallinnassa napauttamalla.</string>
+  <string name="ext_media_mountable_notification_message">Avaa Tiedostohallinnassa napauttamalla</string>
   <string name="ext_media_mountable_notification_title">USB-muisti yhdistetty</string>
   <string name="ext_media_nofs_notification_message">USB-muisti on tyhjä tai sen tiedostojärjestelmä ei ole tuettu.</string>
   <string name="ext_media_nofs_notification_title">Tyhjä USB-muisti</string>
@@ -365,8 +365,8 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="how_to_back_home">Siirry Aloitusnäytölle</string>
   <string name="how_to_switch_recents">Avaa Viimeaikaiset sovellukset</string>
-  <string name="how_to_use_drawer">Kuinka sovelluksien pyyhkäisytoimintoa käytetään</string>
-  <string name="how_to_use_drawer_summary">Pyyhkäise vasemmasta ylänurkasta</string>
+  <string name="how_to_use_drawer">Kuinka avataan pyyhkäisyvalikko</string>
+  <string name="how_to_use_drawer_summary">Pyyhkäise oikealle näytön yläosassa</string>
   <string name="how_to_use_fsg">Voit suorittaa näitä toimintoja käyttäen eleitä</string>
   <string name="ime_security_warning">Tämä syöttötapa saattaa kerätä kaiken kirjoittamasi tekstin, mukaan luettuna henkilökohtaiset tiedot kuten salasanat ja luottokortin numerot. Se on lähtöisin sovelluksesta %1$s. Käytetäänkö tätä syöttötapaa?</string>
   <string name="immediately_destroy_activities">Älä säilytä toimintoja</string>
@@ -578,6 +578,7 @@ Saat lisätietoja järjestelmänvalvojalta."</string>
   <string name="quick_settings_wifi_detail_empty_text">Wi-Fi verkkoja ei saatavilla</string>
   <string name="quick_settings_wifi_label">Wi-Fi</string>
   <string name="quick_settings_wifi_nearby">Valitse lähellä oleva verkko</string>
+  <string name="recent_cannot_dock">Usean näytön tilaan ei voi siirtyä Toisessa tilassa</string>
   <string name="recent_dock_tip">Valitse sovelluksia napauttamalla</string>
   <string name="recent_task_app_info_text">Tietoa</string>
   <string name="recent_task_cleaning">Tyhjennetään sovelluksia…</string>

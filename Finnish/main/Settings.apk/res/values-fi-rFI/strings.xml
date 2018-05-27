@@ -2298,10 +2298,6 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="lock_screen_notifications_summary_show">Näytä kaikki ilmoitukset ja niiden sisällöt</string>
   <string name="lock_screen_notifications_summary_show_profile">Näytä kaikki työilmoitussisältö</string>
   <string name="lock_screen_notifications_title">Lukitusnäytöllä</string>
-  <string name="lock_screen_secure_after_timeout_immediately_never">Älä vaadi salasanaa ikinä</string>
-  <string name="lock_screen_secure_after_timeout_immediately_summary">Salasana vaaditaan heti</string>
-  <string name="lock_screen_secure_after_timeout_summary">Salasana vaaditaan, kun aikaa on kulunut: %1$s</string>
-  <string name="lock_screen_secure_after_timeout_title">Vaadi salasana</string>
   <string name="lock_screen_signature_summary">Tämä viesti näytetään Lukitusnäytöllä</string>
   <string name="lock_screen_signature_title">Lukitusnäytön omistajatiedot</string>
   <string name="lock_screen_unlock_show">Ohita Lukitusnäyttö</string>

@@ -68,9 +68,13 @@
   <string name="button_abandon">Hylkää muutokset</string>
   <string name="button_add_city">Lisää kaupunki</string>
   <string name="button_allow">OK</string>
-  <string name="button_confirm">Salli</string>
-  <string name="button_exit">Poistu</string>
+  <string name="button_confirm">Hyväksyn</string>
+  <string name="button_exit">En hyväksy</string>
   <string name="button_not_allow">Peruuta</string>
+  <string name="button_settings_cancel">Peruuta</string>
+  <string name="button_settings_confirm">Peruuta valtuutus</string>
+  <string name="button_settings_confirm_to_revoke_msg">Et voi käyttää Sää-sovellusta valtuutuksen peruuttamisen jälkeen.</string>
+  <string name="button_settings_confirm_to_revoke_title">Peruutetaanko valtuutus?</string>
   <string name="button_sure_abandon">Hylätäänkö muutokset?</string>
   <string name="card_vote_item_vs">VS</string>
   <string name="change_alert">Tarkista verkkoyhteytesi ja yritä uudelleen</string>
@@ -103,6 +107,7 @@ Vedä alaspäin päivittääksesi tai tarkasta verkkoasetukset"</string>
   <string name="data_source_timezone">GMT%1$s</string>
   <string name="edit_alert_city_title">Hallitse hälytyksiä</string>
   <string name="edit_city">Muokkaa kaupunkia</string>
+  <string name="eu_region_version_first_start_network_msg">Käyttämällä tätä tuotetta hyväksyt, että Xiaomi kerää, käsittelee ja käyttää henkilötietojasi mukaan lukien hakemiesi kaupunkien koordinaatteja ja muita tietoja lueteltu Tietosuojakäytännössämme. Tutustu Tietosuojakäytäntöömme lukeaksesi, kuinka keräämme ja käsittelemme tietoja. Napauttamalla \"Hyväksyn\", hyväksyt Xiaomin %1$s ja %2$s.</string>
   <string name="feedback_heavy_rain">Rankka sade</string>
   <string name="feedback_heavy_snow">Lunta</string>
   <string name="feedback_light_rain">Kevyt sade</string>
@@ -148,7 +153,6 @@ Vedä alaspäin päivittääksesi tai tarkasta verkkoasetukset"</string>
   <string name="international_details_title">Tiedot</string>
   <string name="international_details_uv_index_title">UV INDEKSI</string>
   <string name="international_details_wind_title">TUULI</string>
-  <string name="international_version_first_start_network_msg">Käyttämällä tätä tuotetta, hyväksyt Xiaomin %1$s. Tämä sovellus tarvitsee yhdistää verkkoon ja lähettää antamasi kaupungin tiedot, jotta kyseisen kaupungit säätiedot voidaan noutaa. Hyväksy jatkaaksesi.</string>
   <string name="it_is_going_to_rain">Alkaa sataa</string>
   <string name="locate_fail_detail_err">"Laitetta ei voitu paikantaa
 Lisää kaupunki manuaalisesti napauttamalla"</string>
@@ -187,12 +191,19 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="particulate_matter_exceeded">Korkea</string>
   <string name="particulate_matter_not_exceeded">Normaali</string>
   <string name="particulate_matter_serious_exceeded">Liian korkea</string>
+  <string name="policy_settings">Käyttöehdot</string>
   <string name="precipitation_degree_five">Rankka</string>
   <string name="precipitation_degree_four">Voimakas</string>
   <string name="precipitation_degree_one">Ei mitään</string>
   <string name="precipitation_degree_three">Kohtalainen</string>
   <string name="precipitation_degree_two">Kevyt</string>
   <string name="pressure_connect">%1$s mb</string>
+  <string name="privacy_grant_failed">Valtuutusta ei voitu hyväksyä. Odota minuutti tai kaksi ja yritä uudelleen.</string>
+  <string name="privacy_grant_or_revoke_settings">Valtuutuksen hyväksyminen &amp; peruuttaminen</string>
+  <string name="privacy_grant_success">Valtuutus hyväksyttiin onnistuneesti</string>
+  <string name="privacy_revoke_failed">Valtuutusta ei voitu peruuttaa. Odota minuutti tai kaksi ja yritä uudelleen.</string>
+  <string name="privacy_revoke_success">Valtuutus peruutettiin onnistuneesti</string>
+  <string name="privacy_settings">Tietosuojakäytäntö</string>
   <string name="pull_fresh_updated">Päivitettiin onnistuneesti</string>
   <string name="pull_fresh_updating">Päivitetään…</string>
   <string name="radar_cloud_image_title">Tutkakartta</string>

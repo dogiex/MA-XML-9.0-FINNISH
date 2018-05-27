@@ -247,6 +247,7 @@ Aktivoi tilisi seuraamalla
   <string name="passport_error_user_name">Syöttämäsi käyttäjänimi ei kelpaa.</string>
   <string name="passport_error_verify_activator_phone_message">Varmista, että SIM-korttisi palvelu on aktivoitu ja laitteesi on yhdistetty verkkoon.</string>
   <string name="passport_error_verify_activator_phone_title">Puhelinnumeroa ei voitu vahvistaa</string>
+  <string name="passport_extra_gdpr_license">Luomalla Mi Tilisi hyväksyt, että Xiaomi kerää, käsittelee ja käyttää henkilötietojasi mukaan lukien tietoja (esim. vahvistuskoodit), Toisen tilan tietoja (esim. tietoja kuinka käytät Toista tilaa, Ensimmäisessä- ja Toisessa tilassa käytettävät ID:t) sekä muita Tietosuojakäytännössämme määriteltyjä tietoja. Tutustu Tietosuojakäytäntöömme ja lue lisää, kuinka käsittelemme ja käytämme henkilötietoja.</string>
   <string name="passport_failed_to_send_activate_email">Aktivointisähköpostin lähettäminen epäonnistui</string>
   <string name="passport_find_password_on_web_msg">Palauta salasanasi osoitteessa account.mi.com.</string>
   <string name="passport_forget_password">Unohtuiko salasana</string>
@@ -441,9 +442,9 @@ Aktivoi tilisi seuraamalla
   <string name="turning_off_find_device">Poistetaan Etsi laite -toiminto käytöstä…</string>
   <string name="unbind_sns_description">Kun katkaiset yhteyden tähän tiliin, et voi enää käyttää %s tilitietojasi Mi Tilin kirjautumiseen.</string>
   <string name="unlock_help_notice">"Apua:
-· Jos unohdit salasanasi, mene id.mi.com palauttaaksesi sen.
-· Jos et voi avata laitteen lukitusta, mene i.mi.com ja sammuta Laitteen etsintä.
-· Lukituksen avausnumerosi: %s"</string>
+1. Jos unohdit salasanasi, mene id.mi.com palauttaaksesi sen.
+2. Jos et voi avata laitteen lukitusta, mene i.mi.com ja sammuta Laitteen etsintä.
+3. Lukituksen avausnumerosi: %s"</string>
   <string name="update_contacts">Päivitä yhteystiedot</string>
   <string name="update_email_address_dialog_message">Sinun täytyy vahvistaa henkilöllisyytesi ennen kuin voit päivittää sähköpostin.</string>
   <string name="update_email_address_dialog_title">Päivitä Sähköposti</string>

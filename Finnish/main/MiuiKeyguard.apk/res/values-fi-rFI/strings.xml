@@ -137,9 +137,9 @@
   <string name="phone_locked_forget_password_suggesstion_two_content">Valitse \"Nollaa &amp; Resetoi\" ja odota, kunnes laite käynnistyy uudelleen.</string>
   <string name="phone_locked_forget_password_suggesstions_title">Kuinka poistan kaikki tiedot?</string>
   <string name="phone_locked_string">Puhelin on lukittu</string>
-  <string name="reset_device_detail_tip">Ladataan langattomasti, varmista hyvä latausnopeus kohdistamalla puhelimen alusta.</string>
-  <string name="reset_device_tip">Ladataan hitaasti, aseta puhelin uudelleen</string>
-  <string name="unlock_camera_steady">Ole paikoillasi</string>
+  <string name="reset_device_detail_tip">Aseta laitteesi oikein langattomalle laturille varmistaaksesi korkean latausnopeuden.</string>
+  <string name="reset_device_tip">Lataaminen on hidasta. Aseta laitteesi uudelleen.</string>
+  <string name="unlock_camera_steady">Pidä vakaana</string>
   <string name="unlock_failed">Sisäinen virhe</string>
   <string name="unlock_failed_face_not_found">Tunnistetaan</string>
   <string name="unlock_string">Avaa</string>
@@ -149,7 +149,8 @@
   <string name="unlockscreen_recharging_message">Ladataan %d%%</string>
   <string name="wallpaper_global_des_drop_down_notify_text">Vapauta nähdäksesi tiedot</string>
   <string name="wireless_charge_dialog_cancel">Peruuta</string>
-  <string name="wireless_charge_dialog_title">Asento on huono, muokkaa asentoa</string>
-  <string name="wireless_charge_stop">Langaton lataaminen pysäytetty</string>
+  <string name="wireless_charge_dialog_title">Aseta laitteesi uudelleen langattomalla laturilla</string>
+  <string name="wireless_charge_stop">Lopetettiin langaton lataaminen</string>
+  <string name="wireless_current_charge">Nykyinen Lataus</string>
   <string name="wrong_password">Virheellinen salasana</string>
 </resources>
