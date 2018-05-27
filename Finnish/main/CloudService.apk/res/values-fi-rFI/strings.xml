@@ -96,6 +96,8 @@ Edellinen varmuuskopiointi: %2$s"</string>
   <string name="find_device_error_password_changed">Tilin salasana on viimeaikoina vaihdettu.</string>
   <string name="find_device_error_server">Palvelinvirhe</string>
   <string name="find_device_error_unknown">Tuntematon virhe.</string>
+  <string name="find_device_gdpr_prompt">Ottamalla Etsi laite -toiminto käyttöön, hyväksyt meidän \"Tietosuojakäytännön\". Jos sinun täytyy peruuttaa valtuutus, poista tämä ominaisuus käytöstä.</string>
+  <string name="find_device_gdpr_prompt_policy_doc_name">\"Tietosuojakäytäntö\"</string>
   <string name="find_device_notice_p1">Mene</string>
   <string name="find_device_notice_p3">"paikantaaksesi, lukitaksesi, tai palauttaaksesi puhelin tehdasasetuksille.
 Jos vaihdat SIM-kortteja, toinen tekstiviesti lähetetään automaattisesti tämän toiminnon uudelleenaktivoimiseksi."</string>
@@ -365,6 +367,7 @@ Käytä eri tiliä."</string>
   <string name="micloud_notif_content_master_depend_wifi">Yhdistä ensin Wi-Fi-verkkoon.</string>
   <string name="micloud_notif_content_memory_low">Tallennustilaa ei ole tarpeeksi.</string>
   <string name="micloud_notif_content_multi_user_error">Kirjauduit samalla tilillä, kuin Ensimmäisessä tilassa.</string>
+  <string name="micloud_notif_content_privacy_reopen_failed">Näytä tiedot</string>
   <string name="micloud_notif_content_sync_finish">Tili</string>
   <string name="micloud_notif_content_sync_not_finish">Tiedot</string>
   <string name="micloud_notif_content_sync_with_off">Napauta synkronoidaksesi laitteesi nyt.</string>
@@ -374,11 +377,21 @@ Käytä eri tiliä."</string>
   <string name="micloud_notif_title_master_depend_wifi">Mi Pilveen ei voi synkronoida</string>
   <string name="micloud_notif_title_memory_low">Mi Pilveen ei voi synkronoida</string>
   <string name="micloud_notif_title_multi_user_error">Mi Pilveen ei voi synkronoida</string>
+  <string name="micloud_notif_title_privacy_reopen_failed">Pilvipalvelun käynnistäminen epäonnistui</string>
   <string name="micloud_notif_title_sync_finish">Synkronoitu</string>
   <string name="micloud_notif_title_sync_not_finish">Joitakin kohteita ei ole synkronoitu</string>
   <string name="micloud_notif_title_sync_progress">Synkronoidaan</string>
   <string name="micloud_notif_title_sync_with_off">Synkronoi Mi Pilveen</string>
-  <string name="micloud_other_product_price">Vertaa hintoja</string>
+  <string name="micloud_other_product_price">Vertaile hintoja</string>
+  <string name="micloud_privacy_cloud_off">Synkronointi pois käytöstä</string>
+  <string name="micloud_privacy_cloud_sync">Aktivoi Mi Pilvi</string>
+  <string name="micloud_privacy_explanation">Aktivoi Mi Pilvi valtuutuksen käyttöönoton jälkeen</string>
+  <string name="micloud_privacy_licence_agreed">Hyväksy Mi Pilven Tietosuojakäytäntö.</string>
+  <string name="micloud_privacy_licence_privacy_policy">Tietosuojakäytäntö</string>
+  <string name="micloud_privacy_more">Lisää</string>
+  <string name="micloud_privacy_warning_button">Takaisin</string>
+  <string name="micloud_privacy_warning_content">Mi Pilveä ei voi aktivoida. Yritä myöhemmin uudelleen.</string>
+  <string name="micloud_privacy_warning_title">Huomio</string>
   <string name="micloud_proceed">Jatka</string>
   <string name="micloud_request_permission_confirm">Selvä</string>
   <string name="micloud_request_permission_content">Mi Pilvi tarvitsee datan synkronointiin käyttöoikeuksia. Salli Mi Pilvelle pääsy Kalenteriin, Yhteystietoihin, Mi Tiliin, SIM-kortin tilaan, puheluhistoriaan ja viesteihin.</string>
