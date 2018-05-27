@@ -140,7 +140,6 @@
   <string name="app_manager_app_info_label">Sovelluksen tiedot</string>
   <string name="app_manager_app_info_name">Sovelluksen nimi</string>
   <string name="app_manager_app_info_pkg">APK nimi</string>
-  <string name="app_manager_app_lock">Sovelluslukko</string>
   <string name="app_manager_app_power">"Akun käyttö: "</string>
   <string name="app_manager_app_storage">"Tallennustila: "</string>
   <string name="app_manager_app_traffic">"Datan käyttö: "</string>
@@ -203,7 +202,6 @@
   <string name="app_manager_net_mobile">Mobiilidata</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
   <string name="app_manager_not_allow">Ei</string>
-  <string name="app_manager_not_support_uninstall">Näitä sovelluksia ei voi poistaa</string>
   <string name="app_manager_notify_bar">Merkit</string>
   <string name="app_manager_notify_floating">Kelluvat ilmoitukset</string>
   <string name="app_manager_notify_keyguard">Lukitusnäyttö</string>
@@ -235,10 +233,10 @@
   <string name="app_manager_show_all_apps_opened">Näytetään tulokset kaikista sovelluksista…</string>
   <string name="app_manager_show_detail_infos">Näytä kaikki</string>
   <string name="app_manager_start_by">Käynnistäjä %s</string>
-  <string name="app_manager_support_uninstall">Voit poistaa nämä sovellukset</string>
   <string name="app_manager_system_mobile_disable">Poista data käytöstä</string>
   <string name="app_manager_title">Hallitse sovelluksia</string>
   <string name="app_manager_total_size">Yhteensä</string>
+  <string name="app_manager_uninstall">Poista</string>
   <string name="app_manager_uninstall_protected_dlg_msg">Järjestelmäsovelluksien poistaminen saattaa estää joitakin MIUI komponentteja toimimasta normaalisti. Poistetaanko siitä huolimatta?</string>
   <string name="app_manager_uninstall_protected_dlg_title">Järjestelmäsovelluksien poistaminen</string>
   <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Vastaavat kaksoissovellukset poistetaan sovellustietojen kanssa.</string>

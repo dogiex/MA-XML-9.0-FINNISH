@@ -60,7 +60,6 @@
         <item>Käyttötiheys</item>
         <item>Käytetty tallennustila</item>
         <item>Asennusaika</item>
-        <item>Sovellukset, jotka voidaan poistaa</item>
     </string-array>
     <string-array name="sort_title">
         <item>Lajittele tilan mukaan</item>
@@ -68,7 +67,6 @@
         <item>Lajittele käyttötiheyden mukaan</item>
         <item>Lajittele käytetyn tallennustilan mukaan</item>
         <item>Lajittele asennusajan mukaan</item>
-        <item>Näytä ensin sovellukset, jotka voidaan poistaa</item>
     </string-array>
     <string-array name="title_app_info">
         <item>Asennuslähde</item>

@@ -325,6 +325,7 @@ katsoaksesi avoimia välilehtiä muilta laitteilta."</string>
   <string name="go_supermarket_title">Enemmän sovelluksia, nopeampi ja vähemmän datan käyttöä App Storessa</string>
   <string name="gold_medals">Kultamitalit</string>
   <string name="google_bookmarks">Google</string>
+  <string name="green_kid_block_request">Vanhemmat on estänyt verkkosivuston vierailun.</string>
   <string name="have_sent_bookmark_to_home_screen">Lisätty Aloitusnäytölle</string>
   <string name="hint">Vihje</string>
   <string name="history">Historia</string>
@@ -1218,6 +1219,9 @@ Selaimen täytyy yhdistää internetiin toimiakseen normaalisti. Sinun täytyy h
   <string name="voice_connect_network">Verkkoyhteyttä ei voitu muodostaa.</string>
   <string name="voice_description">Äänihaku</string>
   <string name="voice_network_connection">Äänihaku tarvitsee internetyhteyden toimiakseen normaalisti.</string>
+  <string name="voice_open_permission_baidu">Mene Asetuksiin ja anna Puhetunnistuksen Asetuksille äänen käyttöoikeus</string>
+  <string name="voice_open_permission_xiaoai">Mene Asetuksiin ja anna Xiaoai Äänimoottorille äänen käyttöoikeus</string>
+  <string name="voice_open_permission_xunfei">Mene Asetuksiin ja anna Ääniasetuksille äänen käyttöoikeus</string>
   <string name="voice_search_permission">Äänihaku tarvitsee käyttää mikrofoniasi toimiakseen normaalisti.</string>
   <string name="voice_semantic_analysis">Selain pystyy analysoimaan semantiikan, kun olet sallinut sen yhdistää.</string>
   <string name="voice_start_description">Aloita</string>
