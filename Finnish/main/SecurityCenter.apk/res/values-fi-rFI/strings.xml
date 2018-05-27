@@ -679,7 +679,13 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="dlg_remove_whitelist">Poistetaanko nämä numerot poikkeuksista?</string>
   <string name="dlg_remove_whitelist_ing">Poistetaan…</string>
   <string name="dlg_remove_whitelist_title">Poista</string>
+  <string name="dlg_sec_network_unavailable">Tietoturva-sovellus ei voi päivittää, koska olet rajoittanut internetyhteyden. Sallitko Tietoturvan yhdistää internetiin?</string>
   <string name="dlg_title_not_open_stranger_identify">Soittajan ID</string>
+  <string name="dlg_update_btn_contiue">Jatka</string>
+  <string name="dlg_update_btn_open">Hyväksyn</string>
+  <string name="dlg_update_data_content">Et ole yhteydessä Wi-Fi-verkkoon. Mobiilidatan käyttäminen saattaa lisätä lisäkustannuksia. Jatketaanko siitä huolimatta?</string>
+  <string name="dlg_update_date_title">Varoitus</string>
+  <string name="dlg_update_updating">Päivitetään…</string>
   <string name="dlg_white_address_antispam_message">Lisätäänkö tämä sijainti poikkeuksiin?</string>
   <string name="dlg_white_antispam_hint">Poikkeukset</string>
   <string name="dlg_white_antispam_message">Lisätäänkö tämä numero poikkeuksiin?</string>
@@ -1777,6 +1783,7 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="sms_prefix">Etuliitteen estolista</string>
   <string name="sms_service">Estä palvelutekstiviestit</string>
   <string name="sms_smart_engine_update">Päivitä tekstiviestisuodatin automaattisesti</string>
+  <string name="sms_smart_engine_update_now">Päivitä</string>
   <string name="sms_stranger_block">Estä tekstiviestit muukalaisilta</string>
   <string name="sorted_dialog_title">Lajittele</string>
   <string name="sp_background_risk_dialog_summary">, tarkista ja korjaa maksuongelmat.</string>
@@ -2173,6 +2180,10 @@ Tässä ohjeet:
   <string name="toast_root_apply_reject">Root oikeus kiellettiin sovellukselta %s</string>
   <string name="toast_set_success">Otettiin käyttöön onnistuneesti</string>
   <string name="toast_show_notification">Kiinnitettiin ilmoitusalueelle</string>
+  <string name="toast_update_fail">Päivittäminen epäonnistui</string>
+  <string name="toast_update_nonetwork">Verkkoyhteyttä ei voitu muodostaa</string>
+  <string name="toast_update_notneed">Ajan tasalla</string>
+  <string name="toast_update_success">Päivitettiin onnistuneesti</string>
   <string name="top_game">Top pelit</string>
   <string name="top_load_fail_detail">Ei voitu ladata, yritä uudelleen napauttamalla</string>
   <string name="top_no_network_detial">Ei voitu ladata, tarkista verkkoyhteys ja yritä uudelleen</string>

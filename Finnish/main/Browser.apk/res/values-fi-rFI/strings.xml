@@ -13,6 +13,7 @@
   <string name="action_menu_account_not_login_hint">Kirjaudu sisään, jotta voit synkronoida Mi Pilveen</string>
   <string name="action_menu_bookshelf">Kirjahylly</string>
   <string name="action_menu_current_version">Nykyinen versio</string>
+  <string name="action_menu_download">Lataa</string>
   <string name="action_menu_request_desktop_site">Verkkosivustojen käyttöoikeus</string>
   <string name="action_menu_request_desktop_site_off">Verkkosivustojen käyttöoikeus pois käytöstä</string>
   <string name="action_menu_request_desktop_site_on">Verkkosivustojen käyttöoikeus käytössä</string>
@@ -33,6 +34,7 @@
   <string name="action_menu_text_nightmode">Yötila</string>
   <string name="action_menu_text_nightmode_off">Yötila</string>
   <string name="action_menu_text_nightmode_on">Yötila</string>
+  <string name="action_menu_text_readmode">Lukutila</string>
   <string name="action_menu_text_refresh">Päivitä</string>
   <string name="action_menu_text_setting">Asetukset</string>
   <string name="action_menu_text_share">Jaa</string>
@@ -140,6 +142,7 @@
   <string name="clear_search_history">Tyhjennä historia</string>
   <string name="clear_video_download">Tyhjennä videot</string>
   <string name="clip_dialog_title">Avataanko kopioitu URL-osoite?</string>
+  <string name="close">Sulje</string>
   <string name="close_ads_choice_no">Hyväksy</string>
   <string name="close_ads_choice_yes">Estä</string>
   <string name="close_ads_message">Estetäänkö tämän sivuston sisältö? Voit nähdä sivustot, jotka olet estänyt menemällä Asetukset &gt; Lisäasetukset &gt; Estetyt sivustot.</string>
@@ -275,6 +278,9 @@ katsoaksesi avoimia välilehtiä muilta laitteilta."</string>
   <string name="enable_geolocation_confirm_message">Poistamalla sijaintipalvelut käytöstä vaikuttaa saamiisi suosituksiin.</string>
   <string name="enter_developer_mode">Siirry kehittäjätilaan</string>
   <string name="enter_incongnito_mode">Siirry näkymättömään tilaan</string>
+  <string name="enter_the_group_name">Anna ryhmän nimi</string>
+  <string name="enter_the_password">Anna salasana</string>
+  <string name="enter_the_user_name">Anna käyttäjänimi</string>
   <string name="error_console_eval_button_text">Arvioi</string>
   <string name="error_console_eval_text_hint">Arvioi JavaScript</string>
   <string name="error_console_header_text_maximized">JavaScript konsoli</string>
@@ -987,6 +993,7 @@ Muista, että lataamasi tiedostot ja lisäämäsi kirjanmerkin silti tallennetaa
   <string name="save_image_success">Kuva tallennettu</string>
   <string name="save_page_capture_tip">Avaa ilmoitusalue, josta näet ottamasi kuvakaappauksen.</string>
   <string name="save_page_capture_to_camera">Kuvakaappaus tallennettu</string>
+  <string name="save_to_bookmark">Tallenna kirjanmerkkeihin</string>
   <string name="save_to_camera">Tallenna kameraan</string>
   <string name="save_to_camera_failed">Kuvaa ei voida tallentaa</string>
   <string name="save_to_camera_success">Tallennettu kameraan</string>
@@ -1065,7 +1072,9 @@ Selaimen täytyy yhdistää internetiin toimiakseen normaalisti. Sinun täytyy h
   <string name="ssl_untrusted">Varmenteen myöntäjä ei ole luotettava taho.</string>
   <string name="ssl_warnings_header">Sivuston suojausvarmenteessa on ongelmia.</string>
   <string name="start_save_page_capture">Tallennetaan kuvakaappausta…</string>
+  <string name="storage_close">Sulje</string>
   <string name="storage_internal">Sisäinen tallennustila</string>
+  <string name="storage_open">Avaa</string>
   <string name="storage_permission_request_toast">Lataukset tarvitsee pääsyn laitteesi tallennustilaan</string>
   <string name="storage_sd_card">SD-kortti</string>
   <string name="storage_usb">USB tallennustila</string>

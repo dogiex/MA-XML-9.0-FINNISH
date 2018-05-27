@@ -39,7 +39,7 @@
   <string name="component_title_wallpaper">Taustakuva</string>
   <string name="current_using_desktop_wallpaper_text">Aloitusnäyttö</string>
   <string name="current_using_lockscreen_wallpaper_text">Lukitusnäyttö</string>
-  <string name="current_version_incompatible">Tämä teema ei ole yhteensopiva</string>
+  <string name="current_version_incompatible">Ei yhteensopiva</string>
   <string name="deleting">Poistetaan…</string>
   <string name="description_author">Tekijä</string>
   <string name="description_designer">Suunnittelija</string>
@@ -136,6 +136,7 @@
   <string name="online_precust_abstract">Abstrakti</string>
   <string name="online_precust_animal">Eläin</string>
   <string name="online_precust_asphalt">Asfaltti</string>
+  <string name="online_precust_black_gold">Rodium</string>
   <string name="online_precust_building">Rakennus</string>
   <string name="online_precust_chubby_dreamer">Pullea uneksija</string>
   <string name="online_precust_creative">Luova</string>
@@ -214,6 +215,7 @@
   <string name="resource_comment_upload_not_logined">Sinun täytyy kirjautua ensin</string>
   <string name="resource_comment_upload_success">Kommenttisi käydään lyhyesti läpi ja näytetään sen jälkeen.</string>
   <string name="resource_continue">Seuraava</string>
+  <string name="resource_current_using_title">Nykyiset resurssit</string>
   <string name="resource_data_empty">Ei kohteita täällä.</string>
   <string name="resource_default">Oletus soittoääni</string>
   <string name="resource_default_name">Resurssi</string>
@@ -260,6 +262,8 @@
   <string name="resource_exchange_wrong_format_by_server">Koodia ei ole varmennettu. Varmista, että syötit sen oikein.</string>
   <string name="resource_expand_full_text">Laajenna</string>
   <string name="resource_failed_to_load_list">Teemojen lataaminen epäonnistui.</string>
+  <string name="resource_free_trial_15_days">Kokeile 15 päivää ilmaiseksi</string>
+  <string name="resource_free_use_last_one_day">Kokeiluaikasi päättyy huomenna.</string>
   <string name="resource_get_auth_checking">Varmennetaan…</string>
   <string name="resource_get_auth_exceed_max_limit_tips">10 laitetta on jo valtuutettu tälle laitteelle</string>
   <string name="resource_get_auth_exceed_max_limit_title">Valtuutettujen laitteiden määrä on ylitetty</string>
@@ -271,7 +275,9 @@
   <string name="resource_import_failed">Tuonti epäonnistui</string>
   <string name="resource_import_successful">Valmis</string>
   <string name="resource_importing">Tuodaan…</string>
+  <string name="resource_is_off_shelf">Ei käytettävissä</string>
   <string name="resource_list_title">Viimeksi valittu</string>
+  <string name="resource_local_picker">Valitse paikallinen soittoääni</string>
   <string name="resource_menu_refresh">Päivitä</string>
   <string name="resource_mute">Ei mitään</string>
   <string name="resource_my">Laitteessa</string>
@@ -281,7 +287,9 @@
   <string name="resource_no_result">Tuloksia ei löytynyt</string>
   <string name="resource_notification_default">Ilmoitukset</string>
   <string name="resource_on_trial">Kokeilu: %1$s</string>
+  <string name="resource_on_use">Käytetään: %1$s</string>
   <string name="resource_online">Online</string>
+  <string name="resource_online_picker">Valitse online-soittoääni</string>
   <string name="resource_pack_confirm">Vaikka olet jo ostanut %1$d osaa tästä teemasta, on silti halvempaa ostaa koko teema.</string>
   <string name="resource_pack_discount_info">Säästöt: %1$s</string>
   <string name="resource_pack_get_auth_has_been_undercarriaged">Tämä teema ei ole enää saatavilla.</string>
@@ -322,6 +330,7 @@
   <string name="resource_select_boot_audio_confirm">Valitaanko tämä käynnistyksen ääni?</string>
   <string name="resource_select_notification_audio_confirm">Valitaanko tämä hälytyksen ääni?</string>
   <string name="resource_select_ringtone_audio_confirm">Valitaanko tämä soittoääni?</string>
+  <string name="resource_select_ringtone_confirm">Valitaanko tämä soittoääni?</string>
   <string name="resource_selected">Kiinnostavat</string>
   <string name="resource_send">Lähetä</string>
   <string name="resource_server_alert_dialog_title">Tulemme tuota pikaa takaisin…</string>
@@ -339,8 +348,11 @@
   <string name="resource_title_rank">Suosituimmat</string>
   <string name="resource_title_select_ringtone">Valitse ääni</string>
   <string name="resource_title_subject">Kiinnostavat</string>
+  <string name="resource_trial_15_days_end_title">15 päivän kokeilujakso päättyi</string>
+  <string name="resource_trial_15_days_immediately">Kokeile 15 päivää heti</string>
   <string name="resource_trial_days">(kokeilu: %1$d pv)</string>
   <string name="resource_trial_days_hours">(kokeilu: %1$d pv %2$d t)</string>
+  <string name="resource_trial_end_change">Muuta</string>
   <string name="resource_trial_end_message">Kokeiluaika %1$s vanhentunut. Voit ostaa sen, jos tykkäsit siitä.</string>
   <string name="resource_trial_end_purchase">Osta</string>
   <string name="resource_trial_end_restore">Lopeta kokeilu</string>
@@ -448,15 +460,18 @@
   <string name="title_my_audio_resource">Soittoääneni</string>
   <string name="title_my_miwallpaper_resource">Live taustakuvani</string>
   <string name="title_my_wallpaper_resource">Taustakuvani</string>
+  <string name="title_system_audio_notification_resource">Järjestelmän ilmoitukset</string>
   <string name="title_system_audio_resource">Järjestelmän soittoäänet</string>
   <string name="title_system_wallpaper_resource">Järjestelmän taustakuvat</string>
   <string name="to_activate_the_account">Aktivoi Mi Tilisi nyt</string>
   <string name="uid_change_dialog_message">Olet poistanut päivitykset. Käynnistä laite uudelleen, jotta voit käyttää teemoja.</string>
   <string name="uid_change_dialog_ok">Selvä</string>
   <string name="uid_change_dialog_title">Käynnistä laite</string>
+  <string name="up_to_the_end">Siinä kaikki tältä erää. Palaa takaisin myöhemmin.</string>
   <string name="wallpaper_apply">Aseta</string>
   <string name="wallpaper_crop">Rajaa</string>
   <string name="wallpaper_decoded_error">Taustakuvan lataaminen epäonnistui</string>
+  <string name="wallpaper_detail_load_page_no_network">Yhdistä verkkoon ja yritä uudelleen.</string>
   <string name="wallpaper_scroll_type_tips">Taustakuvan vierintä</string>
   <string name="wallpaper_set_as_both">Aseta molempiin</string>
   <string name="wallpaper_set_as_destop">Aseta Aloitusnäytölle</string>
