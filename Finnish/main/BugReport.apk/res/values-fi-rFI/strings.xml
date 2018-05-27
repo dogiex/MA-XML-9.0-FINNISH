@@ -252,7 +252,6 @@
   <string name="permission_granted">%1$s käyttöoikeus myönnetty</string>
   <string name="pic_not_exist">Tätä kuvaa ei ole olemassa</string>
   <string name="plus_one_submit_dialog_content">Palautteesi, sisältäen liitetiedot ja virhelokit lähetetään MIUI:n palvelimille. Se saattaa sisältää henkilökohtaista tietoa ja sijaintitietosi.</string>
-  <string name="submit_dialog_content_global">Palautteesi, sisältäen liitetiedot (jos liitetty) ja virhelokit (voit poistaa valinnat niistä valintalaatikoista joita et tahdo lähettää) lähetetään MIUI:n palvelimille ja rajoitetulle MIUI:n keskustelupalstan kehittäjille analysoitavaksi ja tuleviin yhteydenottoihin. Lokitiedot saattaa sisältää henkilokohtaisia tietoja ja sijaintitietosi.</string>
   <string name="plus_one_submit_dialog_not_show_again">Muista valinta</string>
   <string name="post_miui_bbs_failed">Foorumille postitus epäonnistui</string>
   <string name="pull_to_refresh_pull_label">Vedä alas päivittääksesi</string>
@@ -274,9 +273,10 @@
   <string name="section_err_type">Virheen tyyppi</string>
   <string name="section_screenshot">Kuvakaappaus</string>
   <string name="select_system_app_tag">Valitse ongelma</string>
-  <string name="submit_dialog_cancel">Peruuta</string>
-  <string name="submit_dialog_confirm">Lähetä</string>
+  <string name="submit_dialog_cancel">En hyväksy</string>
+  <string name="submit_dialog_confirm">Hyväksyn</string>
   <string name="submit_dialog_content">Palautteesi, liitetiedostot ja lokitiedostot lähetetään MIUI:n palvelimille. Se saattaa sisältää henkilökohtaisia tietoja.</string>
+  <string name="submit_dialog_content_global">Palautteesi, sisältäen liitetiedot (jos liitetty) ja virhelokit (voit poistaa valinnat niistä valintalaatikoista joita et tahdo lähettää) lähetetään MIUI:n palvelimille ja rajoitetulle MIUI:n keskustelupalstan kehittäjille. Palstojesi ja keskustelupalstan aktiviteettitietosi myös kerätään analysoitavaksi ja tuleviin yhteydenottoihin. Lokitiedot saattaa sisältää henkilokohtaisia tietoja ja sijaintitietosi.</string>
   <string name="submit_dialog_title">Lähetä raportti</string>
   <string name="submit_feedback_info_failed">Raporttia ei voitu lähettää</string>
   <string name="suggestion_description">Lisää selitys tähän</string>

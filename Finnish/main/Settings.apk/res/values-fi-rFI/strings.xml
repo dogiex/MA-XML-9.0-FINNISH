@@ -3884,6 +3884,8 @@ Näytön kiinnittäminen:
   <string name="search_xiaomi_account">Mi Tili;Mi Tilin ID;Tili;Tilin ID</string>
   <string name="search_xspace">Kaksoissovellus;Kaksoissovellukset;Kaksi sovellusta;Kloonaa sovellus;Kloonaa sovelluksia;Sovelluksen klooni;Sovelluksen kloonit;Kaksi tiliä;2 tiliä</string>
   <string name="second_space">Toinen tila</string>
+  <string name="secondspace_category">Toinen tila</string>
+  <string name="secondspace_delete_space_title">Poista Toinen tila</string>
   <string name="secure_keyguard_business_title">Aseta näytön lukitus</string>
   <string name="secure_lock_encryption_warning">Laite ei käytä näytön lukitusta tiedon salauksen parantamiseen, koska otit käytettävyyspalvelun käyttöön.</string>
   <string name="security_dashboard_summary">Näytön lukitus, sormenjälki</string>

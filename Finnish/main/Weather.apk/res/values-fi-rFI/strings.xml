@@ -74,6 +74,7 @@
   <string name="button_sure_abandon">Hylätäänkö muutokset?</string>
   <string name="card_vote_item_vs">VS</string>
   <string name="change_alert">Tarkista verkkoyhteytesi ja yritä uudelleen</string>
+  <string name="china_version_first_start_network_msg">Käyttämällä tätä tuotetta, hyväksyt Xiaomin %1$s ja %2$s. Tämä sovellus tarvitsee internetyhteyden ja sijaintisi käyttöluvan toimiakseen normaalisti.</string>
   <string name="city_exceeded_warning">Voit lisätä enintään 10 kaupunkia</string>
   <string name="commercial">Mainos</string>
   <string name="common_loading_text">Odota hetki…</string>
@@ -147,6 +148,7 @@ Vedä alaspäin päivittääksesi tai tarkasta verkkoasetukset"</string>
   <string name="international_details_title">Tiedot</string>
   <string name="international_details_uv_index_title">UV INDEKSI</string>
   <string name="international_details_wind_title">TUULI</string>
+  <string name="international_version_first_start_network_msg">Käyttämällä tätä tuotetta, hyväksyt Xiaomin %1$s. Tämä sovellus tarvitsee yhdistää verkkoon ja lähettää antamasi kaupungin tiedot, jotta kyseisen kaupungit säätiedot voidaan noutaa. Hyväksy jatkaaksesi.</string>
   <string name="it_is_going_to_rain">Alkaa sataa</string>
   <string name="locate_fail_detail_err">"Laitetta ei voitu paikantaa
 Lisää kaupunki manuaalisesti napauttamalla"</string>
@@ -155,7 +157,7 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="menu_location">Sijainnit</string>
   <string name="menu_speaker">Äänilähetys</string>
   <string name="mi_pad2">latte</string>
-  <string name="minute_rain">Minuuttiennustus</string>
+  <string name="minute_rain">Sade-ennuste</string>
   <string name="minute_rain_after_an_hour">Tunnin kuluttua</string>
   <string name="minute_rain_after_two_hour">Kahden tunnin kuluttua</string>
   <string name="minute_rain_feedback_subtitle">Kerro meille, minkälainen sää on.</string>

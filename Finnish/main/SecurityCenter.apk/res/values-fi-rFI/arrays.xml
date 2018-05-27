@@ -8,6 +8,7 @@
     <string-array name="date_of_traffic">
         <item>"Eilen "</item>
         <item>"Tänään "</item>
+        <item>"Viime kuussa "</item>
         <item>"Tässä kuussa "</item>
     </string-array>
     <string-array name="date_of_traffic_prefix_cmcc">
@@ -18,14 +19,17 @@
     <string-array name="date_of_traffic_prefix">
         <item>"Eilen: "</item>
         <item>"Tänään: "</item>
+        <item>"Viime kuussa "</item>
         <item>"Tässä kuussa: "</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>Eilen (data)</item>
         <item>Tänään (data)</item>
+        <item>Viime kuussa (data)</item>
         <item>Tässä kuussa (data)</item>
         <item>Eilen Wi-Fi</item>
         <item>Tänään Wi-Fi</item>
+        <item>Viime kuussa Wi-Fi</item>
         <item>Tässä kuussa Wi-Fi</item>
     </string-array>
     <string-array name="traffic_type">
