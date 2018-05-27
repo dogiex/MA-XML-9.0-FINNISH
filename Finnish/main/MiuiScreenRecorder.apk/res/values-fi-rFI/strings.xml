@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Näytön Nauhoittaja</string>
-  <string name="app_notification_info">Näytön Nauhoittaja työskentelee taustalla</string>
+  <string name="app_name">Näytön nauhoittaja</string>
+  <string name="app_notification_info">Näytön nauhoittaja työskentelee taustalla</string>
   <string name="app_notification_title">Näytön nauhoittaja</string>
   <string name="auto_stop_title">Video nauhoitettiin onnistuneesti</string>
   <string name="battery_not_allowed" formatted="false">Nauhoittaminen ei onnistu akun ollessa alle 3%. Varmista, että akku on vähintään 20% ladattu.</string>
@@ -18,8 +18,8 @@
   <string name="date_day"/>
   <string name="date_month">/</string>
   <string name="date_year">/</string>
-  <string name="description_content">Näytön nauhoittaja tarjoaa järjestelmätason nauhoitusominaisuuksia. Tämä toiminto tarkoittaa, että hylkäät näytön nauhoitusominaisuuden. Vahvista jatkaminen.</string>
-  <string name="description_title">Tietoja Näytön Nauhoittajasta</string>
+  <string name="description_content">Näytön nauhoittaja tarjoaa järjestelmätason nauhoitusominaisuuksia. Et voi käyttää Näytön nauhoittajaa jos jatkat. Vahvista jatkaaksesi.</string>
+  <string name="description_title">Tietoja Näytön nauhoittajasta</string>
   <string name="deselect_all">Poista valinnat</string>
   <string name="error_open_file_failed_no_app_found">Sovellusta ei löytynyt tämän tiedoston avaamista varten</string>
   <string name="frames">Ruudunpäivitysnopeus</string>
@@ -50,7 +50,7 @@
   <string name="quit_recording">Poistu Näytön nauhoituksesta</string>
   <string name="recording_failure">Nauhoittaminen epäonnistui, aloita alusta</string>
   <string name="recording_max_size">Nauhoittaminen lopetettiin ja tallennettiin, koska videotiedosto saavutti sen kokorajoituksen. Aloita nauhoittaminen siitä, mihin jäit, jos et ole vielä valmis.</string>
-  <string name="recording_without_mic">Mikrofoni on käytössä ja mikrofonin ääntä ei voi nauhoittaa</string>
+  <string name="recording_without_mic">Mikrofoni on käytössä ja sen ääntä ei voi nauhoittaa juuri nyt.</string>
   <string name="resolution">Resoluutio</string>
   <string name="resolution_summary">Korkean resoluution videot näyttävät terävämmiltä</string>
   <string name="screen_orientation">Suunta</string>
