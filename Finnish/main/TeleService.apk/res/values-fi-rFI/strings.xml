@@ -476,6 +476,13 @@ Siirtonopeus"</string>
   <string name="cfb_title">Siirrä kun varattuna</string>
   <string name="cfnrc_title">Siirrä kun ei saatavilla</string>
   <string name="cfnrc_title_cta">Siirrä kun ei saatavilla</string>
+  <string name="cfnry_time_fifteen_sec">15 sekuntia</string>
+  <string name="cfnry_time_five_sec">5 sekuntia</string>
+  <string name="cfnry_time_setting_title">Aseta odotusaika</string>
+  <string name="cfnry_time_ten_sec">10 sekuntia</string>
+  <string name="cfnry_time_thirty_sec">30 sekuntia</string>
+  <string name="cfnry_time_twenty_five_sec">25 sekuntia</string>
+  <string name="cfnry_time_twenty_sec">20 sekuntia</string>
   <string name="cfnry_title">Siirrä kun ei vastata</string>
   <string name="cfu_title">Siirrä puhelut aina</string>
   <string name="change_data_preference_4g_only_prompt">Näyttää siltä, että sinulla on SIM-kortti, joka tukee vain 4G-verkkoa. Asetetaanko se oletukseksi mobiilidatalle?</string>
