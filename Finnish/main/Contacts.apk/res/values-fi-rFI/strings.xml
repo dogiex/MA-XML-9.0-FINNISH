@@ -823,7 +823,7 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="path_key_rebuild_t9_index_title">Järjestelmäsovellukset/Yhteystiedot/Järjestä yhteystietoja/Indeksoi tiedot uudelleen</string>
   <string name="path_key_sim_manage">Järjestelmäsovellukset/Yhteystiedot/Järjestä yhteystietoja/SIM-kortit</string>
   <string name="path_preference_contacts_filter">Järjestelmäsovellukset/Yhteystiedot/Yhteystietojen näyttäminen/Muokkaa yhteystietojen listoja</string>
-  <string name="path_quick_dial_setting">Järjestelmäsovellukset/Yhteystiedot/Pikavalinta</string>
+  <string name="path_quick_dial_setting">Järjestelmäsovellukset/Puhelin/Lisäasetukset/Pikavalinta</string>
   <string name="path_remove_duplicate">Järjestelmäsovellukset/Yhteystiedot/Järjestä yhteystietoja/Yhdistä yhteystietojen kaksoiskappaleet</string>
   <string name="path_share_visible_contacts">Järjestelmäsovellukset/Yhteystiedot/Tuonti ja vienti/Jaa näkyvät yhteystiedot</string>
   <string name="path_sim_capacity">Järjestelmäsovellukset/Yhteystiedot/SIM-kortin tallennustila</string>
@@ -881,6 +881,7 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="preference_contacts_display">Näkymän asetukset</string>
   <string name="preference_contacts_filter">Määritä yhteystietoluettelo</string>
   <string name="preference_contacts_more">Järjestele yhteystietoja</string>
+  <string name="preference_contacts_moresetting">Lisää</string>
   <string name="preference_dial_pad_touch_tone_default">Oletus</string>
   <string name="preference_dial_pad_touch_tone_human">Ihmisääni</string>
   <string name="preference_dial_pad_touch_tone_piano">Pianon ääni</string>
@@ -888,6 +889,7 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="preference_dial_pad_touch_tone_title">Numeronäppäimistön ääni</string>
   <string name="preference_display">Näyttäminen</string>
   <string name="preference_displayOptions">Näyttövalinnat</string>
+  <string name="preference_display_contact">Näyttövalinnat</string>
   <string name="preference_export">Vie</string>
   <string name="preference_import">Tuo</string>
   <string name="preference_import_export">Tuo/Vie</string>
@@ -1004,7 +1006,7 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="search_key_rebuild_t9_index_title">Järjestä;Yhteystiedot;t9</string>
   <string name="search_key_sim_manage">Järjestä;Yhteystiedot</string>
   <string name="search_preference_contacts_filter">Yhteystiedot;Näyttäminen</string>
-  <string name="search_quick_dial_setting">Yhteystiedot</string>
+  <string name="search_quick_dial_setting">Puhelin</string>
   <string name="search_remove_duplicate">Järjestä;Yhteystiedot</string>
   <string name="search_results_searching">Haetaan...</string>
   <string name="search_settings_description">Yhteystietojen nimet</string>

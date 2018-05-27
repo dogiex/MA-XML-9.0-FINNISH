@@ -443,7 +443,7 @@ Aktivoi tilisi seuraamalla
   <string name="unlock_help_notice">"Apua:
 · Jos unohdit salasanasi, mene id.mi.com palauttaaksesi sen.
 · Jos et voi avata laitteen lukitusta, mene i.mi.com ja sammuta Laitteen etsintä.
-· Kerro tämä lukituksen avausnumero asiakaspalveluun: %s"</string>
+· Lukituksen avausnumerosi: %s"</string>
   <string name="update_contacts">Päivitä yhteystiedot</string>
   <string name="update_email_address_dialog_message">Sinun täytyy vahvistaa henkilöllisyytesi ennen kuin voit päivittää sähköpostin.</string>
   <string name="update_email_address_dialog_title">Päivitä Sähköposti</string>

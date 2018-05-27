@@ -62,9 +62,9 @@
   <string name="fingerprint_add_text">Sormenjäljen käyttöliittymä päivitettiin. Lisää sormenjälkesi uudelleen.</string>
   <string name="fingerprint_add_title">Lisää sormenjälki</string>
   <string name="fingerprint_again_identified_msg">Sormenjälkesi on nyt aktiivinen. Käytä sitä avataksesi laitteesi tai syöttämällä salasanan.</string>
-  <string name="fingerprint_enter_second_psw_msg">Syötä Toisen tilan salasana laitteen uudelleenkäynnistymisen jälkeen käyttääksesi sormenjälkitunnistusta</string>
+  <string name="fingerprint_enter_second_psw_msg">Anna Toisen tilan salasana käyttääksesi sormenjälkitunnistusta</string>
   <string name="fingerprint_enter_second_psw_msg_oldman">Toiseen tilaan ei päästä, kun Lite-tila on käytössä</string>
-  <string name="fingerprint_enter_second_psw_title">Syötä Toisen tilan salasana</string>
+  <string name="fingerprint_enter_second_psw_title">Anna Toisen tilan salasana</string>
   <string name="fingerprint_not_identified_msg">Liian monta virheellistä yritystä. Anna salasana nyt tai yritä käyttää sormenjälkeäsi muutaman sekunnin kuluttua.</string>
   <string name="fingerprint_not_identified_msg_lock">Liian monta virheellistä yritystä. Anna salasana nyt.</string>
   <string name="fingerprint_not_identified_title">Anna salasana</string>

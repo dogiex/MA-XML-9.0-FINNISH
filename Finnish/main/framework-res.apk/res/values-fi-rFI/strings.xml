@@ -445,8 +445,8 @@ käyttäen numeroa %s"</string>
   <string name="floating_toolbar_close_overflow_description">Sulje ylivuoto</string>
   <string name="floating_toolbar_open_overflow_description">Lisäasetukset</string>
   <string name="force_close">OK</string>
-  <string name="foreground_service_app_in_background">%1$s on käynnissä taustalla</string>
-  <string name="foreground_service_apps_in_background">%1$d sovellusta on käynnissä taustalla.</string>
+  <string name="foreground_service_app_in_background">%1$s käyttää akkua</string>
+  <string name="foreground_service_apps_in_background">%1$d sovellusta käyttää akkua</string>
   <string name="foreground_service_tap_for_details">Katso lisätietoja akun ja datan käytöstä napauttamalla.</string>
   <string name="forward_intent_to_owner">Käytät sovellusta muulla kuin työprofiililla</string>
   <string name="forward_intent_to_work">Käytät sovellusta työprofiililla</string>
@@ -873,7 +873,7 @@ Yritä uudelleen %2$d sekunnin kuluttua."</string>
   <string name="notification_channel_developer">Kehittäjien viestit</string>
   <string name="notification_channel_device_admin">Laitteen järjestelmänvalvonta</string>
   <string name="notification_channel_emergency_callback">Hätäpuhelujen takaisinsoittotila</string>
-  <string name="notification_channel_foreground_service">Sovelluksia käynnissä taustalla</string>
+  <string name="notification_channel_foreground_service">Akkua kuluttavat sovellukset</string>
   <string name="notification_channel_mobile_data_alert">Mobiilidatailmoitukset</string>
   <string name="notification_channel_network_alert">Ilmoitukset</string>
   <string name="notification_channel_network_alerts">Verkkoilmoitukset</string>
