@@ -510,6 +510,7 @@ Siirtonopeus"</string>
   <string name="clir_choices_hide_number">Piilota numero</string>
   <string name="clir_choices_network_default">Verkon oletus</string>
   <string name="clir_choices_show_number">Näytä numero</string>
+  <string name="close">Poista käytöstä</string>
   <string name="close_dialog">OK</string>
   <string name="close_profile">Sulje</string>
   <string name="cloud_antispam_title">Tunnista tuntemattomat numerot</string>
@@ -1274,6 +1275,9 @@ Laitteesi lukitaan automaattisesti jos yrityksesi menee vielä väärin"</string
   <string name="preferred_phone_account">Ensisijainen puhelutili</string>
   <string name="private_num">Salainen numero</string>
   <string name="progress_dialog_exiting_ecm">Poistutaan hätäpuhelujen takaisinsoittotilasta</string>
+  <string name="prompt_to_turnoff_volte_when_failed">VoLTE-palvelut ei ole käytettävissä. Poista VoLTE käytöstä soittaaksesi.</string>
+  <string name="prompt_to_turnoff_volte_when_supp_service">Palvelu ei ole käytettävissä. Poista VoLTE käytöstä Asetuksissa.</string>
+  <string name="prompt_when_turnon_volte_without_lte">LTE-verkkoja ei ole käytettävissä. Ottamalla VoLTE käyttöön saattaa se estää soittamasta normaaleja puheluita.</string>
   <string name="proxy_address">ProxyAddress</string>
   <string name="proxy_address_title">Lähettävän välityspalvelimen osoite</string>
   <string name="pstn_connection_service_label">Sisäiset SIM-kortit</string>
@@ -1650,7 +1654,9 @@ Ota yhteyttä operaattoriin, jos ongelma jatkuu."</string>
   <string name="volte_switch_not_support_summary">VoLTE-puhelut ei ole tuettu mobiilidata SIM-kortilla.</string>
   <string name="volte_switch_not_support_summary2">VoLTE-puhelut ei ole tuettu operaattorillasi.</string>
   <string name="volte_switch_summary">Käytä VoLTEa parantamaan ääni- ja videopuhelun laatua</string>
+  <string name="volte_switch_summary2">Vahvista, että operaattorisi tukee tätä ominaisuutta ennen sen käyttöönottamista. Muuten se saattaa vaikuttaa normaaleihin puheluihin.</string>
   <string name="volte_switch_title">VoLTE käytössä</string>
+  <string name="volte_tips_when_turn_on">China Telecom VoLTE-palvelut on käytössä vain alueilla, jossa on LTE-verkon kuuluvuus.</string>
   <string name="vpn_settings_not_available">Tämä käyttäjä ei voi käyttää VPN-asetuksia</string>
   <string name="vvm_unsupported_message_format">Viestin tyyppiä ei tueta. Kuuntele soittamalla numeroon %s.</string>
   <string name="wait_for_debugger">Odota vianetsintää</string>
