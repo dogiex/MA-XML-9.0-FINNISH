@@ -4572,6 +4572,8 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="testing_usage_stats">Käyttötiedot</string>
   <string name="testing_wifi_info">Wi-Fi tiedot</string>
   <string name="tether_and_hotspot_title">Jaettu yhteys ja kannettava hotspot</string>
+  <string name="tether_auto_disable_summary">Sulje hotspot automaattisesti kun yhdistettyjä laitteita ei ole</string>
+  <string name="tether_auto_disable_title">Sulje hotspot automaattisesti</string>
   <string name="tether_data_usage_limit">Kertakäyttöinen tiedonsiirtoraja</string>
   <string name="tether_data_usage_limit_summary">Tiedonsiirtoraja asetetaan seuraavalla kerralla, kun hotspot on käytössä</string>
   <string name="tether_devices_management_title">Hallitse laitteita</string>

@@ -549,7 +549,7 @@ Tämä toiminto salaa ja lähettää laitteesi ID-tunnuksen Mi:n palvelimille."<
   <string name="sync_sub_int_dspt">Lähtevä kansainvälinen tekstiviesti saatetaan vaatia tämän palvelun aktivointia varten. Operaattorisi veloittaa sinua tästä viestistä.</string>
   <string name="title_back">Takaisin</string>
   <string name="title_reg">Luo Mi Tili</string>
-  <string name="total_space_upgraded_to">Tilaa yhteensä:%s</string>
+  <string name="total_space_upgraded_to">Tilaa yhteensä: %s</string>
   <string name="trying_to_connect_to_network">Yhdistetään verkkoon…</string>
   <string name="unactivated_user">Kirjauduttiin ulos</string>
   <string name="upgrade_space">Lisää tilaa</string>
