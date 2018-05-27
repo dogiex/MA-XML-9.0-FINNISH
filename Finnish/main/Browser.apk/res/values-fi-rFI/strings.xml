@@ -190,7 +190,7 @@
   <string name="current_version_pc">Pöytäkone</string>
   <string name="current_version_phone">Puhelin</string>
   <string name="custom_head_card_text">Usko aina, että jotain hienoa tulee tapahtumaan</string>
-  <string name="data_monitor">Data monitori</string>
+  <string name="data_monitor">Datan käytön monitorointi</string>
   <string name="data_monitor_dialog_message">Näyttää siltä, että jokin kuluttaa mobiilidataasi. Avaa aloitussivu lopettaaksesi tämän.</string>
   <string name="data_traffic_prompt_message">Videoiden selaaminen mobiilidatalla lisää datan käyttöä. Jos operaattorikohtainen tiedonsiirtoraja ylittyy, operaattori voi veloittaa sinulta lisäkustannuksia.</string>
   <string name="data_traffic_prompt_title">Tiedonsiirtovaroitus</string>
@@ -573,6 +573,7 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_device_slept">Connection was interrupted when your device went to sleep.</string>
   <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_network_changed">Connection was interrupted due to a network change.</string>
   <string name="mw_miuichromium_error_page_problem_file_not_found_reason_moved_or_deleted">"Couldn't find file. It might have been moved or deleted."</string>
+  <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">Tiedostoa ei voitu lukea. Tiedoston käyttöoikeus saattaa estää käytön.</string>
   <string name="mw_miuichromium_error_page_problem_gateway_timed_out">It took too long for %s0 to respond.</string>
   <string name="mw_miuichromium_error_page_problem_network_access_denied">Network access is restricted.</string>
   <string name="mw_miuichromium_error_page_problem_no_internet_connection_reason_proxy_error">"Couldn't connect to the Internet. Something is wrong with the proxy server, or proxy address is incorrect."</string>
@@ -780,7 +781,7 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="nav_screen_incognito_message">"Selaus- ja hakuhistoriasi ei tallennu Incognito-tilassa.
 Muista, että lataamasi tiedostot ja lisäämäsi kirjanmerkin silti tallennetaan."</string>
   <string name="nav_screen_incognito_title">Incognito-tila</string>
-  <string name="navigation_delete_all">pyyhkäise vasemmalle ja oikealle sulkeaksesi kaikki välilehdet</string>
+  <string name="navigation_delete_all">Pyyhkäise vasemmalle ja oikealle sulkeaksesi kaikki välilehdet</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">Peruuta</string>
   <string name="navigationbar_rightbutton_actiontext_go">Siirry</string>
   <string name="navigationbar_rightbutton_actiontext_search">Etsi</string>
@@ -819,7 +820,6 @@ Muista, että lataamasi tiedostot ja lisäämäsi kirjanmerkin silti tallennetaa
   <string name="popup_window_attempt">Sallitaanko tämän sivuston avata ponnahdusikkuna?</string>
   <string name="positive_confirm_message">Poista käytöstä siitä huolimatta</string>
   <string name="pref_accept_quicklink_push">Uutissyöte</string>
-  <string name="pref_accessibility">Esteettömyys</string>
   <string name="pref_accessibility_title">Esteettömyys</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Yleiset kirjainyhdistelmät voidaan syöttää yhdellä napautuksella osoitepalkissa</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Nopea URL-osoitteen syöttö</string>
@@ -1091,10 +1091,10 @@ Selaimen täytyy yhdistää internetiin toimiakseen normaalisti. Sinun täytyy h
   <string name="suggest_item_delete_text">Poista</string>
   <string name="suggest_open_app_failed">Tätä sovellusta ei voitu avata</string>
   <string name="suggestion_lottery_detail_pour">%s MUISTIO</string>
-  <string name="suggestion_lottery_detail_price">JOKAINEN MUISTIO %s YUAN</string>
-  <string name="suggestion_lottery_detail_text">TÄMÄ %s</string>
-  <string name="suggestion_lottery_period">NO.%s</string>
-  <string name="suggestion_translation_more">KÄÄNNÄ LISÄÄ</string>
+  <string name="suggestion_lottery_detail_price">JOKAINEN MUISTIO ON ARVOLTAAN %s YUAN</string>
+  <string name="suggestion_lottery_detail_text">TÄMÄ KIERROS %s</string>
+  <string name="suggestion_lottery_period">KIERROS %s</string>
+  <string name="suggestion_translation_more">NÄYTÄ LISÄÄ</string>
   <string name="switchText">KYLLÄ</string>
   <string name="switch_proxy_dialog_msg">Verkon kaappaus havaittu. Käytä MIUI:n sisäänrakennettua Tietoturva-sovellusta tai raportoi tämä matkapuhelinoperaattorillesi.</string>
   <string name="switch_proxy_dialog_title">Verkon kaappaus</string>
@@ -1116,10 +1116,10 @@ Selaimen täytyy yhdistää internetiin toimiakseen normaalisti. Sinun täytyy h
   <string name="transfer_prompt_0">Toista video</string>
   <string name="transfer_restart">Käynnistä uudelleen</string>
   <string name="translation_copy">Kopioi</string>
-  <string name="translation_more">Käännä lisää</string>
-  <string name="translation_query_error">Ei merkitystä</string>
-  <string name="translation_query_error_network">Kysely epäonnistui, tarkista verkkoyhteys</string>
-  <string name="translation_result_copy">Käännöksen tulos kopioitiin</string>
+  <string name="translation_more">Näytä lisää</string>
+  <string name="translation_query_error">Kääntäminen epäonnistui</string>
+  <string name="translation_query_error_network">Tietojen noutaminen epäonnistui. Yhdistä verkkoon ja yritä uudelleen.</string>
+  <string name="translation_result_copy">Kopioitiin leikepöydälle</string>
   <string name="unSwitchText">EI</string>
   <string name="undo">Kumoa</string>
   <string name="unknown_title">Tuntematon</string>
