@@ -244,6 +244,7 @@
   <string name="permission_granted">%1$s käyttöoikeus myönnetty</string>
   <string name="pic_not_exist">Tätä kuvaa ei ole olemassa</string>
   <string name="plus_one_submit_dialog_content">Palautteesi, sisältäen liitetiedot ja virhelokit lähetetään MIUI:n palvelimille. Se saattaa sisältää henkilökohtaista tietoa ja sijaintitietosi.</string>
+  <string name="submit_dialog_content_global">Palautteesi, sisältäen liitetiedot ja virhelokit lähetetään MIUI:n palvelimille. Lokitiedot saattaa sisältää henkilokohtaisia tietoja ja sijaintitietosi. Voit valita olla lähettämättä lokitietoja poistamalla valinnan valintalaatikosta.</string>
   <string name="plus_one_submit_dialog_not_show_again">Muista valinta</string>
   <string name="post_miui_bbs_failed">Foorumille postitus epäonnistui</string>
   <string name="pull_to_refresh_pull_label">Vedä alas päivittääksesi</string>
