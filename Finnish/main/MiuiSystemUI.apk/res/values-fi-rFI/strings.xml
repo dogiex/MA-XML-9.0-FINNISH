@@ -317,7 +317,7 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="ext_media_badremoval_notification_title">USB-muisti poistettiin odottamatta</string>
   <string name="ext_media_checking_notification_message">Etsitään virheitä.</string>
   <string name="ext_media_checking_notification_title">Valmistellaan USB-muistia</string>
-  <string name="ext_media_mountable_notification_message">Avaa ulkoinen media tiedostoselaimessa</string>
+  <string name="ext_media_mountable_notification_message">Avaa Mi Tiedostohallinnassa napauttamalla.</string>
   <string name="ext_media_mountable_notification_title">USB-muisti yhdistetty</string>
   <string name="ext_media_nofs_notification_message">USB-muisti on tyhjä tai sen tiedostojärjestelmä ei ole tuettu.</string>
   <string name="ext_media_nofs_notification_title">Tyhjä USB-muisti</string>

@@ -831,6 +831,17 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="family_member_invitation_text">Muu perheenjäsen</string>
   <string name="fast_share_auto_render">Kaunista</string>
   <string name="fast_share_auto_render_finish">Kaunistettu</string>
+  <string name="filter_bi_memory">Muisto</string>
+  <string name="filter_bi_mono">Mono</string>
+  <string name="filter_bi_pink">Pinkki</string>
+  <string name="filter_bi_portrait">Muotokuva</string>
+  <string name="filter_bi_retro">Retro</string>
+  <string name="filter_bi_romantic">Romanttinen</string>
+  <string name="filter_bi_strong">Vahva</string>
+  <string name="filter_bi_sunny">Aurinkoinen</string>
+  <string name="filter_bi_sweet">Makea</string>
+  <string name="filter_bi_warm">Lämmin</string>
+  <string name="filter_bi_young">Nuori</string>
   <string name="filter_category_film">Elokuva</string>
   <string name="filter_category_food">Ruoka</string>
   <string name="filter_category_portrait">Muotokuva</string>
@@ -966,6 +977,14 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="main_discard_negative_btn">Hylkää</string>
   <string name="main_discard_positive_btn">Tallenna &amp; Poistu</string>
   <string name="main_save_error_msg">Muutoksia ei voitu tallentaa virheen takia</string>
+  <string name="mark_myself_default_name">Minä</string>
+  <string name="mark_myself_suggestion_load_more">Tuo en ole minä</string>
+  <string name="mark_myself_suggestion_title">"Valitse kuvat, jossa on kasvosi
+mukauttaaksesi Galleriasi"</string>
+  <string name="mark_operation_failed">Lisääminen epäonnistui</string>
+  <string name="mark_operation_processing">Prosessoidaan…</string>
+  <string name="mark_operation_succeeded">Lisättiin onnistuneesti</string>
+  <string name="mark_people_ignore_info_message">Valitse ja pidä pohjassa henkilöiden kuvia lisätäksesi ne ryhmiin</string>
   <string name="megabyteShort">Mt</string>
   <string name="menu_album_new_album">Uusi albumi</string>
   <string name="menu_item_sort_date">Päiväys</string>

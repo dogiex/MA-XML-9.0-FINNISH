@@ -177,7 +177,7 @@ Tai et välttämättä voi siirtyä Toiseen tilaan Lukitusnäytöltä."</string>
   <string name="private_sms_show_title">Yksityiset viestit näytetään Toisessa tilassa</string>
   <string name="private_space_setting">Hallitse</string>
   <string name="public_app">Molemmat tilat</string>
-  <string name="qq_send">Lähetä QQ kavereille/laitteille</string>
+  <string name="qq_send">Lähetä QQ kavereille/tietokoneelle</string>
   <string name="removeSuccess">Poistettiin onnistuneesti</string>
   <string name="remove_second_space_msg">Kaikki Toisen tilan sovellustiedot menetetään Toisen tilan poistamisen jälkeen. Poistetaanko Toinen tila nyt?</string>
   <string name="remove_user_click_message">*Jos sinulla ei ole mitään tärkeitä kohteita Toisessa tilassa, %s</string>

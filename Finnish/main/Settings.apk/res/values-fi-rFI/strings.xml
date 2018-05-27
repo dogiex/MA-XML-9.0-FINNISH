@@ -2653,7 +2653,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="mtp_ptp_mode_summary">MTP- tai PTP-toiminto on käytössä</string>
   <string name="multi_touch_points_category_title">Moni-kosketuspisteet</string>
   <string name="multi_touch_points_preference">Tämä asetus tulee voimaan uudelleenkäynnistämisen jälkeen</string>
-  <string name="music_app_unavailable">Riippuen musiikkisovelluksesta, varmista että se on käytettävissä</string>
+  <string name="music_app_unavailable">Varmista, että Mi Musiikki-sovellus on käytettävissä.</string>
   <string name="music_audio_effect_optimize">Ääniasetukset</string>
   <string name="music_audio_effect_optimize_summary">Dirac, kuulokkeet ja muut ääniasetukset</string>
   <string name="music_audio_effect_optimize_summary_with_hd">Dirac, Hi-Fi, kuulokkeet ja muut ääniasetukset</string>
@@ -2679,7 +2679,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="music_dirac_mode_piston_color">Color Edition</string>
   <string name="music_dirac_mode_piston_standard">Standard Edition</string>
   <string name="music_dirac_mode_piston_youth">Youth Edition</string>
-  <string name="music_dirac_mode_reduction_noise">Mi Noise Cancelling (TypeC)</string>
+  <string name="music_dirac_mode_reduction_noise">Mi Noise Cancelling (Type-C)</string>
   <string name="music_dolby_mode_movie">Video</string>
   <string name="music_dolby_mode_music">Musiikki</string>
   <string name="music_dolby_mode_off">Pois päältä</string>
