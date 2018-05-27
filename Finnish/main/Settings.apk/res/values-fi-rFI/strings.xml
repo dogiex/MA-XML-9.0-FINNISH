@@ -3206,9 +3206,10 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="priority_storage_settings_summary">Jos SD-korttia ei tunnisteta, tiedostosi tallennetaan laitteesi sisäiseen tallennustilaan automaattisesti.</string>
   <string name="priority_storage_summary">Valitse minne tiedostot tallennetaan</string>
   <string name="priority_storage_title">Tallennustilan asetukset</string>
+  <string name="privacy_authorize_cloud_msg">Varmistaaksesi tilisi turvallisuuden, kirjaudu sisään osoitteeseen i.mi.com, jos haluat peruuttaa Mi Pilvi -palveluiden valtuutuksen (mukaan lukien synkronoinnin ja varmuuskopiot).</string>
   <string name="privacy_authorize_dialog_agree">Hyväksyn</string>
   <string name="privacy_authorize_dialog_exit">Poistu</string>
-  <string name="privacy_authorize_dialog_message">%1$s vaatii, että luet ja hyväksyt %2$s. Sovellus täytyy yhdistää verkkoon toimiakseen normaalisti. Hyväksytkö?</string>
+  <string name="privacy_authorize_dialog_message">&lt;Data&gt;"Käyttääksesi Mi Pilvi -palveluiden perusominaisuuksia, sinun täytyy hyväksyä, että Xiaomi kerää, käsittelee ja käyttää henkilökohtaisia tietojasi. Tutustu Tietosuojakäytäntöömme lukeaksesi lisää siitä, miten keräämme ja käsittelemme henkilötietojasi. Valitsemalla \"Hyväksyn\" tarkoittaa, että olet lukenut ja hyväksyt meidän &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Tietosuojakäytännön&amp;lt;/a&amp;gt; ja &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Käyttöehdot&amp;lt;/a&amp;gt;.&amp;#8203;"&lt;/Data&gt;</string>
   <string name="privacy_authorize_network_error">Yhdistä verkkoon ja yritä uudelleen.</string>
   <string name="privacy_authorize_privacy_policy">Tietosuojakäytäntö</string>
   <string name="privacy_authorize_revoke">Peruuta</string>
@@ -5184,6 +5185,9 @@ Napauta plussaa lisätäksesi sanoja."</string>
   <string name="wfd_menu_teardown">Lopeta</string>
   <string name="wfd_settings_description">Yhdistä näyttöön käyttäen Wi-Fiä</string>
   <string name="wfd_settings_title">Langaton näyttö</string>
+  <string name="wfd_status_dialog_disconnect">Katkaise yhteys</string>
+  <string name="wfd_status_dialog_message">Näytön sisältö näytetään toisessa näyttölaitteessa langattoman yhteyden kautta</string>
+  <string name="wfd_status_dialog_title">Langaton näyttö</string>
   <string name="wfd_wps_keypad">Käytä näppäimistöä</string>
   <string name="wfd_wps_pbc">Syötä PIN-koodi</string>
   <string name="whetstone_level_reboot">Tämä asetus tulee voimaan laitteen uudelleenkäynnistämisen jälkeen.</string>

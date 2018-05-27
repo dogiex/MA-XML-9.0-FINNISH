@@ -589,10 +589,16 @@
   <string name="data_usage_leisure_warning_body">Näytä datan käytön tiedot napauttamalla.</string>
   <string name="data_usage_leisure_warning_title">Hiljaisen ajan tiedonsiirtoraja</string>
   <string name="data_usage_limit_body">Ota mobiilidata käyttöön napauttamalla.</string>
+  <string name="data_usage_mobile_dialog_title">Olet käyttänyt jo 5 Gt mobiilidataa. MIUI poisti mobiilidatan käytöstä.</string>
   <string name="data_usage_mobile_limit_title">Mobiilidatan raja saavutettu</string>
   <string name="data_usage_no_total_package_body">Aseta tiedonsiirtoraja napauttamalla</string>
   <string name="data_usage_no_total_package_body_dual">Datarajaa ei asetettu sovellukselle %s</string>
   <string name="data_usage_no_total_package_title">Aseta tiedonsiirtoraja</string>
+  <string name="data_usage_protected_dialog_message">"MIUI poisti mobiilidatan käytöstä, jotta operaattorikohtaisia lisäkustannuksia ei syntyisi.
+
+Operaattorisi saattaa veloittaa sinulta lisäkustannuksia jos otat mobiilidatan uudelleen käyttöön."</string>
+  <string name="data_usage_protected_notify_message">MIUI poisti mobiilidatan käytöstä, jotta operaattorikohtaisia lisäkustannuksia ei syntyisi.</string>
+  <string name="data_usage_protected_notify_title">Olet käyttänyt jo 5 Gt mobiilidataa</string>
   <string name="data_usage_warning_body">Näytä datan käytön tiedot napauttamalla.</string>
   <string name="data_usage_warning_body_notify">Näytä tiedot napauttamalla</string>
   <string name="data_usage_warning_title_notify">Menit tiedonsiirtorajasi yli</string>
@@ -622,6 +628,12 @@
   <string name="dialog_remobe_luckymoney_cancle">Vanha</string>
   <string name="dialog_remobe_luckymoney_ok">Uusi</string>
   <string name="dialog_remove_luckymoney">Voit käyttää uutta sisäänrakennettua punaisen kirjekuoren avustajaa, tai jatka asennetun version käyttämistä. Kumpaa sinä suosit?</string>
+  <string name="dialog_restrict_all_mobile_summary">%s Mobiilidatayhteys rajoitetaan kaikille sovelluksille tämän jälkeen.</string>
+  <string name="dialog_restrict_all_mobile_title">Rajoita %s mobiilidatayhteys</string>
+  <string name="dialog_restrict_all_wlan_summary">Wi-Fi-yhteys rajoitetaan kaikille sovelluksille tämän jälkeen.</string>
+  <string name="dialog_restrict_all_wlan_title">Rajoita Wi-Fi-yhteys</string>
+  <string name="dialog_restrict_negative">Rajoita</string>
+  <string name="dialog_restrict_positive">Peruuta</string>
   <string name="dialog_roaming_message">Sallitaanko tämän sovelluksen käyttää mobiilidataa ulkomaan roaming-tilassa?</string>
   <string name="dialog_roaming_title">Ulkomaan roaming</string>
   <string name="dialog_text">Luo Aloitusnäytölle pikakuvake Pelien nopeuttajasta</string>
@@ -805,6 +817,7 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="gb_description_image_button_reject">Hylkää</string>
   <string name="gb_description_image_button_video_answer">Videopuhelu</string>
   <string name="gb_new_feature">Uusi ominaisuus</string>
+  <string name="gdpr_msg">&lt;Data&gt;"Käyttääksesi Tietoturva-sovelluksen perusominaisuuksia, sinun täytyy hyväksyä se, että Xiaomi kerää, prosessoi ja käyttää henkilökohtaisia tietoja mukaan lukien tietoja kuinka käytät Tietoturva-sovelluksen ominaisuuksia (esim. mobiilidatan käyttötilastoja, haittaohjelmia, sekä laitteesi perustiedot) ja muita tietoja, jotka mainitaan meidän &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Tietosuojakäytännössä&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="ge">个</string>
   <string name="get_sys_info">Haetaan tietoa…</string>
   <string name="gigabyteShort">Gt</string>

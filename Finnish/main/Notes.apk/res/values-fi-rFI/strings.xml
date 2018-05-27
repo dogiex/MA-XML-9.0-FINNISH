@@ -28,6 +28,7 @@
   <string name="db_downgrade_clear_date_reminder">Vaihtamalla toiseen MIUI versioon vaaditaan Muistion sovellustietojen tyhjentäminen. Ennen kuin teet sen, varmista että olet ottanut varmuuskopion muistiinpanoistasi Mi Pilveen.</string>
   <string name="default_folder_name">Nimeämätön kansio</string>
   <string name="delete_folder_dialog_tile">Poista kansio</string>
+  <string name="dialog_privacy_revoke_tips">Valtuutuksen peruuttamisen jälkeen sovellus lopettaa tietojen keräämisen ja kaikki siihen liittyvät tiedot poistetaan palvelimilta. Tämä saattaa tehdä sovelluksesta lähes käyttökelvottoman. Peruutetaanko valtuutus siitä huolimatta? Varmista tilisi turvallisuus kirjautumalla osoitteeseen i.mi.com ennen Mi Pilvi -palveluiden valtuutuksen peruuttamista.</string>
   <string name="dialog_share_as_pic">Jaa muistio kuvana</string>
   <string name="dialog_share_as_text">Jaa muistio tekstinä</string>
   <string name="dialog_share_title">Jaa muistio</string>
