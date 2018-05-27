@@ -311,4 +311,8 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="other">%d päivää jäljellä, kunnes Verkon nopeuden parantajan istunto päättyy. Uusi istuntosi välttääksesi ongelmia verkon nopeuden kanssa.</item>
         <item quantity="one">%d päivä jäljellä, kunnes Verkon nopeuden parantajan istunto päättyy. Uusi istuntosi välttääksesi ongelmia verkon nopeuden kanssa.</item>
     </plurals>
+    <plurals name="gb_signed_days_sum">
+        <item quantity="other">Kirjauduttu sisään %d päivää peräkkäin</item>
+        <item quantity="one">Kirjauduttu sisään %d kerran</item>
+    </plurals>
 </resources>

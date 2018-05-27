@@ -820,7 +820,20 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="gb_description_image_button_answer">Vastaa</string>
   <string name="gb_description_image_button_reject">Hylkää</string>
   <string name="gb_description_image_button_video_answer">Videopuhelu</string>
+  <string name="gb_get_gift_right_now">Kirjaudu sisään nyt</string>
+  <string name="gb_have_signed">Kirjauduttu sisään tänään</string>
+  <string name="gb_network_status_bad">Tapahtui yhteysvirhe.</string>
   <string name="gb_new_feature">Uusi ominaisuus</string>
+  <string name="gb_sign_gift">Kirjaudu sisään saadaksesi palkintoja</string>
+  <string name="gb_sign_gift_button_text">Vastaanota</string>
+  <string name="gb_sign_notification_summary">Kirjaudu sisään päivittäin vastaanottaaksesi Xunyou parannuksen</string>
+  <string name="gb_sign_notification_title">Paranna verkon nopeutta pelejä varten</string>
+  <string name="gb_signed_gift_loading_fail">Ei voitu ladata</string>
+  <string name="gb_signed_gift_loading_summary">Odota hetki…</string>
+  <string name="gb_signed_title">Kirjauduttu sisään tässä kuussa</string>
+  <string name="gb_xunyou_gift_type_one">Xunyou 1-päivän parannus</string>
+  <string name="gb_xunyou_gift_type_three">Xunyou 3-päivän parannus</string>
+  <string name="gb_xunyou_gift_type_two">Xunyou 2-päivän parannus</string>
   <string name="gdpr_msg">&lt;Data&gt;"Käyttääksesi Tietoturva-sovelluksen perusominaisuuksia, sinun täytyy hyväksyä se, että Xiaomi kerää, prosessoi ja käyttää henkilökohtaisia tietoja mukaan lukien tietoja kuinka käytät Tietoturva-sovelluksen ominaisuuksia (esim. mobiilidatan käyttötilastoja, haittaohjelmia, sekä laitteesi perustiedot) ja muita tietoja, jotka mainitaan meidän &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Tietosuojakäytännössä&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="ge">个</string>
   <string name="get_sys_info">Haetaan tietoa…</string>
@@ -852,8 +865,10 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="gs_game_shortcut">Paranna pelikokemustasi</string>
   <string name="gs_only_self_start_for_list">Rajoita taustalla olevia prosesseja säästääksesi akkua pelaamista varten</string>
   <string name="gs_open_game_booster">Paranna nopeutta</string>
+  <string name="gs_open_game_booster_summary">Paranna verkon nopeutta pelejä varten</string>
   <string name="gs_performance_mode">Suorituskykytila</string>
   <string name="gs_performance_mode_detail">Lisää suorittimen käyttöä varmistaaksesi saumattoman suorituskyvyn</string>
+  <string name="gs_sign_notification">Muistuta kirjautua sisään päivittäin klo 20</string>
   <string name="guide_get_operator_error">Väärä operaattori?</string>
   <string name="guide_operator_text">"Nykyinen operaattorisi: "</string>
   <string name="guide_quck_open">Ota käyttöön</string>
@@ -1758,6 +1773,10 @@ Voit ottaa tämän ominaisuuden käyttöön tai poistaa käytöstä milloin taha
   <string name="shutdown_cancel_reminder_detail2">Näyttää siltä, että olet pelaamassa peliä nyt. Ajastettu virrankatkaisu peruutetaan.</string>
   <string name="signal_exception_summary">Tällä alueella ei saada yhteyttä verkkoon.</string>
   <string name="signal_exception_title">Testaa signaalin voimakkuus</string>
+  <string name="signed_rule">Säännöt</string>
+  <string name="signed_rule_one">1. Kirjaudu sisään 10, 20, tai 28 päivää peräkkäin joka kuukausi saadaksesi Xunyou parannuksen 1, 2, tai 3 päiväksi.</string>
+  <string name="signed_rule_three">3. Päivät milloin kirjaudut sisään nollataan jokaisen kuukauden alussa. Jäljellä olevia päiviä ei jyrätä yli.</string>
+  <string name="signed_rule_two">2. Voit ansaita vain yhden Xunyou parannuksen kuukaudessa.</string>
   <string name="sim_location_diagnostic">Sijainnin diagnostiikka</string>
   <string name="sim_location_error_dialog_message">"SIM-kortti, jota käytät on sijainnista %1$s. Tämä on eri sijainti,
 jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?"</string>
