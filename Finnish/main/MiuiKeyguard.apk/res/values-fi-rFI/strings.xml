@@ -76,6 +76,7 @@
   <string name="incorrect_pukcode">Virheellinen PUK-koodi</string>
   <string name="input_password_after_boot_msg">Avaa laitteen lukitus syöttämällä salasana</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Puhelun aikana ei voi siirtyä Tilojen välillä</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Tilojen välillä ei voi siirtyä kun green guard on aktiivinen</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">Sinun täytyy siirtyä Ensimmäiseen tilaan laitteen uudelleenkäynnistyksen jälkeen</string>
   <string name="input_password_handle_sdcard_fs">Toiseen tilaan ei voi siirtyä Lukitusnäytöltä. Siirry Ensimmäisestä tilasta.</string>
   <string name="input_password_hint_text">Syötä salasana</string>

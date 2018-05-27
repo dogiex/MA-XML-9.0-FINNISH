@@ -392,8 +392,8 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_whitebalance_entry_manual">Manuaalinen</string>
   <string name="pref_camera_whitebalance_entry_measure">Mittaa</string>
   <string name="pref_camera_whitebalance_title">WB</string>
-  <string name="pref_camera_zoom_mode_entry_high_pixel">KORKEA PIKSELI</string>
-  <string name="pref_camera_zoom_mode_entry_standard">STANDARDI</string>
+  <string name="pref_camera_zoom_mode_entry_high_pixel">HEIKKO VALAISTUS</string>
+  <string name="pref_camera_zoom_mode_entry_standard">TAVALLINEN</string>
   <string name="pref_camera_zoom_mode_entry_tele">TELE</string>
   <string name="pref_camera_zoom_mode_entry_wide">LAAJA</string>
   <string name="pref_camera_zoom_mode_title">LINSSI</string>

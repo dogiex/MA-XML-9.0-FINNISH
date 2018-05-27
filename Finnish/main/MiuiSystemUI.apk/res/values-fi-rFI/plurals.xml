@@ -26,7 +26,7 @@
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Selkeä</item>
-        <item quantity="one">Aurinkoinen</item>
+        <item quantity="one">Selkeä</item>
     </plurals>
     <plurals name="accessibility_desc_weather_temperature">
         <item quantity="other">Sää %d astetta</item>

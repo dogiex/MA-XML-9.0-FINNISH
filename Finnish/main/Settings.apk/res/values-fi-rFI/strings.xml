@@ -1354,7 +1354,6 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="debug_networking_category">Yhteysominaisuudet</string>
   <string name="debug_view_attributes">Ota attribuuttinäkymän tarkistus käyttöön</string>
   <string name="decline_remote_bugreport_action">Hylkää</string>
-  <string name="defalut_launcher_title">Aloitusnäyttö &amp; Viimeaikaiset</string>
   <string name="default_admin_support_msg">Toiminto on poistettu käytöstä. Kysy lisätietoja organisaatiosi järjestelmänvalvojalta.</string>
   <string name="default_app">(Oletus)</string>
   <string name="default_apps_title">Oletus</string>
@@ -2176,7 +2175,6 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="launch_google_search">Käynnistä Google-avustaja</string>
   <string name="launch_recents">Käynnistä Viimeaikaiset</string>
   <string name="launch_voice_assistant">Käynnistä Ääniavustaja</string>
-  <string name="launcher_auto_fill_empty_title">Täytä tyhjät ruudukot automaattisesti</string>
   <string name="launcher_title">Aloitusnäyttö &amp; Viimeaikaiset</string>
   <string name="launching_cit">Käynnistetään CIT</string>
   <string name="launching_pho">Käynnistetään puhelimen tietoja…</string>
@@ -2287,7 +2285,6 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="lock_profile_wipe_warning_content_pattern">Jos annat väärän työprofiilin kuvion tällä yrityskerralla, työprofiilisi ja siihen liittyvät tiedot poistetaan tältä laitteelta.</string>
   <string name="lock_profile_wipe_warning_content_pin">Jos annat väärän työprofiilin PIN-koodin tällä yrityskerralla, työprofiilisi ja siihen liittyvät tiedot poistetaan tältä laitteelta.</string>
   <string name="lock_profile_wipe_warning_title">Viimeinen yritys</string>
-  <string name="lock_screen_cells_title">Lukitse Aloitusnäytön ulkoasu</string>
   <string name="lock_screen_intro_skip_dialog_text">Laitteen suojausominaisuuksia ei oteta käyttöön. Et voi estää puhelimesi käyttöä, jos se varastetaan tai katoaa.</string>
   <string name="lock_screen_intro_skip_dialog_text_frp">Laitteen suojausominaisuuksia ei oteta käyttöön. Et voi estää puhelimesi käyttöä, jos se varastetaan, katoaa tai sen tiedot tyhjennetään.</string>
   <string name="lock_screen_notifications_interstitial_message">Miten haluat ilmoitusten näkyvän, kun laite on lukittu?</string>
@@ -2604,7 +2601,6 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="miui_lab_taplus_desc">Pidä pohjassa kohteita käynnistääksesi toimintoja</string>
   <string name="miui_lab_taplus_title">Taplus</string>
   <string name="miui_master_clear_summary">Poistaa kaikki tiedot puhelimesta</string>
-  <string name="miui_screen_config_title">Aloitusnäytön asetukset</string>
   <string name="miui_updater">Järjestelmän päivitys</string>
   <string name="mms_breathing_light_color_title">Viestien valon väri</string>
   <string name="mms_breathing_light_freq_title">Viestien valon vilkkumistiheys</string>
@@ -2960,11 +2956,6 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="open_demo_mode_warning_message">Kun Demotila on päällä, tilapalkissa oleva kello pysähtyy ja akku ja signaalin kuvakkeet näyttävät täyttä. Voit muuttaa tätä poistamalla Demotilan käytöstä tai käynnistämällä laitteen uudelleen.</string>
   <string name="open_miui_optimization_title">Ota MIUI optimointi käyttöön</string>
   <string name="open_miui_optimization_warning_message">Laitteesi käynnistyy uudelleen, jotta muutokset tulevat voimaan.</string>
-  <string name="open_personal_assistant_dialog_btn_cancel">Peruuta</string>
-  <string name="open_personal_assistant_dialog_btn_confirm">Poista käytöstä</string>
-  <string name="open_personal_assistant_dialog_desc">Et voi käyttää Sovellusholvia ja saada sen päivityksiä. Poistetaanko käytöstä nyt?</string>
-  <string name="open_personal_assistant_dialog_title">Poista Sovellusholvi käytöstä</string>
-  <string name="open_personal_assistant_title">Ota Sovellusholvi käyttöön</string>
   <string name="open_wifi_connect_summary">Katso tiedot napauttamalla.</string>
   <string name="open_wifi_connect_title">Yhdistetty verkkoon %1$s</string>
   <string name="opening_paragraph_delete_profile_unknown_company">Tätä työprofiilia hallinnoi</string>
@@ -3419,7 +3410,6 @@ UT-käyttöliittymä: %5$s"</string>
   <string name="receiver_clean">Vapauta tallennustilaa</string>
   <string name="recent_location_requests_summary">Näytä sovellukset, jotka pyytävät käyttöoikeutta sijaintitiedoille</string>
   <string name="recent_location_requests_title">Sijaintipyyntö</string>
-  <string name="recents_config_title">Viimeaikaiset</string>
   <string name="recommend_item_1">Suojakuori</string>
   <string name="recommend_item_2">Mi Band</string>
   <string name="recommend_item_3">Virtapankki</string>
@@ -3547,7 +3537,6 @@ Tämä asetus vaikuttaa kaikkiin tämän puhelimen käyttäjiin."</string>
   <string name="screen">Näyttö</string>
   <string name="screen_button">Näyttöpainikkeet</string>
   <string name="screen_button_tips">Pyyhkäise alaspäin piilottaaksesi näyttöpainikkeet</string>
-  <string name="screen_cells_config_title">Aloitusnäytön ulkoasu</string>
   <string name="screen_color_and_optimize">Värit &amp; kontrasti</string>
   <string name="screen_color_and_optimize_disabled">Värien lämpötilansäätö ei toimi Lukutilassa</string>
   <string name="screen_color_temperature">Värit</string>
@@ -4070,7 +4059,6 @@ Huom. Tämän laitteen lukitusta ei voi avata sormenjäljellä. Saat lisätietoj
   <string name="show_ime">Näytä virtuaalinen näppäimistö</string>
   <string name="show_ime_summary">Pidä näytöllä, kun fyysinen näppäimistö on aktiivinen.</string>
   <string name="show_magnifier_when_input">Tekstin suurennuslasi</string>
-  <string name="show_mem_info_title">Näytä muistin tiedot</string>
   <string name="show_menu">Näytä valikko</string>
   <string name="show_non_rect_clip">Korjaa ei-suorakulmaisten leiketoimintojen virheet</string>
   <string name="show_notification_channel_warnings">Näytä ilmoituskanavan varoitukset</string>
@@ -4608,7 +4596,6 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="title_font_current2">Järjestelmäfontti</string>
   <string name="title_font_size">Kirjasimen koko</string>
   <string name="title_hdmi_color_calibration">Värikorjaus preset</string>
-  <string name="title_jeejen">Jeejen Aloitusnäyttö</string>
   <string name="title_layout_current">Tekstin koko</string>
   <string name="title_layout_current2">Tekstin koko</string>
   <string name="toast_lockscreen_glogin_empty_password">Syötä salasana</string>

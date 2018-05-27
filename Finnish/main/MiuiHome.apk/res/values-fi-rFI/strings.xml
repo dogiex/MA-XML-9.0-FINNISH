@@ -50,6 +50,7 @@
   <string name="apply">Aseta</string>
   <string name="apply_action">Aseta</string>
   <string name="apply_as_lock_screen">Aseta Lukitusnäytöksi</string>
+  <string name="lock_screen_cells_title">Lukitse Aloitusnäytön ulkoasu</string>
   <string name="apply_as_wallpaper">Aseta Aloitusnäytöksi</string>
   <string name="apply_both">Aseta molemmat</string>
   <string name="aqi_quality_index_dangerous">Vaarallinen</string>
@@ -81,6 +82,7 @@
   <string name="current_preview">Esikatselu</string>
   <string name="current_wallpaper">Nykyinen</string>
   <string name="custom_wallpaper_picker">Selaa</string>
+  <string name="defalut_launcher_title">Oletuskäynnistin</string>
   <string name="default_folder_title_claro">Claro</string>
   <string name="default_folder_title_game">Pelit</string>
   <string name="default_folder_title_microsoft">Microsoft</string>
@@ -180,7 +182,9 @@
   <string name="invalid_contact_shortcut">Yhteystieto ei kelpaa</string>
   <string name="is_setting_wallpaper_message">Asetetaan taustakuvaa…</string>
   <string name="is_system_wallpaper_message">Järjestelmän resursseja ei voi poistaa</string>
+  <string name="launcher_auto_fill_empty_title">Täytä tyhjät ruudukot</string>
   <string name="launcher_not_exist">Tapahtui virhe, mene takaisin Aloitusnäytölle ja yritä uudelleen.</string>
+  <string name="launcher_title">Aloitusnäyttö &amp; Viimeaikaiset</string>
   <string name="like">Suosikki</string>
   <string name="liked">Lisätty suosikkeihin</string>
   <string name="loading_desktop">Odota hetki…</string>
@@ -213,6 +217,7 @@
   <string name="menu_wallpaper">Taustakuva</string>
   <string name="menu_workspace_preview">Esikatsele Aloitusnäyttö</string>
   <string name="mi_wallpaper">MIUI Teemakauppa</string>
+  <string name="miui_screen_config_title">Aloitusnäytön asetukset</string>
   <string name="mtzgadget_missing_text">Widgetti ei ole saatavilla</string>
   <string name="multi_selecting_tips">Valitaksesi sovelluksen, raahaa sen kuvaketta ja tiputa tänne</string>
   <string name="no_detail_page">Ei tietoja-sivu</string>
@@ -221,6 +226,11 @@
   <string name="notification_installed">Asennettiin onnistuneesti</string>
   <string name="notification_open_button">Avaa</string>
   <string name="online_wallpaper">Online</string>
+  <string name="open_personal_assistant_dialog_btn_cancel">Peruuta</string>
+  <string name="open_personal_assistant_dialog_btn_confirm">Poista käytöstä</string>
+  <string name="open_personal_assistant_dialog_desc">Et voi käyttää Sovellusholvia ja vastaanottaa sen päivityksiä. Poistetaanko käytöstä nyt?</string>
+  <string name="open_personal_assistant_dialog_title">Poista Sovellusholvi käytöstä</string>
+  <string name="open_personal_assistant_title">Ota Sovellusholvi käyttöön</string>
   <string name="out_of_space">Tällä Aloitusnäytöllä ei ole enempää tilaa</string>
   <string name="permdesc_install_shortcut">Sallii sovelluksen lisätä pikakuvakkeita ilman käyttäjän erillistä lupaa.</string>
   <string name="permdesc_install_widget">Sallii sovelluksen lisätä widgettejä ilman käyttäjän erillistä lupaa.</string>
@@ -250,6 +260,8 @@
   <string name="pref_wallpaper_scroll_type_title">Taustakuvan kohdistaminen</string>
   <string name="preferences_general_title">Lisäasetukset</string>
   <string name="preferences_title">Käynnistimen asetukset</string>
+  <string name="preferred_app_settings_not_selected">Ei valittu</string>
+  <string name="recents_config_title">Viimeaikaiset</string>
   <string name="recommend_apk_size_and_desc">%1$d Mt | %2$s</string>
   <string name="recommend_apps_default_title">Tyhjä</string>
   <string name="recommend_apps_no_data">Ei dataa</string>
@@ -259,6 +271,7 @@
   <string name="recommend_apps_tips">Tämä ominaisuus vaatii internet-yhteyden toimiakseen normaalisti. Poista tämä ominaisuus käytöstä koskettamalla tämän kansion nimeä.</string>
   <string name="recommend_loading">Ladataan</string>
   <string name="reset_scene_prompt">Näyttö palautetaan oletus ulkoasuksi.</string>
+  <string name="screen_cells_config_title">Aloitusnäytön ulkoasu</string>
   <string name="screen_locked_toast">Aloitusnäytön ulkoasu on lukittu</string>
   <string name="screen_number">%d näyttö</string>
   <string name="select_all">Valitse kaikki</string>
@@ -270,6 +283,7 @@
   <string name="share">Jaa</string>
   <string name="sharedUserId"/>
   <string name="show_all">Näytä kaikki</string>
+  <string name="show_mem_info_title">Näytä muistin tila</string>
   <string name="sort_by_abc">Lajittele nimen mukaan</string>
   <string name="sort_by_frequency">Lajittele käytön mukaan</string>
   <string name="sort_by_not_defined">Lajittele automaattisesti</string>
@@ -280,6 +294,7 @@
   <string name="status_installing">Asennetaan</string>
   <string name="status_paused">Pysäytetty</string>
   <string name="status_pending">Odotetaan</string>
+  <string name="title_jeejen">Jeejen Aloitusnäyttö</string>
   <string name="title_select_live_folder">Valitse kansio</string>
   <string name="title_select_shortcut">Valitse pikakuvake</string>
   <string name="toast_screen_icons_misplaced">Palautettu toisesta lähteestä, joitakin kuvakkeita saatettiin asettaa eri paikkaan</string>

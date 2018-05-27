@@ -444,8 +444,8 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="long_screenshot_top_msg">Otetaan pitkää kuvakaappausta…</string>
   <string name="long_screenshot_top_msg_manual">Rajaa kuvakaappaus ja lopeta napauttamalla painiketta</string>
   <string name="low_temperature_button_ok">Selvä</string>
-  <string name="low_temperature_warning_message">Lämpötila on liian alhainen, puhelin saattaa sammua milloin tahansa, tallenna tietosi.</string>
-  <string name="low_temperature_warning_title">Sammuttamisen varoitus</string>
+  <string name="low_temperature_warning_message">Lämpötila on liian alhainen. Puhelimesi saattaa sammua milloin tahansa. Varmista, että tallennat kaikki tärkeät työsi.</string>
+  <string name="low_temperature_warning_title">Alhaisen lämpötilan varoitus</string>
   <string name="managed_profile_foreground_toast">Käytät työprofiilia</string>
   <string name="managed_user_title">Kaikki työsovellukset</string>
   <string name="mdb_entering">Aloitetaan…</string>
@@ -557,7 +557,7 @@ Saat lisätietoja järjestelmänvalvojalta."</string>
   <string name="power_remaining_charging_duration_only">%1$s kunnes täynnä</string>
   <string name="power_remaining_duration_only">Noin %1$s jäljellä</string>
   <string name="power_remaining_duration_only_short">%1$s jäljellä</string>
-  <string name="prompt_danger">Vaara</string>
+  <string name="prompt_danger">Riski</string>
   <string name="prompt_detecting">Havaitaan</string>
   <string name="prompt_failure">Virhe</string>
   <string name="prompt_return_to_split">Jaettu näyttö</string>
@@ -589,7 +589,7 @@ Saat lisätietoja järjestelmänvalvojalta."</string>
   <string name="quick_settings_wifi_detail_empty_text">Wi-Fi verkkoja ei saatavilla</string>
   <string name="quick_settings_wifi_label">Wi-Fi</string>
   <string name="quick_settings_wifi_nearby">Valitse lähellä oleva verkko</string>
-  <string name="recent_cannot_dock">Usean näytön tilaan ei voi siirtyä Toisessa tilassa</string>
+  <string name="recent_cannot_dock">Jaettua näyttöä ei voi käyttää Toisessa tilassa</string>
   <string name="recent_dock_tip">Valitse sovelluksia napauttamalla</string>
   <string name="recent_task_app_info_text">Tietoa</string>
   <string name="recent_task_cleaning">Tyhjennetään sovelluksia…</string>

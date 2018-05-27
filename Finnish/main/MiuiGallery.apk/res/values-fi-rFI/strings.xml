@@ -1368,6 +1368,9 @@ mukauttaaksesi Galleriasi"</string>
   <string name="sticker_spring">Kevät</string>
   <string name="sticker_summer">Kesä</string>
   <string name="sticker_words">Sanat</string>
+  <string name="storage_description_primary">Sisäinen tallennustila</string>
+  <string name="storage_description_sdcard">SD-kortti</string>
+  <string name="storage_description_xspace">Kaksoissovelluksen tiedot</string>
   <string name="storage_no_space">Tallennustilaa ei ole tarpeeksi</string>
   <string name="sub_discard_confirm_message">Tallennetaanko muutokset?</string>
   <string name="sub_discard_negative_btn">Hylkää</string>
