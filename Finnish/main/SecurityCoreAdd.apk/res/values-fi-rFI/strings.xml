@@ -85,6 +85,7 @@ jotta voit katsoa niitä milloin tahansa"</string>
   <string name="encrypt_space_delete_notification_message">Poista Toinen tilasi ja luo uusi päivittääksesi laitteesi onnistuneesti.</string>
   <string name="encrypt_space_delete_notification_title">Toinen tila</string>
   <string name="enter_air_space">Mene Työtilaan</string>
+  <string name="entrance_reopen_toast_msg">Näytetään Toisen tilan pikakuvake eri salasanatyyppien vuoksi</string>
   <string name="err_copy_contacts">Yhteystietoja ei voitu kopioida</string>
   <string name="err_copy_files">Tiedostoja ei voitu kopioida</string>
   <string name="err_copy_photos">Kuvia ei voitu kopioida</string>
@@ -206,6 +207,9 @@ Tai et välttämättä voi siirtyä Toiseen tilaan Lukitusnäytöltä."</string>
   <string name="removingSpace">Poistetaan…</string>
   <string name="repeat_scanner_fingerprint">Lisää uudelleen</string>
   <string name="reset_passwd_success">Salasana palautettiin onnistuneesti</string>
+  <string name="reset_password_dialog_message">Käytät eri salasanatyyppejä Ensimmäisessa tilassa ja Toisessa tilassa. Toisen tilan pitäisi käyttää samaa salasanatyyppiä Ensimmäisen tilan kanssa, jotta pikakuvake voidaan piilottaa.</string>
+  <string name="reset_password_dialog_positve_btn_title">Muuta</string>
+  <string name="reset_password_dialog_title">Toisen tilan pikakuvaketta ei voi piilottaa</string>
   <string name="restore_normal_show">Älä näytä yksityisiä viestejä</string>
   <string name="restore_show_desc">Älä näytä yksityisiä viestejä Toisessa tilassa. Ne ovat silti käytettävissä Ensimmäisessä tilassa.</string>
   <string name="restore_show_toast">Yksityisiä viestejä ei näytetä</string>
@@ -372,6 +376,7 @@ Jotkut kaksoissovellukset vaativat Google Services Frameworkin tuen. Näissä ta
   <string name="xspace_guide_title">Luo kaksoissovellus</string>
   <string name="xspace_header">Kaksoissovellukset</string>
   <string name="xspace_install_completed">Kuvake lisätty Aloitusnäytölle</string>
+  <string name="xspace_install_completed_global">Kuvake lisätty valikkoon</string>
   <string name="xspace_install_failed">Luominen epäonnistui</string>
   <string name="xspace_installing">Asennetaan…</string>
   <string name="xspace_introduce">Suositeltu</string>

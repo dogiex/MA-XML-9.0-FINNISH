@@ -1363,6 +1363,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="debug_networking_category">Yhteysominaisuudet</string>
   <string name="debug_view_attributes">Ota attribuuttinäkymän tarkistus käyttöön</string>
   <string name="decline_remote_bugreport_action">Hylkää</string>
+  <string name="defalut_launcher_title">Oletus Aloitusnäyttö</string>
   <string name="default_admin_support_msg">Toiminto on poistettu käytöstä. Kysy lisätietoja organisaatiosi järjestelmänvalvojalta.</string>
   <string name="default_app">(Oletus)</string>
   <string name="default_apps_title">Oletus</string>
@@ -1375,6 +1376,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="default_for_work">Työkäytön oletus</string>
   <string name="default_input_method">Valitse oletusnäppäimistö</string>
   <string name="default_keyboard_layout">Oletus</string>
+  <string name="default_launcher_title">Oletuskäynnistin</string>
   <string name="default_map_app_title">Karttasovellus</string>
   <string name="default_notification_assistant">Ilmoitusapuri</string>
   <string name="default_phone_title">Puhelinsovellus</string>
@@ -1473,7 +1475,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="dialog_title_hdmi_color_calibration">Värinkorjauksen esiasetus</string>
   <string name="dialog_title_login">Kirjaudu Mi Tiliisi</string>
   <string name="dialog_yes">Kyllä</string>
-  <string name="direct_boot_unaware_dialog_message">Huom. Jotta voit käynnistää tämän sovelluksen uudelleenkäynnistyksen jälkeen, sinun täytyy avata puhelimen lukitus.</string>
+  <string name="direct_boot_unaware_dialog_message">Huom: Voit käyttää tätä näppäimistöä vain uudelleenkäynnistyksen jälkeen jos poistat laitteesi lukituksen.</string>
   <string name="disableNetwork">disableNetwork</string>
   <string name="disable_overlays">Poista HW-peittok. käyt.</string>
   <string name="disable_overlays_summary">Käytä GPU:ta näytön koostamiseen</string>
@@ -2657,6 +2659,7 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="miui_lab_taplus_title">Taplus</string>
   <string name="miui_master_clear_summary">Poistaa kaikki tiedot puhelimesta</string>
   <string name="miui_updater">Järjestelmän päivitys</string>
+  <string name="miui_userguide">Käyttöopas</string>
   <string name="mms_breathing_light_color_title">Viestien valon väri</string>
   <string name="mms_breathing_light_freq_title">Viestien valon vilkkumistiheys</string>
   <string name="mms_privacy_password_role_instruction">Yksityiset keskustelusi yhteystietojen kanssa säilytetään täällä.</string>
@@ -3010,6 +3013,14 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="oem_unlock_enable_summary">Salli käynnistysohjelman lukituksen avaaminen</string>
   <string name="ok_rules">Valmis</string>
   <string name="okay">OK</string>
+  <string name="oldman_app_label">Yksinkertaistettu tila</string>
+  <string name="oldman_installed_current_btn">Palauta alkuperäinen Aloitusnäyttö</string>
+  <string name="oldman_installed_current_des">Olet asettanut Yksinkertaistetun tilan Aloitusnäytön oletukseksi. Napauta alla olevaa painiketta palataksesi takaisin alkuperäiseen Aloitusnäyttöön.</string>
+  <string name="oldman_installed_not_current_btn">Aseta Aloitusnäytöksi oletukseksi</string>
+  <string name="oldman_installed_not_current_des">Yksinkertaistettu tila on asennettu laittellesi. Voit käyttää sitä Aloitusnäytön oletuksena.</string>
+  <string name="oldman_mode_entry_name">Yksinkertaistettu tila</string>
+  <string name="oldman_uninstalled_btn">Asenna</string>
+  <string name="oldman_uninstalled_des">Yksinkertaistettu tila alentaa visuaalista ilmettä, pitäen Aloitusnäyttösi yksinkertaisena ja minimalistisena.</string>
   <string name="one_cacrt">yksi CA-varmenne</string>
   <string name="one_usercrt">yhden käyttäjän varmenne</string>
   <string name="one_userkey">yhden käyttäjän näppäin</string>
@@ -3135,7 +3146,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="phone_info_label">Puhelimen tiedot</string>
   <string name="phone_language">Kielet</string>
   <string name="physical_keyboard_title">Fyysinen näppäimistö</string>
-  <string name="pick_up_gesture_wakeup_title">Nostoele herättää</string>
+  <string name="pick_up_gesture_wakeup_title">Herätä nostamalla</string>
   <string name="picture_color_mode">Kuvien värit</string>
   <string name="picture_color_mode_desc">Ota sRGB käyttöön</string>
   <string name="picture_in_picture_app_detail_summary">Anna sovellukselle lupa luoda kuva kuvassa ‑ikkuna, kun se on auki tai siirryt siitä muualle (esimerkiksi palaat videoon). Tämä ikkuna näytetään muiden sovellusten ikkunoiden päällä.</string>
@@ -4071,7 +4082,7 @@ Huom. Tämän laitteen lukitusta ei voi avata sormenjäljellä. Saat lisätietoj
   <string name="set_data_warning">Aseta datankäyttövaroitus</string>
   <string name="setting_privacy_password">Aseta Yksityisyydensuojan salasana</string>
   <string name="settings_ad_loading">Ladataan…</string>
-  <string name="settings_ad_loading_unavailable">Latauksessa ilmeni ongelma.</string>
+  <string name="settings_ad_loading_unavailable">Tietoja ei voitu ladata.</string>
   <string name="settings_backup">Varmuuskopioi asetukset</string>
   <string name="settings_backup_summary">Varmuuskopioi asetukseni</string>
   <string name="settings_button">Asetukset</string>
@@ -4634,8 +4645,8 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="testing_usage_stats">Käyttötiedot</string>
   <string name="testing_wifi_info">Wi-Fi tiedot</string>
   <string name="tether_and_hotspot_title">Jaettu yhteys ja kannettava hotspot</string>
-  <string name="tether_auto_disable_summary">Sulje hotspot automaattisesti kun yhdistettyjä laitteita ei ole</string>
-  <string name="tether_auto_disable_title">Sulje hotspot automaattisesti</string>
+  <string name="tether_auto_disable_summary">Poista hotspot käytöstä automaattisesti kun laitteita ei ole yhdistettynä</string>
+  <string name="tether_auto_disable_title">Poista hotspot käytöstä automaattisesti</string>
   <string name="tether_custom_dialog_title">Mobiilidatan raja</string>
   <string name="tether_data_usage_limit">Kertakäyttöinen tiedonsiirtoraja</string>
   <string name="tether_data_usage_limit_summary">Tiedonsiirtoraja asetetaan seuraavalla kerralla, kun hotspot on käytössä</string>
@@ -4940,7 +4951,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="use_open_wifi_automatically_summary">Muodosta automaattisesti yhteys laadukkaisiin julkisiin verkkoihin.</string>
   <string name="use_open_wifi_automatically_title">Muodosta yhteys avoimiin verkkoihin</string>
   <string name="use_personalized_ad_service">Henkilökohtaiset mainossuositukset</string>
-  <string name="use_personalized_ad_service_summary">Kun suositusominaisuus on poistettu käytöstä, näet silti saman määrän mainoksia, mutta et sinun käyttäytymistietojesi tai henkilökohtaisten tietojesi perusteella olevia mainoksia.</string>
+  <string name="use_personalized_ad_service_summary">Kun suositusominaisuus on pois käytöstä, näet silti saman määrän mainoksia, mutta et sinun käyttäytymistietojesi tai henkilökohtaisten tietojesi perusteella olevia mainoksia.</string>
   <string name="use_privacy_password_immediate">Käytä</string>
   <string name="use_system_language_to_select_input_method_subtypes">Käytä järjestelmän kieltä</string>
   <string name="use_this_wlan">Käytä tätä Wi-Fi-yhteyttä</string>
@@ -5098,7 +5109,7 @@ Napauta plussaa lisätäksesi sanoja."</string>
   <string name="virus_scanner_update_lib">Päivitä virustunnisteet</string>
   <string name="vision_settings_description">Voit muokata laitteen ominaisuuksia tarpeidesi mukaan. Käytettävyysvalintoja voi muuttaa myöhemmin asetuksissa.</string>
   <string name="vision_settings_title">Näköasetukset</string>
-  <string name="voice_assist">Xiao Ai</string>
+  <string name="voice_assist">Mi AI</string>
   <string name="voice_category">Puhe</string>
   <string name="voice_helper_title">Ääniavustaja</string>
   <string name="voice_input_output_settings">Äänisyöte ja -tulo</string>

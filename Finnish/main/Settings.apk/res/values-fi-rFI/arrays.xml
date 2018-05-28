@@ -694,7 +694,7 @@
         <item>Lukitusnäyttö</item>
         <item>Yksityisyyden salasana</item>
         <item>Lapsitila</item>
-        <item>Tiedostoselain</item>
+        <item>Tiedostohallinta</item>
         <item>Sovelluslukko</item>
         <item>Toinen tila</item>
     </string-array>
@@ -870,7 +870,7 @@
         <item>Luo hakemisto: mkdir /media/mtp</item>
         <item>Vahvista käyttäjäryhmän käyttöoikeudet nykyiseltä käyttäjäryhmältä</item>
         <item>Kirjaudu sisään uudelleen</item>
-        <item>Käytä asennettua laitetta: mtpfs /media/mtp käyttäen tiedostoselainta; sama kuin paikallinen hakemisto</item>
+        <item>Käytä asennettua laitetta: mtpfs /media/mtp käyttäen Tiedostohallintaa; sama kuin paikallinen kansio.</item>
         <item>"Poista laite: fusermount -u /media/mtp
 Huomautus: Vain Ubuntu 8.04!"</item>
     </string-array>

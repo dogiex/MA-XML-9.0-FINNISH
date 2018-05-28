@@ -620,6 +620,8 @@ Operaattorisi saattaa veloittaa sinulta lisäkustannuksia jos otat mobiilidatan 
   <string name="diagnostic_attention_dialog_message">%1$s diagnostiikka on käynnissä. Odota sen valmistumista ja yritä uudelleen..</string>
   <string name="dialog_app_roaming_message">%1$s ei voi käyttää mobiilidataa roaming-tilassa. Kun olet ulkomailla roaming-tilassa, vain poikkeuslistalle lisäämäsi sovellukset voi käyttää mobiilidataa.</string>
   <string name="dialog_app_roaming_title">Ulkomaan roaming-tila ei ole käytössä sovellukselle %1$s</string>
+  <string name="dialog_button_ignore">Älä huomioi</string>
+  <string name="dialog_button_yes">Kyllä</string>
   <string name="dialog_msg_auto_start_declare">Jotkut sovellukset saattaa ilmoittaa väärin, että MIUI on estänyt sitä käynnistymästä. Tarkista sovelluksille myönnetyt käyttöoikeudet asetuksista Asetukset, Käyttöoikeudet.</string>
   <string name="dialog_msg_stop_virus_scan">Lopetetaanko käynnissä oleva tietoturvatarkistus?</string>
   <string name="dialog_no_longer_alert">Älä näytä uudelleen</string>
@@ -1964,6 +1966,9 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="suggest_scan_again">Suorita tarkistus loppuun välttääksesi tietoturvariskejä.</string>
   <string name="summary_app_lock_disable">Suojaa tietosi Sovelluslukolla</string>
   <string name="summary_auto_update">MIUI valitsee sopivimman ajan ladata ja asentaa päivitykset.</string>
+  <string name="summary_background_connection">Rajoitit taustayhteyttä tälle sovellukselle. Korjaa napauttamalla.</string>
+  <string name="summary_block_calls_from_cantacts">Käytät estolistaa. Korjaa napauttamalla.</string>
+  <string name="summary_block_calls_from_strangers">Sallit vain puhelut yhteystiedoilta. Korjaa napauttamalla.</string>
   <string name="summary_cleaner_cloudscan">Lähetä ja vertaa kansioiden nimiä verkkotunnisteisiin</string>
   <string name="summary_cloud_account">Ota kaikki irti Mi laitteestasi</string>
   <string name="summary_cloud_service">Synkronoi kuvasi, yhteystietosi ja muuta kaikkien laitteidesi kesken</string>
@@ -1974,6 +1979,8 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="summary_data_flow">Hallitse mobiilidatan käyttöä, jotta vältät lisämaksuilta</string>
   <string name="summary_default_app">%s ei ole asetettu järjestelmän oletussovellukseksi</string>
   <string name="summary_dev">Vältä haittaohjelmia ja suojaa henkilökohtaiset tiedot</string>
+  <string name="summary_do_not_disturb">Käytät Älä häiritse -tilaa. Korjaa napauttamalla.</string>
+  <string name="summary_eye_shield">Käytät Lukutilaa. Korjaa napauttamalla.</string>
   <string name="summary_find_device">Paikanna ja lukitse laitteesi mistä tahansa</string>
   <string name="summary_flow_notification">Näytä kuukausittainen datan käyttötilastot ilmoitusalueella</string>
   <string name="summary_flow_purchase">Näyttää, että dataa ei ole paljoa jäljellä. Osta dataa, jotta pysyt yhteydessä.</string>
@@ -1991,6 +1998,7 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="summary_permission_root">Näyttää, että tällä laitteella on root oikeus. Se saattaa vahingoittaa laitteesi tietoturvaa.</string>
   <string name="summary_power_optimizer">Vähennä laitteesi suorituskykyä, kun akun taso on alhainen</string>
   <string name="summary_realname_verify">Vahvista henkilöllisyytesi, jotta maksuista tulee turvallisempaa.</string>
+  <string name="summary_restrict_data_usage">Rajoitit tämän sovelluksen datan käyttöä. Korjaa napauttamalla.</string>
   <string name="summary_show_notification">Tyhjennä välimuisti, näytä akun tila, ja estä kohteita Ilmoitusalueella</string>
   <string name="summary_telecom_operator">Hae kuukausittainen datan käyttötilastosi operaattoriltasi</string>
   <string name="summary_usb">Estä haittaohjelmien lähettämistä USB:n kautta</string>
@@ -2127,6 +2135,9 @@ Tässä ohjeet:
   <string name="title_app_lock_disable">Lukitse sovelluksia</string>
   <string name="title_app_update">Päivityksiä saatavilla</string>
   <string name="title_auto_update">Päivitä automaattisesti</string>
+  <string name="title_background_connection">Etkö voi käyttää %s taustalla?</string>
+  <string name="title_block_calls_from_cantacts">Missaatko yhteystietojesi puheluita?</string>
+  <string name="title_block_calls_from_strangers">Missaatko tärkeitä puheluita?</string>
   <string name="title_chain_start">Rajoita ketjukäynnistystä</string>
   <string name="title_cleaner_cloudscan">Pilven roskien skannaus</string>
   <string name="title_cloud_account">Mi Tili</string>
@@ -2141,6 +2152,8 @@ Tässä ohjeet:
   <string name="title_dev_no">Kehittäjäasetukset käytössä</string>
   <string name="title_dev_yes">Kehittäjäasetukset ei käytössä</string>
   <string name="title_device_not_root">Root-oikeutta ei myönnetty</string>
+  <string name="title_do_not_disturb">Etkö kuule soittoääntäsi?</string>
+  <string name="title_eye_shield">Näytön väri ei näytä oikealta?</string>
   <string name="title_find_device">Etsi laite</string>
   <string name="title_flow_notification">Mobiilidatan ilmoitus</string>
   <string name="title_flow_purchase">Osta mobiilidataa</string>
@@ -2169,6 +2182,7 @@ Tässä ohjeet:
   <string name="title_permission_yes">Käyttöoikeuden hallinta käytössä</string>
   <string name="title_power_optimizer">Virransäästö</string>
   <string name="title_realname_verify">ID varmistus</string>
+  <string name="title_restrict_data_usage">%s ei voi yhdistää internetiin?</string>
   <string name="title_show_notification">Ilmoitusalueen widgetti</string>
   <string name="title_system_auto_download">Päivitykset ladataan automaattisesti</string>
   <string name="title_telecom_operator">Säädä automaattisesti</string>
