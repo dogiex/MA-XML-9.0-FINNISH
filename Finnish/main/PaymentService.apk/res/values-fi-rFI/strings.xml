@@ -35,7 +35,7 @@
   <string name="mibi_bill_record_empty">Ei tuloksia.</string>
   <string name="mibi_btn_agree">Hyväksy</string>
   <string name="mibi_btn_back">Takaisin</string>
-  <string name="mibi_btn_count_down_auto">Tiedustele %1$s sekunnin kuluttua</string>
+  <string name="mibi_btn_count_down_auto">Tiedustele %1$d sekunnin kuluttua</string>
   <string name="mibi_btn_finish">valmis</string>
   <string name="mibi_btn_mili_center_recharge">Top-up Mi Krediitti</string>
   <string name="mibi_btn_net_connection_retry">Yritä uudelleen</string>
@@ -57,6 +57,7 @@
   <string name="mibi_button_pay">Vahvista</string>
   <string name="mibi_button_reget">Lähetä uudelleen</string>
   <string name="mibi_button_retry">Yritä uudelleen</string>
+  <string name="mibi_camera_open_failed">Kameran avaaminen epäonnistui</string>
   <string name="mibi_cancel">Peruuta</string>
   <string name="mibi_change_security_lock">Lisää näytön lukituksia</string>
   <string name="mibi_check_giftcard">Näytä kupongit</string>
@@ -268,6 +269,7 @@ Tarkista paikallinen päivämäärä ja yritä uudelleen."</string>
   <string name="mibi_progress_prepaid_creating">Luodaan tilausta…</string>
   <string name="mibi_progress_querying">Prosessoidaan…</string>
   <string name="mibi_progress_submit_hint">Top-up näkyy tilisi saldossa 3 minuutin sisällä.</string>
+  <string name="mibi_progress_submit_pay">Maksu on suoritettu noin 3 minuutin kuluttua…</string>
   <string name="mibi_progress_submit_recharge_summary">Topping up: %1$s Mi Krediittiä.</string>
   <string name="mibi_progress_submit_title">Pyyntö lähetetty</string>
   <string name="mibi_progress_success_pay_title">%1$s Mi Krediitin Maksu suoritettu</string>
