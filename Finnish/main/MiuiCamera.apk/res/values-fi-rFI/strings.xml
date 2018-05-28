@@ -188,9 +188,12 @@ ja luo otoksen, jossa kaikki ovat parhaimmillaan."</string>
   <string name="portait_effect_entry_japanese">Taivaansininen</string>
   <string name="portait_effect_entry_maze">Sokkelo</string>
   <string name="portait_effect_entry_mood">Tunteet</string>
+  <string name="portait_effect_entry_movie">Elokuva</string>
   <string name="portait_effect_entry_nature">Luonto</string>
   <string name="portait_effect_entry_pink">Punastua</string>
+  <string name="portait_effect_entry_riddle">Arvoitus</string>
   <string name="portait_effect_entry_romance">Romanttinen</string>
+  <string name="portait_effect_entry_story">Tarina</string>
   <string name="portrait_mode_depth_effect_success_hint">Syvyystehosteet</string>
   <string name="portrait_mode_lowlight_hint">Nyt on liian pimeää</string>
   <string name="portrait_mode_too_close_hint">Siirry kauemmaksi kohteesta</string>
