@@ -34,7 +34,7 @@
   <string name="account_security_info_pref_title">Turvallisuustiedot</string>
   <string name="account_token_expired_msg">"Vahvistuskoodi on vanhentunut, aloita alusta tai kirjaudu ulos
  Tilisi ID: %s"</string>
-  <string name="account_token_expired_title">Todennus epäonnistui</string>
+  <string name="account_token_expired_title">Todentaminen epäonnistui</string>
   <string name="account_user_avatar">Profiilikuva</string>
   <string name="account_user_avatar_from_album">Valitse kuva</string>
   <string name="account_user_avatar_from_camera">Ota kuva</string>
@@ -443,7 +443,7 @@ Aktivoi tilisi seuraamalla
   <string name="unbind_sns_description">Kun katkaiset yhteyden tähän tiliin, et voi enää käyttää %s tilitietojasi Mi Tilin kirjautumiseen.</string>
   <string name="unlock_help_notice">"Apua:
 1. Jos unohdit salasanasi, mene id.mi.com palauttaaksesi sen.
-2. Jos et voi avata laitteen lukitusta, mene i.mi.com ja sammuta Laitteen etsintä.
+2. Jos et voi palauttaa salasanaasi tai joku toinen on lukinnut laitteesi, mene osoitteeseen i.mi.com avataksesi lukituksen.
 3. Lukituksen avausnumerosi: %s"</string>
   <string name="update_contacts">Päivitä yhteystiedot</string>
   <string name="update_email_address_dialog_message">Sinun täytyy vahvistaa henkilöllisyytesi ennen kuin voit päivittää sähköpostin.</string>

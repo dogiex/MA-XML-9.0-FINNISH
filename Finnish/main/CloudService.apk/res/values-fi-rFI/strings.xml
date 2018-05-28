@@ -441,7 +441,7 @@ Käytä eri tiliä."</string>
   <string name="micloud_warn_low_title">Tallennustila on lähes täynnä</string>
   <string name="micloud_web_discription_01">Kirjaudu sisään osoitteessa i.mi.com</string>
   <string name="micloud_web_discription_02">tallentaaksesi ja hakeaksesi tiedostojasi missä tahansa</string>
-  <string name="micloud_web_discription_place_holder">Vieraile %1$s</string>
+  <string name="micloud_web_discription_place_holder">Vieraile %1$s tietokoneellasi hallitaksesi tietojasi.</string>
   <string name="micloud_website">Mi Pilven tiedostot</string>
   <string name="micloud_wipe_data_confirm_label">Poista data Mi Pilvestä</string>
   <string name="micloud_wipe_data_confirm_title">Poistetaanko Mi Pilveen synkronoidut kohteet puhelimesta uloskirjautumisen jälkeen?</string>
