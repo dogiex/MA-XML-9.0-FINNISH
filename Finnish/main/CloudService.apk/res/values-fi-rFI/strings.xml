@@ -346,9 +346,6 @@ Käytä eri tiliä."</string>
   <string name="micloud_manage_space_data">Hallitse Mi Pilven tietoja</string>
   <string name="micloud_member">Mi Pilven jäsenyys</string>
   <string name="micloud_member_advantage">Hanki lisää tallennustilaa.</string>
-  <string name="micloud_member_buy_content" formatted="false">"Voimassa %s-%s-%s saakka
-
-%s Mi Krediittiä"</string>
   <string name="micloud_member_buy_title">Vahvista tilaus</string>
   <string name="micloud_member_net_error_alert_message">Ei internet-yhteyttä.</string>
   <string name="micloud_member_net_error_alert_title">Verkkoon yhdistäminen epäonnistui</string>
@@ -572,11 +569,10 @@ Tämä toiminto salaa ja lähettää laitteesi ID-tunnuksen Mi:n palvelimille."<
   <string name="upgrade_space_successful_total">%s Gt jäljellä</string>
   <string name="upgrade_space_tb">Tt</string>
   <string name="user_agreement">Sopimusehdot</string>
+  <string name="user_agreement_content">Käyttämällä tätä palvelua, hyväksyt %s.</string>
+  <string name="user_agreement_link">Mi Pilven Palveluehdot</string>
   <string name="user_agreement_p5">"
 "</string>
-  <string name="user_agreement_p6">Käyttämällä tätä palvelua, hyväksyt </string>
-  <string name="user_agreement_p7">Mi Pilven Palveluehdot</string>
-  <string name="user_agreement_p8">.</string>
   <string name="user_agreement_title">Mi Pilven Palveluehdot</string>
   <string name="vcode">Vahvistuskoodi</string>
   <string name="verify">Vahvista</string>

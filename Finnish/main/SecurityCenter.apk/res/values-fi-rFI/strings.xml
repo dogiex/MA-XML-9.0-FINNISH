@@ -1667,7 +1667,7 @@ Kalibroinnin aikana, MIUI lähettää tekstiviestin operaattorillesi saadakseen 
   <string name="report_only">Valitse ilmoitettava viesti</string>
   <string name="report_success">Viesti ilmoitettu</string>
   <string name="report_warning">Ilmoitetaanko %1$s tekstiviesti Mi:lle? Nämä viestit ja puhelinnumerot, josta ne lähetettiin, lähetetään Mi:n palvelimille tarkistettavaksi. Kaikki viestien henkilökohtaiset tiedot pidetään aina anonyyminä.</string>
-  <string name="report_warning_title">Ilmoita tekstiviesti</string>
+  <string name="report_warning_title">Huomio</string>
   <string name="resource_antispam">Estolista</string>
   <string name="resource_antivirus">Virustarkistus</string>
   <string name="resource_app_permissions">Sovelluksien käyttöoikeudet</string>

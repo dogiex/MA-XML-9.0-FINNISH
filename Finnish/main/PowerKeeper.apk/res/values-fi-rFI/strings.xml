@@ -27,6 +27,7 @@ Virransäästö kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="disable_hide_mode_warning">Poistamalla Virransäästö käytöstä saattaa lisätä laitteesi virrankulutusta.</string>
   <string name="empty_title_apps_container_list">Ei sovelluksia</string>
   <string name="enable_hide_mode">Ota Virransäästö käyttöön</string>
+  <string name="enable_sleep_mode">Otetaan lepotila käyttöön optimoidakseen yön valmiustilan</string>
   <string name="error_filename_too_long">Syöttämäsi tiedostonimi on liian pitkä.</string>
   <string name="extreme_power_config_mode_category">Äärimmäinen tila</string>
   <string name="extreme_power_config_mode_desc">Siirry Äärimmäiseen tilaan poistaaksesi seuraavat ominaisuudet käytöstä: synkronointi, bluetooth, GPS, NFC, tuplanapautus, painikkeiden valot, Lukitusnäytön herättäminen ilmoituksista ja myös ilmoitusvalot. MIUI keskittyy virransäästöön.</string>
@@ -59,6 +60,7 @@ Virransäästö kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="power_config_apps">Virransäästö</string>
   <string name="power_config_event_delete">Poista</string>
   <string name="power_config_select_apps_title">Sovellukset</string>
+  <string name="power_consume_abnormal_night">Yöllä virrankulutus on epänormaalia</string>
   <string name="power_hide_mode_app_list_summary">Säästetään virtaa taustalla</string>
   <string name="power_hide_mode_title">Akku &amp; suorituskyky</string>
   <string name="power_mode">Virta-asetukset</string>
@@ -71,6 +73,11 @@ Virransäästö kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="sleep_config_enhance_description">Aina kun MIUI tunnistaa että nukut, se sulkee taustalla olevat sovellukset, rajoittaa NFC:tä, Bluetoothia, GPS:ää, mobiilidatan ja Wi-Fin käyttöä ja se ei herätä näyttöä ilmoituksista.</string>
   <string name="sleep_config_enhance_description_non_nfc">Aina kun MIUI tunnistaa että nukut, se sulkee taustalla olevat sovellukset, rajoittaa Bluetoothia, GPS:ää, mobiilidatan ja Wi-Fin käyttöä ja se ei herätä näyttöä ilmoituksista.</string>
   <string name="sleep_config_enhance_title">Lepotila</string>
+  <string name="sleepmode_disclaimer_agree">Hyväksyn</string>
+  <string name="sleepmode_disclaimer_cancel">Peruuta</string>
+  <string name="sleepmode_privacy_content">Tämä ominaisuus käyttää puhelimesi järjestelmän ja laitteen tietoja, joita ei lähetetä palvelimelle</string>
+  <string name="sleepmode_privacy_link">Yksityiskohtainen tietoturva ja yksityisyys</string>
+  <string name="sleepmode_privacy_title">Lepotila</string>
   <string name="sucess">Valmis</string>
   <string name="update_profile_failture_not_connect_wifi">Päivitys epäonnistui. Yhdistä Wi-Fi-verkkoon ja yritä uudelleen.</string>
   <string name="update_profile_sucess">Päivitettiin palvelimelta onnistuneesti</string>

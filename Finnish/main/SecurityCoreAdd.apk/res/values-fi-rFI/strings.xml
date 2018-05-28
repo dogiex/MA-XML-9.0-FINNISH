@@ -77,6 +77,13 @@ jotta voit katsoa niitä milloin tahansa"</string>
   <string name="dont_import">Ei nyt</string>
   <string name="downloading_space">Ladataan…</string>
   <string name="enable">Ota käyttöön</string>
+  <string name="encrypt_space_delete_dialog_click_message">*Jos sinun ei tarvitse siirtää tietoja, %s</string>
+  <string name="encrypt_space_delete_dialog_click_message_action">poista ja luo Toinen tila nyt.</string>
+  <string name="encrypt_space_delete_dialog_message">Olet päivittämässä Android-järjestelmää. Päivityksen jälkeen Toisen tilan tiedot muuttuvat yhteensopimattomaksi. Tämän välttämiseksi, siirrä kaikki tietosi Ensimmäiseen tilaan, poista Toinen tila ja luo se uudelleen.</string>
+  <string name="encrypt_space_delete_dialog_positive_text">Siirrä tiedot</string>
+  <string name="encrypt_space_delete_dialog_title">Huomio</string>
+  <string name="encrypt_space_delete_notification_message">Poista Toinen tilasi ja luo uusi päivittääksesi laitteesi onnistuneesti.</string>
+  <string name="encrypt_space_delete_notification_title">Toinen tila</string>
   <string name="enter_air_space">Mene Työtilaan</string>
   <string name="err_copy_contacts">Yhteystietoja ei voitu kopioida</string>
   <string name="err_copy_files">Tiedostoja ei voitu kopioida</string>

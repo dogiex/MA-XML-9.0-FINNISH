@@ -14,6 +14,7 @@ Ota yhteyttä myyjääsi lisätietoja varten."</string>
   <string name="disable_find_device_error">Etsi laite-toimintoa ei voida sammuttaa. %1$s</string>
   <string name="disable_find_device_success">Etsi laite-toiminto ei käytössä</string>
   <string name="doing_extra_login_steps">Varmistetaan kirjautumista…</string>
+  <string name="emergency_call">Hätäpuhelu</string>
   <string name="enable_find_device_error">Etsi laite-toimintoa ei voida ottaa käyttöön. %1$s</string>
   <string name="enable_find_device_success">Etsi laite-toiminto on käytössä</string>
   <string name="find_device">Etsi laite</string>
@@ -49,6 +50,7 @@ Ota yhteyttä myyjääsi lisätietoja varten."</string>
   <string name="phone_locked">Tämä laite on jo linkitettynä olemassaolevaan Mi Tiliin (%s). Kirjaudu sisään aktivoidaksesi tämän laitteen.</string>
   <string name="phone_locked_account_email">, liitetty sähköposti: %s</string>
   <string name="phone_locked_account_phone">, liitetty puhelinnumero: %s</string>
+  <string name="return_to_call">Palaa takaisin puheluun</string>
   <string name="stop_on_empty_captcha">Captcha ei voi olla tyhjä</string>
   <string name="stop_on_empty_password">Salasana ei voi olla tyhjä</string>
   <string name="sys_notification_async_open_failed_content">Yritä uudelleen napauttamalla tai peruuta.</string>

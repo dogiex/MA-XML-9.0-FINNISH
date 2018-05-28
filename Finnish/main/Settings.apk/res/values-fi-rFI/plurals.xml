@@ -36,6 +36,14 @@
         <item quantity="other">%d sovellusta saavat käynnistyä automaattisesti</item>
         <item quantity="one">%d sovellus saa käynnistyä automaattisesti</item>
     </plurals>
+    <plurals name="bg_network_allow_count">
+        <item quantity="other">%d sovellusta voi yhdistää verkkoon</item>
+        <item quantity="one">%d sovellus voi yhdistää verkkoon</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">%d sovellusta ei voi yhdistää verkkoon</item>
+        <item quantity="one">%d sovellus ei voi yhdistää verkkoon</item>
+    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d laitetta</item>
         <item quantity="one">%d laite</item>
@@ -83,6 +91,10 @@
     <plurals name="enterprise_privacy_number_packages_lower_bound">
         <item quantity="other">Vähintään %d sovellusta</item>
         <item quantity="one">Vähintään %d sovellus</item>
+    </plurals>
+    <plurals name="firewall_item_summary">
+        <item quantity="other">Rajoitettu yhteys %s sovellukselle</item>
+        <item quantity="one">Rajoitettu yhteys %s sovelluksella</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d henkilöä yhdistänyt</item>

@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="folder_operations">
-        <item>Nimeä uudelleen</item>
-        <item>Poista</item>
-    </string-array>
     <string-array name="attachment_chooser">
         <item>Kamera</item>
         <item>Galleria</item>
-    </string-array>
-    <string-array name="note_sort_way">
-        <item>Luomispäivän mukaan</item>
-        <item>Muokkauspäivämäärän mukaan</item>
     </string-array>
     <string-array name="contact_entries">
         <item>Nimi</item>
@@ -25,11 +17,19 @@
         <item>Osoite</item>
         <item>Muistilappu</item>
     </string-array>
+    <string-array name="folder_operations">
+        <item>Nimeä uudelleen</item>
+        <item>Poista</item>
+    </string-array>
     <string-array name="font_size_names">
         <item>Pieni</item>
         <item>Keskikokoinen</item>
         <item>Suuri</item>
         <item>Valtava</item>
+    </string-array>
+    <string-array name="note_sort_way">
+        <item>Luomispäivän mukaan</item>
+        <item>Muokkauspäivämäärän mukaan</item>
     </string-array>
     <string-array name="welcome_notes_content">
         <item>"Tervetuloa Muistioon

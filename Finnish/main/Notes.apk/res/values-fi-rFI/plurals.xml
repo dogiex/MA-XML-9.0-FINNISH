@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="note_terms">
-        <item quantity="other">%1$s muistiota</item>
-        <item quantity="one">%1$s muistio</item>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">%1$s ei ole synkronoitu</item>
+        <item quantity="one">%1$s ei ole synkronoitu</item>
     </plurals>
     <plurals name="folder_terms">
         <item quantity="other">%1$s kansiota</item>
         <item quantity="one">%1$s kansio</item>
     </plurals>
-    <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">%1$s ei ole synkronoitu</item>
-        <item quantity="one">%1$s ei ole synkronoitu</item>
+    <plurals name="note_terms">
+        <item quantity="other">%1$s muistiota</item>
+        <item quantity="one">%1$s muistio</item>
     </plurals>
 </resources>
