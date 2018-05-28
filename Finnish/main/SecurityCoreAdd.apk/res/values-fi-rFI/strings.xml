@@ -15,19 +15,21 @@ tämä ominaisuus lisätään Toiseen tilaan automaattisesti."</string>
   <string name="appData">Asennetut sovellukset</string>
   <string name="app_name">Tietoturvaytimen Komponentti</string>
   <string name="back">Takaisin</string>
+  <string name="bind_device">Lisää laitteita</string>
   <string name="can_not_delete_when_calling">Tiloja ei voi poistaa puhelun aikana</string>
   <string name="can_not_switch_when_calling">Tilojen välillä ei voi siirtyä puhelun aikana</string>
+  <string name="can_not_switch_when_green_kid_active">Lapsilukko rajoittaa vaihtamisen Toiseen tilaan</string>
   <string name="cancelClosePassword">Älä poista käytöstä</string>
   <string name="cancel_button">Peruuta</string>
   <string name="changePassword">Vaihda salasana</string>
-  <string name="chooseDataTransfer">Mitä Toisen tilan datalle pitäisi tehdä?</string>
+  <string name="chooseDataTransfer">Mitä Toisen tilan tiedoille pitäisi tehdä?</string>
   <string name="chooseFile">Valitse muita tiedostoja</string>
   <string name="click_to_back_first_space">Siirry takaisin Ensimmäiseen tilaan napauttamalla</string>
   <string name="click_to_switch">Katso napauttamalla</string>
   <string name="closePassword">Poista salasana käytöstä</string>
   <string name="closePasswordGuide">Jos poistat salasanan käytöstä, et voi siirtyä Toiseen tilaan Lukitusnäytöltä</string>
   <string name="closeSecondSpace">Poista Toinen tila</string>
-  <string name="closeSecondSpaceSummary">Poista Toinen tila ja data</string>
+  <string name="closeSecondSpaceSummary">Poista Toinen tila ja tiedot</string>
   <string name="closeSuccess">Poistettu käytöstä</string>
   <string name="close_second_space">Toinen tila poistettiin</string>
   <string name="close_second_space_success">Toinen tila poistettiin</string>
@@ -37,14 +39,14 @@ tämä ominaisuus lisätään Toiseen tilaan automaattisesti."</string>
   <string name="complete_setting_title">Kaikki on valmista!</string>
   <string name="confirm">OK</string>
   <string name="confirmClose">Poista käytöstä</string>
-  <string name="confirmCloseSpaceDes">Et voi siirtyä Toiseen tilaan sen poistamisen jälkeen. Kaikki data siirretään tai poistetaan.</string>
+  <string name="confirmCloseSpaceDes">Et voi siirtyä Toiseen tilaan sen poistamisen jälkeen. Kaikki tiedot siirretään tai poistetaan.</string>
   <string name="confirmDelete">Poista</string>
   <string name="confirmSecondSpacePassword">Vahvista Toisen tilan salasana</string>
   <string name="confirm_airspace_password">Vahvista Työtilan salasana</string>
   <string name="confirm_main_space_password">Vahvista Ensimmäisen tilan salasana</string>
   <string name="confirm_restore">Älä näytä</string>
   <string name="contactData">Yhteystiedot</string>
-  <string name="contact_sub_titile_text">Viestien data jaetaan molempien tilojen kesken</string>
+  <string name="contact_sub_titile_text">Viestien tiedot jaetaan molempien tilojen kesken</string>
   <string name="contact_titile_text">"Näytä yksityiset viestit Toisessa tilassa,
 jotta voit katsoa niitä milloin tahansa"</string>
   <string name="contact_us">Ota yhteyttä</string>
@@ -89,6 +91,7 @@ jotta voit katsoa niitä milloin tahansa"</string>
   <string name="err_unknown">Tuntematon virhe</string>
   <string name="err_volume_not_enough">Tallennustilaa ei ole tarpeeksi</string>
   <string name="exit_private_space">Vaihda</string>
+  <string name="experience_more_features">Lisää laite nähdäksesi kaikki ominaisuudet</string>
   <string name="finger_print_num">Sormenjälki %d</string>
   <string name="finger_print_of_use">Käytä sormenjälkeä</string>
   <string name="fingerprint_number_upper_limit">Liian monta epäonnistunutta avausyritystä</string>
@@ -101,6 +104,12 @@ jotta voit katsoa niitä milloin tahansa"</string>
   <string name="go_on_import">Jatka tuomista</string>
   <string name="gpg_message">Kaksoispelisovelluksien luominen vaatii toimiakseen Google Play Pelit. Luodaanko Google Play Pelistä kaksoissovellus?</string>
   <string name="gpg_title">Kaksoissovellus Google Play Peliä varten</string>
+  <string name="green_guard">Lapsilukko</string>
+  <string name="green_guard_des1">Lisää laitteita hallitaksesi niitä etäältä</string>
+  <string name="green_guard_des2">Tiedä missä kaikki hallitut laitteet ovat</string>
+  <string name="green_guard_des3">Hallitse asennettuja sovelluksia ja rajoita käyttöä</string>
+  <string name="green_guard_title2">Näytä sijaintitiedot</string>
+  <string name="green_guard_title3">Hallitse sovelluksia</string>
   <string name="guide_contact_sub_title_desc">"Toiseen tilaan lisätyistä yhteystiedoista tulee yksityisiä.
 Viestit ilmestyvät vain Toisessa tilassa."</string>
   <string name="guide_contact_suc_sub_title_desc">Vain yksityiset yhteystiedot ja viestit näytetään Toisessa tilassa</string>
@@ -141,6 +150,7 @@ Voit myös ladata ne erikseen."</string>
   <string name="msg_switch_photo">Poistetaanko nämä kuvat Ensimmäisestä tilasta siirtämisen jälkeen?</string>
   <string name="needSetKeyguardFirst">Aseta Ensimmäisen tilan salasana</string>
   <string name="needSetKeyguardFirstDes">Aseta Ensimmäisen tilan salasana, ennen kuin asetat Toisen tilan salasanan</string>
+  <string name="need_network_when_bind">Yhdistä verkkoon ennen laitteiden lisäämistä</string>
   <string name="need_network_when_create">Yhdistä verkkoon ennen kuin luot Työtilan</string>
   <string name="need_reset_passwd">Palauta Työtilan salasana ennen kuin siirryt Työtilaan</string>
   <string name="need_set_second_space_desc">Lisää Toisen tilan salasana, ennen kuin lisäät Toisen tilan sormenjäljen</string>
