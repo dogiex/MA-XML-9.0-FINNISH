@@ -4,7 +4,7 @@
   <string name="app_list_title">Valitse sovellukset</string>
   <string name="app_name">Akku ja suorituskyky</string>
   <string name="app_preload_policies_summary">Käytä koneoppimista ennustaaksesi todennäköisimmin käyttämäsi sovellukset, ja lataamalla ne ennakkoon.</string>
-  <string name="app_preload_policies_title">AI-ennakkolataus</string>
+  <string name="app_preload_policies_title">AI-ennakkolataaminen</string>
   <string name="base_info">Perustiedot</string>
   <string name="cloud_addr_info">Pilven tiedot</string>
   <string name="cloud_china_addr">Päivitä Kiinan palvelimen tiedot</string>

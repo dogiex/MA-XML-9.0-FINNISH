@@ -201,6 +201,8 @@ Tai et välttämättä voi siirtyä Toiseen tilaan Lukitusnäytöltä."</string>
   <string name="radio_button_icon_switch_title">Käytetään pikakuvaketta</string>
   <string name="radio_button_password_switch_title">Käytetään salasanaa</string>
   <string name="removeSuccess">Poistettiin onnistuneesti</string>
+  <string name="remove_button">Poista ja käynnistä uudelleen</string>
+  <string name="remove_button_time">Poista ja käynnistä uudelleen (%d s)</string>
   <string name="remove_second_space_msg">Kaikki Toisen tilan sovellustiedot menetetään Toisen tilan poistamisen jälkeen. Poistetaanko Toinen tila nyt?</string>
   <string name="remove_user_click_message">*Jos sinulla ei ole mitään tärkeitä kohteita Toisessa tilassa, %s</string>
   <string name="remove_user_click_message_action">voit poistaa Toisen tilan ja käynnistää laitteesi uudelleen nyt.</string>
@@ -313,6 +315,8 @@ Jos et suorita päivitystä, kaksoissovellukset ei välttämättä myöskään t
   <string name="start_new_fingerprint_tips">"Käytä Toisen tilan sormenjälkeä
 siirtyäksesi Toiseen tilaan Lukitusnäytöltä"</string>
   <string name="start_setting_guide_desc_title">Muutama asia, jotka täytyy asettaa</string>
+  <string name="stop_xspace_alert_content">Poistit kaikki kaksoissovellukset. Poistetaanko myös kaksoissovelluksien tilit ja sovellustiedot? Tämän jälkeen joudut luomaan kaksoissovellukset uudelleen jos tarvitset niitä.</string>
+  <string name="stop_xspace_alert_title">Kaksoissovelluksien tilien poistaminen</string>
   <string name="summary_switch_apps_settings">Valitse nykyisessä tilassa käytettävät sovellukset</string>
   <string name="support_desc">Tietoturvapalvelut tarjoaa Spaces Mobile</string>
   <string name="sure_to_use">Vahvista</string>

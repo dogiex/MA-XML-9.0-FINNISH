@@ -224,7 +224,7 @@ Siirtonopeus"</string>
   <string name="clear_adb_keys">Peruuta USB-vianetsinnän käyttöoikeudet</string>
   <string name="click_expand">Laajenna napauttamalla</string>
   <string name="click_to_return_multi_window">Napauta palataksesi Jaettuun näyttöön</string>
-  <string name="click_to_return_multi_window_of_notch">Palaa takaisin Jaettuun näyttöön</string>
+  <string name="click_to_return_multi_window_of_notch">Takaisin Jaettuun näyttöön</string>
   <string name="confirm_enable_oem_unlock_text">VAROITUS: laitteen suojaustoiminnot eivät toimi tämän asetuksen ollessa käytössä.</string>
   <string name="confirm_enable_oem_unlock_title">Sallitaanko OEM:n lukituksen avaus?</string>
   <string name="connected_via_network_scorer">Automaattinen yhteys muodostettu palvelun %1$s kautta</string>
@@ -558,7 +558,7 @@ Saat lisätietoja järjestelmänvalvojalta."</string>
   <string name="power_remaining_charging_duration_only">%1$s kunnes täynnä</string>
   <string name="power_remaining_duration_only">Noin %1$s jäljellä</string>
   <string name="power_remaining_duration_only_short">%1$s jäljellä</string>
-  <string name="prompt_danger">Riski</string>
+  <string name="prompt_danger">Vaara</string>
   <string name="prompt_detecting">Havaitaan</string>
   <string name="prompt_failure">Virhe</string>
   <string name="prompt_return_to_split">Jaettu näyttö</string>

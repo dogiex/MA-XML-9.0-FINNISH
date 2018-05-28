@@ -110,6 +110,7 @@
   <string name="keyguard_left_view_lock_wallpaper">Musiikki</string>
   <string name="keyguard_quick_charging_info_click_to_detail">Pikalataus. Näytä tiedot napauttamalla.</string>
   <string name="keyguard_torch_cover_text">Pidä taskulamppu päällä pitämällä Virtapainiketta pohjassa</string>
+  <string name="kg_password_pin_failed">SIM-kortin PIN-koodin operaatio epäonnistui!</string>
   <string name="lock_screen_date">"EEEE d. MMMM'ta'"</string>
   <string name="lock_screen_date_12">"EEEE d. MMMM'ta'"</string>
   <string name="lock_screen_no_sim_card">Ei SIM-korttia</string>

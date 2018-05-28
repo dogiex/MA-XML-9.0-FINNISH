@@ -2683,6 +2683,7 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="miui_lab_taplus_desc">Pidä pohjassa kohteita käynnistääksesi toimintoja</string>
   <string name="miui_lab_taplus_title">Taplus</string>
   <string name="miui_master_clear_summary">Poistaa kaikki tiedot puhelimesta</string>
+  <string name="miui_touch_filtered_warning">Jos sovellus estää käyttöoikeusikkunan, raahaa päällä oleva kohde pois edestä tai sulje sovellus.</string>
   <string name="miui_updater">Järjestelmän päivitys</string>
   <string name="miui_userguide">Käyttöopas</string>
   <string name="mms_breathing_light_color_title">Viestien valon väri</string>
@@ -5693,6 +5694,7 @@ Muodosta yhteys toiseen Wi-Fi-verkkoon valitsemalla "&lt;b&gt;Takaisin&lt;/b&gt;
   <string name="wifi_wps_setup_title">Wi-Fi Protected Setup -asetukset</string>
   <string name="wimax_settings">4G</string>
   <string name="window_animation_scale_title">Ikkuna</string>
+  <string name="wireless_connected">Yhdistetty</string>
   <string name="wireless_networks_settings_title">Langaton verkko ja verkot</string>
   <string name="wireless_off">Pois päältä</string>
   <string name="wireless_on">Päällä</string>
