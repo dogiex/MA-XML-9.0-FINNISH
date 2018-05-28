@@ -3,6 +3,8 @@
   <string name="about_hide_mode">Tietoja Virransäästöstä</string>
   <string name="app_list_title">Valitse sovellukset</string>
   <string name="app_name">Akku ja suorituskyky</string>
+  <string name="app_preload_policies_summary">Käytä koneoppimista ennustaaksesi todennäköisimmin käyttämäsi sovellukset, ja lataamalla ne ennakkoon.</string>
+  <string name="app_preload_policies_title">AI-ennakkolataus</string>
   <string name="base_info">Perustiedot</string>
   <string name="cloud_addr_info">Pilven tiedot</string>
   <string name="cloud_china_addr">Päivitä Kiinan palvelimen tiedot</string>
@@ -65,6 +67,7 @@ Virransäästö kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="power_hide_mode_title">Akku &amp; suorituskyky</string>
   <string name="power_mode">Virta-asetukset</string>
   <string name="power_usage">Virrankäyttö</string>
+  <string name="pref_config_title">Suorituskyvyn optimointi</string>
   <string name="scenario_policies_summary">Aseta erilaisia virransäästöjä eri skeneille.</string>
   <string name="scenario_policies_title">Älyskenet</string>
   <string name="scenario_policies_warmcontrol">Lämpötilan hallinta</string>

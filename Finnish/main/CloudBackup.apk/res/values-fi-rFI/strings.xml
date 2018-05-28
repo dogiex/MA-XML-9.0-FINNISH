@@ -84,7 +84,7 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="date_format">HH:mm:ss d.M.yyyy</string>
   <string name="deskclock_backup">Herätyskello</string>
   <string name="desktop_downloading">Ladataan</string>
-  <string name="desktop_failed">Epäonnistui</string>
+  <string name="desktop_failed">Virhe</string>
   <string name="desktop_installing">Asennetaan</string>
   <string name="desktop_wait_wifi">Odotetaan</string>
   <string name="desktop_waiting">Odotetaan</string>
@@ -107,7 +107,7 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="download_settings">Ladataan Aloitusnäytön asetuksia %s%%</string>
   <string name="download_settings_fail">Aloitusnäytön asetuksien lataaminen epäonnistui</string>
   <string name="error_unknown">Jotain meni pieleen</string>
-  <string name="get_device_id_error">Laitteen ID-numeroa ei saatu</string>
+  <string name="get_device_id_error">Laitteen ID-numeron noutaminen epäonnistui</string>
   <string name="home_hint_global_launcher">Poco Aloitusnäyttö</string>
   <string name="home_restore_error">Aloitusnäytön palauttaminen epäonnistui</string>
   <string name="lack_of_storage">Tallennustilaa ei ole riittävästi</string>
