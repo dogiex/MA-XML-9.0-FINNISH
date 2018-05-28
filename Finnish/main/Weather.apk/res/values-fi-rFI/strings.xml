@@ -80,6 +80,7 @@
   <string name="change_alert">Tarkista verkkoyhteytesi ja yritä uudelleen</string>
   <string name="china_version_first_start_network_msg">Käyttämällä tätä tuotetta, hyväksyt Xiaomin %1$s ja %2$s. Tämä sovellus tarvitsee internetyhteyden ja sijaintisi käyttöluvan toimiakseen normaalisti.</string>
   <string name="city_exceeded_warning">Voit lisätä enintään 10 kaupunkia</string>
+  <string name="clear_net_mock_success">Net mock clear success</string>
   <string name="commercial">Mainos</string>
   <string name="common_loading_text">Odota hetki…</string>
   <string name="connect_fail">Verkkoyhteyttä ei voitu muodostaa, yritä uudelleen.</string>
@@ -215,6 +216,7 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="realtime_humidity_title">Suhteellinen kosteus</string>
   <string name="realtime_temperature_no_data">N/A</string>
   <string name="realtime_wind_default_title">Tuuli</string>
+  <string name="receive_net_mock_success">Net mock receive success</string>
   <string name="refresh_fail">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="reminder_from_xiaomi_weather_app">Mi Sään hälytys</string>
   <string name="retry">Yritä uudelleen</string>

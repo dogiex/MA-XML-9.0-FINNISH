@@ -54,6 +54,7 @@
   <string name="pressure">%.1f</string>
   <string name="pressure_title">Paine</string>
   <string name="pressure_unit">hPa</string>
+  <string name="unit_degree">Astetta</string>
   <string name="shake_enter_tip">Kalibroi ravistamalla</string>
   <string name="using_camera_confirm_cancel">Poistu</string>
   <string name="using_camera_confirm_ok">Hyväksy</string>

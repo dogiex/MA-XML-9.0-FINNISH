@@ -904,7 +904,6 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="list_language_dtitle">Kielet</string>
   <string name="list_language_summary">Valitse uutisten kieli</string>
   <string name="list_language_title">Kieli</string>
-  <string name="livetalk_setting">Top-up paketti</string>
   <string name="load_networks_progress">Haetaan…</string>
   <string name="local_backup_password_summary_change">Vaihda tai poista tietokoneen kaikkien tietojen varmuuskopioinnin salasana koskettamalla.</string>
   <string name="local_backup_password_summary_none">Tietokoneen kaikkien tietojen varmuuskopiointia ei ole tällä hetkellä suojattu</string>
@@ -967,6 +966,7 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="modem_dialog_body">Mobiiliverkko on epävakaa, jonka tuleksena se aiheuttaa häiriöitä ja verkko-ongelmia. Lähetetäänkö palautetta Mi:lle analyysiä varten? Tämä raportti voi sisältää henkilökohtaisesti tunnistettavia tietoja. Raporttisi auttaa korjaamaan tämän virheen, eikä sitä koskaan jaeta missään kaupallisessa yhteydessä.</string>
   <string name="modem_dialog_title">Mobiiliverkko on epävakaa</string>
   <string name="msim_apn_not_set">Ei asetettu</string>
+  <string name="msim_cmcc_dds_switch_not_support">Operaattorirajoituksen takia SIM-kortteja ei voi vaihtaa.</string>
   <string name="msim_default_setting">Oletusasetukset</string>
   <string name="msim_disable_sim_card_btn_text">OK</string>
   <string name="msim_disable_sim_card_summary_default_card">Tämä kortti on tällä hetkellä oletus SIM-kortti. Jos lopetat sen käytön, et voi soittaa puheluja tai käyttää mobiilidatayhteyttäsi. Voit lopettaa tämän SIM-kortin asettamalla toisen SIM-kortin oletuskortiksi.</string>

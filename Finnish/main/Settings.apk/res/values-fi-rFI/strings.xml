@@ -1655,7 +1655,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="enabled_authorised_apps_summary">Valtuutuksesi peruutetaan sen jälkeen, kun olet vaihtanut yksittäisten sovellusten valintakytkintä.</string>
   <string name="enabled_authorised_apps_title">Hyväksytty valtuutus</string>
   <string name="enabled_by_admin">Järjestelmänvalvojan käyttöön ottama</string>
-  <string name="enalbe_identify_iPhone">Tukiaseman tunnistaminen</string>
+  <string name="enalbe_identify_iPhone">Laitteen tunnistaminen</string>
   <string name="encrypt_talkback_dialog_message_password">Kun annat salasanasi käynnistääksesi tämän laitteen, käytettävyyspalvelut, kuten %1$s, eivät ole vielä käytettävissä.</string>
   <string name="encrypt_talkback_dialog_message_pattern">Kun annat mallin käynnistääksesi tämän laitteen, käytettävyyspalvelut, kuten %1$s, eivät ole vielä käytettävissä.</string>
   <string name="encrypt_talkback_dialog_message_pin">Kun annat PIN-koodisi käynnistääksesi tämän laitteen, käytettävyyspalvelut, kuten %1$s, eivät ole vielä käytettävissä.</string>
@@ -2466,6 +2466,7 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="lockscreen_glogin_password_hint">Salasana</string>
   <string name="lockscreen_glogin_submit_button">Kirjaudu sisään</string>
   <string name="lockscreen_magazine">Taustakuvan Karuselli</string>
+  <string name="lockscreen_magazine_summary">Korkean kuvanlaadun taustakuvan karuselli</string>
   <string name="lockscreen_magazine_title">Taustakuvan Karuselli</string>
   <string name="lockscreen_remote_input">Estä vastausten ja muun tekstin kirjoittaminen ilmoituksiin, kun laite on lukittu</string>
   <string name="lockscreen_settings_title">Lukitusnäytön asetukset</string>
@@ -3134,6 +3135,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="phone_info_label">Puhelimen tiedot</string>
   <string name="phone_language">Kielet</string>
   <string name="physical_keyboard_title">Fyysinen näppäimistö</string>
+  <string name="pick_up_gesture_wakeup_title">Nostoele herättää</string>
   <string name="picture_color_mode">Kuvien värit</string>
   <string name="picture_color_mode_desc">Ota sRGB käyttöön</string>
   <string name="picture_in_picture_app_detail_summary">Anna sovellukselle lupa luoda kuva kuvassa ‑ikkuna, kun se on auki tai siirryt siitä muualle (esimerkiksi palaat videoon). Tämä ikkuna näytetään muiden sovellusten ikkunoiden päällä.</string>
@@ -3645,6 +3647,7 @@ Tämä asetus vaikuttaa kaikkiin tämän puhelimen käyttäjiin."</string>
   <string name="screen_paper_mode_apps_title">Käytä Lukutilaa</string>
   <string name="screen_paper_mode_global_summary">Käytä Lukutilaa kaikissa sovelluksissa</string>
   <string name="screen_paper_mode_global_title">Kaikki sovellukset</string>
+  <string name="screen_paper_mode_hdr_toast">Lukutila poistetaan käytöstä HDR-videon toiston ajaksi. Se otetaan takaisin käyttöön automaattisesti toiston jälkeen.</string>
   <string name="screen_paper_mode_local_summary">Käytä Lukutilaa valituissa sovelluksissa</string>
   <string name="screen_paper_mode_local_title">Valitut sovellukset</string>
   <string name="screen_paper_mode_off_apps_title">Älä käytä Lukutilaa</string>
