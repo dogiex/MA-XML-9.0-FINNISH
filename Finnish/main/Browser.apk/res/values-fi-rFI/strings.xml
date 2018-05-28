@@ -160,6 +160,7 @@
   <string name="comment_app_menu">Kommentoi</string>
   <string name="comment_description">Kommentoi</string>
   <string name="comment_hint">Kommentoi</string>
+  <string name="comment_max_length">Kommenttisi on liian pitkä.</string>
   <string name="comment_menu">Kommentoi</string>
   <string name="common_use_phrase_bottom_bar_text_next">Seuraava</string>
   <string name="common_use_phrase_bottom_bar_text_previous">Edellinen</string>
@@ -291,6 +292,7 @@ katsoaksesi avoimia välilehtiä muilta laitteilta."</string>
   <string name="error_unauthorized">Synkronointi Mi Tililläsi on otettu pois käytöstä liian monen kirjautumisyrityksen takia.</string>
   <string name="exit">Poistu</string>
   <string name="exit_browser_warning">Poistutaanko Selaimesta nyt?</string>
+  <string name="favorite">Lisää suosikkeihin</string>
   <string name="file_dir">Vaihda kansiota</string>
   <string name="file_name">"Nimi: "</string>
   <string name="file_picker">Valitse polku</string>
@@ -367,7 +369,7 @@ katsoaksesi avoimia välilehtiä muilta laitteilta."</string>
   <string name="media_error_video_not_exist">Videota ei ole olemassa</string>
   <string name="menu_preferences">Asetukset</string>
   <string name="menu_title_clear_all">Tyhjennä kaikki</string>
-  <string name="menu_title_open_file_management">Avaa Tiedostoselain</string>
+  <string name="menu_title_open_file_management">Avaa Tiedostohallinta</string>
   <string name="menu_title_pause_all">Pysäytä kaikki</string>
   <string name="menu_title_resume_all">Aloita kaikki</string>
   <string name="miui_autologin_bar_error">Kirjautuminen epäonnistui</string>
@@ -809,7 +811,7 @@ Muista, että lataamasi tiedostot ja lisäämäsi kirjanmerkin silti tallennetaa
   <string name="open_app_confirm_message">Sallitaanko tämän sivun avata %s?</string>
   <string name="open_cloud_sync">Avaa pilven synkronointi</string>
   <string name="open_cloud_sync_desc">Kirjanmerkki lisättiin. Ota pilven synkronointi käyttöön ja toiseen laitteeseen lisätyt kirjanmerkit synkronoidaan tähän laitteeseen. Kirjaudutaanko sisään ja avataanko se nyt?</string>
-  <string name="open_file_explorer_failed">Tiedostoselainta ei voitu avata</string>
+  <string name="open_file_explorer_failed">Tiedostohallintaa ei voi avata</string>
   <string name="open_voice_permission">Salli mikrofonin yhdistää internetiin</string>
   <string name="page_info">Sivun tiedot</string>
   <string name="page_info_address">Osoite:</string>
@@ -1100,6 +1102,15 @@ Selaimen täytyy yhdistää internetiin toimiakseen normaalisti. Sinun täytyy h
   <string name="suggest_access_music">Mi Musiikki</string>
   <string name="suggest_item_delete_text">Poista</string>
   <string name="suggest_open_app_failed">Tätä sovellusta ei voitu avata</string>
+  <string name="suggestion_express_button_query_more">NÄYTÄ LISÄÄ</string>
+  <string name="suggestion_express_button_text_query">TARKISTA</string>
+  <string name="suggestion_express_exception_net">Verkkoyhteyttä ei voitu muodostaa. Tarkista verkkoasetuksesi ja yritä uudelleen.</string>
+  <string name="suggestion_express_exception_number">Numero on virheellinen. Tarkista numerosi ja yritä uudelleen.</string>
+  <string name="suggestion_express_exception_server">Tapahtui palvelinvirhe. Odota minuutti tai kaksi ja yritä uudelleen.</string>
+  <string name="suggestion_express_input_empty">Seurantanumero ei voi olla tyhjä.</string>
+  <string name="suggestion_express_input_hint_inside">Anna seurantanumero</string>
+  <string name="suggestion_express_input_hint_out">Seurantanumero:</string>
+  <string name="suggestion_express_title">Seuraa pakettiasi</string>
   <string name="suggestion_lottery_detail_pour">%s MUISTIO</string>
   <string name="suggestion_lottery_detail_price">JOKAINEN MUISTIO ON ARVOLTAAN %s YUAN</string>
   <string name="suggestion_lottery_detail_text">TÄMÄ KIERROS %s</string>

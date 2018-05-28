@@ -5,6 +5,8 @@
   <string name="account_container_title">Tuotu</string>
   <string name="account_default">Puhelin</string>
   <string name="account_phone">Vain puhelin, ei synkronoitu</string>
+  <string name="account_sdn">SDN</string>
+  <string name="account_sdn2">SDN %d</string>
   <string name="account_sim">SIM-kortti</string>
   <string name="account_sim2">SIM-kortti %d</string>
   <string name="account_type_format">%1$s-osoite</string>
@@ -297,7 +299,7 @@ Yhteystietokortit on poistettu käytöstä"</string>
   <string name="deleteConfirmation_title">Poistetaanko tämä yhteystieto?</string>
   <string name="delete_call_log_message">Poistetaanko puheluhistoria?</string>
   <string name="delete_call_log_selected_title">Poistetaanko valitsemasi puheluhistoriat?</string>
-  <string name="delete_call_log_title">Valitse puheluhistoria</string>
+  <string name="delete_call_log_title">Poista puheluhistoria</string>
   <string name="delete_contact_calllog_title">Poistetaanko puheluhistoria?</string>
   <string name="delete_dial_input">Poista</string>
   <string name="delete_duplicate">Yhdistä</string>
@@ -870,6 +872,9 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="pref_key_photo_word_title">Määritä yhteystietojen kuvat</string>
   <string name="pref_key_rebuild_t9_index_message">Indeksoi tiedot uudelleen korjataksesi hakuvirheet</string>
   <string name="pref_key_rebuild_t9_index_title">Indeksoi tiedot uudelleen</string>
+  <string name="pref_key_sdn_manage">Näytä SDN</string>
+  <string name="pref_key_sdn_manage1">Näytä SDN-kortti 1</string>
+  <string name="pref_key_sdn_manage2">Näytä SDN-kortti 2</string>
   <string name="pref_key_sim_manage">SIM-kortit</string>
   <string name="pref_key_sim_manage1">Määritä SIM-kortti 1</string>
   <string name="pref_key_sim_manage2">Määritä SIM-kortti 2</string>
@@ -989,6 +994,8 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="scan_qrcode_card_hint2"/>
   <string name="scanning_sdcard_failed_message">Tallennustilaa ei voi lukea. (Syy: %s)</string>
   <string name="scanning_sdcard_failed_title">Muistia ei voida skannata</string>
+  <string name="sdnContacts_empty">Ei SDN</string>
+  <string name="sdnContacts_emptyLoading">Ladataan SDN…</string>
   <string name="searchHint">Hae yhteystiedoista</string>
   <string name="search_batch_delete">Järjestä;Yhteystiedot</string>
   <string name="search_contacts_display">Yhteystiedot;Näyttäminen</string>
@@ -1110,6 +1117,7 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="social_widget_label">Yhteystiedot</string>
   <string name="social_widget_loading">Ladataan...</string>
   <string name="solar_calendar">公历</string>
+  <string name="special_code_security_exception">Toiminto peruuntui：Ei oletusnumeronvalitsin</string>
   <string name="splitConfirmation">Yhteystieto jaetaan useammaksi yhteystiedoksi.</string>
   <string name="splitConfirmation_title">Erota yhteystieto?</string>
   <string name="starredList">Tähdelliset</string>
@@ -1120,6 +1128,7 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="strequentList">Suosikit</string>
   <string name="success_message_import_from_account">Yhteystieto tuotu</string>
   <string name="summary_kind_title">Yhteenveto</string>
+  <string name="sv">SV</string>
   <string name="t9_search_empty_create_contact">Uusi yhteystieto</string>
   <string name="t9_search_empty_edit_contact">Lisää yhteystietoihin</string>
   <string name="t9_search_empty_send_sms">Lähetä viesti</string>
