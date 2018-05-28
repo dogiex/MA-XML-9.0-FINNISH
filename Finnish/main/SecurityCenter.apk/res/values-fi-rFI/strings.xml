@@ -728,6 +728,7 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="exit_dialog_garbage_clean_message">Laitteessasi olevien roskien koko on yli %s. Puhdistetaanko roskat?</string>
   <string name="exit_dialog_garbage_clean_positive_button">Puhdista</string>
   <string name="exit_dialog_garbage_clean_title">Puhdista roskat</string>
+  <string name="exit_dialog_homepage_optimise_message">Laitteesi suorituskykypisteet on alle 80 pistettä. Optimoidaanko nyt?</string>
   <string name="exit_dialog_release_storage_message">Laitteesi tallennustilasta on enemmän kuin 80% käytössä. Vapauta tilaa poistamalla sovelluksia, joita et käytä.</string>
   <string name="exit_dialog_release_storage_positive_button">Vapauta tilaa</string>
   <string name="exit_dialog_release_storage_title">Vapauta tilaa</string>
@@ -833,6 +834,12 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="gb_description_image_button_video_answer">Videopuhelu</string>
   <string name="gb_get_gift_right_now">Kirjaudu sisään nyt</string>
   <string name="gb_have_signed">Kirjauduttu sisään tänään</string>
+  <string name="gb_msg_completely_shielded">Piilota viestit</string>
+  <string name="gb_msg_completely_shielded_summary">Piilota</string>
+  <string name="gb_msg_quickly_answer">Salli pikavastaukset</string>
+  <string name="gb_msg_quickly_answer_summary">Pikavastaukset</string>
+  <string name="gb_msg_transparent_dispaly">Ilmoitukset läpikuultavalla taustalla</string>
+  <string name="gb_msg_transparent_dispaly_summary">Läpikuultava</string>
   <string name="gb_network_status_bad">Tapahtui yhteysvirhe.</string>
   <string name="gb_new_feature">Uusi ominaisuus</string>
   <string name="gb_sign_gift">Kirjaudu sisään saadaksesi palkintoja</string>

@@ -114,6 +114,8 @@ Et voi zoomata näppäimistöön tai navigointipalkkiin."</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Päivitä näytön suurennus automaatt.</string>
   <string name="accessibility_wifi_off">Wi-Fi pois käytöstä</string>
   <string name="accessibility_wifi_one_bar">Wi-Fi-signaali – yksi palkki</string>
+  <string name="accessibility_wifi_security_type_none">Avoin verkko</string>
+  <string name="accessibility_wifi_security_type_secured">Turvallinen verkko</string>
   <string name="accessibility_wifi_signal_full">Vahva Wi-Fi-signaali</string>
   <string name="accessibility_wifi_three_bars">Wi-Fi-signaali – kolme palkkia</string>
   <string name="accessibility_wifi_two_bars">Wi-Fi-signaali – kaksi palkkia</string>
@@ -1116,6 +1118,9 @@ Siirtonopeus"</string>
   <string name="confirm_erase">Poista</string>
   <string name="confirm_fingerprint_icon_content_description">Jatka sormenjäljen avulla.</string>
   <string name="confirm_fingerprint_msg">Aseta sormesi tunnistimelle</string>
+  <string name="confirm_frp_credential_message">Laitteesi palautettiin tehdasasetuksille, voit avata lukituksen edellisellä salasanalla.</string>
+  <string name="confirm_frp_credential_skip_txt">KÄYTÄ GOOGLE-TILIÄNI</string>
+  <string name="confirm_frp_credential_title">Tehdasasetuksen palautuksen suojaus</string>
   <string name="confirm_new_backup_pw_prompt">Anna uusi varmuuskopioinnin salasana uudelleen</string>
   <string name="confirm_privacy_password">Syötä Yksityisyydensuojan salasana</string>
   <string name="confirm_privacy_password_fingerprint">Skannaa sormenjälki tai syötä Yksityisyydensuojan salasana</string>
@@ -5640,6 +5645,7 @@ Muodosta yhteys toiseen Wi-Fi-verkkoon valitsemalla "&lt;b&gt;Takaisin&lt;/b&gt;
   <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
   <string name="wifi_tether_configure_subtext">Hotspot: %1$s %2$s</string>
   <string name="wifi_tether_enabled_subtext">%1$s on aktiivinen</string>
+  <string name="wifi_tether_enabled_summary">%1$s on aktiivinen</string>
   <string name="wifi_tether_failed_subtext">Kannettavan Wi-Fi-hotspotin virhe</string>
   <string name="wifi_tether_setting_title">Asetukset</string>
   <string name="wifi_tether_settings_title">Kannettava hotspot</string>
