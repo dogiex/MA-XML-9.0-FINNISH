@@ -348,8 +348,8 @@
   <string name="date_heading">"Päiväys: "</string>
   <string name="date_message_received">%1$s %2$s</string>
   <string name="date_message_received_today">Tänään, %1$s</string>
-  <string name="debug_mode_preferencecategory">Aseta lokin tallennustila</string>
-  <string name="debug_mode_settings">Vianmääritystila</string>
+  <string name="debug_mode_preferencecategory">Aseta lokin vienti</string>
+  <string name="debug_mode_settings">Vianmääritystilan asetukset</string>
   <string name="default_">OLETUS</string>
   <string name="default_exchange">EXCHANGE</string>
   <string name="default_imap">IMAP</string>
@@ -455,7 +455,7 @@
   <string name="file_rar_not_support">Salattuja rar-tiedostoja ei voi avata</string>
   <string name="file_save_path_dialog_cancel">Selvä</string>
   <string name="file_save_path_dialog_ok">Muuta nyt</string>
-  <string name="file_save_term">Tiedoston tallennustermi</string>
+  <string name="file_save_term">Tiedoston tallennusehdot</string>
   <string name="filtered_tag">" [%1$s]%2$s"</string>
   <string name="first_quick_default_reply">Napauta painiketta lähettääksesi \"%s\" kaikille keskustelun henkilöille</string>
   <string name="float_window_content">Havaitsi, että käytät postilaatikkoa, täytä 139 Sähköpostin käyttäjätunnus ja salasana automaattisesti painamalla Vahvista.</string>
@@ -497,7 +497,7 @@
   <string name="folder_trash_name_en1">Poistetut viesti</string>
   <string name="folder_trash_name_en2">Poistettu viesti</string>
   <string name="folder_trash_name_en3">[Gmail]/Roskakori</string>
-  <string name="forever">Ikuisesti</string>
+  <string name="forever">Aina</string>
   <string name="formatted_email_address">&lt;%1$s&gt;</string>
   <string name="forward">Välitä</string>
   <string name="forward_attachment">Välitä</string>
@@ -557,7 +557,7 @@
   <string name="loading_conversations">Ladataan…</string>
   <string name="loading_from_remote">Ladataan…</string>
   <string name="local_search">Paikallinen haku</string>
-  <string name="log_save_path">Lokin tallennuspolku</string>
+  <string name="log_save_path">Lokin polku</string>
   <string name="login">Kirjaudu sisään</string>
   <string name="login139">Kirjaudu sisään China Mobilella</string>
   <string name="login_failed_ticker">Kirjautuminen tiliin %s epäonnistui.</string>
@@ -720,9 +720,9 @@ Kokeile toista postilaatikkoa."</string>
   <string name="oauth_login_usr_proxy">Kirjaudu sisään käyttäen välityspalvelinta</string>
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
-  <string name="one_day">Yksi päivä</string>
-  <string name="one_month">Yksi kuukausi</string>
-  <string name="one_week">Yksi viikko</string>
+  <string name="one_day">1 päivä</string>
+  <string name="one_month">1 kuukausi</string>
+  <string name="one_week">1 viikko</string>
   <string name="open_calendar_and_contacts_permission">Salli Sähköpostin käyttää yhteystietoja ja kalenteritietoja Asetuksissa</string>
   <string name="open_external_storage_and_calendar_permission">Salli Sähköpostin käyttää tallennustilaa ja kalenteritietoja Asetuksissa</string>
   <string name="open_external_storage_and_contacts_and_calendar_permission">Salli Sähköpostin käyttää tallennustilaa, yhteystietoja ja kalenteritietoja Asetuksissa</string>
@@ -748,10 +748,10 @@ Kokeile toista postilaatikkoa."</string>
   <string name="outbox_alert_select_operation">Valitse toimenpide</string>
   <string name="outbox_alert_title_sent_failed">Sähköpostin lähettäminen epäonnistui</string>
   <string name="outbox_no_mails">Tyhjä</string>
-  <string name="output_all_log">Tallenna kaikki lokit</string>
-  <string name="output_db_summary">Tämä ulostuo kaikki tietokantasi</string>
-  <string name="output_db_title">Ulostuo tietokanta</string>
-  <string name="output_to_disk">Tallenna loki tiedostoon</string>
+  <string name="output_all_log">Vie kaikki lokit</string>
+  <string name="output_db_summary">Aiotaan viedä tietokantasi</string>
+  <string name="output_db_title">Vie tietokanta</string>
+  <string name="output_to_disk">Tallenna lokit tiedostoon</string>
   <string name="over_due">Myöhässä</string>
   <string name="overlays_fail_tip">Olemme pahoillamme, että postilaatikkosi ei määrittynyt onnistuneesti, avaa kelluvan Ikkunan käyttöoikeudet ja yritä uudelleen</string>
   <string name="overlays_ok">Avaa käyttöoikeudet</string>
@@ -927,7 +927,7 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="recognize_ticket_air_notification_title">Lento %3$s (%1$s/%2$s) lähtee pian. Tarkista lentosi tiedot varmuuden vuoksi.</string>
   <string name="recognize_ticket_air_state_stopover">Välilasku</string>
   <string name="recognize_ticket_air_state_transfer">Siirrä</string>
-  <string name="recognize_ticket_air_user_name">Matkustaja:</string>
+  <string name="recognize_ticket_air_user_name">Matkustaja: %1$s</string>
   <string name="recognize_ticket_title">Lento- &amp; junaliput</string>
   <string name="recognize_ticket_train_alter">Vaihdettu</string>
   <string name="recognize_ticket_train_depart_date">Lähtee klo %3$s:%4$s, %1$s/%2$s</string>
@@ -952,7 +952,7 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="reply_attribution" formatted="false">%s kirjoitti %s:</string>
   <string name="report_phishing">Ilmoita kalastelusta</string>
   <string name="report_spam">Ilmoita roskapostista</string>
-  <string name="request_copy_db_to_disk">Sähköpostipyyntö kopioi tietokantaasi tiedostoon</string>
+  <string name="request_copy_db_to_disk">Sähköposti pyytää kopioimaan tietokantasi tiedostoon</string>
   <string name="request_entity_large">Tiedosto on liian iso</string>
   <string name="request_permission_activity">Käyttöoikeuspyyntö</string>
   <string name="respond_inline">"   Vastaa inline"</string>
@@ -1064,7 +1064,7 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="tablet">tabletti</string>
   <string name="tap_to_configure">Kosketa ja määritä asetukset</string>
   <string name="tap_to_enable_sync">Ota käyttöön koskettamalla.</string>
-  <string name="three_day">Kolme päivää</string>
+  <string name="three_day">3 päivää</string>
   <string name="to_heading">"Vastaanottaja(t): "</string>
   <string name="toast_bar_fail_synchronization">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="toast_bar_insufficient_memory_space">Sähköposteja ei voi vastaanottaa. Tallennustilaa ei ole tarpeeksi.</string>

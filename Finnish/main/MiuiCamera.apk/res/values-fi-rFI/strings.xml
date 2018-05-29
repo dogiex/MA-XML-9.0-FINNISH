@@ -216,6 +216,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_antibanding_entry_3">Auto</string>
   <string name="pref_camera_antibanding_title">Anti banding</string>
   <string name="pref_camera_asd_night_title">Paranna hämärät kuvat automaattisesti</string>
+  <string name="pref_camera_asd_popup_title">Ilmoita kun salamaa tarvitaan</string>
   <string name="pref_camera_audio_capture_title">Ääni</string>
   <string name="pref_camera_auto_capture_when_stable_summary">Valitaksesi kohteen, napauta yhtäaikaa kaksi diagonaalista pistettä sen reunoille. Kun kohde on paikoillaan, kamera ottaa kuvan automaattisesti.</string>
   <string name="pref_camera_auto_capture_when_stable_title">Ota kuva valituista paikoillaan olevista kohteista</string>
@@ -427,6 +428,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_skin_beautify_intelligent_title">Älykäs</string>
   <string name="pref_skin_beautify_slim_title">Hoikka</string>
   <string name="pref_skin_beautify_smooth_title">Sileä</string>
+  <string name="pref_video_captrue_ability_title">Valokuvan ottaminen nauhoituksen aikana</string>
   <string name="pref_video_focusmode_entry_auto">Napauta</string>
   <string name="pref_video_focusmode_entry_continuous">CAF (automaattitarkennus)</string>
   <string name="pref_video_focusmode_title">Tarkennustila</string>

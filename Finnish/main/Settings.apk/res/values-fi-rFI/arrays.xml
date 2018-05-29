@@ -1036,6 +1036,14 @@ Huomautus: Vain Ubuntu 8.04!"</item>
         <item>4 Mt</item>
         <item>16 Mt</item>
     </string-array>
+    <string-array name="select_logd_system_levels">
+        <item>Ei käytössä</item>
+        <item>Virhe</item>
+        <item>Varoita</item>
+        <item>Info</item>
+        <item>Debuggaa</item>
+        <item>Verbose</item>
+    </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Ei käytössä</item>
         <item>Kaikki lokipuskurit</item>

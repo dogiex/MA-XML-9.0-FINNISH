@@ -656,6 +656,7 @@ Saat lisätietoja järjestelmänvalvojalta."</string>
   <string name="screenshot_toalbum_txt">Esikatselu</string>
   <string name="search_hint">Hae verkkosivuja, sovelluksia, yhteystietoja ja videoita</string>
   <string name="select_application">Valitse sovellus</string>
+  <string name="select_logd_level">Valitse lokitaso</string>
   <string name="select_logd_size_dialog_title">Valitse puskurikohtaiset lokikoot</string>
   <string name="select_logd_size_title">Lokipuskurien koot</string>
   <string name="select_logpersist_dialog_title">Valitse lokipuskurit, joita säilytetään pysyvästi laitteella</string>

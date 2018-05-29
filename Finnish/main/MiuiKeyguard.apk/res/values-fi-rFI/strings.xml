@@ -72,9 +72,9 @@
   <string name="fingerprint_try_again_msg">Sormenjälkeä ei voitu vahvistaa, yritä uudelleen.</string>
   <string name="fingerprint_try_again_text">Yritä uudelleen</string>
   <string name="forget_password_string">Salasana hukassa</string>
-  <string name="gxzw_press_harder">Paina lujempaa</string>
-  <string name="gxzw_try_more_again">Yritä lisää uudelleen</string>
-  <string name="gxzw_use_password">Käytä salasanaa</string>
+  <string name="gxzw_press_harder">Paina hieman kovempaa</string>
+  <string name="gxzw_try_more_again">Yritä uudelleen</string>
+  <string name="gxzw_use_password">Poista lukitus käyttämällä salasanaasi</string>
   <string name="incorrect_pincode">Virheellinen PIN-koodi</string>
   <string name="incorrect_pukcode">Virheellinen PUK-koodi</string>
   <string name="input_password_after_boot_msg">Avaa laitteen lukitus syöttämällä salasana</string>

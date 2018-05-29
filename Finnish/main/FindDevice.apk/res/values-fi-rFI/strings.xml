@@ -28,8 +28,8 @@ Ota yhteyttä myyjääsi lisätietoja varten."</string>
   <string name="find_device_error_unknown">Tuntematon virhe (%s).</string>
   <string name="find_device_noise_title">Etsi laite hälytys</string>
   <string name="find_device_notice_p1">Mene</string>
-  <string name="find_device_notice_p3">"paikantaaksesi, lukitaksesi tai palauttaaksesi laite tehdasasetuksille.
-  Jos vaihdat SIM-kortteja, uusi tekstiviesti lähetetään automaattisesti tämän toiminnon uudelleenaktivoimiseksi."</string>
+  <string name="find_device_notice_p3">paikantaaksesi, lukitaksesi tai palauttaaksesi laite tehdasasetuksille.</string>
+  <string name="find_device_notice_sms_alert">Jos vaihdat SIM-kortteja, uusi tekstiviesti saatetaan lähettää automaattisesti tämän ominaisuuden uudelleenaktivoimiseksi.</string>
   <string name="find_device_stop_noise">Hiljentääksesi napauta OK</string>
   <string name="find_device_storage_corrupted">Laitteen tallennustila on korruptoitunut. Laitteesi ei ole nyt turvassa.</string>
   <string name="find_device_success_title">Etsi laite</string>
@@ -74,7 +74,7 @@ Ota yhteyttä myyjääsi lisätietoja varten."</string>
   <string name="unlock_error_user_name">Väärä käyttäjänimi</string>
   <string name="unlock_error_wrong_vcode">Koodi, jonka syötit on väärin</string>
   <string name="unlock_help">"Pysy yhteydessä verkkoon
-Pidä huolta, että olet asentanut toimivan SIM-kortin, ja että laitteesi ei ole yhteydessä heikkoon Wi-Fi -verkkoon
+Pidä huolta, että olet asentanut toimivan SIM-kortin (jos laitteesi tukee sitä), ja että laitteesi ei ole yhteydessä heikkoon Wi-Fi -verkkoon
 
 Unohtuiko salasana?
 Mene id.mi.com palauttaaksesi salasanasi

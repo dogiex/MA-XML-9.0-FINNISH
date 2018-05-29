@@ -1119,9 +1119,9 @@ Siirtonopeus"</string>
   <string name="confirm_erase">Poista</string>
   <string name="confirm_fingerprint_icon_content_description">Jatka sormenjäljen avulla.</string>
   <string name="confirm_fingerprint_msg">Aseta sormesi tunnistimelle</string>
-  <string name="confirm_frp_credential_message">Laitteesi palautettiin tehdasasetuksille, voit avata lukituksen edellisellä salasanalla.</string>
-  <string name="confirm_frp_credential_skip_txt">KÄYTÄ GOOGLE-TILIÄNI</string>
-  <string name="confirm_frp_credential_title">Tehdasasetuksen palautuksen suojaus</string>
+  <string name="confirm_frp_credential_message">Laitteesi palautettiin tehdasasetuksille. Voit avata sen lukituksen käyttämällä edellistä salasanaa.</string>
+  <string name="confirm_frp_credential_skip_txt">Käytä Google-tiliäsi tämän sijaan</string>
+  <string name="confirm_frp_credential_title">Lukituksen poisto tehdasasetusten palauttamisen jälkeen</string>
   <string name="confirm_new_backup_pw_prompt">Anna uusi varmuuskopioinnin salasana uudelleen</string>
   <string name="confirm_privacy_password">Syötä Yksityisyydensuojan salasana</string>
   <string name="confirm_privacy_password_fingerprint">Skannaa sormenjälki tai syötä Yksityisyydensuojan salasana</string>
@@ -2026,10 +2026,10 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="gxzw_add_fingerprint_know">Selvä</string>
   <string name="gxzw_add_fingerprint_message">Pidä sormet ja näytön pinta puhtaana</string>
   <string name="gxzw_add_fingerprint_move_indicate">Siirrä sormeasi hieman</string>
-  <string name="gxzw_add_fingerprint_move_message">Liian monta sormen toistoalueita, siirrä sormeasi hieman</string>
+  <string name="gxzw_add_fingerprint_move_message">Sormenjälkesi jäljellä olevia alueita ei voi tallentaa. Siirrä sormeasi hieman</string>
   <string name="gxzw_add_fingerprint_move_title">Siirrä sormeasi hieman</string>
-  <string name="gxzw_add_fingerprint_put_finger_message">Paina kovempaa, nosta värinän jälkeen ja toista usean kerran</string>
-  <string name="gxzw_add_fingerprint_put_finger_title">Paina kovempaa, nosta värinän jälkeen</string>
+  <string name="gxzw_add_fingerprint_put_finger_message">Paina hieman kovempaa ja nosta sormi, kun tunnet värinän. Toista useita kertoja.</string>
+  <string name="gxzw_add_fingerprint_put_finger_title">Paina kovempaa ja nosta värinän jälkeen</string>
   <string name="gxzw_add_fingerprint_title">Lisää sormenjälki</string>
   <string name="handy_mode">Yhden käden-tila</string>
   <string name="handy_mode_enable">Yhden käden-tila</string>
@@ -4096,6 +4096,7 @@ Huom. Tämän laitteen lukitusta ei voi avata sormenjäljellä. Saat lisätietoj
   <string name="select_all">Valitse kaikki</string>
   <string name="select_application">Valitse sovellus</string>
   <string name="select_device_admin_msg">Laitteenhallintasovellukset</string>
+  <string name="select_logd_level">Valitse lokitaso</string>
   <string name="select_logd_size_dialog_title">Valitse puskurikohtaiset lokikoot</string>
   <string name="select_logd_size_title">Lokipuskurien koot</string>
   <string name="select_logpersist_dialog_title">Valitse lokipuskurit, joita säilytetään pysyvästi laitteella</string>
