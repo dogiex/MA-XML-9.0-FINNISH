@@ -245,7 +245,7 @@ Jos vaihdat SIM-kortteja, toinen tekstiviesti lähetetään automaattisesti täm
   <string name="micloud_find_device_guide_alert_positive">OK</string>
   <string name="micloud_find_device_guide_alert_title">Muista Mi Tilisi ID numero ja salasana</string>
   <string name="micloud_find_device_guide_button">Ota laitteen etsintä käyttöön</string>
-    <string name="micloud_find_device_guide_fail_reopen">Voit ottaa Etsi laite -ominaisuuden käyttöön asetuksista Mi Tili - Mi Pilvi</string>
+  <string name="micloud_find_device_guide_fail_reopen">Voit ottaa Etsi laite -ominaisuuden käyttöön asetuksista Mi Tili - Mi Pilvi</string>
   <string name="micloud_find_device_guide_fail_sub_net">Tarkista verkkoyhteys ja yritä uudelleen.</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">Yhteyden aikakatkaisu. Yritä uudelleen myöhemmin.</string>
   <string name="micloud_find_device_guide_micloud">Ota Mi Pilven synkronointi käyttöön</string>
