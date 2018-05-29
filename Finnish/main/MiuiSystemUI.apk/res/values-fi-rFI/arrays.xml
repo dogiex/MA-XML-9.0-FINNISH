@@ -44,7 +44,7 @@
         <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
-        <item>Käytä järjestelmän valintaa (oletus)</item>
+        <item>Käytä järjestelmän asetusta (oletus)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>aptX</item>
@@ -54,7 +54,7 @@
         <item>Poista valinnaiset koodekit käytöstä</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Käytä järjestelmän valintaa (oletus)</item>
+        <item>Käytä järjestelmän asetusta (oletus)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>aptX</item>
@@ -64,38 +64,38 @@
         <item>Poista valinnaiset koodekit käytöstä</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Käytä järjestelmän valintaa (oletus)</item>
+        <item>Käytä järjestelmän asetusta (oletus)</item>
         <item>44,1 kHz</item>
         <item>48,0 kHz</item>
         <item>88,2 kHz</item>
         <item>96,0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Käytä järjestelmän valintaa (oletus)</item>
+        <item>Käytä järjestelmän asetusta (oletus)</item>
         <item>44,1 kHz</item>
         <item>48,0 kHz</item>
         <item>88,2 kHz</item>
         <item>96,0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Käytä järjestelmän valintaa (oletus)</item>
+        <item>Käytä järjestelmän asetusta (oletus)</item>
         <item>16 bittiä/näyte</item>
         <item>24 bittiä/näyte</item>
         <item>32 bittiä/näyte</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Käytä järjestelmän valintaa (oletus)</item>
+        <item>Käytä järjestelmän asetusta (oletus)</item>
         <item>16 bittiä/näyte</item>
         <item>24 bittiä/näyte</item>
         <item>32 bittiä/näyte</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Käytä järjestelmän valintaa (oletus)</item>
+        <item>Käytä järjestelmän asetusta (oletus)</item>
         <item>Mono</item>
         <item>Stereo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>Käytä järjestelmän valintaa (oletus)</item>
+        <item>Käytä järjestelmän asetusta (oletus)</item>
         <item>Mono</item>
         <item>Stereo</item>
     </string-array>
@@ -145,13 +145,13 @@
         <item>Ei käytössä</item>
         <item>Kaikki</item>
         <item>Kaikki paitsi radio</item>
-        <item>vain kernel</item>
+        <item>Vain kernel</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Ei käytössä</item>
         <item>Kaikki lokipuskurit</item>
         <item>Kaikki paitsi radiolokipuskurit</item>
-        <item>vain kernel-lokipuskuri</item>
+        <item>Vain kernel-lokipuskuri</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animaatio pois käytöstä</item>

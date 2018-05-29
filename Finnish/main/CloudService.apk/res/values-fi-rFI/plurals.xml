@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="sync_items_close">
-        <item quantity="other">%d ei käytössä</item>
-        <item quantity="one">%d ei käytössä</item>
-    </plurals>
     <plurals name="items_unsynced">
-        <item quantity="other">%d kohdetta odottaa synkronointia</item>
-        <item quantity="one">%d kohde odottaa synkronointia</item>
-    </plurals>
-    <plurals name="items_waiting_to_sync">
         <item quantity="other">%d kohdetta odottaa synkronointia</item>
         <item quantity="one">%d kohde odottaa synkronointia</item>
     </plurals>

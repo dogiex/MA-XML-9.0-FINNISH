@@ -169,6 +169,7 @@
   <string name="default_cache_type">Datatiedostot</string>
   <string name="delete_confirm">Poista</string>
   <string name="delete_confirm_msg">Poistetaanko kaikki valitut tiedostot pysyvästi?</string>
+  <string name="desc_image">kuva</string>
   <string name="dialog_content_checkbox_delete_cloud_image">Poista kuvat myös Mi Pilvestä</string>
   <string name="dialog_content_select_all_confirm">Säilytetäänkö tämän kuvan kopio?</string>
   <string name="dialog_msg_add_white_list_error">Tiedosto ei tue poikkeuksiin lisäämistä</string>

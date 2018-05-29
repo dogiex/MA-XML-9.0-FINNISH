@@ -9,11 +9,12 @@
         <item quantity="one">Poistetaanko %1$d taustakuva?</item>
     </plurals>
     <plurals name="editing_mode_title">
-        <item quantity="other">%1$d valittu</item>
+        <item quantity="other">Valittuna %1$d kohdetta</item>
+        <item quantity="one">Valittuna %1$d kohde</item>
     </plurals>
     <plurals name="scroll_tip_format_when_announce_accessibility">
-        <item quantity="other">sivu %1$d, %2$d sovellusta</item>
-        <item quantity="one">sivu %1$d, %2$d sovellus</item>
+        <item quantity="other">Sivu %1$d, %2$d sovellusta.</item>
+        <item quantity="one">Sivu %1$d, %2$d sovellus.</item>
     </plurals>
     <plurals name="uninstall_dialog_title_multi_format">
         <item quantity="other">Poistetaanko %1$d sovellusta?</item>
@@ -24,7 +25,7 @@
         <item quantity="one">%1$d sovellusta ei voi poistaa</item>
     </plurals>
     <plurals name="uninstall_result_multi_succeeded">
-        <item quantity="other">%1$d sovellusta poistettu</item>
-        <item quantity="one">%1$d sovellus poistettu</item>
+        <item quantity="other">Poistettiin %1$d sovellusta</item>
+        <item quantity="one">Poistettiin %1$d sovellus</item>
     </plurals>
 </resources>

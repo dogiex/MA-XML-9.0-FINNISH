@@ -48,6 +48,7 @@
   <string name="accessibility_captioning_title">Tekstitykset</string>
   <string name="accessibility_category_personal">Henkilökohtaiset profiilit</string>
   <string name="accessibility_category_work">Työprofiilit – %s</string>
+  <string name="accessibility_close_tab">Sulje nykyinen välilehti</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Tämä ominaisuus on kokeellinen ja voi vaikuttaa suorituskykyyn.</string>
   <string name="accessibility_display_daltonizer_preference_title">Värikorjaus</string>
   <string name="accessibility_display_inversion_preference_subtitle">Voi vaikuttaa suorituskykyyn</string>
@@ -59,9 +60,10 @@
   <string name="accessibility_lock_screen_progress">%1$d/%2$d merkkiä käytössä</string>
   <string name="accessibility_long_press_timeout_preference_title">Pitkäkestoisen kosketuksen viive</string>
   <string name="accessibility_menu_item_settings">Asetukset</string>
+  <string name="accessibility_more_settings">Lisäasetukset</string>
   <string name="accessibility_no_service_selected">Palvelua ei ole valittuna</string>
   <string name="accessibility_no_services_installed">Ei asennettuja palveluita</string>
-  <string name="accessibility_no_wifi">Ei Wi-Fi-yhteyttä</string>
+  <string name="accessibility_no_wifi">Wi-Fi-yhteys katkaistiin.</string>
   <string name="accessibility_personal_account_title">Henkilökohtainen tili – %s</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Puhelun katkaisu virtapainikkeella</string>
   <string name="accessibility_preference_magnification_summary">Lähennä näkymää.</string>
@@ -112,6 +114,7 @@ Et voi zoomata näppäimistöön tai navigointipalkkiin."</string>
   <string name="accessibility_toggle_master_mono_title">Monoääni</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Päivitä näytön suurennus sovellussiirtymissä</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Päivitä näytön suurennus automaatt.</string>
+  <string name="accessibility_vpn_settings_info">VPN-määritys</string>
   <string name="accessibility_wifi_off">Wi-Fi pois käytöstä</string>
   <string name="accessibility_wifi_one_bar">Wi-Fi-signaali – yksi palkki</string>
   <string name="accessibility_wifi_security_type_none">Avoin verkko</string>
@@ -555,7 +558,7 @@ Käytetty viimeksi %2$s"</string>
   <string name="battery_info_screen_on">Näytön käynnissäoloaika:</string>
   <string name="battery_info_status_charging">Ladataan</string>
   <string name="battery_info_status_charging_ac">Laturilataus</string>
-  <string name="battery_info_status_charging_lower">ladataan</string>
+  <string name="battery_info_status_charging_lower">Ladataan</string>
   <string name="battery_info_status_charging_usb">USB-lataus</string>
   <string name="battery_info_status_charging_wireless">Langaton lataus</string>
   <string name="battery_info_status_discharging">Ei laturissa</string>
@@ -2086,7 +2089,7 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="high_power_prompt_title">Annetaanko sovellukselle oikeus toimia aina taustalla?</string>
   <string name="high_power_system">Akun käytön optimointi ei ole käytettävissä.</string>
   <string name="history_details_title">Historiatiedot</string>
-  <string name="home">Asetusten etusivu</string>
+  <string name="home">Aloitusnäytön asetukset</string>
   <string name="home_app">Aloitusnäyttösovellus</string>
   <string name="home_key">Koti</string>
   <string name="home_work_profile_not_supported">Ei tue työprofiileja</string>
@@ -2101,7 +2104,7 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="imei_information_summary">IMEI-koodiin liittyvät tiedot</string>
   <string name="imei_information_title">IMEI-koodin tiedot</string>
   <string name="immediately_destroy_activities">Älä säilytä toimintoja</string>
-  <string name="immediately_destroy_activities_summary">Tuhoa kaikki toiminnot, kun käyttäjä poistuu</string>
+  <string name="immediately_destroy_activities_summary">Lopeta kaikki toiminnot, kun käyttäjä poistuu</string>
   <string name="inactive_app_active_summary">Käytössä. Poista käytöstä koskettamalla.</string>
   <string name="inactive_app_inactive_summary">Ei käytössä. Ota käyttöön koskettamalla.</string>
   <string name="inactive_apps_title">Epäaktiiviset sovellukset</string>
@@ -2304,12 +2307,12 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="local_auto_backup_off">Pois päältä</string>
   <string name="local_auto_backup_on">Päällä</string>
   <string name="local_auto_backup_section_title">Automaattinen varmuuskopiointi</string>
-  <string name="local_backup_password_summary_change">Vaihda tai poista tietokoneen kaikkien tietojen varmuuskopioinnin salasana koskettamalla.</string>
-  <string name="local_backup_password_summary_none">Tietokoneen kaikkien tietojen varmuuskopiointia ei ole tällä hetkellä suojattu</string>
-  <string name="local_backup_password_title">Varmuuskop. salasana</string>
-  <string name="local_backup_password_toast_confirmation_mismatch">Uusi salasana ja vahvistus eivät täsmää</string>
-  <string name="local_backup_password_toast_success">Uusi varasalasana asetettiin</string>
-  <string name="local_backup_password_toast_validation_failure">Varasalasanan asetus epäonnistui</string>
+  <string name="local_backup_password_summary_change">Vaihda tai poista salasana koko Aloitusnäytön varmuuskopioista.</string>
+  <string name="local_backup_password_summary_none">Koko Aloitusnäytön varmuuskopiot ei ole suojattu</string>
+  <string name="local_backup_password_title">Aloitusnäytön varmuuskopion salasana</string>
+  <string name="local_backup_password_toast_confirmation_mismatch">Salasanat ei täsmää</string>
+  <string name="local_backup_password_toast_success">Uusi varmuuskopion salasana asetettiin</string>
+  <string name="local_backup_password_toast_validation_failure">Varmuuskopion salasanaa ei voitu asettaa</string>
   <string name="local_backup_section_summary">Varmuuskopioi järjestelmäasetukset, tilitiedot ja sovellukset</string>
   <string name="local_backup_section_title">Paikalliset varmuuskopiot</string>
   <string name="locale_default">Oletus</string>
@@ -4181,7 +4184,7 @@ Huom. Tämän laitteen lukitusta ei voi avata sormenjäljellä. Saat lisätietoj
   <string name="sharing_remote_bugreport_dialog_message">Tämä virheraportti jaetaan järjestelmänvalvojan kanssa. Ota häneen yhteyttä, jos tarvitset lisätietoja.</string>
   <string name="short_summary_font_size">Suurenna tai pienennä tekstiä.</string>
   <string name="show_all_anrs">Näytä kaikki ANR:t</string>
-  <string name="show_all_anrs_summary">Näytä Sovellus ei vastaa -ikkuna taustasovell.</string>
+  <string name="show_all_anrs_summary">Näytä \"Sovellus ei vastaa\" -ikkuna taustasovell.</string>
   <string name="show_all_apps">Näytä kaikki laitteen käyttö</string>
   <string name="show_background_processes">Näytä välimuistiprosessit</string>
   <string name="show_connected_devices_summary">Näytä yhdistetyt laitteet</string>
@@ -5463,6 +5466,7 @@ Napauta plussaa lisätäksesi sanoja."</string>
   <string name="wifi_frequency">Taajuus</string>
   <string name="wifi_gateway">Yhdyskäytävä</string>
   <string name="wifi_gateway_hint">192.168.1.1</string>
+  <string name="wifi_hide_password">Piilota salasana</string>
   <string name="wifi_hotspot_checkbox_text">Wi-Fi-hotspot</string>
   <string name="wifi_hotspot_checkbox_text_summary">Käytä mobiiliyhteyttä tarjotaksesi Wi-Fi-verkon</string>
   <string name="wifi_hotspot_configure_ap_text">Wi-Fi-hotspotin määritys</string>

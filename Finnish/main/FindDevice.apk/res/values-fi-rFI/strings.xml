@@ -73,14 +73,14 @@ Ota yhteyttä myyjääsi lisätietoja varten."</string>
   <string name="unlock_error_unknown">Kirjautuminen epäonnistui</string>
   <string name="unlock_error_user_name">Väärä käyttäjänimi</string>
   <string name="unlock_error_wrong_vcode">Koodi, jonka syötit on väärin</string>
-  <string name="unlock_help">"Pysy yhteydessä verkkoon
-Pidä huolta, että olet asentanut toimivan SIM-kortin (jos laitteesi tukee sitä), ja että laitteesi ei ole yhteydessä heikkoon Wi-Fi -verkkoon
+  <string name="unlock_help">"Pysy yhteydessä verkkoon.
+Pidä huolta, että olet asentanut toimivan SIM-kortin (jos laitteesi tukee sitä), ja että laitteesi on yhdistettynä toimivaan Wi-Fi -verkkoon.
 
 Unohtuiko salasana?
-Mene id.mi.com palauttaaksesi salasanasi
+Mene id.mi.com palauttaaksesi salasanasi.
 
 Muut syyt
-Kirjaudu sisään osoitteessa i.mi.com ja yritä avata laitteesi lukitus sieltä"</string>
+Kirjaudu sisään osoitteessa i.mi.com ja yritä avata laitteesi lukitus sieltä."</string>
   <string name="unlock_help_title">Apua avaamiseen:</string>
   <string name="unlock_wrong_captcha">Koodi, jonka syötit on väärin</string>
   <string name="unlocking">Aktivoidaan…</string>
