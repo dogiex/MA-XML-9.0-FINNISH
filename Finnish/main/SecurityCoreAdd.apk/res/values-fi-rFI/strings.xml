@@ -154,7 +154,8 @@ Voit myös ladata ne erikseen."</string>
   <string name="loading_success">Ladattiin onnistuneesti</string>
   <string name="lock_screen_open_second_space">Siirry Toiseen tilaan Lukitusnäytöltä</string>
   <string name="messageData">Viestit</string>
-  <string name="msg_switch_file">Poistetaanko tiedostot Ensimmäisestä tilasta siirtämisen jälkeen?</string>
+  <string name="msg_switch_file">Poistetaanko nämä tiedostot Ensimmäisestä tilasta siirtämisen jälkeen?</string>
+  <string name="msg_switch_file_second">Poistetaanko nämä tiedostot Toisesta tilasta siirtämisen jälkeen?</string>
   <string name="msg_switch_photo">Poistetaanko nämä kuvat Ensimmäisestä tilasta siirtämisen jälkeen?</string>
   <string name="needSetKeyguardFirst">Aseta Ensimmäisen tilan salasana</string>
   <string name="needSetKeyguardFirstDes">Aseta Ensimmäisen tilan salasana, ennen kuin asetat Toisen tilan salasanan</string>

@@ -1101,6 +1101,7 @@ vastausta"</string>
   <string name="main_toolbar_statistic">Datan käyttötilastot</string>
   <string name="main_used_bill">%s CNY</string>
   <string name="man_add_application">Lisää automaattisesti käynnistyvät sovellukset manuaalisesti</string>
+  <string name="managed_user_title">Kaikki työsovellukset</string>
   <string name="manual_input_free_traffic">Aseta hiljaisen ajan datan käyttö</string>
   <string name="manual_input_traffic">Aseta datan käyttö</string>
   <string name="manual_item_white_list_summary">Estä valittuja sovelluksia optimoitumasta</string>

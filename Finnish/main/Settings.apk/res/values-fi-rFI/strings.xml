@@ -1034,6 +1034,7 @@ Siirtonopeus"</string>
   <string name="checking_decryption">Tarkistetaan…</string>
   <string name="checking_find_device_status">Tarkistetaan Etsi laite -tilaa…</string>
   <string name="checking_for_updates">Tarkistetaan päivityksiä…</string>
+  <string name="choose_a_card_to_reset">Valitse tyhjennettävä SIM-kortti</string>
   <string name="choose_profile">Valitse profiili</string>
   <string name="choose_smartcover_type">Valitse kotelon tyyppi</string>
   <string name="choose_spell_checker">Valitse oikoluku</string>
@@ -3572,10 +3573,13 @@ Kaikki oikeuksien rajoitukset
 Et menetä mitään sovellustietoja."</string>
   <string name="reset_app_preferences_title">Nollaa sovellusasetukset?</string>
   <string name="reset_dashboard_title">Nollaa</string>
-  <string name="reset_legacy_password_settings_preface_text">Sinun täytyy resetoida Lukitusnäytön salasana.</string>
+  <string name="reset_legacy_password_settings_preface_text">Sinun täytyy nollata Lukitusnäytön salasana.</string>
+  <string name="reset_network_bluetooth">Bluetooth</string>
   <string name="reset_network_button_text">Nollaa asetukset</string>
+  <string name="reset_network_category">Tämä nollaa kaikki verkkoasetukset mukaan lukien:</string>
   <string name="reset_network_complete_toast">Verkkoasetuksesi on nollattu.</string>
   <string name="reset_network_confirm_title">Nollataanko?</string>
+  <string name="reset_network_data">Mobiilidata</string>
   <string name="reset_network_desc">"Tämä nollaa kaikki verkkoasetukset, mukaan lukien seuraavat:
 
 Wi-Fi
@@ -3584,6 +3588,7 @@ Bluetooth."</string>
   <string name="reset_network_final_button_text">Nollaa asetukset</string>
   <string name="reset_network_final_desc">Nollataanko kaikki verkkoasetukset? Toimintoa ei voi peruuttaa.</string>
   <string name="reset_network_title">Verkkoasetusten nollaus</string>
+  <string name="reset_network_wifi">Wi-Fi</string>
   <string name="reset_second_space_passwd">Nollaa Toisen tilan salasana</string>
   <string name="reset_second_space_passwd_cancel">Peruuta</string>
   <string name="reset_second_space_passwd_confirm">Jatka</string>
