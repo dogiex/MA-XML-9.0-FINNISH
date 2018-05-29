@@ -155,6 +155,7 @@ Et voi zoomata näppäimistöön tai navigointipalkkiin."</string>
   <string name="add_device_admin">Aktivoi laitteenhallintasovellus</string>
   <string name="add_device_admin_msg">Aktivoidaanko laitteenhallintasovellus?</string>
   <string name="add_facerecoginition_text">Lisää kasvojen tiedot</string>
+  <string name="add_fingerprint_cancel_button_text">Takaisin</string>
   <string name="add_fingerprint_done_msg">Voit nyt avata laitteen lukituksen sormenjäljellä.</string>
   <string name="add_fingerprint_done_title">Olet valmis rokkaamaan!</string>
   <string name="add_fingerprint_edge_instruction_msg">Liikuta sormeasi, jotta tunnistin tallentaa sormenjälkesi reunat.</string>
@@ -2017,6 +2018,19 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="google_title">Google</string>
   <string name="got_it">Selvä</string>
   <string name="gsm_to_wifi_connect_type_title">GSM:stä Wi-Fiin</string>
+  <string name="gxzw_add_fingerprint_continue">Jatka</string>
+  <string name="gxzw_add_fingerprint_edge_message">Siirrä sormeasi, jotta anturi voi tallentaa sormenjälkesi reunat.</string>
+  <string name="gxzw_add_fingerprint_edge_title">Siirrä sormeasi hieman</string>
+  <string name="gxzw_add_fingerprint_finish">Valmis</string>
+  <string name="gxzw_add_fingerprint_indicate">Paina kovempaa tähän</string>
+  <string name="gxzw_add_fingerprint_know">Selvä</string>
+  <string name="gxzw_add_fingerprint_message">Pidä sormet ja näytön pinta puhtaana</string>
+  <string name="gxzw_add_fingerprint_move_indicate">Siirrä sormeasi hieman</string>
+  <string name="gxzw_add_fingerprint_move_message">Liian monta sormen toistoalueita, siirrä sormeasi hieman</string>
+  <string name="gxzw_add_fingerprint_move_title">Siirrä sormeasi hieman</string>
+  <string name="gxzw_add_fingerprint_put_finger_message">Paina kovempaa, nosta värinän jälkeen ja toista usean kerran</string>
+  <string name="gxzw_add_fingerprint_put_finger_title">Paina kovempaa, nosta värinän jälkeen</string>
+  <string name="gxzw_add_fingerprint_title">Lisää sormenjälki</string>
   <string name="handy_mode">Yhden käden-tila</string>
   <string name="handy_mode_enable">Yhden käden-tila</string>
   <string name="handy_mode_size">Näytön koko</string>
