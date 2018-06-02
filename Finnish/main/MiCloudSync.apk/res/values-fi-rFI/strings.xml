@@ -7,5 +7,4 @@
   <string name="error_not_acceptable">Synkronointi on poistettu käytöstä.</string>
   <string name="error_title">Synkronointi epäonnistui</string>
   <string name="error_unauthorized">Synkronointi on poistettu käytöstä liian monen sisäänkirjautumisyrityksen takia.</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
