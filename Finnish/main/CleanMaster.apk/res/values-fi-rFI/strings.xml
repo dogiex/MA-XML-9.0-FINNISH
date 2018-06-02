@@ -216,6 +216,14 @@
   <string name="go_to">Jatka</string>
   <string name="goto_set">Aseta</string>
   <string name="grabage_rank_title">Puhdistettu tänään</string>
+  <string name="guide_secure_dialog_message">Laitteesi optimointipisteet on alle 80 pistettä. Optimoidaanko nyt?</string>
+  <string name="guide_secure_dialog_negative">Peruuta</string>
+  <string name="guide_secure_dialog_positive">Optimoi</string>
+  <string name="guide_secure_dialog_title">Optimoi suorituskyky</string>
+  <string name="guide_virus_dialog_message">Sovelluksien ja asennuspakettien tarkistaminen suojaa laitettasi viruksilta ja haittaohjelmilta. Tarkistetaanko laitteesi nyt?</string>
+  <string name="guide_virus_dialog_negative">Peruuta</string>
+  <string name="guide_virus_dialog_positive">Tarkista</string>
+  <string name="guide_virus_dialog_title">Virustarkistus</string>
   <string name="header_optimizer">Käyttäessäsi tätä toimintoa, hyväksyt %s.</string>
   <string name="hint_clean_select_items">Poistetaan kaksoiskappaleet…</string>
   <string name="hints_ad_header_left">Vanhentuneet tiedostot</string>
@@ -365,6 +373,7 @@
   <string name="low_memory_warning_dialog_ok_button">Poista</string>
   <string name="low_memory_warning_dialog_title">Tallennustilaa ei ole tarpeeksi</string>
   <string name="main_title_filesize">%1$s roskaa</string>
+  <string name="mainbtn_text_no_trash">Ohita</string>
   <string name="mainbtn_text_quick_cleanup">Puhdista %s</string>
   <string name="mainbtn_text_quick_cleanup_default">Puhdista</string>
   <string name="megabyteShort">Mt</string>
