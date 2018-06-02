@@ -414,7 +414,6 @@
   <string name="local_page_custom_title">Sinulle</string>
   <string name="local_page_playlist">Soittolistani</string>
   <string name="local_page_song_download_history">Lataukset</string>
-  <string name="location_fetching_on">true</string>
   <string name="long_press_to_select_lyric">Paina &amp; pidä pohjassa valitaksesi paikallinen sanoitustiedosto</string>
   <string name="lrc_search_failed">Sanoituksia ei löytynyt</string>
   <string name="lrc_searching">Etsitään…</string>
