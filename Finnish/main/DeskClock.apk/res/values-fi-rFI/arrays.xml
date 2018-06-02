@@ -67,9 +67,11 @@
         <item>Vähennä ulkoilua</item>
         <item>Tiet on liukkaita</item>
         <item>Sää on myrskyinen, ole varovainen!</item>
+        <item>Tänään on sumuista. Aja varovasti.</item>
         <item>Ilma on saasteinen, pue ylle maski!</item>
         <item>Ota sateenvarjo mukaan uloslähtiessäsi</item>
         <item>Ole varovainen tiellä</item>
+        <item>Tänään sataa rakeita, ole varovainen.</item>
         <item>Hiekkamyrsky on tulossa, pue ylle maski!</item>
         <item>Hauskaa päivän jatkoa!</item>
     </string-array>

@@ -178,7 +178,7 @@
   <string name="micloud_main_head_menu_recycle_bin_title">Poistetut kohteet</string>
   <string name="micloud_main_head_menu_state_close">Pois käytöstä</string>
   <string name="micloud_main_head_menu_state_open">Käytössä</string>
-  <string name="micloud_main_head_menu_state_unavailable">Ei käytettävissä</string>
+  <string name="micloud_main_head_menu_state_unavailable">Ei tuettu</string>
   <string name="micloud_main_master_sync_on">Synkronointi päällä</string>
   <string name="micloud_main_memory_low_message">Synkronoidaksesi, poista ensin pilvessä olevia kohteita.</string>
   <string name="micloud_main_memory_low_title">Puhelimen sisäinen tallennustila on lähes täynnä</string>

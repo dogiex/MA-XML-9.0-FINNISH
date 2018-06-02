@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_enter_lock_wallpaper">Avaa Musiikki napauttamalla</string>
-  <string name="app_name">Keyguard</string>
+  <string name="app_name">Lukitusnäyttö</string>
   <string name="btn_camera">Anna kasvosi</string>
   <string name="change_to_ac_charging">Vaihdettiin langalliseen lataukseen</string>
   <string name="click_to_enter_text">Näytä napauttamalla</string>

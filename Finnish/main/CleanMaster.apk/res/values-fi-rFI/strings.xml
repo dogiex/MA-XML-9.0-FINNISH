@@ -381,6 +381,7 @@
   <string name="menu_add_to_white_list">Lisää poikkeuksiin</string>
   <string name="menu_clear">Tyhjennä</string>
   <string name="menu_install">Asenna tämä sovellus</string>
+  <string name="menu_open">Avaa</string>
   <string name="menu_view">Näytä kansiossa</string>
   <string name="month_day_format">"d. MMMM'ta'"</string>
   <string name="msg_cleanup_db_update_checking">Tarkistetaan päivityksiä…</string>
@@ -505,6 +506,13 @@
   <string name="terabyteShort">Tt</string>
   <string name="text_optimizer">Lähetä kansioiden nimet</string>
   <string name="there_is_no">Kaikki näyttää hyvältä, tule myöhemmin uudelleen</string>
+  <string name="tips_low_storage_dialog_cancel">Peruuta</string>
+  <string name="tips_low_storage_dialog_msg_qq">QQ-välimuistin koko on saavuttanut 3 Gt. Tämä saattaa hidastaa laitettasi. Tyhjennetäänkö QQ-välimuisti nyt?</string>
+  <string name="tips_low_storage_dialog_msg_storage">Käytät 90% tallennustilastasi. Poista sovelluksia, joita et käytä.</string>
+  <string name="tips_low_storage_dialog_msg_wechat">WeChat-välimuisti on saavuttanut 3 Gt. Tämä saattaa hidastaa laitettasi. Tyhjennetäänkö WeChat-välimuisti nyt?</string>
+  <string name="tips_low_storage_dialog_ok">Tyhjennä</string>
+  <string name="tips_low_storage_dialog_ok_storage">Vapauta tilaa</string>
+  <string name="tips_low_storage_dialog_title">Tallennustila vähissä</string>
   <string name="tips_of_app_manage">Poista harvoin käytetyt sovellukset säästääksesi tallennustilaa</string>
   <string name="tips_of_auto_launch_manage">Estä harvoin käytettyjen sovelluksien automaattinen käynnistys</string>
   <string name="tips_of_cloud_service">Kirjaudu sisään Mi Tililläsi käyttääksesi lisää Mi-palveluita</string>

@@ -166,7 +166,7 @@ Voit myös ladata ne erikseen."</string>
   <string name="need_reset_passwd">Palauta Työtilan salasana ennen kuin siirryt Työtilaan</string>
   <string name="need_set_second_space_desc">Lisää Toisen tilan salasana, ennen kuin lisäät Toisen tilan sormenjäljen</string>
   <string name="need_set_second_space_pwd_first">Aseta Toisen tilan salasana ensin</string>
-  <string name="net_work_notice">Lapsilukon täytyy yhdistää internetiin ja saada sijaintitietosi toimiakseen normaalisti. Tätä käyttöoikeutta tarvitaan lähettämään tiedot akun tasosta, askelmääristä ja sijaintitiedoistasi hallituille laitteille. Sallitaanko?</string>
+  <string name="net_work_notice">Lapsilukon täytyy yhdistää internetiin ja saada sijaintitietosi toimiakseen normaalisti. Näitä käyttöoikeuksia tarvitaan lähettämään tiedot akun tasosta, askelmääristä ja sijaintitiedoistasi hallituille laitteille. Sallitaanko?</string>
   <string name="newSecondSpace">Ota Toinen tila käyttöön</string>
   <string name="next_setp">Seuraava</string>
   <string name="no_match_repate_scanner">Täsmäävää sormenjälkeä ei löydetty, skannaa uudelleen</string>
@@ -201,6 +201,7 @@ Tai et välttämättä voi siirtyä Toiseen tilaan Lukitusnäytöltä."</string>
   <string name="private_sms_show_title">Yksityiset viestit näytetään Toisessa tilassa</string>
   <string name="private_space_setting">Hallitse</string>
   <string name="public_app">Molemmat tilat</string>
+  <string name="qq_login">Kirjaudu QQ-palveluun</string>
   <string name="qq_send">Lähetä QQ kavereille/tietokoneelle</string>
   <string name="radio_button_icon_switch_title">Käytetään pikakuvaketta</string>
   <string name="radio_button_password_switch_title">Käytetään salasanaa</string>
