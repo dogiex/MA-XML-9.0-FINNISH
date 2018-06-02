@@ -7,6 +7,7 @@ Viestit ilmestyvät vain Toisessa tilaan."</string>
   <string name="PrivacyContactDes2">"Jos käytit yksityisiä viestejä Ensimmäisessä tilassa,
 tämä ominaisuus lisätään Toiseen tilaan automaattisesti."</string>
   <string name="add_finger_print">Lisää sormenjälki</string>
+  <string name="agree">Hyväksy</string>
   <string name="air_space_created">Luotiin Työtila onnistuneesti</string>
   <string name="air_space_deleted">Poistettiin Työtila onnistuneesti</string>
   <string name="air_space_exit">Poistu tilasta</string>
@@ -73,6 +74,7 @@ jotta voit katsoa niitä milloin tahansa"</string>
   <string name="dialog_title">Huomio</string>
   <string name="dir_switch_out_all_photos">Toisen tilan Galleria</string>
   <string name="disable">Poista käytöstä</string>
+  <string name="disagree">En hyväksy</string>
   <string name="do_not_ask">Älä kysy uudelleen</string>
   <string name="dont_import">Ei nyt</string>
   <string name="downloading_space">Ladataan…</string>
@@ -164,6 +166,7 @@ Voit myös ladata ne erikseen."</string>
   <string name="need_reset_passwd">Palauta Työtilan salasana ennen kuin siirryt Työtilaan</string>
   <string name="need_set_second_space_desc">Lisää Toisen tilan salasana, ennen kuin lisäät Toisen tilan sormenjäljen</string>
   <string name="need_set_second_space_pwd_first">Aseta Toisen tilan salasana ensin</string>
+  <string name="net_work_notice">Lapsilukon täytyy yhdistää internetiin ja saada sijaintitietosi toimiakseen normaalisti. Tätä käyttöoikeutta tarvitaan lähettämään tiedot akun tasosta, askelmääristä ja sijaintitiedoistasi hallituille laitteille. Sallitaanko?</string>
   <string name="newSecondSpace">Ota Toinen tila käyttöön</string>
   <string name="next_setp">Seuraava</string>
   <string name="no_match_repate_scanner">Täsmäävää sormenjälkeä ei löydetty, skannaa uudelleen</string>

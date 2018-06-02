@@ -116,7 +116,7 @@ Vedä alaspäin päivittääksesi tai tarkasta verkkoasetukset"</string>
   <string name="feedback_result_fail_no_choice">Valitse nykyinen sääolosuhde</string>
   <string name="feedback_result_success">Lähetettiin onnistuneesti, kiitos palautteestasi.</string>
   <string name="feedback_sand">Hiekkaa</string>
-  <string name="feedback_sunny">Aurinkoinen</string>
+  <string name="feedback_sunny">Selkeä</string>
   <string name="first_start_network_msg">Tämä sovellus tarvitsee internet-yhteyden ja pääsyn sijaintiisi toimiakseen normaalisti.</string>
   <string name="first_start_network_title">Internet-yhteys ja sijainnin käyttö</string>
   <string name="global_aqi">ILI: %1$s %2$s</string>

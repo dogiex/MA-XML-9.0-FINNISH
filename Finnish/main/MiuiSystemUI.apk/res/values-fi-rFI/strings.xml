@@ -312,6 +312,10 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="enable_terminal_summary">Ota käyttöön päätesov. joka mahdollistaa paikall. liittymäkäytön</string>
   <string name="enable_terminal_title">Paikallinen pääte</string>
   <string name="enabled_by_admin">Järjestelmänvalvojan käyttöön ottama</string>
+  <string name="enter_special_mode_message">Sovelluksen uudelleenkäynnistyksen jälkeen sovelluksen sisältö laajenee tilapalkki-alueelle. Ongelmien syntyessä voit palauttaa oletustilan painamalla painiketta uudelleen.</string>
+  <string name="enter_special_mode_title">Käynnistä sovellus uudelleen ja laajenna näyttötila</string>
+  <string name="exit_special_mode_message">Sovelluksen uudelleenkäynnistyksen jäleen sovelluksen näyttötila palautetaan oletustilaan.</string>
+  <string name="exit_special_mode_title">Käynnistä sovellus uudelleen ja palauta näyttötila</string>
   <string name="expanded_confirm_disable_notification">Piilota</string>
   <string name="expanded_notification_manager">Hallitse ilmoituksia</string>
   <string name="ext_media_badremoval_notification_message">Poista USB-muisti turvallisesti ennen sen ottamista irti laitteesta välttääksesi tiedostojen menettämistä.</string>
@@ -686,6 +690,8 @@ Saat lisätietoja järjestelmänvalvojalta."</string>
   <string name="show_touches">Näytä kosketus</string>
   <string name="show_touches_summary">Anna visuaalista palautetta kosketuksesta.</string>
   <string name="simulate_color_space">Simuloi väriavaruus</string>
+  <string name="special_mode_cancel">Peruuta</string>
+  <string name="special_mode_ok">Käynnistä uudelleen</string>
   <string name="stat_sys_data_connected_1x_half">1X</string>
   <string name="status_bar_accessibility_dismiss_recents">Hylkää viimeaikaiset sovellukset</string>
   <string name="status_bar_clock_date_format">"EEEE d. MMMM'ta'"</string>

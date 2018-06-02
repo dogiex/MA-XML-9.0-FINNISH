@@ -62,6 +62,12 @@ yhteensä %2$d kappale"</item>
         <item quantity="other">Poistetaanko %d kohdetta?</item>
         <item quantity="one">Poistetaanko %d kohde?</item>
     </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message_with_file">
+        <item quantity="other">"Poistetaanko %d kohdetta?
+Huomio: Tiedostot poistetaan myös tältä laitteelta."</item>
+        <item quantity="one">"Poistetaanko %d kohde?
+Huomio: Tiedosto poistetaan myös tältä laitteelta."</item>
+    </plurals>
     <plurals name="dialog_delete_descript">
         <item quantity="other">Poistetaanko %d kappaletta?</item>
         <item quantity="one">Poistetaanko %d kappale?</item>

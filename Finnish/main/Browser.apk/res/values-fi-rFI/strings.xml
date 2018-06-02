@@ -243,14 +243,14 @@
   <string name="download_dialog_file_length_nolength_txt">Odota hetki…</string>
   <string name="download_failed">Lataus epäonnistui</string>
   <string name="download_filter_all">Kaikki</string>
-  <string name="download_filter_apk">Apk</string>
+  <string name="download_filter_apk">APK</string>
   <string name="download_filter_application">Sovellukset</string>
   <string name="download_filter_audio">Musiikki</string>
   <string name="download_filter_image">Kuvat</string>
   <string name="download_filter_others">Muut</string>
-  <string name="download_filter_text">Tiedostot</string>
+  <string name="download_filter_text">Asiakirjat</string>
   <string name="download_filter_video">Videot</string>
-  <string name="download_filter_zip">Zip</string>
+  <string name="download_filter_zip">ZIP</string>
   <string name="download_in_process">Ladataan…</string>
   <string name="download_list_open_xl_ok">OK</string>
   <string name="download_memory_info_avai">" saatavilla %s|"</string>
@@ -1005,7 +1005,7 @@ Muista, että lataamasi tiedostot ja lisäämäsi kirjanmerkin silti tallennetaa
   <string name="same_folder_name_warning">Samalla nimellä oleva ryhmä on jo olemassa</string>
   <string name="save_button_text">Tallenna</string>
   <string name="save_dialog_title">Tallenna</string>
-  <string name="save_file">Tallenna %s tiedosto</string>
+  <string name="save_file">Tallenna %s</string>
   <string name="save_file_already_exist_alert_message">Samalla nimellä oleva tiedosto on jo olemassa, haluatko korvata tiefoston?</string>
   <string name="save_file_already_exist_alert_title">Korvataanko tiedosto?</string>
   <string name="save_form_data_confirm_message">Tämän toiminnon poistaminen käytöstä voi vaikuttaa käyttökokemukseen.</string>

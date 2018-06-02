@@ -51,6 +51,16 @@
   <string name="bookmark_confirm_delete_message">Poista valitut viestit suosikeista?</string>
   <string name="bookmark_empty">Ei viestejä suosikeissa</string>
   <string name="bookmark_list_title">Suosikit</string>
+  <string name="button_emoji_creature">Eläinemojit</string>
+  <string name="button_emoji_lifestyle">Elämäntyyliemojit</string>
+  <string name="button_emoji_smiley">Kasvoemojit</string>
+  <string name="button_emoji_symbol">Symboliemojit</string>
+  <string name="button_emoji_text">Tekstiemojit</string>
+  <string name="button_fold">Taita</string>
+  <string name="button_next_slide">Seuraava</string>
+  <string name="button_pre_slide">Edellinen</string>
+  <string name="button_resend_message">Lähetä uudelleen</string>
+  <string name="button_unfold">Avaa</string>
   <string name="call_sender">Soita lähettäjälle</string>
   <string name="cannot_add_picture_and_video">Videota ja kuvaa ei voi lisätä yhdelle dialle.</string>
   <string name="cannot_add_slide_anymore">Dioja ei voi lisätä enempää.</string>
@@ -128,7 +138,9 @@
   <string name="delete_wild_sims_title">Poista valitut numerot</string>
   <string name="delivery_report_activity">Toimitusraportti</string>
   <string name="delivery_toast_body">%s vastaanotti viestin</string>
+  <string name="dialog_message_fake_cell_detect_error">Haluatko korjata tämän viestin virheitä? MIUI:n tulee lähettää puhelinnumero (%1$s), viestin sisältö ja sijaintitiedot palvelimilleen tehdäkseen tämän.</string>
   <string name="dialog_message_sms_report">Roskaviestit ja lähettäjän tiedot lähetetään MIUI:lle, kun ilmoitat niistä. Niitä käytetään vain parantaakseen MIUI:n roskaviestin suodattimia.</string>
+  <string name="dialog_title_fake_cell_detect_error">Korjaaminen</string>
   <string name="disable_notifications_dialog_message">Lopetetaanko tekstiviesti-ilmoituksien kaksoiskappaleet oletus Viestintäsovelluksesta?</string>
   <string name="disabled">Pois päältä</string>
   <string name="discard">Hylkää</string>
@@ -141,6 +153,7 @@
   <string name="download_later">Ei voida ladata juuri nyt. Yritä myöhemmin uudelleen.</string>
   <string name="downloading">Ladataan</string>
   <string name="downloading_file_can_not_play">Odota, kunnes nauhoitus on ladannut loppuun</string>
+  <string name="draft">Luonnos</string>
   <string name="duration_not_a_number">Keston täytyy olla numero</string>
   <string name="duration_sec">Kesto (%s sek)</string>
   <string name="duration_selector_title">"Dian kesto "</string>
@@ -169,9 +182,9 @@
   <string name="fail_to_view_attachment">Liite ei ole saatavilla</string>
   <string name="failed_to_add_media">Et voi lisätä %1$s viestiisi.</string>
   <string name="failed_to_resize_image">Kuvan kokoa ei muokattu.</string>
+  <string name="fake_cell_alert_detect_error">Tätä ei ole lähetetty väärennetyltä tukiasemalta</string>
   <string name="fake_cell_alert_hint">Näyttää siltä, että tämä viesti lähetettiin eri numerosta, miltä näyttää. Ole varovainen, jos viesti sisältää taloudellisten tietojen pyyntöjä.</string>
   <string name="fake_cell_checking_hint">Tarkistetaan turvallisuutta…</string>
-  <string name="fake_cell_detection_entry">Väärän mobiilitukiaseman tunnistus</string>
   <string name="fake_cell_safe_hint">Tämä viesti on turvallinen</string>
   <string name="fake_cell_timeout_hint">Turvallisuuden tarkastaminen epäonnistui</string>
   <string name="favorite_at_time">Lisätty suosikkeihin klo: %1s</string>
@@ -453,7 +466,7 @@
   <string name="privacy_password_title4">Salasana päivitetty</string>
   <string name="private_message">Yksityinen viestintä</string>
   <string name="private_new_notification">Viestin ilmoitukset</string>
-  <string name="private_protect">Salasanat</string>
+  <string name="private_protect">Yksityisyydensuoja</string>
   <string name="private_settings">Yksityisten viestien asetukset</string>
   <string name="processing">Työskennellään…</string>
   <string name="prvate_contact">Yksityiset yhteystiedot</string>

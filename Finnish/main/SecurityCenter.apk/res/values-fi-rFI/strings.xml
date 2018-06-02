@@ -1183,7 +1183,7 @@ vastausta"</string>
   <string name="menu_item_virus_lib_auto_update_summary">Päivitetty %s</string>
   <string name="menu_remove">Poista</string>
   <string name="menu_report">Ilmoita virheestä</string>
-  <string name="menu_setting_traffic">手动设置</string>
+  <string name="menu_setting_traffic">Aseta manuaalisesti</string>
   <string name="menu_sms">Lähetä viesti</string>
   <string name="menu_text_antispam">Estolista</string>
   <string name="menu_text_antivirus">Tietoturvatarkistus</string>

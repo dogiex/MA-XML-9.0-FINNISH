@@ -30,6 +30,10 @@
     <string-array name="screenrecorder_settings_sound">
         <item>Mykistä</item>
         <item>Mikrofoni</item>
-        <item>Kaiutin</item>
+        <item>Järjestelmän äänet</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_storage_location">
+        <item>Sisäinen tallennustila</item>
+        <item>Ulkoinen tallennustila</item>
     </string-array>
 </resources>

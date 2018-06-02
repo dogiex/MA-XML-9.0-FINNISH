@@ -384,13 +384,13 @@
   <string name="menu_view">Näytä kansiossa</string>
   <string name="month_day_format">"d. MMMM'ta'"</string>
   <string name="msg_cleanup_db_update_checking">Tarkistetaan päivityksiä…</string>
-  <string name="msg_cleanup_db_update_time_unknown">Viimeisin päivitys tuntematon</string>
+  <string name="msg_cleanup_db_update_time_unknown">Edellinen päivitys: Tuntematon</string>
   <string name="msg_update_error_code_already_running">Päivitetään…</string>
   <string name="msg_update_error_code_network_error">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="msg_update_error_code_no_newer_db">Puhdistaja on ajan tasalla</string>
   <string name="msg_update_error_code_success">Valmis</string>
-  <string name="msg_update_error_code_unknown_error">Palvelimet on kiireisiä, yritä myöhemmin uudelleen</string>
-  <string name="name_debuglog_dir">Bsp Debug Loki</string>
+  <string name="msg_update_error_code_unknown_error">Palvelimet ovat varattuja. Odota minuutti tai kaksi ja yritä uudelleen.</string>
+  <string name="name_debuglog_dir">BSP virheenkorjausloki</string>
   <string name="name_optimizer">Tietosuojaseloste</string>
   <string name="nb_clear_set">Tyhjennä välimuisti, näe akun taso ja estolista ilmoitusalueella</string>
   <string name="network_not_available">Verkkoyhteyttä ei voi muodostaa</string>
