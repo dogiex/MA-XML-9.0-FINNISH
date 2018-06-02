@@ -359,6 +359,7 @@ siirtyäksesi Toiseen tilaan Lukitusnäytöltä"</string>
   <string name="transferImage">Kuvat Toisesta tilasta siirretään Ensimmäisessä tilassa olevaan albumiin \"Toinen tila\"</string>
   <string name="transferMessage">Viestit Toisesta tilasta siirretään Ensimmäiseen tilaan</string>
   <string name="tryNow">Kokeile nyt</string>
+  <string name="use_xiaoai_open">Herätä käyttäen ääniavustajaa</string>
   <string name="wating">Odota hetki…</string>
   <string name="weibo_send">Lähetä Weiboon</string>
   <string name="weixin_pay">WeChat Pay</string>

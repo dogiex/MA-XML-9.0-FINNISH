@@ -73,6 +73,7 @@
   <string name="add_whitelist">Lisää poikkeuksiin</string>
   <string name="address">Osoite</string>
   <string name="address_choose_hint">%1$s, %2$s, ja %3$d muuta sijaintia</string>
+  <string name="adjust_sms_cmd">Säädä kalibroinnin tekstiviestimallia</string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">Päivitetty yli kuukausi sitten</string>
   <string name="adjust_traffic_carrier_summary_more_oneweek_before">Päivitetty yli viikko sitten</string>
   <string name="adjust_traffic_carrier_summary_oneweek_before">Päivitetty viikko sitten</string>
@@ -636,6 +637,9 @@ Operaattorisi saattaa veloittaa sinulta lisäkustannuksia jos otat mobiilidatan 
   <string name="dialog_restrict_positive">Peruuta</string>
   <string name="dialog_roaming_message">Sallitaanko tämän sovelluksen käyttää mobiilidataa ulkomaan roaming-tilassa?</string>
   <string name="dialog_roaming_title">Ulkomaan roaming</string>
+  <string name="dialog_roaming_warning_checkbox">Älä näytä uudelleen</string>
+  <string name="dialog_roaming_warning_message">Operaattorisi veloittaa sinulta maksun kansainvälisen dataroamingin käyttöönoton jälkeen. Otetaanko käyttöön siitä huolimatta?</string>
+  <string name="dialog_roaming_warning_ok">Ota käyttöön</string>
   <string name="dialog_text">Luo Aloitusnäytölle pikakuvake Pelien nopeuttajasta</string>
   <string name="dialog_title_attention">Huomio</string>
   <string name="dialog_title_auto_start_declare">Tietoa käynnistyksestä</string>
@@ -1179,6 +1183,7 @@ vastausta"</string>
   <string name="menu_item_virus_lib_auto_update_summary">Päivitetty %s</string>
   <string name="menu_remove">Poista</string>
   <string name="menu_report">Ilmoita virheestä</string>
+  <string name="menu_setting_traffic">手动设置</string>
   <string name="menu_sms">Lähetä viesti</string>
   <string name="menu_text_antispam">Estolista</string>
   <string name="menu_text_antivirus">Tietoturvatarkistus</string>
@@ -1811,6 +1816,7 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="sms_contact_block">Estä tekstiviestit yhteystiedoilta</string>
   <string name="sms_delete_hint">Poistetaanko kaikki estetyt viestit tästä numerosta?</string>
   <string name="sms_delete_title">Poista viestit</string>
+  <string name="sms_detail_correct_success_text">Tässä on edellisen kalibroinnin (%1$s) datan käyttötilastot:</string>
   <string name="sms_detail_fragment_title_bill">Puhelimen saldo</string>
   <string name="sms_detail_fragment_title_traffic">Jäljellä oleva data</string>
   <string name="sms_filter">Älykäs suodatin</string>
@@ -2038,6 +2044,7 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="tab_guide">Opas</string>
   <string name="tab_sms">Tekstiviestit</string>
   <string name="tab_title">Estolista</string>
+  <string name="tc_cmd_invalid">Malli on virheellinen</string>
   <string name="tc_diagnostic_all_error_notification_summary">Ilmoita ongelma napauttamalla</string>
   <string name="tc_diagnostic_all_error_notification_title">Diagnostiikkaa ei voitu suorittaa loppuun</string>
   <string name="tc_diagnostic_brand_error_notification_summary">Säädä verkon tyyppi napauttamalla</string>
@@ -2077,7 +2084,11 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="tc_diagnostic_upload_button">Raportoi</string>
   <string name="tc_diagnostic_upload_no_network">Kiitos palautteestasi! Ilmoituksesi lähetetään, kun yhdistät verkkoon.</string>
   <string name="tc_diagnostic_upload_success">Kiitos palautteestasi!</string>
-  <string name="tc_sms_report_direction">SMS kyselykoodi</string>
+  <string name="tc_get_cmd_error">Mallia ei voitu noutaa</string>
+  <string name="tc_parse_error">Tekstiviestiä ei voitu jäsentää</string>
+  <string name="tc_receive_timeout">Kalibrointi aikakatkaistiin</string>
+  <string name="tc_send_sms_error">Tekstiviestiä ei voitu lähettää</string>
+  <string name="tc_sms_report_direction">Tekstiviestin kyselykoodi</string>
   <string name="tc_sms_report_do_report">Lähetä</string>
   <string name="tc_sms_report_get_default">Viesteistä ei veloiteta mitään, joita käytetään datan käyttötietojen hakemiseksi operaattoriltasi.</string>
   <string name="tc_sms_report_get_sms">Hae SMS</string>
@@ -2115,6 +2126,7 @@ Tässä ohjeet:
   <string name="tc_sms_report_type">Ilmoituksen tyyppi</string>
   <string name="tc_sms_report_upload_success">Datan käytön tekstiviesti-ilmoitus lähetetty. Ryhdymme heti sen kimppuun!</string>
   <string name="tc_sms_report_upload_when_net">Kiitos palautteestasi!</string>
+  <string name="tc_web_correct_error">Ei voitu kalibroida</string>
   <string name="ten_percent_total_pkg">%s (10%% kuukausittaisesta datasta)</string>
   <string name="tether_custom_dialog_title">Mobiilitiedonsiirtoraja</string>
   <string name="tether_limit_dialog_title">Mobiilitiedonsiirtoraja</string>

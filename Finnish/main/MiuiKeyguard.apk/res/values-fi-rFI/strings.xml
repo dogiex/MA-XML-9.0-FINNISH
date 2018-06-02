@@ -2,7 +2,7 @@
 <resources>
   <string name="accessibility_enter_lock_wallpaper">Avaa Musiikki napauttamalla</string>
   <string name="btn_camera">Anna kasvosi</string>
-  <string name="change_to_ac_charging">Vaihdettiin langattomaan lataukseen</string>
+  <string name="change_to_ac_charging">Vaihdettiin langalliseen lataukseen</string>
   <string name="click_to_enter_text">Näytä napauttamalla</string>
   <string name="confirm_pin_msg">Syötä PIN-koodi uudelleen</string>
   <string name="custom_lock_wallpaper_enter">Avaa</string>
@@ -142,7 +142,7 @@
   <string name="phone_locked_forget_password_suggesstion_two_content">Valitse \"Nollaa &amp; Resetoi\" ja odota, kunnes laite käynnistyy uudelleen.</string>
   <string name="phone_locked_forget_password_suggesstions_title">Kuinka poistan kaikki tiedot?</string>
   <string name="phone_locked_string">Puhelin on lukittu</string>
-  <string name="reset_device_detail_tip">Aseta laitteesi oikein langattomalle laturille varmistaaksesi korkean latausnopeuden.</string>
+  <string name="reset_device_detail_tip">Varmista, että laitteesi on asetettu latausalustalle oikein.</string>
   <string name="reset_device_tip">Lataaminen on hidasta. Aseta laitteesi uudelleen.</string>
   <string name="unlock_camera_steady">Pidä vakaana</string>
   <string name="unlock_failed">Sisäinen virhe</string>
@@ -153,9 +153,9 @@
   <string name="unlockscreen_recharge_completed">Akku ladattu</string>
   <string name="unlockscreen_recharging_message">Ladataan %d%%</string>
   <string name="wallpaper_global_des_drop_down_notify_text">Vapauta nähdäksesi tiedot</string>
-  <string name="wireless_charge_dialog_cancel">Peruuta</string>
-  <string name="wireless_charge_dialog_title">Aseta laitteesi uudelleen langattomalla laturilla</string>
+  <string name="wireless_charge_dialog_cancel">Selvä</string>
+  <string name="wireless_charge_dialog_title">Aseta laitteesi keskelle latausalustaa</string>
   <string name="wireless_charge_stop">Lopetettiin langaton lataaminen</string>
-  <string name="wireless_current_charge">Nykyinen Lataus</string>
+  <string name="wireless_current_charge">Ladataan</string>
   <string name="wrong_password">Virheellinen salasana</string>
 </resources>

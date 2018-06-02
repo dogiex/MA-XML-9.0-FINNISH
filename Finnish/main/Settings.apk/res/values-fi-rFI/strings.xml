@@ -2004,6 +2004,7 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="gadget_wifi">Wi-Fi</string>
   <string name="gallery_privacy_password_role_instruction">Sinun yksityiset kuvat näkyvät täällä.</string>
   <string name="game_controller_settings_category">Peliohjaimet</string>
+  <string name="game_mode_settings">Pelitila</string>
   <string name="game_storage_settings">Pelit</string>
   <string name="gesture_preference_summary">Puhelin ohjaamisen pikaeleet</string>
   <string name="gesture_preference_title">Liikkeet</string>
