@@ -2,6 +2,7 @@
 <resources>
   <string name="accept">Hyväksy</string>
   <string name="accept_or_deny">%1$s jakoi albumin %2$s kanssasi.</string>
+  <string name="actionbar_overflow_item_desc">Lisävalinnat</string>
   <string name="add_automatically_alert_msg">Lisätäänkö kuvat kohteesta \"%1$s\" tähän albumiin automaattisesti?</string>
   <string name="add_automatically_alert_title">Lisää kuvat automaattisesti</string>
   <string name="add_secret_ensure_title">Piilota</string>
@@ -19,6 +20,7 @@
   <string name="add_to_secret_failed_with_reason">Piilotettuun albumiin ei voi lisätä. %1$s.</string>
   <string name="add_to_secret_successful">Lisättiin piilotettuun albumiin</string>
   <string name="add_to_share_album_not_delete">Jaetun albumin kuvaa ei voi poistaa</string>
+  <string name="added_to_favorites">Lisättiin suosikkeihin</string>
   <string name="added_to_favorites_tip">Lisättiin \"Suosikit\" albumiin</string>
   <string name="adding">Lisätään…</string>
   <string name="adding_recipients">Lisätään vastaanottajia…</string>
@@ -90,6 +92,7 @@
   <string name="app_name">Galleria</string>
   <string name="app_name_view_picture">Katso kuvia</string>
   <string name="app_name_view_video">Katso videoita</string>
+  <string name="application_icon">Sovelluskuvake</string>
   <string name="apply">Aseta</string>
   <string name="assistant_page_label">Avustaja</string>
   <string name="associate_face_album">Valitse albumi</string>
@@ -109,11 +112,13 @@
   <string name="baby_album_needs_auto_backup_tip">Vauva albumin automaattista varmuuskopiointia ei voi sammuttaa</string>
   <string name="baby_album_new_photo_remind">Vauva albumissasi on uusia kuvia.</string>
   <string name="baby_album_setting_title">Vauvan tiedot</string>
+  <string name="baby_album_settings">Vauva-albumin asetukset</string>
   <string name="baby_album_sharer_accept_dialog_msg">"Rakas %1$s %2$s,
 %3$s %4$s jakoi %5$s albumin kanssasi"</string>
   <string name="baby_album_sharer_recommand_face">Lisää olemassa olevat kuvat henkilöstä %1$s?</string>
   <string name="baby_album_sharers_page_title">Jaa perheen kanssa</string>
   <string name="baby_birthday">Syntymäpäivä</string>
+  <string name="baby_face_desc">Vauva-albumi</string>
   <string name="baby_lock_wallpaper">Lukitusnäytön taustakuva</string>
   <string name="baby_lock_wallpaper_cancelled">Vaihdettiin Lukitusnäytön taustakuva oletukseksi</string>
   <string name="baby_lock_wallpaper_save_settings_msg">Asetetaanko nykyiset asetukset?</string>
@@ -125,6 +130,7 @@
   <string name="baby_nick_name">Lempinimi</string>
   <string name="baby_sexy">Sukupuoli</string>
   <string name="baby_suffix">vauva</string>
+  <string name="back">Takaisin</string>
   <string name="backup_automatically_summary">Varmuuskopioi kuvat ja videot kaikista laitteista Mi Pilveen. Täten voit helposti selata, järjestellä, muokata ja jakaa kuvia ja videoita kaikilla laitteillasi.</string>
   <string name="backup_automatically_title">Varmuuskopioi automaattisesti</string>
   <string name="backup_battery_low_desc">Voit silti valita jatkamaan kohteiden varmuuskopiointia</string>
@@ -598,6 +604,8 @@
   <string name="cleaner_stop_scan">Pysäytä skannaaminen</string>
   <string name="click_download_gif">Lataa GIF napauttamalla</string>
   <string name="click_top_right">Napauta tätä kuvaketta</string>
+  <string name="close">Sulje</string>
+  <string name="close_dialog_desc">Sulje ilmoituslaatikko</string>
   <string name="cloud_camera_display_name">Kameran kuvat</string>
   <string name="cloud_guide_auto_backup_title">Valitse varmuuskopioitavat albumit</string>
   <string name="cloud_guide_login_title">Varmuuskopioi kuvat ja videot automaattisesti</string>
@@ -622,6 +630,7 @@
   <string name="cloudfolder_contain_invalidate_char">"Albumin nimi ei voi sisältää merkkiä '%s'"</string>
   <string name="cloudfolder_name_cannot_empty">Syötä albumin nimi</string>
   <string name="cloudfolder_name_reserved">Albumin nimi on varattu</string>
+  <string name="collage__talkback_effect">%d tehoste</string>
   <string name="collage_choose">Valitse</string>
   <string name="collage_margin_text">Marginaalit</string>
   <string name="collage_mirror">Peili</string>
@@ -659,6 +668,9 @@
   <string name="context_menu_add_contact">Lisää yhteystietoihin</string>
   <string name="context_menu_copy">Kopioi</string>
   <string name="context_menu_copy_notice">Kopioitu leikepöydälle</string>
+  <string name="correct_photo_time">Korjaa kuvien päivämäärä ja aika</string>
+  <string name="correct_time_success">Korjattiin onnistuneesti</string>
+  <string name="correct_time_tip">Korjataan päivämäärä ja aika…</string>
   <string name="create_baby_album">Luo Vauva albumi</string>
   <string name="create_baby_album_dialog_msg">Luodaanko \"%s\" albumi?</string>
   <string name="create_baby_album_later_toast">Luo Vauva albumi milloin tahansa Asetuksissa</string>
@@ -672,6 +684,7 @@
   <string name="custom_select_title_quickly_share">Jaa</string>
   <string name="custom_select_title_select_all">Valitse kaikki</string>
   <string name="custom_select_title_select_item">Valitse kohteet</string>
+  <string name="debugging_info">Virheenkorjaustiedot on luotu onnistuneesti. Avaa kansio napauttamalla OK.</string>
   <string name="debugging_tip">Luodaan virheenkorjaustiedot</string>
   <string name="default_relation_name">Uusi ryhmä</string>
   <string name="define_by_user">Oma valinta</string>
@@ -805,6 +818,7 @@
   <string name="exit_share_in_process">Poistutaan albumista \"%s\"…</string>
   <string name="exit_share_successfully">Poistuttiin %1$s</string>
   <string name="exit_video_play">Poistu</string>
+  <string name="expand_desc">Lisää</string>
   <string name="expand_people">Näytä lisää henkilöitä</string>
   <string name="face_album_detecting_tip">Odota hetki…</string>
   <string name="face_album_empty">"Kuvia ei ole tarpeeksi henkilöiden tunnistamista varten.
@@ -829,6 +843,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="fail_to_pick_email">Virheellinen sähköpostiosoite</string>
   <string name="fail_to_sync_album">Albumin synkronointi epäonnistui. Tarkista datayhteytesi ja yritä uudelleen.</string>
   <string name="family_member_invitation_text">Muu perheenjäsen</string>
+  <string name="fancy_color_desc">Värit</string>
   <string name="fast_share_auto_render">Kaunista</string>
   <string name="fast_share_auto_render_finish">Kaunistettu</string>
   <string name="filter_bi_memory">Muisto</string>
@@ -844,6 +859,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="filter_bi_young">Nuori</string>
   <string name="filter_category_film">Elokuva</string>
   <string name="filter_category_food">Ruoka</string>
+  <string name="filter_category_master">Mestari</string>
   <string name="filter_category_portrait">Muotokuva</string>
   <string name="filter_category_scene">Maisema</string>
   <string name="filter_film_blackwhite">M&amp;V</string>
@@ -862,15 +878,23 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="filter_food_latte">Latte</string>
   <string name="filter_food_softdrink">Limu</string>
   <string name="filter_food_wholemeal">Jyvä</string>
+  <string name="filter_master_hazy">Usvainen</string>
+  <string name="filter_master_mellow">Pehmeä</string>
+  <string name="filter_master_memoire">Muistelma</string>
+  <string name="filter_master_rise">Nousu</string>
+  <string name="filter_master_somber">Synkkä</string>
   <string name="filter_original">Ei mitään</string>
   <string name="filter_people_fairytale">Lapset</string>
   <string name="filter_people_heart">Tunteet</string>
   <string name="filter_people_japanese">Tuore</string>
   <string name="filter_people_maze">Sokkelo</string>
   <string name="filter_people_mint">Minttu</string>
+  <string name="filter_people_movie">Elokuva</string>
   <string name="filter_people_nature">Luonnollinen</string>
   <string name="filter_people_pink">Punastu</string>
+  <string name="filter_people_riddle">Arvoitus</string>
   <string name="filter_people_roman">Romanttinen</string>
+  <string name="filter_people_story">Tarina</string>
   <string name="filter_scene_city">Kapunki</string>
   <string name="filter_scene_df">Sumu</string>
   <string name="filter_scene_koizora">Rakkaus</string>
@@ -883,6 +907,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="finish_fill_baby">Luo</string>
   <string name="flash_off">Ei salamaa</string>
   <string name="flash_on">Salama käytössä</string>
+  <string name="free_view_desc">3D-näkymä</string>
   <string name="gallery_setting">Asetukset</string>
   <string name="gallery_sync_disable_toast">Gallerian synkronointi ei ole käytössä</string>
   <string name="get_album_info_in_process">Haetaan jaetun albumin tietoja…</string>
@@ -1127,6 +1152,27 @@ mukauttaaksesi Galleriasi"</string>
   <string name="photo_editor_rotate">Kierrä</string>
   <string name="photo_editor_saving">Tallennetaan…</string>
   <string name="photo_editor_sticker">Tarra</string>
+  <string name="photo_editor_talkback_cancel">Peruuta</string>
+  <string name="photo_editor_talkback_confirm">Vahvista</string>
+  <string name="photo_editor_talkback_crop_16_9">Kuudentoista suhde yhdeksään</string>
+  <string name="photo_editor_talkback_crop_1_1">Yhden suhde yhteen</string>
+  <string name="photo_editor_talkback_crop_3_4">Kolmen suhde neljään</string>
+  <string name="photo_editor_talkback_crop_4_3">Neljän suhde kolmeen</string>
+  <string name="photo_editor_talkback_crop_9_16">Yhdeksän suhde kuuteentoista</string>
+  <string name="photo_editor_talkback_crop_free">Vapaa</string>
+  <string name="photo_editor_talkback_crop_mirror">Peili</string>
+  <string name="photo_editor_talkback_crop_original">Alkuperäinen</string>
+  <string name="photo_editor_talkback_crop_rotate">Kierrä</string>
+  <string name="photo_editor_talkback_doodle_arrow">Nuoli</string>
+  <string name="photo_editor_talkback_doodle_circular">Ympyrä</string>
+  <string name="photo_editor_talkback_doodle_line">Viiva</string>
+  <string name="photo_editor_talkback_doodle_path">Sivellin</string>
+  <string name="photo_editor_talkback_doodle_rectangle">Suorakulmio</string>
+  <string name="photo_editor_talkback_effect">%d tehoste</string>
+  <string name="photo_editor_talkback_eraser">Pyyhi</string>
+  <string name="photo_editor_talkback_recently">Äskettäin käytetty</string>
+  <string name="photo_editor_talkback_redo">Tee uudelleen</string>
+  <string name="photo_editor_talkback_undo">Kumoa</string>
   <string name="photo_editor_text">Teksti</string>
   <string name="photo_page_save_uri_image_fail">Galleriaan tallentaminen epäonnistui</string>
   <string name="photo_page_save_uri_image_ok">Kuva tallennettiin Galleriaan</string>
@@ -1171,6 +1217,8 @@ mukauttaaksesi Galleriasi"</string>
   <string name="picker_title_specify_format_one">Valitse %d kuva</string>
   <string name="picker_title_unlimit">Valitse kuvia</string>
   <string name="places_album_empty_title">Kuvat voi lajitella sijainnin mukaan</string>
+  <string name="play_gif_desc">Toista GIF</string>
+  <string name="play_video_desc">Toista video</string>
   <string name="preparing_data">Odota hetki…</string>
   <string name="projection_cancel">Peruuta</string>
   <string name="projection_checkbox_text">Muista tämä näyttö</string>
@@ -1197,6 +1245,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="recovery_merge_or_rename">Yhdistä albumit</string>
   <string name="recovery_merge_or_rename_message">Tämän niminen albumi on jo olemassa. Yhdistetäänkö nyt?</string>
   <string name="recovery_rename">Nimeä uudelleen</string>
+  <string name="refocus_desc">Tarkenna uudelleen</string>
   <string name="relation_text_empty_alert">Lisää suhteen tiedot</string>
   <string name="relation_text_family">Perheenjäsen</string>
   <string name="relation_text_father">Isä</string>
@@ -1282,6 +1331,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="search_setting_title">Etsi kuvia Galleriassa</string>
   <string name="search_syncing">Synkronoidaan tietoja, tule takaisin hetken kuluttua</string>
   <string name="search_title_album">Albumi</string>
+  <string name="search_title_app_screenshot">Sovelluksien kuvakaappaukset</string>
   <string name="search_title_history">Hakuhistoria</string>
   <string name="search_title_location">Sijainnit</string>
   <string name="search_title_more">Lisää</string>
@@ -1310,8 +1360,11 @@ mukauttaaksesi Galleriasi"</string>
   <string name="see_ignore_faces">Katso henkilöitä, jotka olet jättänyt huomiotta</string>
   <string name="select_item_face">"Onko tämä '%s'?"</string>
   <string name="select_origin_tip">Alkuperäinen tiedosto (%s)</string>
+  <string name="send_file_beautify_failed">Jakaminen epäonnistui</string>
   <string name="send_multiple_files_hint_format">Lähetä (%s)</string>
   <string name="send_public_url">Lähetä albumin URL</string>
+  <string name="send_secret_file_failed">Jakaminen epäonnistui</string>
+  <string name="send_secret_file_space_low">Tallennustilaa ei ole tarpeeksi</string>
   <string name="send_too_many_files_error">Voit lähettää enintään %d kohdetta kerrallaan</string>
   <string name="set_as_baby_lock_wallpaper">Aseta Lukitusnäytön taustakuvaksi</string>
   <string name="set_as_wallpaper_description">Tämä kuva on esikatselukuva, ladataanko alkuperäinen?</string>
@@ -1327,6 +1380,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="share">Jaa</string>
   <string name="share_album">Jaa albumi</string>
   <string name="share_album_needs_auto_upload_tip">Jaettujen albumeiden varmuuskopiointia ei voi poistaa käytöstä</string>
+  <string name="share_album_qr_code">Albumin QR-koodi</string>
   <string name="share_by_email_start">Jaa %1$s taustalla</string>
   <string name="share_by_email_successfully">Jaettiin %1$s</string>
   <string name="share_public_url_text">Jaoin %1$s albumin kanssasi. Katso se täältä %2$s</string>
@@ -1509,6 +1563,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="video_not_exist">Videota ei ole olemassa</string>
   <string name="view_by_gallery_tip">MIUI Galleria</string>
   <string name="view_face_album">Näytä albumi</string>
+  <string name="view_more_face_desc">Näytä lisää henkilöitä</string>
   <string name="view_queuing_status">Tarkista tila</string>
   <string name="welcome_to_micloud">Tervetuloa Mi Pilveen</string>
   <string name="welcome_to_slim">Optimoi paikallinen tallennustila</string>

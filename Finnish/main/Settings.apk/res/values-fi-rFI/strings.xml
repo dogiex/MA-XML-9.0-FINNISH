@@ -1061,7 +1061,8 @@ Siirtonopeus"</string>
   <string name="close_demo_mode">Peruuta</string>
   <string name="close_gesture">Sulje käyttämällä elettä</string>
   <string name="close_miui_optimization_title">Poista MIUI:n optimointi käytöstä</string>
-  <string name="close_miui_optimization_warning_message">Laitteesi käynnistyy uudelleen, jotta muutokset tulevat voimaan.</string>
+  <string name="close_optimization_message">Poistamalla tämän ominaisuuden käytöstä saattaa vaikuttaa tekstin ulkoasuun, tileihin, ja muihin MIUI:n osiin.</string>
+  <string name="close_optimization_option">Poista käytöstä</string>
   <string name="cloud_backup_section_title">Mi Pilven varmuuskopiointi</string>
   <string name="cloud_backup_settings_section_title">Varmuuskopioinnin asetukset</string>
   <string name="cloud_restore_section_summary">Palauta järjestelmän asetukset, Aloitusnäytön ulkoasu ja sovellukset</string>
@@ -3079,14 +3080,13 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="open_demo_mode">Ota käyttöön</string>
   <string name="open_demo_mode_warning_message">Kun Demotila on päällä, tilapalkissa oleva kello pysähtyy ja akku ja signaalin kuvakkeet näyttävät täyttä. Voit muuttaa tätä poistamalla Demotilan käytöstä tai käynnistämällä laitteen uudelleen.</string>
   <string name="open_miui_optimization_title">Ota MIUI optimointi käyttöön</string>
-  <string name="open_miui_optimization_warning_message">Laitteesi käynnistyy uudelleen, jotta muutokset tulevat voimaan.</string>
+  <string name="open_optimization_message">Ota MIUI:n optimointi käyttöön nauttiaksesi sulavammasta ja nopeammasta käyttöliittymästä.</string>
+  <string name="open_optimization_option">Ota käyttöön</string>
   <string name="open_wifi_connect_summary">Katso tiedot napauttamalla.</string>
   <string name="open_wifi_connect_title">Yhdistetty verkkoon %1$s</string>
   <string name="opening_paragraph_delete_profile_unknown_company">Tätä työprofiilia hallinnoi</string>
   <string name="operator_warning">Operaattorin mittaustulos saattaa erota laitteesi mittaamasta.</string>
   <string name="optimization_cancel">Peruuta</string>
-  <string name="optimization_close">Poista käytöstä &amp; käynnistä uudelleen</string>
-  <string name="optimization_open">Ota käyttöön</string>
   <string name="ota_disable_automatic_update">Automaattiset järjestelmäpäivitykset</string>
   <string name="other_advanced_settings">Lisäasetukset</string>
   <string name="other_device_info">Muut</string>

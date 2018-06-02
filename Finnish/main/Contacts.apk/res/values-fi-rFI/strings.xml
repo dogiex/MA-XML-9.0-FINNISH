@@ -3,8 +3,8 @@
   <string name="accessibility_calllog_detail">Puheluhistorian tiedot</string>
   <string name="accessibility_contact_detail">Yhteystiedon tiedot</string>
   <string name="account_container_title">Tuotu</string>
-  <string name="account_default">Puhelin</string>
-  <string name="account_phone">Vain puhelin, ei synkronoitu</string>
+  <string name="account_default">Paikallinen</string>
+  <string name="account_phone">Vain laite, ei synkronoitu</string>
   <string name="account_sdn">SDN</string>
   <string name="account_sdn2">SDN %d</string>
   <string name="account_sim">SIM-kortti</string>
@@ -164,7 +164,7 @@
   <string name="chat_qq">Keskustele QQ:n avulla</string>
   <string name="chat_skype">Keskustele Skypen avulla</string>
   <string name="chat_yahoo">Keskustele Yahoon avulla</string>
-  <string name="checkhint">Tarkista kohdepuhelin</string>
+  <string name="checkhint">Tarkista kohdelaite</string>
   <string name="clearCallLogConfirmation">Kaikki soittohistorian tiedot poistetaan</string>
   <string name="clearCallLogConfirmation_title">Tyhjennetäänkö soittohistoria?</string>
   <string name="clearCallLogProgress_title">Tyhjennetään soittohistoriaa…</string>
@@ -189,14 +189,9 @@
   <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
   <string name="composer_failed_to_get_database_infomation">Tietokannan tietojen hakeminen epäonnistui.</string>
-  <string name="composer_has_no_exportable_contact">Vietäviä yhteystietoja ei ole. Jos puhelimessasi on yhteystietoja, tietojen tarjoaja on saattanut estää niiden viemisen puhelimen ulkopuolelle.</string>
+  <string name="composer_has_no_exportable_contact">Vietäviä yhteystietoja ei ole. Jos laitteessasi on yhteystietoja, tietojen tarjoaja on saattanut estää niiden viemisen laitteen ulkopuolelle.</string>
   <string name="composer_not_initialized">vCard-luonti ei käynnistynyt oikein.</string>
-  <string name="config_export_dir">/mnt/sdcard</string>
-  <string name="config_export_extensions_to_consider"/>
   <string name="config_export_file_extension">vcf</string>
-  <string name="config_export_file_prefix"/>
-  <string name="config_export_file_suffix"/>
-  <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">Poistetaanko kaikki puheluhistoriat?</string>
   <string name="confirm_delete_selected_all_call_logs">Poistetaanko kaikki puheluhistoria?</string>
   <string name="confirm_delete_sim_entry_miui_title">Poista</string>
@@ -370,9 +365,9 @@ Yhteystietokortit on poistettu käytöstä"</string>
   <string name="device_import_progress_message">Tuodaan…</string>
   <string name="device_import_progress_toast">%1$d yhteystietoa tuotu</string>
   <string name="device_import_title">Tuo</string>
-  <string name="device_list_title">Valitse puhelin</string>
-  <string name="device_other_guide">Tukeeko toinen puhelin bluetoothia?</string>
-  <string name="device_other_title">Tuo toisesta puhelimesta</string>
+  <string name="device_list_title">Valitse laite</string>
+  <string name="device_other_guide">Tukeeko toinen laite bluetoothia?</string>
+  <string name="device_other_title">Tuo toisesta laitteesta</string>
   <string name="device_paired_dialog_message">Noudetaan yhteystietoja…</string>
   <string name="device_paired_dialog_title">Noudetaan yhteystietoja…</string>
   <string name="device_pairing_dialog_message">Muodostetaan laitepariyhteyttä…</string>
@@ -463,7 +458,7 @@ Välttääksemme useita pyyntöjä, päivitämme saldon tiedot kerran päiväss�
   <string name="export_to_sim2">Vie SIM-kortille 2</string>
   <string name="export_to_sim_prepare_title">Valmistellaan…</string>
   <string name="export_to_sim_title">Viedään…</string>
-  <string name="export_vcard_description">Vie vCard puhelimen tallennustilaan</string>
+  <string name="export_vcard_description">Vie vCard laitteen tallennustilaan</string>
   <string name="exporting_contact_failed_message">"Yhteystietoja ei viety.
 Syy: %s"</string>
   <string name="exporting_contact_failed_title">Vieminen epäonnistui</string>
@@ -544,7 +539,7 @@ Syy: %s"</string>
   <string name="import_contact_card_button">Tuo yhteystiedot</string>
   <string name="import_failure_no_vcard_file">Tallennustilasta ei löydy vCard-tiedostoja.</string>
   <string name="import_from_onekey_migrate">Tuo käyttämällä Mi Siirtäjää</string>
-  <string name="import_from_other_phone">Tuo toisesta puhelimesta</string>
+  <string name="import_from_other_device">Tuo toisesta laitteesta</string>
   <string name="import_from_sdcard">Tuo tallennustilalta</string>
   <string name="import_from_sim">Tuo SIM-kortilta</string>
   <string name="import_from_sim1">Tuo SIM-kortilta 1</string>
@@ -562,7 +557,7 @@ Syy: %s"</string>
   <string name="import_to_xiaomi_account_progress_message">Tuodaan…</string>
   <string name="import_to_xiaomi_account_progress_title">Tuo yhteystiedot Mi Tilille</string>
   <string name="import_to_xiaomi_account_title">Tuo Mi Tilille</string>
-  <string name="import_vcard_description">Tuo yhteystiedot puhelimesi tallennustilasta</string>
+  <string name="import_vcard_description">Tuo yhteystiedot laitteesi tallennustilasta</string>
   <string name="import_vcard_dialog_message">Tuo vCard?</string>
   <string name="importing_sim_contacts_miui">Tuodaan yhteystiedot SIM-kortilta…</string>
   <string name="importing_sim_contacts_miui_prepare">Valmistellaan yhteystietoja…</string>
@@ -780,7 +775,7 @@ Kosketa tähteä yhteystiedon nimen vieressä
 • Varmuuskopioi turvallisesti."</string>
   <string name="no_contact_details">Yhteystiedolle ei ole lisätietoja.</string>
   <string name="no_contact_in_other_phone">Yhteystietoja ei löydy</string>
-  <string name="no_contacts_dialog_message">Yhteystiedot saattaa olla SIM-kortilla. Yritä tuoda yhteystiedot SIM-kortilta puhelimen sisäiseen muistiin ja yritä uudelleen.</string>
+  <string name="no_contacts_dialog_message">Yhteystiedot saattaa olla SIM-kortilla. Yritä tuoda yhteystiedot SIM-kortilta laitteen sisäiseen tallennustilaan ja yritä uudelleen.</string>
   <string name="no_contacts_dialog_title">Yhteystietoja ei löydy</string>
   <string name="no_contacts_selected">Yhteystietoja ei ole valittuna.</string>
   <string name="no_sdcard_message">SD-korttia ei löydy.</string>
@@ -809,7 +804,7 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="organizationLabelsGroup">Organisaatio</string>
   <string name="organization_company_and_title">%2$s, %1$s</string>
   <string name="other_contacts">Muut yhteystiedot</string>
-  <string name="other_phone">Toinen puhelin</string>
+  <string name="other_phone">Muut laitteet</string>
   <string name="path_batch_delete">Järjestelmäsovellukset/Yhteystiedot/Järjestä yhteystietoja/Poista useita</string>
   <string name="path_contacts_display">Järjestelmäsovellukset/Yhteystiedot/Yhteystietojen näyttäminen</string>
   <string name="path_contacts_more">Järjestelmäsovellukset/Yhteystiedot/Järjestä yhteystietoja</string>
@@ -839,7 +834,7 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="phoneLabelsGroup">Puhelin</string>
   <string name="phone_number_too_long_toast">Numero on liian pitkä</string>
   <string name="phone_primary">Ensisijainen</string>
-  <string name="photoPickerNotFoundText">Tässä puhelimessa ei ole käytettäviä kuvia.</string>
+  <string name="photoPickerNotFoundText">Tässä laitteessa ei ole käytettäviä kuvia.</string>
   <string name="photo_fragment">Kuva</string>
   <string name="photo_load_failed">Kuvan lataaminen epäonnistui</string>
   <string name="pick_new_photo">Valitse uusi valokuva</string>
@@ -904,7 +899,7 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="preference_key_trash_bin_title">Palauta yhteystietoja</string>
   <string name="preference_other">Muu</string>
   <string name="preference_others">Muut</string>
-  <string name="preference_phone">Puhelin</string>
+  <string name="preference_phone">Laite</string>
   <string name="preference_phone_more_title">Puheluasetukset</string>
   <string name="preference_remove_duplicate">Yhdistä yhteystietojen kaksoiskappaleet</string>
   <string name="preference_show_yellowpage_tab_description">Hakemistot ei välttämättä toimi kunnolla, kun tämä ominaisuus on pois käytöstä.</string>
@@ -1029,7 +1024,7 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="select_all_exceed">Voit valita enintään %1$d, kaikkia ei voi valita</string>
   <string name="select_exceed">Voit valita enintään %1$d</string>
   <string name="select_groups">Valitse ryhmät</string>
-  <string name="select_none">Ei valittua</string>
+  <string name="select_none">Kohteita ei valittu</string>
   <string name="select_show_contacts">Yhteystietoluettelo</string>
   <string name="select_vcard_title">Valitse vCard-tiedosto</string>
   <string name="send_contact_shortcut_todesktop_success">Lisätty Aloitusnäytölle</string>
@@ -1117,7 +1112,7 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="social_widget_label">Yhteystiedot</string>
   <string name="social_widget_loading">Ladataan...</string>
   <string name="solar_calendar">公历</string>
-  <string name="special_code_security_exception">Toiminto peruuntui：Ei oletusnumeronvalitsin</string>
+  <string name="special_code_security_exception">Toimintoa ei voitu suorittaa loppuun. Tämä ei ole oletusnumeronvalitsin.</string>
   <string name="splitConfirmation">Yhteystieto jaetaan useammaksi yhteystiedoksi.</string>
   <string name="splitConfirmation_title">Erota yhteystieto?</string>
   <string name="starredList">Tähdelliset</string>
@@ -1146,8 +1141,8 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="toast_copy_done">Valmis</string>
   <string name="toast_copying">Kopioidaan…</string>
   <string name="toast_displaying_all_contacts">Kaikki kontaktit</string>
-  <string name="toast_finish_delete_call_log">Puheluloki on poistettu</string>
-  <string name="toast_finish_delete_selected_call_log">Puheluloki on poistettu</string>
+  <string name="toast_finish_delete_call_log">Tyhjennettiin onnistuneesti</string>
+  <string name="toast_finish_delete_selected_call_log">Tyhjennettiin onnistuneesti</string>
   <string name="toast_for_failed_saving_nickname">Lempinimeä ei voitu tallentaa</string>
   <string name="toast_for_saving_nickname">Lempinimi tallennettu</string>
   <string name="toast_join_with_empty_contact">Kirjoita kontaktin nimi ennen kuin yhdistät sen toiseen.</string>

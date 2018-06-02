@@ -20,6 +20,14 @@
         <item quantity="other">%d kohdetta</item>
         <item quantity="one">%d kohde</item>
     </plurals>
+    <plurals name="trans_failed_summary">
+        <item quantity="other">%d kohteen siirtäminen epäonnistui. Näytä tiedot napauttamalla.</item>
+        <item quantity="one">%d kohteen siirtäminen epäonnistui. Näytä tiedot napauttamalla.</item>
+    </plurals>
+    <plurals name="trans_item_failed_summary">
+        <item quantity="other">%d kohteen siirtäminen epäonnistui.</item>
+        <item quantity="one">%d kohteen siirtäminen epäonnistui.</item>
+    </plurals>
     <plurals name="trans_time_format_minute">
         <item quantity="other">%d minuuttia</item>
         <item quantity="one">%d minuutti</item>
